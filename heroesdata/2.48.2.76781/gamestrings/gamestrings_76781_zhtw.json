@@ -69,7 +69,7 @@
         "AnaHeroicAbilityEyeOfHorus|AnaEyeOfHorusActivate|Heroic|False": "冷卻時間：60秒",
         "AnaHeroicAbilityNanaBoost|AnaNanoBoost|Heroic|False": "冷卻時間：70秒",
         "AnaNanoBoost|AnaNanoBoost|Heroic|False": "冷卻時間：70秒",
-        "AnaSleepDart|AnaSleepDart|E|False": "冷卻時間：14 seconds",
+        "AnaSleepDart|AnaSleepDart|E|False": "冷卻時間：14秒",
         "AnduinChastise|AnduinChastise|E|False": "冷卻時間：10秒",
         "AnduinDivineStar|AnduinDivineStar|W|False": "冷卻時間：9秒",
         "AnduinFlashHeal|AnduinFlashHeal|Q|False": "冷卻時間：4秒",
@@ -892,7 +892,7 @@
         "VolskayaVehicleTShield|VolskayaVehicleTShield|E|False": "冷卻時間：16秒",
         "VorpalBladeBlink|ZeratulVorpalBladeHotbar|Active|False": "冷卻時間：15秒",
         "WhitemaneDivineReckoning|WhitemaneDivineReckoning|Heroic|False": "冷卻時間：75秒",
-        "WhitemaneFanaticalPower|WhitemaneTraitZeal|Trait|False": "冷卻時間：60 seconds",
+        "WhitemaneFanaticalPower|WhitemaneTraitZeal|Trait|False": "冷卻時間：60秒",
         "WhitemaneGuidingLight|WhitemaneGuidingLight|Active|False": "冷卻時間：30秒",
         "WhitemaneInquisition|WhitemaneInquisition|W|False": "冷卻時間：14秒",
         "WhitemaneInquisitionClemency|WhitemaneInquisitionClemency|Active|False": "冷卻時間：12秒",
@@ -964,7 +964,7 @@
         "ZeratulSingularitySpikeMightOfTheNerazim|ZeratulSingularitySpikeMightoftheNerazim|Heroic|False": "冷卻時間：20秒",
         "ZeratulVoidPrison|ZeratulVoidPrison|Heroic|False": "冷卻時間：100秒",
         "ZeratulVoidPrison|ZeratulVoidPrison|Q|False": "冷卻時間：100秒",
-        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "冷卻時間：30 seconds",
+        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "冷卻時間：30秒",
         "ZuljinEnsnare|ZuljinEnsnare|Active|False": "冷卻時間：45秒",
         "ZuljinGrievousThrow|ZuljinGrievousThrow|Q|False": "冷卻時間：8秒",
         "ZuljinGuillotine|ZuljinGuillotine|Heroic|False": "冷卻時間：40秒",
@@ -1421,9 +1421,7 @@
         "WizardTeleport|WizardTeleport|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：30點</s>",
         "WizardWaveOfForce|WizardWaveOfForce|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：80點</s>",
         "YrelArdentDefender|YrelArdentDefender|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：80點</s>",
-        "YrelAvengingWrath|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：65點</s>",
         "YrelAvengingWrathChannel|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：65點</s>",
-        "YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：65點</s>",
         "YrelRighteousHammer|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：65點</s>",
         "YrelRighteousHammerChannel|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：65點</s>",
         "YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">法力：65點</s>",
@@ -27418,3 +27416,4 @@
       }
     }
   }
+}

@@ -69,7 +69,7 @@
         "AnaHeroicAbilityEyeOfHorus|AnaEyeOfHorusActivate|Heroic|False": "Abklingzeit: 60 Sek.",
         "AnaHeroicAbilityNanaBoost|AnaNanoBoost|Heroic|False": "Abklingzeit: 70 Sek.",
         "AnaNanoBoost|AnaNanoBoost|Heroic|False": "Abklingzeit: 70 Sek.",
-        "AnaSleepDart|AnaSleepDart|E|False": "Abklingzeit: 14 seconds",
+        "AnaSleepDart|AnaSleepDart|E|False": "Abklingzeit: 14 Sek.",
         "AnduinChastise|AnduinChastise|E|False": "Abklingzeit: 10 Sek.",
         "AnduinDivineStar|AnduinDivineStar|W|False": "Abklingzeit: 9 Sek.",
         "AnduinFlashHeal|AnduinFlashHeal|Q|False": "Abklingzeit: 4 Sek.",
@@ -892,7 +892,7 @@
         "VolskayaVehicleTShield|VolskayaVehicleTShield|E|False": "Abklingzeit: 16 Sek.",
         "VorpalBladeBlink|ZeratulVorpalBladeHotbar|Active|False": "Abklingzeit: 15 Sek.",
         "WhitemaneDivineReckoning|WhitemaneDivineReckoning|Heroic|False": "Abklingzeit: 75 Sek.",
-        "WhitemaneFanaticalPower|WhitemaneTraitZeal|Trait|False": "Abklingzeit: 60 seconds",
+        "WhitemaneFanaticalPower|WhitemaneTraitZeal|Trait|False": "Abklingzeit: 60 Sek.",
         "WhitemaneGuidingLight|WhitemaneGuidingLight|Active|False": "Abklingzeit: 30 Sek.",
         "WhitemaneInquisition|WhitemaneInquisition|W|False": "Abklingzeit: 14 Sek.",
         "WhitemaneInquisitionClemency|WhitemaneInquisitionClemency|Active|False": "Abklingzeit: 12 Sek.",
@@ -964,7 +964,7 @@
         "ZeratulSingularitySpikeMightOfTheNerazim|ZeratulSingularitySpikeMightoftheNerazim|Heroic|False": "Abklingzeit: 20 Sek.",
         "ZeratulVoidPrison|ZeratulVoidPrison|Heroic|False": "Abklingzeit: 100 Sek.",
         "ZeratulVoidPrison|ZeratulVoidPrison|Q|False": "Abklingzeit: 100 Sek.",
-        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Abklingzeit: 30 seconds",
+        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Abklingzeit: 30 Sek.",
         "ZuljinEnsnare|ZuljinEnsnare|Active|False": "Abklingzeit: 45 Sek.",
         "ZuljinGrievousThrow|ZuljinGrievousThrow|Q|False": "Abklingzeit: 8 Sek.",
         "ZuljinGuillotine|ZuljinGuillotine|Heroic|False": "Abklingzeit: 40 Sek.",
@@ -1421,9 +1421,7 @@
         "WizardTeleport|WizardTeleport|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 30</s>",
         "WizardWaveOfForce|WizardWaveOfForce|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 80</s>",
         "YrelArdentDefender|YrelArdentDefender|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 80</s>",
-        "YrelAvengingWrath|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
         "YrelAvengingWrathChannel|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
-        "YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
         "YrelRighteousHammer|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
         "YrelRighteousHammerChannel|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
         "YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
@@ -27430,3 +27428,4 @@
       }
     }
   }
+}

@@ -69,7 +69,7 @@
         "AnaHeroicAbilityEyeOfHorus|AnaEyeOfHorusActivate|Heroic|False": "Recupero: 60 s",
         "AnaHeroicAbilityNanaBoost|AnaNanoBoost|Heroic|False": "Recupero: 70 s",
         "AnaNanoBoost|AnaNanoBoost|Heroic|False": "Recupero: 70 s",
-        "AnaSleepDart|AnaSleepDart|E|False": "Recupero: 14 seconds",
+        "AnaSleepDart|AnaSleepDart|E|False": "Recupero: 14 s",
         "AnduinChastise|AnduinChastise|E|False": "Recupero: 10 s",
         "AnduinDivineStar|AnduinDivineStar|W|False": "Recupero: 9 s",
         "AnduinFlashHeal|AnduinFlashHeal|Q|False": "Recupero: 4 s",
@@ -892,7 +892,7 @@
         "VolskayaVehicleTShield|VolskayaVehicleTShield|E|False": "Recupero: 16 s",
         "VorpalBladeBlink|ZeratulVorpalBladeHotbar|Active|False": "Recupero: 15 s",
         "WhitemaneDivineReckoning|WhitemaneDivineReckoning|Heroic|False": "Recupero: 75 s",
-        "WhitemaneFanaticalPower|WhitemaneTraitZeal|Trait|False": "Recupero: 60 seconds",
+        "WhitemaneFanaticalPower|WhitemaneTraitZeal|Trait|False": "Recupero: 60 s",
         "WhitemaneGuidingLight|WhitemaneGuidingLight|Active|False": "Recupero: 30 s",
         "WhitemaneInquisition|WhitemaneInquisition|W|False": "Recupero: 14 s",
         "WhitemaneInquisitionClemency|WhitemaneInquisitionClemency|Active|False": "Recupero: 12 s",
@@ -964,7 +964,7 @@
         "ZeratulSingularitySpikeMightOfTheNerazim|ZeratulSingularitySpikeMightoftheNerazim|Heroic|False": "Recupero: 20 s",
         "ZeratulVoidPrison|ZeratulVoidPrison|Heroic|False": "Recupero: 100 s",
         "ZeratulVoidPrison|ZeratulVoidPrison|Q|False": "Recupero: 100 s",
-        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Recupero: 30 seconds",
+        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Recupero: 30 s",
         "ZuljinEnsnare|ZuljinEnsnare|Active|False": "Recupero: 45 s",
         "ZuljinGrievousThrow|ZuljinGrievousThrow|Q|False": "Recupero: 8 s",
         "ZuljinGuillotine|ZuljinGuillotine|Heroic|False": "Recupero: 40 s",
@@ -1421,9 +1421,7 @@
         "WizardTeleport|WizardTeleport|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 30</s>",
         "WizardWaveOfForce|WizardWaveOfForce|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 80</s>",
         "YrelArdentDefender|YrelArdentDefender|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 80</s>",
-        "YrelAvengingWrath|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
         "YrelAvengingWrathChannel|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
-        "YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
         "YrelRighteousHammer|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
         "YrelRighteousHammerChannel|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
         "YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana: 65</s>",
@@ -27420,3 +27418,4 @@
       }
     }
   }
+}

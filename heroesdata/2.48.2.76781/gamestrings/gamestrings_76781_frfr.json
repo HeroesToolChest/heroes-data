@@ -69,7 +69,7 @@
         "AnaHeroicAbilityEyeOfHorus|AnaEyeOfHorusActivate|Heroic|False": "Temps de recharge\u00A0: 60 secondes",
         "AnaHeroicAbilityNanaBoost|AnaNanoBoost|Heroic|False": "Temps de recharge\u00A0: 70 secondes",
         "AnaNanoBoost|AnaNanoBoost|Heroic|False": "Temps de recharge\u00A0: 70 secondes",
-        "AnaSleepDart|AnaSleepDart|E|False": "Temps de recharge\u00A0:<sp/>14 seconds",
+        "AnaSleepDart|AnaSleepDart|E|False": "Temps de recharge\u00A0: 14 secondes",
         "AnduinChastise|AnduinChastise|E|False": "Temps de recharge\u00A0: 10 secondes",
         "AnduinDivineStar|AnduinDivineStar|W|False": "Temps de recharge\u00A0: 9 secondes",
         "AnduinFlashHeal|AnduinFlashHeal|Q|False": "Temps de recharge\u00A0: 4 secondes",
@@ -892,7 +892,7 @@
         "VolskayaVehicleTShield|VolskayaVehicleTShield|E|False": "Temps de recharge\u00A0: 16 secondes",
         "VorpalBladeBlink|ZeratulVorpalBladeHotbar|Active|False": "Temps de recharge\u00A0:<sp/>15\u00A0secondes",
         "WhitemaneDivineReckoning|WhitemaneDivineReckoning|Heroic|False": "Temps de recharge\u00A0: 75 secondes",
-        "WhitemaneFanaticalPower|WhitemaneTraitZeal|Trait|False": "Temps de recharge\u00A0:<sp/>60 seconds",
+        "WhitemaneFanaticalPower|WhitemaneTraitZeal|Trait|False": "Temps de recharge\u00A0: 60 secondes",
         "WhitemaneGuidingLight|WhitemaneGuidingLight|Active|False": "Temps de recharge\u00A0: 30 secondes",
         "WhitemaneInquisition|WhitemaneInquisition|W|False": "Temps de recharge\u00A0: 14 secondes",
         "WhitemaneInquisitionClemency|WhitemaneInquisitionClemency|Active|False": "Temps de recharge\u00A0: 12 secondes",
@@ -964,7 +964,7 @@
         "ZeratulSingularitySpikeMightOfTheNerazim|ZeratulSingularitySpikeMightoftheNerazim|Heroic|False": "Temps de recharge\u00A0: 20 secondes",
         "ZeratulVoidPrison|ZeratulVoidPrison|Heroic|False": "Temps de recharge\u00A0: 100 secondes",
         "ZeratulVoidPrison|ZeratulVoidPrison|Q|False": "Temps de recharge\u00A0: 100 secondes",
-        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Temps de recharge\u00A0:<sp/>30 seconds",
+        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Temps de recharge\u00A0: 30 secondes",
         "ZuljinEnsnare|ZuljinEnsnare|Active|False": "Temps de recharge\u00A0: 45 secondes",
         "ZuljinGrievousThrow|ZuljinGrievousThrow|Q|False": "Temps de recharge\u00A0: 8 secondes",
         "ZuljinGuillotine|ZuljinGuillotine|Heroic|False": "Temps de recharge\u00A0: 40 secondes",
@@ -1421,9 +1421,7 @@
         "WizardTeleport|WizardTeleport|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 30</s>",
         "WizardWaveOfForce|WizardWaveOfForce|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 80</s>",
         "YrelArdentDefender|YrelArdentDefender|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 80</s>",
-        "YrelAvengingWrath|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
         "YrelAvengingWrathChannel|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
-        "YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
         "YrelRighteousHammer|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
         "YrelRighteousHammerChannel|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
         "YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
@@ -27420,3 +27418,4 @@
       }
     }
   }
+}
