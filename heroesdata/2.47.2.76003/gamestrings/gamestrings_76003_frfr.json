@@ -962,7 +962,7 @@
         "ZeratulSingularitySpikeMightOfTheNerazim|ZeratulSingularitySpikeMightoftheNerazim|Heroic|False": "Temps de recharge\u00A0: 20 secondes",
         "ZeratulVoidPrison|ZeratulVoidPrison|Heroic|False": "Temps de recharge\u00A0: 100 secondes",
         "ZeratulVoidPrison|ZeratulVoidPrison|Q|False": "Temps de recharge\u00A0: 100 secondes",
-        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Temps de recharge\u00A0:<sp/>30 seconds",
+        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Temps de recharge\u00A0: 30 secondes",
         "ZuljinEnsnare|ZuljinEnsnare|Active|False": "Temps de recharge\u00A0: 45 secondes",
         "ZuljinGrievousThrow|ZuljinGrievousThrow|Q|False": "Temps de recharge\u00A0: 8 secondes",
         "ZuljinGuillotine|ZuljinGuillotine|Heroic|False": "Temps de recharge\u00A0: 40 secondes",
@@ -1421,7 +1421,6 @@
         "YrelArdentDefender|YrelArdentDefender|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 80</s>",
         "YrelAvengingWrath|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
         "YrelAvengingWrathChannel|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
-        "YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
         "YrelRighteousHammer|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
         "YrelRighteousHammerChannel|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
         "YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Mana\u00A0: 65</s>",
@@ -27198,3 +27197,4 @@
       }
     }
   }
+}

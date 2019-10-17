@@ -962,7 +962,7 @@
         "ZeratulSingularitySpikeMightOfTheNerazim|ZeratulSingularitySpikeMightoftheNerazim|Heroic|False": "Время восстановления: 20 сек.",
         "ZeratulVoidPrison|ZeratulVoidPrison|Heroic|False": "Время восстановления: 100 сек.",
         "ZeratulVoidPrison|ZeratulVoidPrison|Q|False": "Время восстановления: 100 сек.",
-        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Время восстановления: 30 seconds",
+        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Время восстановления: 30 сек.",
         "ZuljinEnsnare|ZuljinEnsnare|Active|False": "Время восстановления: 45 сек.",
         "ZuljinGrievousThrow|ZuljinGrievousThrow|Q|False": "Время восстановления: 8 сек.",
         "ZuljinGuillotine|ZuljinGuillotine|Heroic|False": "Время восстановления: 40 сек.",
@@ -1421,7 +1421,6 @@
         "YrelArdentDefender|YrelArdentDefender|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Мана: 80</s>",
         "YrelAvengingWrath|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Мана: 65</s>",
         "YrelAvengingWrathChannel|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Мана: 65</s>",
-        "YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Мана: 65</s>",
         "YrelRighteousHammer|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Мана: 65 ед.</s>",
         "YrelRighteousHammerChannel|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Мана: 65 ед.</s>",
         "YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Мана: 65 ед.</s>",
@@ -27198,3 +27197,4 @@
       }
     }
   }
+}
