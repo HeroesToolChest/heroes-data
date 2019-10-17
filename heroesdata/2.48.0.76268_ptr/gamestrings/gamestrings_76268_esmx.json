@@ -963,7 +963,7 @@
         "ZeratulSingularitySpikeMightOfTheNerazim|ZeratulSingularitySpikeMightoftheNerazim|Heroic|False": "Tiempo de reutilización: 20 segundos",
         "ZeratulVoidPrison|ZeratulVoidPrison|Heroic|False": "Tiempo de reutilización: 100 segundos",
         "ZeratulVoidPrison|ZeratulVoidPrison|Q|False": "Tiempo de reutilización: 100 segundos",
-        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Tiempo de reutilización: 30 seconds",
+        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "Tiempo de reutilización: 30 segundos",
         "ZuljinEnsnare|ZuljinEnsnare|Active|False": "Tiempo de reutilización: 45 segundos",
         "ZuljinGrievousThrow|ZuljinGrievousThrow|Q|False": "Tiempo de reutilización: 8 segundos",
         "ZuljinGuillotine|ZuljinGuillotine|Heroic|False": "Tiempo de reutilización: 40 segundos",
@@ -1421,9 +1421,7 @@
         "WizardTeleport|WizardTeleport|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 30</s>",
         "WizardWaveOfForce|WizardWaveOfForce|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 80</s>",
         "YrelArdentDefender|YrelArdentDefender|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 80</s>",
-        "YrelAvengingWrath|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 65</s>",
         "YrelAvengingWrathChannel|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 65</s>",
-        "YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 65</s>",
         "YrelRighteousHammer|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 65</s>",
         "YrelRighteousHammerChannel|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 65</s>",
         "YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">Maná: 65</s>",
@@ -27426,3 +27424,4 @@
       }
     }
   }
+}
