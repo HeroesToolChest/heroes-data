@@ -963,7 +963,7 @@
         "ZeratulSingularitySpikeMightOfTheNerazim|ZeratulSingularitySpikeMightoftheNerazim|Heroic|False": "재사용 대기시간: 20초",
         "ZeratulVoidPrison|ZeratulVoidPrison|Heroic|False": "재사용 대기시간: 100초",
         "ZeratulVoidPrison|ZeratulVoidPrison|Q|False": "재사용 대기시간: 100초",
-        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "재사용 대기시간: 30 seconds",
+        "ZuljinAmaniRage|ZuljinAmaniRageTalent|Active|False": "재사용 대기시간: 30초",
         "ZuljinEnsnare|ZuljinEnsnare|Active|False": "재사용 대기시간: 45초",
         "ZuljinGrievousThrow|ZuljinGrievousThrow|Q|False": "재사용 대기시간: 8초",
         "ZuljinGuillotine|ZuljinGuillotine|Heroic|False": "재사용 대기시간: 40초",
@@ -1421,9 +1421,7 @@
         "WizardTeleport|WizardTeleport|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 30</s>",
         "WizardWaveOfForce|WizardWaveOfForce|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 80</s>",
         "YrelArdentDefender|YrelArdentDefender|Heroic|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 80</s>",
-        "YrelAvengingWrath|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 65</s>",
         "YrelAvengingWrathChannel|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 65</s>",
-        "YrelAvengingWrathDivinePurpose|YrelAvengingWrath|E|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 65</s>",
         "YrelRighteousHammer|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 65</s>",
         "YrelRighteousHammerChannel|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 65</s>",
         "YrelRighteousHammerDivinePurpose|YrelRighteousHammer|W|False": "<s val=\"bfd4fd\" name=\"StandardTooltipDetails\">마나: 65</s>",
@@ -27418,3 +27416,4 @@
       }
     }
   }
+}
