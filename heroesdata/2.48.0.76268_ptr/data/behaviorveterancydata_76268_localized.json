@@ -12245,6 +12245,2588 @@
       }
     ]
   },
+  "gardenofterror-GardenTerrorScaling": {
+    "combineModifications": true,
+    "combineXP": true,
+    "veterancyLevels": [
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.02,
+            "Ability": 0.05
+          },
+          "vitalMaxFraction": {
+            "Life": 0.02
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.02,
+            "Ability": 0.05
+          },
+          "vitalMaxFraction": {
+            "Life": 0.02
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.02,
+            "Ability": 0.05
+          },
+          "vitalMaxFraction": {
+            "Life": 0.02
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.02,
+            "Ability": 0.05
+          },
+          "vitalMaxFraction": {
+            "Life": 0.02
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.02,
+            "Ability": 0.05
+          },
+          "vitalMaxFraction": {
+            "Life": 0.02
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.03,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.03
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.03,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.03
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.03,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.03
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.03,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.03
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.03,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.03
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.04,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.04
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.04,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.04
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.04,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.04
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.04,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.04
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.04,
+            "Ability": 0.06
+          },
+          "vitalMaxFraction": {
+            "Life": 0.04
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.05,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.05
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.05,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.05
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.05,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.05
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.05,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.05
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.05,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.05
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.06,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.06
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.06,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.06
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.06,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.06
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.06,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.06
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.06,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.06
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.07,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.07
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.07,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.07
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.07,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.07
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.07,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.07
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtFraction": {
+            "Basic": 0.07,
+            "Ability": 0.07
+          },
+          "vitalMaxFraction": {
+            "Life": 0.07
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      }
+    ]
+  },
+  "gardenofterror-HauntedWoodsBossScaling": {
+    "combineModifications": true,
+    "combineXP": true,
+    "veterancyLevels": [
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 7.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 480.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 7.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 480.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 7.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 480.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 7.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 480.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 7.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 480.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 11.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 720.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 11.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 720.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 11.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 720.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 11.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 720.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 11.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 720.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 14.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 960.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 14.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 960.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 14.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 960.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 14.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 960.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 14.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 960.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 12.0,
+          "damageDealtScaled": {
+            "Basic": 22.0
+          },
+          "damageDealtFraction": {
+            "Ability": 0.03
+          },
+          "vitalMax": {
+            "Life": 1440.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      }
+    ]
+  },
+  "gardenofterror-HauntedWoodsMinionScaling": {
+    "combineModifications": true,
+    "combineXP": true,
+    "veterancyLevels": [
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.3
+          },
+          "vitalMax": {
+            "Life": 10.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.3
+          },
+          "vitalMax": {
+            "Life": 10.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.3
+          },
+          "vitalMax": {
+            "Life": 10.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.3
+          },
+          "vitalMax": {
+            "Life": 10.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.3
+          },
+          "vitalMax": {
+            "Life": 10.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.95
+          },
+          "vitalMax": {
+            "Life": 15.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.95
+          },
+          "vitalMax": {
+            "Life": 15.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.95
+          },
+          "vitalMax": {
+            "Life": 15.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.95
+          },
+          "vitalMax": {
+            "Life": 15.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.95
+          },
+          "vitalMax": {
+            "Life": 15.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.6
+          },
+          "vitalMax": {
+            "Life": 20.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.6
+          },
+          "vitalMax": {
+            "Life": 20.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.6
+          },
+          "vitalMax": {
+            "Life": 20.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.6
+          },
+          "vitalMax": {
+            "Life": 20.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.6
+          },
+          "vitalMax": {
+            "Life": 20.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.25
+          },
+          "vitalMax": {
+            "Life": 25.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.25
+          },
+          "vitalMax": {
+            "Life": 25.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.25
+          },
+          "vitalMax": {
+            "Life": 25.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.25
+          },
+          "vitalMax": {
+            "Life": 25.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.25
+          },
+          "vitalMax": {
+            "Life": 25.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.9
+          },
+          "vitalMax": {
+            "Life": 30.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0
+        }
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 0
+      }
+    ]
+  },
+  "gardenofterror-HauntedWoodsOvergrowthPlantScaling": {
+    "combineModifications": true,
+    "combineXP": true,
+    "veterancyLevels": [
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 80.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 80.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 80.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 80.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 80.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 120.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 120.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 120.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 120.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 120.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 160.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 160.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 160.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 160.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 160.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 200.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 240.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 240.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 240.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 240.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 240.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Ability": 8.0
+          },
+          "vitalMax": {
+            "Life": 280.0
+          }
+        }
+      }
+    ]
+  },
+  "gardenofterror-ShamblerScaling": {
+    "combineModifications": true,
+    "combineXP": true,
+    "veterancyLevels": [
+      {
+        "minVeterancyXP": 0
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.25
+          },
+          "vitalMax": {
+            "Life": 35.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.25
+          },
+          "vitalMax": {
+            "Life": 35.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.25
+          },
+          "vitalMax": {
+            "Life": 35.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.25
+          },
+          "vitalMax": {
+            "Life": 35.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.25
+          },
+          "vitalMax": {
+            "Life": 35.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.875
+          },
+          "vitalMax": {
+            "Life": 52.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.875
+          },
+          "vitalMax": {
+            "Life": 52.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.875
+          },
+          "vitalMax": {
+            "Life": 52.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.875
+          },
+          "vitalMax": {
+            "Life": 52.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 1.875
+          },
+          "vitalMax": {
+            "Life": 52.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.5
+          },
+          "vitalMax": {
+            "Life": 70.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.5
+          },
+          "vitalMax": {
+            "Life": 70.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.5
+          },
+          "vitalMax": {
+            "Life": 70.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.5
+          },
+          "vitalMax": {
+            "Life": 70.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 2.5
+          },
+          "vitalMax": {
+            "Life": 70.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.125
+          },
+          "vitalMax": {
+            "Life": 87.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.125
+          },
+          "vitalMax": {
+            "Life": 87.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.125
+          },
+          "vitalMax": {
+            "Life": 87.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.125
+          },
+          "vitalMax": {
+            "Life": 87.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.125
+          },
+          "vitalMax": {
+            "Life": 87.5
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "killXPBonus": 2.0,
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1,
+        "modifications": {
+          "damageDealtScaled": {
+            "Basic": 3.75
+          },
+          "vitalMax": {
+            "Life": 105.0
+          }
+        }
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      },
+      {
+        "minVeterancyXP": 1
+      }
+    ]
+  },
   "gardenofterrordata-HauntedWoodsBossScaling": {
     "combineModifications": true,
     "combineXP": true,
@@ -15294,2588 +17876,6 @@
       },
       {
         "minVeterancyXP": 0
-      }
-    ]
-  },
-  "gardenofterror-GardenTerrorScaling": {
-    "combineModifications": true,
-    "combineXP": true,
-    "veterancyLevels": [
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.02,
-            "Ability": 0.05
-          },
-          "vitalMaxFraction": {
-            "Life": 0.02
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.02,
-            "Ability": 0.05
-          },
-          "vitalMaxFraction": {
-            "Life": 0.02
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.02,
-            "Ability": 0.05
-          },
-          "vitalMaxFraction": {
-            "Life": 0.02
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.02,
-            "Ability": 0.05
-          },
-          "vitalMaxFraction": {
-            "Life": 0.02
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.02,
-            "Ability": 0.05
-          },
-          "vitalMaxFraction": {
-            "Life": 0.02
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.03,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.03
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.03,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.03
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.03,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.03
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.03,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.03
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.03,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.03
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.04,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.04
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.04,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.04
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.04,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.04
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.04,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.04
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.04,
-            "Ability": 0.06
-          },
-          "vitalMaxFraction": {
-            "Life": 0.04
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.05,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.05
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.05,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.05
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.05,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.05
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.05,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.05
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.05,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.05
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.06,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.06
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.06,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.06
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.06,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.06
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.06,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.06
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.06,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.06
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.07,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.07
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.07,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.07
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.07,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.07
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.07,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.07
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtFraction": {
-            "Basic": 0.07,
-            "Ability": 0.07
-          },
-          "vitalMaxFraction": {
-            "Life": 0.07
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      }
-    ]
-  },
-  "gardenofterror-HauntedWoodsBossScaling": {
-    "combineModifications": true,
-    "combineXP": true,
-    "veterancyLevels": [
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 7.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 480.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 7.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 480.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 7.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 480.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 7.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 480.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 7.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 480.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 11.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 720.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 11.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 720.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 11.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 720.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 11.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 720.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 11.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 720.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 14.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 960.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 14.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 960.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 14.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 960.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 14.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 960.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 14.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 960.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 12.0,
-          "damageDealtScaled": {
-            "Basic": 22.0
-          },
-          "damageDealtFraction": {
-            "Ability": 0.03
-          },
-          "vitalMax": {
-            "Life": 1440.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      }
-    ]
-  },
-  "gardenofterror-HauntedWoodsMinionScaling": {
-    "combineModifications": true,
-    "combineXP": true,
-    "veterancyLevels": [
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.3
-          },
-          "vitalMax": {
-            "Life": 10.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.3
-          },
-          "vitalMax": {
-            "Life": 10.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.3
-          },
-          "vitalMax": {
-            "Life": 10.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.3
-          },
-          "vitalMax": {
-            "Life": 10.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.3
-          },
-          "vitalMax": {
-            "Life": 10.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.95
-          },
-          "vitalMax": {
-            "Life": 15.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.95
-          },
-          "vitalMax": {
-            "Life": 15.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.95
-          },
-          "vitalMax": {
-            "Life": 15.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.95
-          },
-          "vitalMax": {
-            "Life": 15.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.95
-          },
-          "vitalMax": {
-            "Life": 15.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.6
-          },
-          "vitalMax": {
-            "Life": 20.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.6
-          },
-          "vitalMax": {
-            "Life": 20.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.6
-          },
-          "vitalMax": {
-            "Life": 20.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.6
-          },
-          "vitalMax": {
-            "Life": 20.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.6
-          },
-          "vitalMax": {
-            "Life": 20.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.25
-          },
-          "vitalMax": {
-            "Life": 25.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.25
-          },
-          "vitalMax": {
-            "Life": 25.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.25
-          },
-          "vitalMax": {
-            "Life": 25.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.25
-          },
-          "vitalMax": {
-            "Life": 25.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.25
-          },
-          "vitalMax": {
-            "Life": 25.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.9
-          },
-          "vitalMax": {
-            "Life": 30.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0
-        }
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 0
-      }
-    ]
-  },
-  "gardenofterror-HauntedWoodsOvergrowthPlantScaling": {
-    "combineModifications": true,
-    "combineXP": true,
-    "veterancyLevels": [
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 80.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 80.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 80.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 80.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 80.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 120.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 120.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 120.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 120.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 120.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 160.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 160.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 160.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 160.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 160.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 200.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 240.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 240.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 240.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 240.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 240.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Ability": 8.0
-          },
-          "vitalMax": {
-            "Life": 280.0
-          }
-        }
-      }
-    ]
-  },
-  "gardenofterror-ShamblerScaling": {
-    "combineModifications": true,
-    "combineXP": true,
-    "veterancyLevels": [
-      {
-        "minVeterancyXP": 0
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.25
-          },
-          "vitalMax": {
-            "Life": 35.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.25
-          },
-          "vitalMax": {
-            "Life": 35.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.25
-          },
-          "vitalMax": {
-            "Life": 35.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.25
-          },
-          "vitalMax": {
-            "Life": 35.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.25
-          },
-          "vitalMax": {
-            "Life": 35.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.875
-          },
-          "vitalMax": {
-            "Life": 52.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.875
-          },
-          "vitalMax": {
-            "Life": 52.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.875
-          },
-          "vitalMax": {
-            "Life": 52.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.875
-          },
-          "vitalMax": {
-            "Life": 52.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 1.875
-          },
-          "vitalMax": {
-            "Life": 52.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.5
-          },
-          "vitalMax": {
-            "Life": 70.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.5
-          },
-          "vitalMax": {
-            "Life": 70.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.5
-          },
-          "vitalMax": {
-            "Life": 70.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.5
-          },
-          "vitalMax": {
-            "Life": 70.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 2.5
-          },
-          "vitalMax": {
-            "Life": 70.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.125
-          },
-          "vitalMax": {
-            "Life": 87.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.125
-          },
-          "vitalMax": {
-            "Life": 87.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.125
-          },
-          "vitalMax": {
-            "Life": 87.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.125
-          },
-          "vitalMax": {
-            "Life": 87.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.125
-          },
-          "vitalMax": {
-            "Life": 87.5
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "killXPBonus": 2.0,
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1,
-        "modifications": {
-          "damageDealtScaled": {
-            "Basic": 3.75
-          },
-          "vitalMax": {
-            "Life": 105.0
-          }
-        }
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
-      },
-      {
-        "minVeterancyXP": 1
       }
     ]
   },
