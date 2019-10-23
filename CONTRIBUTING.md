@@ -1,6 +1,6 @@
-# Submitting Pull Requests
+## Submitting Pull Requests
 All generated data and gamestrings must come from [Heroes Data Parser](https://github.com/HeroesToolChest/HeroesDataParser) using the
-following command
+following command. Please note that `--extract-image` is only needed if planning to submit images to [Heroes Images](https://github.com/HeroesToolChest/heroes-images).
 ```
 'Path/To/Game' --extract-data all --extract-images all --localization all --localized-text
 ```
