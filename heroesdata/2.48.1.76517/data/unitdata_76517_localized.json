@@ -3794,68 +3794,6 @@
       ]
     }
   },
-  "DragonShireShrineMoon": {
-    "hyperlinkId": "DragonShireShrineMoon",
-    "radius": 0.0625,
-    "sight": 5.0,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "portraits": {
-      "targetInfo": "ui_targetportrait_dragonshire_moon.png",
-      "minimap": "storm_ui_minimapicon_moonshrine.png"
-    },
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "abilities": {
-      "basic": [
-        {
-          "nameId": "GardensObeliskActivate",
-          "buttonId": "GardensObeliskActivate",
-          "icon": "storm_temp_war3_btnelvenguardtower.png",
-          "abilityType": "Q"
-        }
-      ]
-    }
-  },
-  "DragonShireShrineSun": {
-    "hyperlinkId": "DragonShireShrineSun",
-    "radius": 0.0625,
-    "sight": 5.0,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "portraits": {
-      "targetInfo": "ui_targetportrait_dragonshire_star.png",
-      "minimap": "storm_ui_minimapicon_sunshrine.png"
-    },
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "abilities": {
-      "basic": [
-        {
-          "nameId": "GardensObeliskActivate",
-          "buttonId": "GardensObeliskActivate",
-          "icon": "storm_temp_war3_btnelvenguardtower.png",
-          "abilityType": "Q"
-        }
-      ]
-    }
-  },
   "dragonshire-TownCannonTower": {
     "hyperlinkId": "TownCannonTower",
     "radius": 1.0,
@@ -4262,6 +4200,68 @@
           "buttonId": "Detector",
           "abilityType": "Stop",
           "isPassive": true
+        }
+      ]
+    }
+  },
+  "DragonShireShrineMoon": {
+    "hyperlinkId": "DragonShireShrineMoon",
+    "radius": 0.0625,
+    "sight": 5.0,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "portraits": {
+      "targetInfo": "ui_targetportrait_dragonshire_moon.png",
+      "minimap": "storm_ui_minimapicon_moonshrine.png"
+    },
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "abilities": {
+      "basic": [
+        {
+          "nameId": "GardensObeliskActivate",
+          "buttonId": "GardensObeliskActivate",
+          "icon": "storm_temp_war3_btnelvenguardtower.png",
+          "abilityType": "Q"
+        }
+      ]
+    }
+  },
+  "DragonShireShrineSun": {
+    "hyperlinkId": "DragonShireShrineSun",
+    "radius": 0.0625,
+    "sight": 5.0,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "portraits": {
+      "targetInfo": "ui_targetportrait_dragonshire_star.png",
+      "minimap": "storm_ui_minimapicon_sunshrine.png"
+    },
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "abilities": {
+      "basic": [
+        {
+          "nameId": "GardensObeliskActivate",
+          "buttonId": "GardensObeliskActivate",
+          "icon": "storm_temp_war3_btnelvenguardtower.png",
+          "abilityType": "Q"
         }
       ]
     }
@@ -4914,6 +4914,208 @@
       "regenRate": 0.0,
       "regenScale": 0.0
     }
+  },
+  "gardenofterror-GardenTerror": {
+    "hyperlinkId": "GardenTerror",
+    "innerRadius": 0.75,
+    "radius": 1.5,
+    "sight": 8.0,
+    "speed": 2.8007,
+    "scalingLinkId": "GardenTerrorScaling",
+    "attributes": [
+      "ImmuneToFriendlyAbilities",
+      "MapBoss",
+      "MapCreature"
+    ],
+    "portraits": {
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_gardenofterror_boss_vehicle_gardenterror.png",
+      "minimap": "storm_ui_minimapicon_gardengolem.png"
+    },
+    "life": {
+      "amount": 10000.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "armor": {
+      "structure": {
+        "basic": 50,
+        "ability": 50,
+        "splash": 50
+      }
+    },
+    "weapons": [
+      {
+        "nameId": "GardenTerrorWeapon",
+        "range": 2.0,
+        "period": 1.8,
+        "damage": 250.0,
+        "damageScale": 0.0
+      }
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "nameId": "UnderworldBossStun",
+          "buttonId": "GraveGolemMegaStun",
+          "icon": "storm_ui_icon_slam.png",
+          "abilityType": "Q"
+        },
+        {
+          "nameId": "PlantHorrorOvergrowthPlant",
+          "buttonId": "PlantHorrorOvergrowth",
+          "icon": "storm_ui_icon_gardenterror_overgrowth.png",
+          "abilityType": "W"
+        }
+      ]
+    }
+  },
+  "gardenofterror-OvergrowthPlant": {
+    "hyperlinkId": "OvergrowthPlant",
+    "innerRadius": 1.0,
+    "radius": 1.0,
+    "sight": 9.25,
+    "scalingLinkId": "HauntedWoodsOvergrowthPlantScaling",
+    "attributes": [
+      "IgnoredByTowerAI",
+      "ImmuneToFriendlyAbilities",
+      "MapCreature",
+      "NoMinionAggro",
+      "Summoned"
+    ],
+    "portraits": {
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_gardenofterror_boss_overgrowthheart.png"
+    },
+    "life": {
+      "amount": 1800.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "abilities": {
+      "hidden": [
+        {
+          "nameId": "BuildInProgress",
+          "abilityType": "Hidden"
+        }
+      ]
+    }
+  },
+  "gardenofterror-OvergrowthPlantDummyUnit": {
+    "hyperlinkId": "OvergrowthPlantDummyUnit",
+    "radius": 1.0,
+    "sight": 2.0,
+    "speed": 4.0,
+    "attributes": [
+      "NoMinionAggro",
+      "Summoned"
+    ],
+    "portraits": {
+      "targetInfo": "storm_ui_ingame_hero_icon_placeholder.png"
+    },
+    "life": {
+      "amount": 100.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "gardenofterror-Seed": {
+    "hyperlinkId": "Seed",
+    "radius": 0.75,
+    "sight": 4.0,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "portraits": {
+      "minimap": "storm_ui_minimapicon_gardenseed.png"
+    },
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "gardenofterror-SeedSpawnPreview": {
+    "hyperlinkId": "SeedSpawnPreview",
+    "radius": 0.25,
+    "sight": 4.0,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "gardenofterror-Shambler": {
+    "hyperlinkId": "Shambler",
+    "radius": 0.6875,
+    "sight": 8.0,
+    "speed": 2.0,
+    "scalingLinkId": "HauntedWoodsMinionScaling",
+    "attributes": [
+      "MapCreature",
+      "Merc"
+    ],
+    "portraits": {
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_gardenofterror_merc_flower_ranged.png"
+    },
+    "life": {
+      "amount": 800.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "weapons": [
+      {
+        "nameId": "ShamblerWeapon",
+        "range": 0.5,
+        "period": 1.5,
+        "damage": 100.0,
+        "damageScale": 0.0
+      }
+    ]
+  },
+  "gardenofterror-ShamblerRanged": {
+    "hyperlinkId": "ShamblerRanged",
+    "innerRadius": 0.5,
+    "radius": 0.6875,
+    "sight": 8.0,
+    "speed": 2.0,
+    "killXP": 60,
+    "scalingLinkId": "HauntedWoodsMinionScaling",
+    "attributes": [
+      "Creep",
+      "MapCreature"
+    ],
+    "portraits": {
+      "targetInfo": "ui_targetportrait_bbay_mercs_knight_dark_red.png",
+      "minimap": "ui_minimap_mineskeletons.png"
+    },
+    "life": {
+      "amount": 925.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "weapons": [
+      {
+        "nameId": "ShamblerRangedWeapon",
+        "range": 6.0,
+        "period": 1.5,
+        "damage": 0.0,
+        "damageScale": 0.0
+      }
+    ]
   },
   "gardenofterrordata-FertileSoil": {
     "hyperlinkId": "FertileSoil",
@@ -5870,208 +6072,6 @@
       ]
     }
   },
-  "gardenofterror-GardenTerror": {
-    "hyperlinkId": "GardenTerror",
-    "innerRadius": 0.75,
-    "radius": 1.5,
-    "sight": 8.0,
-    "speed": 2.8007,
-    "scalingLinkId": "GardenTerrorScaling",
-    "attributes": [
-      "ImmuneToFriendlyAbilities",
-      "MapBoss",
-      "MapCreature"
-    ],
-    "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_gardenofterror_boss_vehicle_gardenterror.png",
-      "minimap": "storm_ui_minimapicon_gardengolem.png"
-    },
-    "life": {
-      "amount": 10000.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "armor": {
-      "structure": {
-        "basic": 50,
-        "ability": 50,
-        "splash": 50
-      }
-    },
-    "weapons": [
-      {
-        "nameId": "GardenTerrorWeapon",
-        "range": 2.0,
-        "period": 1.8,
-        "damage": 250.0,
-        "damageScale": 0.0
-      }
-    ],
-    "abilities": {
-      "basic": [
-        {
-          "nameId": "UnderworldBossStun",
-          "buttonId": "GraveGolemMegaStun",
-          "icon": "storm_ui_icon_slam.png",
-          "abilityType": "Q"
-        },
-        {
-          "nameId": "PlantHorrorOvergrowthPlant",
-          "buttonId": "PlantHorrorOvergrowth",
-          "icon": "storm_ui_icon_gardenterror_overgrowth.png",
-          "abilityType": "W"
-        }
-      ]
-    }
-  },
-  "gardenofterror-OvergrowthPlant": {
-    "hyperlinkId": "OvergrowthPlant",
-    "innerRadius": 1.0,
-    "radius": 1.0,
-    "sight": 9.25,
-    "scalingLinkId": "HauntedWoodsOvergrowthPlantScaling",
-    "attributes": [
-      "IgnoredByTowerAI",
-      "ImmuneToFriendlyAbilities",
-      "MapCreature",
-      "NoMinionAggro",
-      "Summoned"
-    ],
-    "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_gardenofterror_boss_overgrowthheart.png"
-    },
-    "life": {
-      "amount": 1800.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "abilities": {
-      "hidden": [
-        {
-          "nameId": "BuildInProgress",
-          "abilityType": "Hidden"
-        }
-      ]
-    }
-  },
-  "gardenofterror-OvergrowthPlantDummyUnit": {
-    "hyperlinkId": "OvergrowthPlantDummyUnit",
-    "radius": 1.0,
-    "sight": 2.0,
-    "speed": 4.0,
-    "attributes": [
-      "NoMinionAggro",
-      "Summoned"
-    ],
-    "portraits": {
-      "targetInfo": "storm_ui_ingame_hero_icon_placeholder.png"
-    },
-    "life": {
-      "amount": 100.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "gardenofterror-Seed": {
-    "hyperlinkId": "Seed",
-    "radius": 0.75,
-    "sight": 4.0,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "portraits": {
-      "minimap": "storm_ui_minimapicon_gardenseed.png"
-    },
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "gardenofterror-SeedSpawnPreview": {
-    "hyperlinkId": "SeedSpawnPreview",
-    "radius": 0.25,
-    "sight": 4.0,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "gardenofterror-Shambler": {
-    "hyperlinkId": "Shambler",
-    "radius": 0.6875,
-    "sight": 8.0,
-    "speed": 2.0,
-    "scalingLinkId": "HauntedWoodsMinionScaling",
-    "attributes": [
-      "MapCreature",
-      "Merc"
-    ],
-    "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_gardenofterror_merc_flower_ranged.png"
-    },
-    "life": {
-      "amount": 800.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "weapons": [
-      {
-        "nameId": "ShamblerWeapon",
-        "range": 0.5,
-        "period": 1.5,
-        "damage": 100.0,
-        "damageScale": 0.0
-      }
-    ]
-  },
-  "gardenofterror-ShamblerRanged": {
-    "hyperlinkId": "ShamblerRanged",
-    "innerRadius": 0.5,
-    "radius": 0.6875,
-    "sight": 8.0,
-    "speed": 2.0,
-    "killXP": 60,
-    "scalingLinkId": "HauntedWoodsMinionScaling",
-    "attributes": [
-      "Creep",
-      "MapCreature"
-    ],
-    "portraits": {
-      "targetInfo": "ui_targetportrait_bbay_mercs_knight_dark_red.png",
-      "minimap": "ui_minimap_mineskeletons.png"
-    },
-    "life": {
-      "amount": 925.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "weapons": [
-      {
-        "nameId": "ShamblerRangedWeapon",
-        "range": 6.0,
-        "period": 1.5,
-        "damage": 0.0,
-        "damageScale": 0.0
-      }
-    ]
-  },
   "GardensConduitObelisk": {
     "hyperlinkId": "GardensConduitObelisk",
     "radius": 0.5,
@@ -6431,287 +6431,6 @@
     },
     "life": {
       "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-AttackCoreSourceInvisibleUnit": {
-    "hyperlinkId": "AttackCoreSourceInvisibleUnit",
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-KingsCore": {
-    "hyperlinkId": "KingsCore",
-    "radius": 4.0,
-    "sight": 11.0,
-    "attributes": [
-      "AITargetableStructure",
-      "ImmuneToFriendlyAbilities",
-      "Structure"
-    ],
-    "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_core.png"
-    },
-    "life": {
-      "amount": 8.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "weapons": [
-      {
-        "nameId": "KingsCore",
-        "range": 8.0,
-        "period": 1.0,
-        "damage": 220.0,
-        "damageScale": 0.0,
-        "damageFactor": {
-          "minion": 1.0,
-          "merc": 1.0,
-          "structure": 1.0,
-          "summoned": 1.0,
-          "mapcreature": 1.0
-        }
-      }
-    ],
-    "abilities": {
-      "action": [
-        {
-          "nameId": "Detector",
-          "buttonId": "Detector",
-          "abilityType": "Stop",
-          "isPassive": true
-        }
-      ]
-    }
-  },
-  "hanamuradata-MercGoblinSapperLaner": {
-    "hyperlinkId": "MercGoblinSapperLaner",
-    "radius": 0.75,
-    "sight": 9.0,
-    "speed": 3.25,
-    "scalingLinkId": "MercGoblinSapperLanerScaling",
-    "attributes": [
-      "Merc"
-    ],
-    "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_merc_siege.png"
-    },
-    "life": {
-      "amount": 1800.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "weapons": [
-      {
-        "nameId": "MercLanerGoblinSapperWeapon",
-        "range": 4.0,
-        "period": 1.0,
-        "damage": 45.0,
-        "damageScale": 0.0,
-        "damageFactor": {
-          "creep": 1.0,
-          "minion": 1.0,
-          "merc": 1.0,
-          "summoned": 1.0
-        }
-      }
-    ],
-    "abilities": {
-      "basic": [
-        {
-          "nameId": "MercGoblinSapperSuicide",
-          "buttonId": "MercGoblinSapperSuicide",
-          "icon": "storm_temp_war3_btnundeadunload.png",
-          "abilityType": "Q"
-        }
-      ]
-    }
-  },
-  "hanamuradata-Payload": {
-    "hyperlinkId": "Payload",
-    "innerRadius": 1.5,
-    "radius": 1.5,
-    "sight": 8.0,
-    "speed": 0.75,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 2000.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-PayloadChaosPath1": {
-    "hyperlinkId": "PayloadChaosPath1",
-    "innerRadius": 1.5,
-    "radius": 1.5,
-    "sight": 8.0,
-    "speed": 0.75,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 2000.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-PayloadChaosPath2": {
-    "hyperlinkId": "PayloadChaosPath2",
-    "innerRadius": 1.5,
-    "radius": 1.5,
-    "sight": 8.0,
-    "speed": 0.75,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 2000.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-PayloadDestinationMinimapIcon": {
-    "hyperlinkId": "PayloadDestinationMinimapIcon",
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "portraits": {
-      "minimap": "storm_ui_minimapicon_piratecampempty.png"
-    },
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-PayloadOrderPath1": {
-    "hyperlinkId": "PayloadOrderPath1",
-    "innerRadius": 1.5,
-    "radius": 1.5,
-    "sight": 8.0,
-    "speed": 0.75,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 2000.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-PayloadOrderPath2": {
-    "hyperlinkId": "PayloadOrderPath2",
-    "innerRadius": 1.5,
-    "radius": 1.5,
-    "sight": 8.0,
-    "speed": 0.75,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 2000.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-PayloadSpawningWarningUnit": {
-    "hyperlinkId": "PayloadSpawningWarningUnit",
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "portraits": {
-      "minimap": "ui_minimap_sun.png"
-    },
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-Storm_Building_OWHana_LargeGate_Ext": {
-    "hyperlinkId": "Storm_Building_OWHana_LargeGate_Ext",
-    "radius": 0.75,
-    "sight": 8.0,
-    "attributes": [
-      "AITargetableStructure",
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro",
-      "Structure"
-    ],
-    "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_gate.png"
-    },
-    "life": {
-      "amount": 6150.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "hanamuradata-Storm_Building_OWHana_LargeGate_Int": {
-    "hyperlinkId": "Storm_Building_OWHana_LargeGate_Int",
-    "radius": 0.75,
-    "sight": 8.0,
-    "attributes": [
-      "AITargetableStructure",
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro",
-      "Structure"
-    ],
-    "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_gate.png"
-    },
-    "life": {
-      "amount": 6150.0,
       "scale": 0.0,
       "regenRate": 0.0,
       "regenScale": 0.0
@@ -7258,6 +6977,287 @@
         }
       }
     ]
+  },
+  "hanamuradata-AttackCoreSourceInvisibleUnit": {
+    "hyperlinkId": "AttackCoreSourceInvisibleUnit",
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-KingsCore": {
+    "hyperlinkId": "KingsCore",
+    "radius": 4.0,
+    "sight": 11.0,
+    "attributes": [
+      "AITargetableStructure",
+      "ImmuneToFriendlyAbilities",
+      "Structure"
+    ],
+    "portraits": {
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_core.png"
+    },
+    "life": {
+      "amount": 8.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "weapons": [
+      {
+        "nameId": "KingsCore",
+        "range": 8.0,
+        "period": 1.0,
+        "damage": 220.0,
+        "damageScale": 0.0,
+        "damageFactor": {
+          "minion": 1.0,
+          "merc": 1.0,
+          "structure": 1.0,
+          "summoned": 1.0,
+          "mapcreature": 1.0
+        }
+      }
+    ],
+    "abilities": {
+      "action": [
+        {
+          "nameId": "Detector",
+          "buttonId": "Detector",
+          "abilityType": "Stop",
+          "isPassive": true
+        }
+      ]
+    }
+  },
+  "hanamuradata-MercGoblinSapperLaner": {
+    "hyperlinkId": "MercGoblinSapperLaner",
+    "radius": 0.75,
+    "sight": 9.0,
+    "speed": 3.25,
+    "scalingLinkId": "MercGoblinSapperLanerScaling",
+    "attributes": [
+      "Merc"
+    ],
+    "portraits": {
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_towersofdoom_merc_siege.png"
+    },
+    "life": {
+      "amount": 1800.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "weapons": [
+      {
+        "nameId": "MercLanerGoblinSapperWeapon",
+        "range": 4.0,
+        "period": 1.0,
+        "damage": 45.0,
+        "damageScale": 0.0,
+        "damageFactor": {
+          "creep": 1.0,
+          "minion": 1.0,
+          "merc": 1.0,
+          "summoned": 1.0
+        }
+      }
+    ],
+    "abilities": {
+      "basic": [
+        {
+          "nameId": "MercGoblinSapperSuicide",
+          "buttonId": "MercGoblinSapperSuicide",
+          "icon": "storm_temp_war3_btnundeadunload.png",
+          "abilityType": "Q"
+        }
+      ]
+    }
+  },
+  "hanamuradata-Payload": {
+    "hyperlinkId": "Payload",
+    "innerRadius": 1.5,
+    "radius": 1.5,
+    "sight": 8.0,
+    "speed": 0.75,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 2000.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-PayloadChaosPath1": {
+    "hyperlinkId": "PayloadChaosPath1",
+    "innerRadius": 1.5,
+    "radius": 1.5,
+    "sight": 8.0,
+    "speed": 0.75,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 2000.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-PayloadChaosPath2": {
+    "hyperlinkId": "PayloadChaosPath2",
+    "innerRadius": 1.5,
+    "radius": 1.5,
+    "sight": 8.0,
+    "speed": 0.75,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 2000.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-PayloadDestinationMinimapIcon": {
+    "hyperlinkId": "PayloadDestinationMinimapIcon",
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "portraits": {
+      "minimap": "storm_ui_minimapicon_piratecampempty.png"
+    },
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-PayloadOrderPath1": {
+    "hyperlinkId": "PayloadOrderPath1",
+    "innerRadius": 1.5,
+    "radius": 1.5,
+    "sight": 8.0,
+    "speed": 0.75,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 2000.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-PayloadOrderPath2": {
+    "hyperlinkId": "PayloadOrderPath2",
+    "innerRadius": 1.5,
+    "radius": 1.5,
+    "sight": 8.0,
+    "speed": 0.75,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 2000.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-PayloadSpawningWarningUnit": {
+    "hyperlinkId": "PayloadSpawningWarningUnit",
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "portraits": {
+      "minimap": "ui_minimap_sun.png"
+    },
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-Storm_Building_OWHana_LargeGate_Ext": {
+    "hyperlinkId": "Storm_Building_OWHana_LargeGate_Ext",
+    "radius": 0.75,
+    "sight": 8.0,
+    "attributes": [
+      "AITargetableStructure",
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro",
+      "Structure"
+    ],
+    "portraits": {
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_gate.png"
+    },
+    "life": {
+      "amount": 6150.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "hanamuradata-Storm_Building_OWHana_LargeGate_Int": {
+    "hyperlinkId": "Storm_Building_OWHana_LargeGate_Int",
+    "radius": 0.75,
+    "sight": 8.0,
+    "attributes": [
+      "AITargetableStructure",
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro",
+      "Structure"
+    ],
+    "portraits": {
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_gate.png"
+    },
+    "life": {
+      "amount": 6150.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
   },
   "HangingSharkBreakable": {
     "hyperlinkId": "HangingSharkBreakable",
@@ -7976,6 +7976,16 @@
       ]
     }
   },
+  "infernalshrines-MercPunisherLaner": {
+    "hyperlinkId": "MercPunisherLaner",
+    "radius": 0.5,
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
   "infernalshrinesdata-CursedShrineMinion": {
     "hyperlinkId": "CursedShrineMinion",
     "innerRadius": 0.375,
@@ -8269,16 +8279,6 @@
           "isPassive": true
         }
       ]
-    }
-  },
-  "infernalshrines-MercPunisherLaner": {
-    "hyperlinkId": "MercPunisherLaner",
-    "radius": 0.5,
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
     }
   },
   "IntroVOInteractor": {
@@ -13047,84 +13047,6 @@
       }
     ]
   },
-  "StarCraftEventSCV": {
-    "hyperlinkId": "StarCraftEventSCV",
-    "radius": 0.5,
-    "sight": 8.0,
-    "speed": 4.0,
-    "attributes": [
-      "IgnoredByTowerAI",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 3.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "abilities": {
-      "basic": [
-        {
-          "nameId": "StarCraftEventSCVGatherArtifact",
-          "buttonId": "StarCraftEventSCVGather",
-          "abilityType": "Q"
-        },
-        {
-          "nameId": "StarCraftEventSCVTurnInArtifact",
-          "buttonId": "StarCraftEventSCVTurnInArtifact",
-          "abilityType": "W"
-        },
-        {
-          "nameId": "StarCraftEventSCVTeleportOut",
-          "buttonId": "StarCraftEventTeleport",
-          "icon": "storm_btn_d3_wizard_teleport.png",
-          "abilityType": "E"
-        }
-      ]
-    }
-  },
-  "StarCraftEventSCVDropship": {
-    "hyperlinkId": "StarCraftEventSCVDropship",
-    "radius": 0.5,
-    "sight": 8.0,
-    "speed": 28.0,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    },
-    "abilities": {
-      "action": [
-        {
-          "nameId": "MedicMedivacDropshipTransport",
-          "buttonId": "SmartCommandUnitInteraction",
-          "abilityType": "Attack"
-        }
-      ]
-    },
-    "subAbilities": [
-      {
-        "MedicMedivacDropship|MedicMedivacDropship": {
-          "basic": [
-            {
-              "nameId": "MedicMedivacDropshipDepart",
-              "buttonId": "MedicMedivacDropshipDepart",
-              "icon": "storm_ui_medic_departbutton.png",
-              "toggleCooldown": 0.5,
-              "abilityType": "E"
-            }
-          ]
-        }
-      }
-    ]
-  },
   "starcraft-PsiReceiver": {
     "hyperlinkId": "PsiReceiver",
     "radius": 1.5,
@@ -13493,23 +13415,6 @@
       ]
     }
   },
-  "StarCraftVictorySequenceDummyUnit": {
-    "hyperlinkId": "StarCraftVictorySequenceDummyUnit",
-    "radius": 0.5,
-    "sight": 32.0,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
   "starcraft-WizardMinion": {
     "hyperlinkId": "WizardMinion",
     "innerRadius": 0.5625,
@@ -13557,6 +13462,101 @@
       ]
     }
   },
+  "StarCraftEventSCV": {
+    "hyperlinkId": "StarCraftEventSCV",
+    "radius": 0.5,
+    "sight": 8.0,
+    "speed": 4.0,
+    "attributes": [
+      "IgnoredByTowerAI",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 3.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "abilities": {
+      "basic": [
+        {
+          "nameId": "StarCraftEventSCVGatherArtifact",
+          "buttonId": "StarCraftEventSCVGather",
+          "abilityType": "Q"
+        },
+        {
+          "nameId": "StarCraftEventSCVTurnInArtifact",
+          "buttonId": "StarCraftEventSCVTurnInArtifact",
+          "abilityType": "W"
+        },
+        {
+          "nameId": "StarCraftEventSCVTeleportOut",
+          "buttonId": "StarCraftEventTeleport",
+          "icon": "storm_btn_d3_wizard_teleport.png",
+          "abilityType": "E"
+        }
+      ]
+    }
+  },
+  "StarCraftEventSCVDropship": {
+    "hyperlinkId": "StarCraftEventSCVDropship",
+    "radius": 0.5,
+    "sight": 8.0,
+    "speed": 28.0,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    },
+    "abilities": {
+      "action": [
+        {
+          "nameId": "MedicMedivacDropshipTransport",
+          "buttonId": "SmartCommandUnitInteraction",
+          "abilityType": "Attack"
+        }
+      ]
+    },
+    "subAbilities": [
+      {
+        "MedicMedivacDropship|MedicMedivacDropship": {
+          "basic": [
+            {
+              "nameId": "MedicMedivacDropshipDepart",
+              "buttonId": "MedicMedivacDropshipDepart",
+              "icon": "storm_ui_medic_departbutton.png",
+              "toggleCooldown": 0.5,
+              "abilityType": "E"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "StarCraftVictorySequenceDummyUnit": {
+    "hyperlinkId": "StarCraftVictorySequenceDummyUnit",
+    "radius": 0.5,
+    "sight": 32.0,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
   "StitchesPutridPilePool": {
     "hyperlinkId": "StitchesPutridPilePool",
     "radius": 0.5,
@@ -13571,102 +13571,6 @@
     ],
     "life": {
       "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "Storm_Critter_KingsCrest_Peasant_Vendor_A": {
-    "hyperlinkId": "Storm_Critter_KingsCrest_Peasant_Vendor_A",
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "Storm_Critter_KingsCrest_Peasant_Vendor_B": {
-    "hyperlinkId": "Storm_Critter_KingsCrest_Peasant_Vendor_B",
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "Storm_Critter_KingsCrest_Peasant_Vendor_C": {
-    "hyperlinkId": "Storm_Critter_KingsCrest_Peasant_Vendor_C",
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "Storm_Critter_KingsCrest_Peasant_Vendor_D": {
-    "hyperlinkId": "Storm_Critter_KingsCrest_Peasant_Vendor_D",
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "Storm_Doodad_Luxoria_Destructible_Medium": {
-    "hyperlinkId": "Storm_Doodad_Luxoria_Destructible_Medium",
-    "innerRadius": 0.5,
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToSkillshots",
-      "NoMinionAggro",
-      "Structure"
-    ],
-    "life": {
-      "amount": 1.0,
-      "scale": 0.0,
-      "regenRate": 0.0,
-      "regenScale": 0.0
-    }
-  },
-  "Storm_KingsCrest_Shrubbery": {
-    "hyperlinkId": "Storm_KingsCrest_Shrubbery",
-    "radius": 0.5,
-    "attributes": [
-      "ImmuneToAOE",
-      "ImmuneToFriendlyAbilities",
-      "ImmuneToSkillshots",
-      "NoMinionAggro"
-    ],
-    "life": {
-      "amount": 50.0,
       "scale": 0.0,
       "regenRate": 0.0,
       "regenScale": 0.0
@@ -13892,6 +13796,102 @@
     ],
     "life": {
       "amount": 10.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "Storm_Critter_KingsCrest_Peasant_Vendor_A": {
+    "hyperlinkId": "Storm_Critter_KingsCrest_Peasant_Vendor_A",
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "Storm_Critter_KingsCrest_Peasant_Vendor_B": {
+    "hyperlinkId": "Storm_Critter_KingsCrest_Peasant_Vendor_B",
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "Storm_Critter_KingsCrest_Peasant_Vendor_C": {
+    "hyperlinkId": "Storm_Critter_KingsCrest_Peasant_Vendor_C",
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "Storm_Critter_KingsCrest_Peasant_Vendor_D": {
+    "hyperlinkId": "Storm_Critter_KingsCrest_Peasant_Vendor_D",
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "Storm_Doodad_Luxoria_Destructible_Medium": {
+    "hyperlinkId": "Storm_Doodad_Luxoria_Destructible_Medium",
+    "innerRadius": 0.5,
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToSkillshots",
+      "NoMinionAggro",
+      "Structure"
+    ],
+    "life": {
+      "amount": 1.0,
+      "scale": 0.0,
+      "regenRate": 0.0,
+      "regenScale": 0.0
+    }
+  },
+  "Storm_KingsCrest_Shrubbery": {
+    "hyperlinkId": "Storm_KingsCrest_Shrubbery",
+    "radius": 0.5,
+    "attributes": [
+      "ImmuneToAOE",
+      "ImmuneToFriendlyAbilities",
+      "ImmuneToSkillshots",
+      "NoMinionAggro"
+    ],
+    "life": {
+      "amount": 50.0,
       "scale": 0.0,
       "regenRate": 0.0,
       "regenScale": 0.0
