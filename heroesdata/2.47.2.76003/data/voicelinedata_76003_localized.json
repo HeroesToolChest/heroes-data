@@ -399,31 +399,6 @@
     "attributeId": "AT05",
     "releaseDate": "2014-03-13"
   },
-  "Arthas_VoiceLine01": {
-    "hyperlinkId": "ArthasPrinceVoiceLine01",
-    "attributeId": "AH01",
-    "releaseDate": "2014-03-13"
-  },
-  "Arthas_VoiceLine02": {
-    "hyperlinkId": "ArthasPrinceVoiceLine02",
-    "attributeId": "AH02",
-    "releaseDate": "2014-03-13"
-  },
-  "Arthas_VoiceLine03": {
-    "hyperlinkId": "ArthasPrinceVoiceLine03",
-    "attributeId": "AH03",
-    "releaseDate": "2014-03-13"
-  },
-  "Arthas_VoiceLine04": {
-    "hyperlinkId": "ArthasPrinceVoiceLine04",
-    "attributeId": "AH04",
-    "releaseDate": "2014-03-13"
-  },
-  "Arthas_VoiceLine05": {
-    "hyperlinkId": "ArthasPrinceVoiceLine05",
-    "attributeId": "AH05",
-    "releaseDate": "2014-03-13"
-  },
   "ArthasBase_VoiceLine01": {
     "hyperlinkId": "ArthasVoiceLine01",
     "attributeId": "LI01",
@@ -447,6 +422,31 @@
   "ArthasBase_VoiceLine05": {
     "hyperlinkId": "ArthasVoiceLine05",
     "attributeId": "LI05",
+    "releaseDate": "2014-03-13"
+  },
+  "Arthas_VoiceLine01": {
+    "hyperlinkId": "ArthasPrinceVoiceLine01",
+    "attributeId": "AH01",
+    "releaseDate": "2014-03-13"
+  },
+  "Arthas_VoiceLine02": {
+    "hyperlinkId": "ArthasPrinceVoiceLine02",
+    "attributeId": "AH02",
+    "releaseDate": "2014-03-13"
+  },
+  "Arthas_VoiceLine03": {
+    "hyperlinkId": "ArthasPrinceVoiceLine03",
+    "attributeId": "AH03",
+    "releaseDate": "2014-03-13"
+  },
+  "Arthas_VoiceLine04": {
+    "hyperlinkId": "ArthasPrinceVoiceLine04",
+    "attributeId": "AH04",
+    "releaseDate": "2014-03-13"
+  },
+  "Arthas_VoiceLine05": {
+    "hyperlinkId": "ArthasPrinceVoiceLine05",
+    "attributeId": "AH05",
     "releaseDate": "2014-03-13"
   },
   "AurielBase_VoiceLine01": {

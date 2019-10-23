@@ -2077,30 +2077,6 @@
     "category": "Horse",
     "releaseDate": "2016-08-09"
   },
-  "MountDirewolf_Esport17_00": {
-    "hyperlinkId": "ChaosWolf",
-    "attributeId": "DIO0",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2017-07-11"
-  },
-  "MountDirewolf_Esport17_00Var1": {
-    "hyperlinkId": "DeadlyChaosWolf",
-    "attributeId": "DIO1",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2017-07-11"
-  },
-  "MountDirewolf_Esport17_00Var2": {
-    "hyperlinkId": "FuriousChaosWolf",
-    "attributeId": "DIO2",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2017-07-11"
-  },
   "MountDirewolf_Esport17Epic": {
     "hyperlinkId": "EpicChaosWolf",
     "attributeId": "DIL0",
@@ -2120,6 +2096,30 @@
   "MountDirewolf_Esport17EpicVar2": {
     "hyperlinkId": "FuriousEpicChaosWolf",
     "attributeId": "DIL2",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2017-07-11"
+  },
+  "MountDirewolf_Esport17_00": {
+    "hyperlinkId": "ChaosWolf",
+    "attributeId": "DIO0",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2017-07-11"
+  },
+  "MountDirewolf_Esport17_00Var1": {
+    "hyperlinkId": "DeadlyChaosWolf",
+    "attributeId": "DIO1",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2017-07-11"
+  },
+  "MountDirewolf_Esport17_00Var2": {
+    "hyperlinkId": "FuriousChaosWolf",
+    "attributeId": "DIO2",
     "rarity": "None",
     "type": "Ride",
     "category": "Beast",
@@ -2634,6 +2634,33 @@
     "category": "Unique",
     "releaseDate": "2017-01-01"
   },
+  "MountLionToys18": {
+    "hyperlinkId": "CosmicLion",
+    "attributeId": "LIN0",
+    "rarity": "Epic",
+    "type": "Ride",
+    "category": "SeasonalEvents",
+    "event": "WinterVeil",
+    "releaseDate": "2018-12-11"
+  },
+  "MountLionToys18Var1": {
+    "hyperlinkId": "PsionicLion",
+    "attributeId": "LIN1",
+    "rarity": "Epic",
+    "type": "Ride",
+    "category": "SeasonalEvents",
+    "event": "WinterVeil",
+    "releaseDate": "2018-12-11"
+  },
+  "MountLionToys18Var2": {
+    "hyperlinkId": "NegaLion",
+    "attributeId": "LIN2",
+    "rarity": "Epic",
+    "type": "Ride",
+    "category": "SeasonalEvents",
+    "event": "WinterVeil",
+    "releaseDate": "2018-12-11"
+  },
   "MountLion_Rank16_00": {
     "hyperlinkId": "ElementalLion",
     "attributeId": "LIO4",
@@ -2729,33 +2756,6 @@
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-05-22"
-  },
-  "MountLionToys18": {
-    "hyperlinkId": "CosmicLion",
-    "attributeId": "LIN0",
-    "rarity": "Epic",
-    "type": "Ride",
-    "category": "SeasonalEvents",
-    "event": "WinterVeil",
-    "releaseDate": "2018-12-11"
-  },
-  "MountLionToys18Var1": {
-    "hyperlinkId": "PsionicLion",
-    "attributeId": "LIN1",
-    "rarity": "Epic",
-    "type": "Ride",
-    "category": "SeasonalEvents",
-    "event": "WinterVeil",
-    "releaseDate": "2018-12-11"
-  },
-  "MountLionToys18Var2": {
-    "hyperlinkId": "NegaLion",
-    "attributeId": "LIN2",
-    "rarity": "Epic",
-    "type": "Ride",
-    "category": "SeasonalEvents",
-    "event": "WinterVeil",
-    "releaseDate": "2018-12-11"
   },
   "MountMeatWagon": {
     "hyperlinkId": "MeatWagon",
@@ -2885,86 +2885,6 @@
     "category": "Magical",
     "releaseDate": "2016-07-12"
   },
-  "MountPig_Rank18_00": {
-    "hyperlinkId": "ElementalBoar",
-    "attributeId": "PIG0",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_00Var1": {
-    "hyperlinkId": "AzureElementalBoar",
-    "attributeId": "PIG2",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_00Var2": {
-    "hyperlinkId": "VerdantElementalBoar",
-    "attributeId": "PIG3",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_00Var3": {
-    "hyperlinkId": "MountPig_Rank18_00Var3",
-    "attributeId": "PIG4",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_00Var4": {
-    "hyperlinkId": "MountPig_Rank18_00Var4",
-    "attributeId": "PIG5",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_01": {
-    "hyperlinkId": "EpicElementalBoar",
-    "attributeId": "PIG1",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_01Var1": {
-    "hyperlinkId": "AzureEpicElementalBoar",
-    "attributeId": "PIG6",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_01Var2": {
-    "hyperlinkId": "VerdantEpicElementalBoar",
-    "attributeId": "PIG7",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_01Var3": {
-    "hyperlinkId": "MountPig_Rank18_01Var3",
-    "attributeId": "PIG8",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
-  "MountPig_Rank18_01Var4": {
-    "hyperlinkId": "MountPig_Rank18_01Var4",
-    "attributeId": "PIG9",
-    "rarity": "None",
-    "type": "Ride",
-    "category": "Beast",
-    "releaseDate": "2018-03-06"
-  },
   "MountPigFel": {
     "hyperlinkId": "Hellboar",
     "attributeId": "PIF0",
@@ -3067,6 +2987,86 @@
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2019-03-26"
+  },
+  "MountPig_Rank18_00": {
+    "hyperlinkId": "ElementalBoar",
+    "attributeId": "PIG0",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_00Var1": {
+    "hyperlinkId": "AzureElementalBoar",
+    "attributeId": "PIG2",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_00Var2": {
+    "hyperlinkId": "VerdantElementalBoar",
+    "attributeId": "PIG3",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_00Var3": {
+    "hyperlinkId": "MountPig_Rank18_00Var3",
+    "attributeId": "PIG4",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_00Var4": {
+    "hyperlinkId": "MountPig_Rank18_00Var4",
+    "attributeId": "PIG5",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_01": {
+    "hyperlinkId": "EpicElementalBoar",
+    "attributeId": "PIG1",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_01Var1": {
+    "hyperlinkId": "AzureEpicElementalBoar",
+    "attributeId": "PIG6",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_01Var2": {
+    "hyperlinkId": "VerdantEpicElementalBoar",
+    "attributeId": "PIG7",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_01Var3": {
+    "hyperlinkId": "MountPig_Rank18_01Var3",
+    "attributeId": "PIG8",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
+  },
+  "MountPig_Rank18_01Var4": {
+    "hyperlinkId": "MountPig_Rank18_01Var4",
+    "attributeId": "PIG9",
+    "rarity": "None",
+    "type": "Ride",
+    "category": "Beast",
+    "releaseDate": "2018-03-06"
   },
   "MountRagnarosWake": {
     "hyperlinkId": "MoltenFlow",
@@ -3244,6 +3244,14 @@
     "category": "Horse",
     "releaseDate": "2018-01-09"
   },
+  "MountRaptorCelestial": {
+    "hyperlinkId": "CelestialRaptor",
+    "attributeId": "RAPA",
+    "rarity": "None",
+    "type": "Ridebeast",
+    "category": "Beast",
+    "releaseDate": "2017-09-26"
+  },
   "MountRaptor_Rank17_00": {
     "hyperlinkId": "BattleRaptor",
     "attributeId": "RAP0",
@@ -3291,14 +3299,6 @@
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-06-13"
-  },
-  "MountRaptorCelestial": {
-    "hyperlinkId": "CelestialRaptor",
-    "attributeId": "RAPA",
-    "rarity": "None",
-    "type": "Ridebeast",
-    "category": "Beast",
-    "releaseDate": "2017-09-26"
   },
   "MountRaven": {
     "hyperlinkId": "RavenRunner",
