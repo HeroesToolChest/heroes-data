@@ -5047,6 +5047,7 @@
           "isActive": true,
           "sort": 3,
           "abilityTalentLinkIds": [
+            "BarbarianShotofFury",
             "BarbarianFury"
           ]
         }
@@ -8118,7 +8119,10 @@
           },
           "abilityType": "Trait",
           "isQuest": true,
-          "sort": 2
+          "sort": 2,
+          "abilityTalentLinkIds": [
+            "DehakaEssenceCollection"
+          ]
         },
         {
           "nameId": "DehakaEssenceCollectionTalentEnhancedAgility",
@@ -8153,7 +8157,10 @@
             "recastCooldown": 1.0
           },
           "abilityType": "Trait",
-          "sort": 2
+          "sort": 2,
+          "abilityTalentLinkIds": [
+            "DehakaEssenceCollection"
+          ]
         },
         {
           "nameId": "DehakaEssenceCollectionTalentHeroStalker",
@@ -8166,7 +8173,8 @@
           "abilityType": "Trait",
           "sort": 3,
           "abilityTalentLinkIds": [
-            "DehakaDarkSwarm"
+            "DehakaDarkSwarm",
+            "DehakaEssenceCollection"
           ]
         }
       ],
@@ -8236,7 +8244,10 @@
             "recastCooldown": 1.0
           },
           "abilityType": "Trait",
-          "sort": 1
+          "sort": 1,
+          "abilityTalentLinkIds": [
+            "DehakaEssenceCollection"
+          ]
         },
         {
           "nameId": "DehakaBrushstalkerFerociousStalker",
@@ -8338,7 +8349,10 @@
             "recastCooldown": 1.0
           },
           "abilityType": "Trait",
-          "sort": 4
+          "sort": 4,
+          "abilityTalentLinkIds": [
+            "DehakaEssenceCollection"
+          ]
         }
       ]
     }
@@ -28327,6 +28341,9 @@
           "icon": "storm_ui_icon_samuro_illusiondancer.png",
           "abilityType": "Heroic",
           "sort": 2,
+          "abilityTalentLinkIds": [
+            "SamuroIllusionMaster"
+          ],
           "prerequisiteTalentIds": [
             "SamuroHeroicAbilityIllusionMaster"
           ]
@@ -34263,7 +34280,7 @@
           "abilityType": "Heroic",
           "sort": 3,
           "abilityTalentLinkIds": [
-            "VarianTwinBladesofFury"
+            "VarianTwinBladesOfFury"
           ]
         }
       ],
