@@ -20,7 +20,7 @@ The optional `duplicate` property indicates that this version of data is a dupli
 **NOTE: This optional property will not appear just because the data is a duplicate of another version, but because that duplicate version data was not obtainable or I just did not extract it.**
 
 ## Heroes Data Parser Extraction
-The following command was used:
+The following command was used (same for [Heroes Images](https://github.com/HeroesToolChest/heroes-images)):
 ```
 'Path/To/Game' --extract-data all --extract-images all --localization all --localized-text
 ```
