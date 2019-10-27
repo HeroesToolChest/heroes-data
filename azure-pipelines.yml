@@ -49,7 +49,7 @@ steps:
   displayName: Get New Files
 
 - task: ArchiveFiles@2
-  displayName: Archive Files - All
+  displayName: Archive Files - All - Zip
   inputs:
     rootFolderOrFile: '$(source_folder)'
     includeRootFolder: false
@@ -58,7 +58,16 @@ steps:
     replaceExistingArchive: true
 
 - task: ArchiveFiles@2
-  displayName: Archive Files - Last
+  displayName: Archive Files - All - Tar
+  inputs:
+    rootFolderOrFile: '$(source_folder)'
+    includeRootFolder: false
+    archiveType: 'tar'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_all.tar.gz'
+    replaceExistingArchive: true
+
+- task: ArchiveFiles@2
+  displayName: Archive Files - Last - Zip
   inputs:
     rootFolderOrFile: '$(source_folder)/$(version)'
     includeRootFolder: true
@@ -67,7 +76,16 @@ steps:
     replaceExistingArchive: true
 
 - task: ArchiveFiles@2
-  displayName: Archive Files - New
+  displayName: Archive Files - Last - Tar
+  inputs:
+    rootFolderOrFile: '$(source_folder)/$(version)'
+    includeRootFolder: true
+    archiveType: 'tar'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_last.tar.gz'
+    replaceExistingArchive: true
+
+- task: ArchiveFiles@2
+  displayName: Archive Files - New - Zip
   inputs:
     rootFolderOrFile: '$(partial_files)'
     includeRootFolder: false
@@ -76,24 +94,56 @@ steps:
     replaceExistingArchive: true
   condition: and(succeeded(), eq('variables.partial_files_path_exists', 'True'))
 
+- task: ArchiveFiles@2
+  displayName: Archive Files - New - Tar
+  inputs:
+    rootFolderOrFile: '$(partial_files)'
+    includeRootFolder: false
+    archiveType: 'tar'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_new.tar.gz'
+    replaceExistingArchive: true
+  condition: and(succeeded(), eq('variables.partial_files_path_exists', 'True'))
+
 - task: PublishBuildArtifacts@1
-  displayName: Publish Artifact - All
+  displayName: Publish Artifact - All - Zip
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_all.zip'
     ArtifactName: 'heroes-data-$(version)_all'
     publishLocation: 'Container'
 
 - task: PublishBuildArtifacts@1
-  displayName: Publish Artifact - Last
+  displayName: Publish Artifact - All - Tar
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_all.tar.gz'
+    ArtifactName: 'heroes-data-$(version)_all'
+    publishLocation: 'Container'
+
+- task: PublishBuildArtifacts@1
+  displayName: Publish Artifact - Last - Zip
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_last.zip'
     ArtifactName: 'heroes-data-$(version)_last'
     publishLocation: 'Container'
 
 - task: PublishBuildArtifacts@1
-  displayName: Publish Artifact - New
+  displayName: Publish Artifact - Last - Tar
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_last.tar.gz'
+    ArtifactName: 'heroes-data-$(version)_last'
+    publishLocation: 'Container'
+
+- task: PublishBuildArtifacts@1
+  displayName: Publish Artifact - New - Zip
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_new.zip'
+    ArtifactName: 'heroes-data-$(version)_new'
+    publishLocation: 'Container'
+  condition: and(succeeded(), eq('variables.partial_files_path_exists', 'True'))
+
+- task: PublishBuildArtifacts@1
+  displayName: Publish Artifact - New - Tar
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_new.tar.gz'
     ArtifactName: 'heroes-data-$(version)_new'
     publishLocation: 'Container'
   condition: and(succeeded(), eq('variables.partial_files_path_exists', 'True'))
