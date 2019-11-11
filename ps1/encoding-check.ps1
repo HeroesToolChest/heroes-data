@@ -19,7 +19,7 @@ foreach ($file in $files)
 {
 	$byte = Get-Content -Path $file -AsByteStream -ReadCount 6 -TotalCount 6
 
-	if (-Not($byte[0] -eq 0x7b -and $byte[5] -eq 0x22))
+	if (-Not($byte[0] -eq 0x7b))
 	{
 		$invalidItems.Add("${file} - ${byte}")
 	}
@@ -27,7 +27,7 @@ foreach ($file in $files)
 
 if ($invalidItems.Count -gt 0)
 {
-	Write-Host "Valid is: 123 - 34"
+	Write-Host "Valid is: 123"
 	foreach ($invalidItem in $invalidItems)
 	{
 		Write-Host $invalidItem
