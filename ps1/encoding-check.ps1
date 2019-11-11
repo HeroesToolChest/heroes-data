@@ -17,9 +17,9 @@ $files = Get-ChildItem -Path $path -Filter *.json -Recurse
 
 foreach ($file in $files)
 {
-	$byte = Get-Content -Path $file -AsByteStream -ReadCount 4 -TotalCount 4
+	$byte = Get-Content -Path $file -AsByteStream -ReadCount 6 -TotalCount 6
 
-	if (-Not($byte[0] -eq 0x7b -and $byte[1] -eq 0x0d -and $byte[2] -eq 0x0a -and $byte[3] -eq 0x20))
+	if (-Not($byte[0] -eq 0x7b -and $byte[5] -eq 0x22))
 	{
 		$invalidItems.Add("${file} - ${byte}")
 	}
@@ -27,7 +27,7 @@ foreach ($file in $files)
 
 if ($invalidItems.Count -gt 0)
 {
-	Write-Host "Valid is: 123 13 10 32"
+	Write-Host "Valid is: 123 - 34"
 	foreach ($invalidItem in $invalidItems)
 	{
 		Write-Host $invalidItem
