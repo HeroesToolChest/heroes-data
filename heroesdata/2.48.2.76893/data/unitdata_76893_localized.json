@@ -158,7 +158,8 @@
           "nameId": "AbathurSpawnLocusts",
           "buttonId": "AbathurLocustStrain",
           "icon": "storm_ui_icon_abathur_spawnlocust.png",
-          "abilityType": "Q"
+          "abilityType": "Q",
+          "isActive": false
         }
       ]
     }
@@ -189,7 +190,8 @@
           "nameId": "AbathurSpawnLocusts",
           "buttonId": "AbathurLocustStrain",
           "icon": "storm_ui_icon_abathur_spawnlocust.png",
-          "abilityType": "Q"
+          "abilityType": "Q",
+          "isActive": false
         }
       ]
     }
@@ -1389,6 +1391,7 @@
           "buttonId": "LostVikingsVikingHoardTalent",
           "icon": "storm_ui_icon_lostvikings_vikinghoard.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -2337,6 +2340,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -2534,7 +2538,8 @@
           "nameId": "TerranArchangelLanerBulletstorm",
           "buttonId": "TerranArchangelBulletstorm",
           "icon": "storm_temp_btn-ability-terran-bombardmentstrike-color.png",
-          "abilityType": "Q"
+          "abilityType": "Q",
+          "isActive": false
         }
       ],
       "mount": [
@@ -2595,6 +2600,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -2661,6 +2667,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -2719,6 +2726,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -2763,6 +2771,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -2870,6 +2879,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -3033,6 +3043,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -3789,6 +3800,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -3839,6 +3851,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -3904,6 +3917,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -3969,6 +3983,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -4034,6 +4049,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -4099,6 +4115,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -4156,6 +4173,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -4199,6 +4217,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -4386,6 +4405,7 @@
           "buttonId": "LockedMapMechanicAbility",
           "icon": "hud_btn_bg_ability_locked.png",
           "abilityType": "MapMechanic",
+          "isActive": false,
           "isPassive": true
         },
         {
@@ -4624,6 +4644,7 @@
           "buttonId": "LostVikingsVikingHoardTalent",
           "icon": "storm_ui_icon_lostvikings_vikinghoard.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -5281,6 +5302,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -5600,6 +5622,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -5665,6 +5688,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -5730,6 +5754,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -5795,6 +5820,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -5860,6 +5886,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -5917,6 +5944,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -5960,6 +5988,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -6030,6 +6059,7 @@
           "buttonId": "TerroroftheGarden",
           "icon": "storm_ui_icon_gardenterror_terrorofthegarden.png",
           "abilityType": "Heroic",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -6540,6 +6570,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -7034,6 +7065,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -7749,13 +7781,15 @@
           "nameId": "MercSummonerDefenderSummonMinions",
           "buttonId": "MercSummonerDefenderSummonMinions",
           "icon": "storm_ui_temp_icon_controlminion.png",
-          "abilityType": "W"
+          "abilityType": "W",
+          "isActive": false
         },
         {
           "nameId": "MercSummonerDefenderSummonMinionA",
           "buttonId": "MercSummonerDefenderSummonMinionA",
           "icon": "storm_temp_war3_btnfelguard.png",
-          "abilityType": "E"
+          "abilityType": "E",
+          "isActive": false
         }
       ],
       "heroic": [
@@ -7763,7 +7797,8 @@
           "nameId": "MercSummonerDefenderSummonMinionB",
           "buttonId": "MercSummonerDefenderSummonMinionB",
           "icon": "storm_temp_war3_btnfelguardblue.png",
-          "abilityType": "Heroic"
+          "abilityType": "Heroic",
+          "isActive": false
         }
       ]
     }
@@ -7808,13 +7843,15 @@
           "nameId": "MercSummonerLanerSummonMinions",
           "buttonId": "MercSummonerLanerSummonMinions",
           "icon": "storm_ui_temp_icon_controlminion.png",
-          "abilityType": "W"
+          "abilityType": "W",
+          "isActive": false
         },
         {
           "nameId": "MercSummonerLanerSummonMinionA",
           "buttonId": "MercSummonerLanerSummonMinionA",
           "icon": "storm_temp_war3_btnfelguard.png",
-          "abilityType": "E"
+          "abilityType": "E",
+          "isActive": false
         }
       ],
       "heroic": [
@@ -7822,7 +7859,8 @@
           "nameId": "MercSummonerLanerSummonMinionB",
           "buttonId": "MercSummonerLanerSummonMinionB",
           "icon": "storm_temp_war3_btnfelguardblue.png",
-          "abilityType": "Heroic"
+          "abilityType": "Heroic",
+          "isActive": false
         }
       ]
     }
@@ -7865,6 +7903,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -8080,6 +8119,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -8127,6 +8167,7 @@
           "nameId": "FallenLunaticAura",
           "buttonId": "FallenLunaticAura",
           "abilityType": "Q",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -8276,6 +8317,7 @@
           "buttonId": "ShrineAuraMinionAura",
           "icon": "storm_temp_war3_btnunholyaura.png",
           "abilityType": "Q",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -8368,13 +8410,15 @@
           "nameId": "MULERepair",
           "buttonId": "GenericCalldownMULERepair",
           "icon": "storm_temp_btn-ability-terran-repair.png",
-          "abilityType": "Q"
+          "abilityType": "Q",
+          "isActive": false
         },
         {
           "nameId": "MULERepairEnergy",
           "buttonId": "GenericCalldownMULERepair",
           "icon": "storm_temp_btn-ability-terran-repair.png",
-          "abilityType": "W"
+          "abilityType": "W",
+          "isActive": false
         }
       ],
       "action": [
@@ -9134,6 +9178,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -9476,6 +9521,7 @@
           "buttonId": "LostVikingsVikingHoardTalent",
           "icon": "storm_ui_icon_lostvikings_vikinghoard.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -10101,7 +10147,8 @@
           "nameId": "KnightMagicVolley",
           "buttonId": "KnightMagicVolley",
           "icon": "storm_btn_d3_barbarian_frenzy.png",
-          "abilityType": "W"
+          "abilityType": "W",
+          "isActive": false
         }
       ]
     }
@@ -10287,7 +10334,8 @@
           "nameId": "MercLanerOgreBruiserTaunt",
           "buttonId": "MercLanerOgreBruiserTaunt",
           "icon": "storm_temp_war3_btntaunt.png",
-          "abilityType": "Q"
+          "abilityType": "Q",
+          "isActive": false
         }
       ]
     }
@@ -10323,7 +10371,8 @@
           "nameId": "KnightMagicVolley",
           "buttonId": "KnightMagicVolley",
           "icon": "storm_btn_d3_barbarian_frenzy.png",
-          "abilityType": "W"
+          "abilityType": "W",
+          "isActive": false
         }
       ]
     }
@@ -10514,13 +10563,15 @@
           "nameId": "MercSummonerDefenderSummonMinions",
           "buttonId": "MercSummonerDefenderSummonMinions",
           "icon": "storm_ui_temp_icon_controlminion.png",
-          "abilityType": "W"
+          "abilityType": "W",
+          "isActive": false
         },
         {
           "nameId": "MercSummonerDefenderSummonMinionA",
           "buttonId": "MercSummonerDefenderSummonMinionA",
           "icon": "storm_temp_war3_btnfelguard.png",
-          "abilityType": "E"
+          "abilityType": "E",
+          "isActive": false
         }
       ],
       "heroic": [
@@ -10528,7 +10579,8 @@
           "nameId": "MercSummonerDefenderSummonMinionB",
           "buttonId": "MercSummonerDefenderSummonMinionB",
           "icon": "storm_temp_war3_btnfelguardblue.png",
-          "abilityType": "Heroic"
+          "abilityType": "Heroic",
+          "isActive": false
         }
       ]
     }
@@ -10626,13 +10678,15 @@
           "nameId": "MercSummonerLanerSummonMinions",
           "buttonId": "MercSummonerLanerSummonMinions",
           "icon": "storm_ui_temp_icon_controlminion.png",
-          "abilityType": "W"
+          "abilityType": "W",
+          "isActive": false
         },
         {
           "nameId": "MercSummonerLanerSummonMinionA",
           "buttonId": "MercSummonerLanerSummonMinionA",
           "icon": "storm_temp_war3_btnfelguard.png",
-          "abilityType": "E"
+          "abilityType": "E",
+          "isActive": false
         }
       ],
       "heroic": [
@@ -10640,7 +10694,8 @@
           "nameId": "MercSummonerLanerSummonMinionB",
           "buttonId": "MercSummonerLanerSummonMinionB",
           "icon": "storm_temp_war3_btnfelguardblue.png",
-          "abilityType": "Heroic"
+          "abilityType": "Heroic",
+          "isActive": false
         }
       ]
     }
@@ -11117,7 +11172,8 @@
           "nameId": "NovaAttackDummy",
           "buttonId": "NovaPermanentCloak",
           "icon": "storm_ui_icon_nova_personalcloaking.png",
-          "abilityType": "Hidden"
+          "abilityType": "Hidden",
+          "isActive": false
         }
       ]
     }
@@ -11230,6 +11286,7 @@
           "buttonId": "LostVikingsVikingHoardTalent",
           "icon": "storm_ui_icon_lostvikings_vikinghoard.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -11420,13 +11477,15 @@
           "nameId": "DragonsDinner",
           "buttonId": "DragonsDinner",
           "icon": "storm_ui_icon_zagara_devouringmaw.png",
-          "abilityType": "Q"
+          "abilityType": "Q",
+          "isActive": false
         },
         {
           "nameId": "RingOfFire",
           "buttonId": "RingOfFire",
           "icon": "storm_ui_icon_deathrecap_npc_unit.png",
-          "abilityType": "W"
+          "abilityType": "W",
+          "isActive": false
         },
         {
           "nameId": "UnderworldBossRoots",
@@ -11680,7 +11739,8 @@
           "nameId": "OverwatchMechanicRepair",
           "buttonId": "OverwatchMechanicRepair",
           "icon": "storm_ui_icon_talent_mule.png",
-          "abilityType": "Z"
+          "abilityType": "Z",
+          "isActive": false
         }
       ]
     }
@@ -12607,6 +12667,7 @@
           "buttonId": "LockedMapMechanicAbility",
           "icon": "hud_btn_bg_ability_locked.png",
           "abilityType": "MapMechanic",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -13008,6 +13069,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -13073,6 +13135,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -15716,6 +15779,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -15866,6 +15930,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -15888,6 +15953,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -15949,7 +16015,8 @@
           "nameId": "SoulEaterSpawnMinions",
           "buttonId": "SoulEaterSpawnMinions",
           "icon": "storm_btn_d3_witchdoctor_summonzombiedogs.png",
-          "abilityType": "Q"
+          "abilityType": "Q",
+          "isActive": false
         },
         {
           "nameId": "SoulEaterDeathWave",
@@ -16146,6 +16213,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16211,6 +16279,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16276,6 +16345,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16341,6 +16411,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16398,6 +16469,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16441,6 +16513,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16521,6 +16594,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16564,6 +16638,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16607,6 +16682,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16650,6 +16726,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16702,6 +16779,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16754,6 +16832,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -16806,6 +16885,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17014,6 +17094,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17069,6 +17150,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17369,6 +17451,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17442,6 +17525,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17504,6 +17588,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17569,6 +17654,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17627,6 +17713,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17662,6 +17749,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17714,6 +17802,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17757,6 +17846,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17872,6 +17962,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17915,6 +18006,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -17963,6 +18055,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18028,6 +18121,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18090,6 +18184,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18155,6 +18250,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18195,6 +18291,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18221,6 +18318,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18247,6 +18345,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18273,6 +18372,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18761,6 +18861,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18796,6 +18897,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18831,6 +18933,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18856,6 +18959,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -18888,6 +18992,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -18920,6 +19025,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -18953,6 +19059,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -18979,6 +19086,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19005,6 +19113,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19031,6 +19140,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19057,6 +19167,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19083,6 +19194,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19125,6 +19237,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19167,6 +19280,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19193,6 +19307,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19219,6 +19334,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19245,6 +19361,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19271,6 +19388,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19297,6 +19415,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19323,6 +19442,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19349,6 +19469,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19375,6 +19496,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19401,6 +19523,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19427,6 +19550,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19453,6 +19577,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19479,6 +19604,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19505,6 +19631,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19531,6 +19658,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19557,6 +19685,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19583,6 +19712,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19609,6 +19739,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19635,6 +19766,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19661,6 +19793,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19687,6 +19820,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19713,6 +19847,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19739,6 +19874,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19765,6 +19901,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19791,6 +19928,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19817,6 +19955,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19843,6 +19982,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19869,6 +20009,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19895,6 +20036,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19921,6 +20063,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19947,6 +20090,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19973,6 +20117,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -19999,6 +20144,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20025,6 +20171,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20051,6 +20198,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20077,6 +20225,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20103,6 +20252,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20129,6 +20279,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20155,6 +20306,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20181,6 +20333,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20207,6 +20360,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20233,6 +20387,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20259,6 +20414,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20285,6 +20441,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20311,6 +20468,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20337,6 +20495,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20363,6 +20522,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20389,6 +20549,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20415,6 +20576,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20441,6 +20603,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20467,6 +20630,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20493,6 +20657,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20519,6 +20684,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20545,6 +20711,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20571,6 +20738,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20597,6 +20765,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20623,6 +20792,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20649,6 +20819,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20675,6 +20846,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20701,6 +20873,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20727,6 +20900,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20753,6 +20927,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20779,6 +20954,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20805,6 +20981,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20831,6 +21008,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20857,6 +21035,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20883,6 +21062,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20909,6 +21089,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20935,6 +21116,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20961,6 +21143,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -20987,6 +21170,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21013,6 +21197,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21039,6 +21224,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21065,6 +21251,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21091,6 +21278,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21117,6 +21305,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21143,6 +21332,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21169,6 +21359,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21195,6 +21386,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21221,6 +21413,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21247,6 +21440,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21273,6 +21467,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21323,6 +21518,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -21877,6 +22073,7 @@
           "buttonId": "DragonKnightRubbleMaker",
           "icon": "storm_ui_icon_dragonknight_rubblemaker.png",
           "abilityType": "Heroic",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -22757,6 +22954,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]
@@ -22800,6 +22998,7 @@
           "nameId": "Detector",
           "buttonId": "Detector",
           "abilityType": "Stop",
+          "isActive": false,
           "isPassive": true
         }
       ]

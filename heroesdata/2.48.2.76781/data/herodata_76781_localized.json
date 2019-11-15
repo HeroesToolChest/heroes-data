@@ -101,7 +101,8 @@
           "nameId": "AbathurSpawnLocusts",
           "buttonId": "AbathurLocustStrain",
           "icon": "storm_ui_icon_abathur_spawnlocust.png",
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -601,6 +602,7 @@
           "buttonId": "AlarakSadism",
           "icon": "storm_ui_icon_alarak_sadism.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -1410,6 +1412,7 @@
                 "buttonId": "AlexstraszaDragonqueenDragonFormPassive",
                 "icon": "storm_ui_icon_alexstrasza_dragon_queen.png",
                 "abilityType": "Trait",
+                "isActive": false,
                 "isPassive": true
               }
             ],
@@ -1580,6 +1583,7 @@
           "buttonId": "AmazonAvoidance",
           "icon": "storm_ui_icon_cassia_avoidance.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -2853,7 +2857,8 @@
           "nameId": "AnubarakLegionOfBeetlesVisual",
           "buttonId": "AnubarakScarabHostTrait",
           "icon": "storm_ui_icon_anubarak_scarabhost.png",
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -3252,7 +3257,8 @@
           "nameId": "ArtanisShieldOverloadDummy",
           "buttonId": "ArtanisShieldOverloadTrait",
           "icon": "storm_ui_icon_artanis_shieldoverload.png",
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -3308,6 +3314,7 @@
               "buttonId": "ArtanisTwinBladesPrimed",
               "icon": "storm_ui_icon_artanis_doubleslash_off.png",
               "abilityType": "W",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -3760,6 +3767,7 @@
               "buttonId": "ArthasFrostmourneHungersPrimed",
               "icon": "storm_ui_icon_arthas_frostmournehungers_on.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -4549,6 +4557,7 @@
               "buttonId": "AzmodanTideOfSinPassive",
               "icon": "storm_ui_icon_azmodan_blackpool.png",
               "abilityType": "Heroic",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -4905,6 +4914,7 @@
           "buttonId": "BarbarianFury",
           "icon": "storm_ui_icon_sonya_fury.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -5324,7 +5334,8 @@
           "charges": {
             "countMax": 65535
           },
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -6476,6 +6487,7 @@
               "buttonId": "ChoOgreHidePassive",
               "icon": "storm_ui_icon_cho_ogrehide.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -6821,6 +6833,7 @@
           "buttonId": "ChromieTimewalkerTrait",
           "icon": "storm_ui_icon_chromie_timetraveler.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -7621,6 +7634,7 @@
           "buttonId": "DeckardFortitudeOfTheFaithful",
           "icon": "storm_ui_icon_deckard_protectors_of_cain.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -8469,6 +8483,7 @@
           "buttonId": "DemonHunterHatred",
           "icon": "storm_ui_icon_valla_hatred.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -8892,6 +8907,7 @@
           "buttonId": "DiabloBlackSoulstone",
           "icon": "storm_ui_icon_diablo_blacksoulstone_var1.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -9314,6 +9330,7 @@
           "buttonId": "DryadNaturesToxin",
           "icon": "storm_ui_icon_lunara_stiflingblossom.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -9323,6 +9340,7 @@
           "buttonId": "DryadDryadsSwiftness",
           "icon": "storm_ui_icon_lunara_mount.png",
           "abilityType": "Z",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -9758,6 +9776,7 @@
           "buttonId": "DVaMechMechMode",
           "icon": "storm_ui_icon_dva_mechmode.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -9767,6 +9786,7 @@
           "buttonId": "DVaMechanizedWalker",
           "icon": "storm_ui_icon_dva_mount.png",
           "abilityType": "Z",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -10194,6 +10214,7 @@
                 "buttonId": "DVaPilotPilotMode",
                 "icon": "storm_ui_icon_dva_pilotmode.png",
                 "abilityType": "Trait",
+                "isActive": false,
                 "isPassive": true
               }
             ],
@@ -10757,7 +10778,8 @@
           "nameId": "FalstadTailwindCooldownDisplay",
           "buttonId": "FalstadTailwind",
           "icon": "storm_ui_icon_falstad_tailwind.png",
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -11140,6 +11162,7 @@
           "buttonId": "FenixShieldCapacitor",
           "icon": "storm_ui_icon_fenix_shield_1.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -12026,6 +12049,7 @@
               "buttonId": "GallOgreRagePassive",
               "icon": "storm_ui_icon_gall_ogrerage.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -12377,6 +12401,7 @@
           "buttonId": "GarroshArmorUp",
           "icon": "storm_ui_icon_garrosh_armor_up.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -13277,6 +13302,7 @@
           "buttonId": "GreymaneWorgenForm",
           "icon": "storm_ui_icon_greymane_curseoftheworgen.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -13349,6 +13375,7 @@
               "buttonId": "GreymaneInnerBeastActive",
               "icon": "storm_ui_icon_greymane_worgen_beastfocus.png",
               "abilityType": "W",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -14535,6 +14562,7 @@
           "buttonId": "IllidanBetrayersThirst",
           "icon": "storm_ui_icon_illidan_betrayersthirst.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -14943,6 +14971,7 @@
           "buttonId": "ImperiusValorousBrand",
           "icon": "storm_ui_icon_imperius_trait.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -15324,6 +15353,7 @@
           "buttonId": "JainaTraitFrostbite",
           "icon": "storm_ui_icon_jaina_frostbite.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -15734,6 +15764,7 @@
           "buttonId": "JunkratTotalMayhem",
           "icon": "storm_ui_icon_junkrat_bomb_pack.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -16300,6 +16331,7 @@
               "buttonId": "KaelthasVerdantSpheresActive",
               "icon": "storm_ui_icon_kaelthas_verdantspheres_2.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -16666,6 +16698,7 @@
           "buttonId": "KelThuzadMasterOfTheColdDark",
           "icon": "storm_ui_icon_kel'thuzad_powerofthecolddark.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -17074,6 +17107,7 @@
           "buttonId": "KerriganAssimilation",
           "icon": "storm_ui_icon_kerrigan_assimilation.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -17490,7 +17524,8 @@
           "nameId": "RockstarDummy",
           "buttonId": "L90ETCRockstar",
           "icon": "storm_ui_icon_etc_rockstar.png",
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -17892,6 +17927,7 @@
           "buttonId": "LeoricUndyingTrait",
           "icon": "storm_ui_icon_leoric_trait.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -18323,6 +18359,7 @@
           "buttonId": "LiLiFastFeet",
           "icon": "storm_ui_icon_lili_fastfeet.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -18726,6 +18763,7 @@
           "buttonId": "LostVikingsVikingHoardTalent",
           "icon": "storm_ui_icon_lostvikings_vikinghoard.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -19134,6 +19172,7 @@
                 "buttonId": "LostVikingsVikingHoardTalent",
                 "icon": "storm_ui_icon_lostvikings_vikinghoard.png",
                 "abilityType": "Trait",
+                "isActive": false,
                 "isPassive": true
               }
             ],
@@ -19292,6 +19331,7 @@
                 "buttonId": "LostVikingsVikingHoardTalent",
                 "icon": "storm_ui_icon_lostvikings_vikinghoard.png",
                 "abilityType": "Trait",
+                "isActive": false,
                 "isPassive": true
               }
             ],
@@ -19450,6 +19490,7 @@
                 "buttonId": "LostVikingsVikingHoardTalent",
                 "icon": "storm_ui_icon_lostvikings_vikinghoard.png",
                 "abilityType": "Trait",
+                "isActive": false,
                 "isPassive": true
               }
             ],
@@ -19628,6 +19669,7 @@
           "buttonId": "LucioWallRide",
           "icon": "storm_ui_icon_lucio_mount.png",
           "abilityType": "Z",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -20079,6 +20121,7 @@
               "buttonId": "MaievUmbralBindPrimed",
               "icon": "storm_ui_icon_maiev_umbra_2.png",
               "abilityType": "W",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -20823,6 +20866,7 @@
           "buttonId": "MalGanisVampiricTouch",
           "icon": "storm_ui_icon_malganis_trait.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -21260,6 +21304,7 @@
           "buttonId": "MalthaelReapersMark",
           "icon": "storm_ui_icon_malthael_reapersmark.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -21659,6 +21704,7 @@
           "buttonId": "MedicCaduceusReactor",
           "icon": "storm_ui_icon_medic_caduceusreactor.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -22113,6 +22159,7 @@
           "buttonId": "MedivhRavenForm",
           "icon": "storm_ui_icon_medivh_ravenform.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -22531,6 +22578,7 @@
           "buttonId": "MephistoLordOfHatred",
           "icon": "storm_ui_icon_mephisto_hatred.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -22921,6 +22969,7 @@
           "buttonId": "MonkBlankTrait",
           "icon": "storm_ui_icon_monk_trait1.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -22977,6 +23026,7 @@
               "buttonId": "MonkDeadlyReachActive",
               "icon": "storm_ui_icon_monk_deadlyreachactive.png",
               "abilityType": "E",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -22988,6 +23038,7 @@
               "buttonId": "MonkIronFists",
               "icon": "storm_ui_icon_monk_trait_ironfist.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -22999,6 +23050,7 @@
               "buttonId": "MonkInsight",
               "icon": "storm_ui_icon_monk_trait_insight.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -23010,6 +23062,7 @@
               "buttonId": "MonkTranscendence",
               "icon": "storm_ui_icon_monk_trait_transcendence.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -23367,6 +23420,7 @@
           "buttonId": "MuradinSecondWind",
           "icon": "storm_ui_icon_muradin_secondwind.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -24175,7 +24229,8 @@
           "charges": {
             "countMax": 4
           },
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -24239,6 +24294,7 @@
               "buttonId": "NecromancerSpectralScythe",
               "icon": "storm_ui_icon_necromancer_reap.png",
               "abilityType": "Q",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -24250,6 +24306,7 @@
               "buttonId": "NecromancerCursedStrikesPassive",
               "icon": "storm_ui_icon_necromancer_cursedstrikes_on.png",
               "abilityType": "W",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -25014,6 +25071,7 @@
           "buttonId": "NovaPermanentCloak",
           "icon": "storm_ui_icon_nova_personalcloaking.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -25459,6 +25517,7 @@
           "buttonId": "OrpheaOverflowingChaos",
           "icon": "storm_ui_icon_orphea_trait.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -26348,6 +26407,7 @@
               "buttonId": "RagnarosEmpowerSulfurasActive",
               "icon": "storm_ui_icon_ragnaros_empowersulfuras_active.png",
               "abilityType": "Q",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -26803,6 +26863,7 @@
           "buttonId": "RaynorGiveEmSomePepper",
           "icon": "storm_ui_icon_raynor_acquireweakspot.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -27227,6 +27288,7 @@
           "buttonId": "RehgarGhostWolf",
           "icon": "storm_ui_icon_rehgar_ghostwolf.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -27282,7 +27344,8 @@
               "nameId": "RehgarGhostWolfLunge",
               "buttonId": "RehgarGhostWolf",
               "icon": "storm_ui_icon_rehgar_ghostwolf.png",
-              "abilityType": "Trait"
+              "abilityType": "Trait",
+              "isActive": false
             }
           ],
           "mount": [
@@ -28913,6 +28976,7 @@
           "buttonId": "StitchesVileGasVileCleaver",
           "icon": "storm_ui_icon_stitches_acidcloud.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -30275,6 +30339,7 @@
               "buttonId": "TassadarArchon",
               "icon": "storm_ui_icon_tassadar_archon.png",
               "abilityType": "Heroic",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -30630,6 +30695,7 @@
           "buttonId": "ThrallFrostwolfResilience",
           "icon": "storm_ui_icon_thrall_frostwolfresilience.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -31995,6 +32061,7 @@
           "buttonId": "TychusMinigun",
           "icon": "storm_ui_icon_tychus_minigun.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -32486,7 +32553,8 @@
           "nameId": "TyraelArchangelsWrathDummy",
           "buttonId": "TyraelArchangelsWrath",
           "icon": "storm_ui_icon_tyrael_archangelswrath.png",
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -33315,6 +33383,7 @@
           "buttonId": "UtherEternalDevotion",
           "icon": "storm_ui_icon_uther_eternaldevotion.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -34157,6 +34226,7 @@
           "buttonId": "VarianTwinBladesOfFury",
           "icon": "storm_ui_icon_varian_twinbladesoffury.png",
           "abilityType": "Heroic",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -34165,7 +34235,8 @@
           "nameId": "VarianHeroicStrike",
           "buttonId": "VarianHeroicStrike",
           "icon": "storm_ui_icon_varian_heroicstrike.png",
-          "abilityType": "Trait"
+          "abilityType": "Trait",
+          "isActive": false
         }
       ],
       "mount": [
@@ -34221,6 +34292,7 @@
               "buttonId": "VarianHeroicStrikeActive",
               "icon": "storm_ui_icon_varian_heroicstrike.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -35005,6 +35077,7 @@
           "buttonId": "WitchDoctorVoodooRitualTrait",
           "icon": "storm_ui_icon_nazeebo_voodooritual.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -35061,6 +35134,7 @@
               "buttonId": "WitchDoctorGargantuanStomp",
               "icon": "storm_ui_icon_nazeebo_gargantuanstomp.png",
               "abilityType": "Heroic",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -35439,6 +35513,7 @@
           "buttonId": "WizardTraitCriticalMass",
           "icon": "storm_ui_icon_wizard_criticalmass.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -35939,6 +36014,7 @@
               "buttonId": "YrelDivinePurposeActive",
               "icon": "storm_ui_icon_yrel_divine_purpose_active.png",
               "abilityType": "Trait",
+              "isActive": false,
               "isPassive": true
             }
           ]
@@ -36745,6 +36821,7 @@
           "buttonId": "ZaryaEnergy",
           "icon": "storm_ui_icon_zarya_energy.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
@@ -37203,7 +37280,8 @@
           "nameId": "ZeratulMightOfTheNerazimDummy",
           "buttonId": "ZeratulMightOfTheNerazimPassive",
           "icon": "storm_ui_icon_zeratul_mightofnerazim.png",
-          "abilityType": "Heroic"
+          "abilityType": "Heroic",
+          "isActive": false
         },
         {
           "nameId": "ZeratulVoidPrison",
@@ -37218,6 +37296,7 @@
           "buttonId": "ZeratulPermanentCloak",
           "icon": "storm_ui_icon_zeratul_cloak.png",
           "abilityType": "Trait",
+          "isActive": false,
           "isPassive": true
         }
       ],
