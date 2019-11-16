@@ -2,7 +2,6 @@ variables:
   source_folder: heroesdata/
   latest_release_files: /latest_release
   partial_files: /partial_files
-  partial_files_path_exists: ''
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -42,7 +41,7 @@ jobs:
         $versions = Get-ChildItem -Path $env:SOURCE_FOLDER -Directory -Name
         $last_version = $versions[-1]
         $last_version
-        echo "##vso[task.setvariable variable=version]$last_version"
+        Write-Host "##vso[task.setvariable variable=version]$last_version"
       displayName: Get Lastest Version
 
     - pwsh: |
@@ -59,7 +58,9 @@ jobs:
 
         ./ps1/get-diff-files.ps1 -OldPath $env:LATEST_RELEASE_FILES -NewPath $env:SOURCE_FOLDER -PartialPath $env:PARTIAL_FILES
 
-        $env:PARTIAL_FILES_PATH_EXISTS = Test-Path $env:PARTIAL_FILES -PathType Container
+        $exists = Test-Path $env:PARTIAL_FILES -PathType Container 
+        Write-Host "##vso[task.setvariable variable=partialExists]$exists"
+        Write-Host $exists
       displayName: Get New Files
 
     - task: ArchiveFiles@2
@@ -106,7 +107,7 @@ jobs:
         archiveType: 'zip'
         archiveFile: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_new.zip'
         replaceExistingArchive: true
-      condition: and(succeeded(), eq('variables.partial_files_path_exists', 'True'))
+      condition: and(succeeded(), eq(variables['partialExists'], 'True'))
 
     - task: ArchiveFiles@2
       displayName: Archive Files - New - Tar
@@ -116,7 +117,7 @@ jobs:
         archiveType: 'tar'
         archiveFile: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_new.tar.gz'
         replaceExistingArchive: true
-      condition: and(succeeded(), eq('variables.partial_files_path_exists', 'True'))
+      condition: and(succeeded(), eq(variables['partialExists'], 'True'))
 
     - task: PublishBuildArtifacts@1
       displayName: Publish Artifact - All - Zip
@@ -152,7 +153,7 @@ jobs:
         PathtoPublish: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_new.zip'
         ArtifactName: 'heroes-data-$(version)_new'
         publishLocation: 'Container'
-      condition: and(succeeded(), eq('variables.partial_files_path_exists', 'True'))
+      condition: and(succeeded(), eq(variables['partialExists'], 'True'))
 
     - task: PublishBuildArtifacts@1
       displayName: Publish Artifact - New - Tar
@@ -160,4 +161,4 @@ jobs:
         PathtoPublish: '$(Build.ArtifactStagingDirectory)/heroes-data-$(version)_new.tar.gz'
         ArtifactName: 'heroes-data-$(version)_new'
         publishLocation: 'Container'
-      condition: and(succeeded(), eq('variables.partial_files_path_exists', 'True'))
+      condition: and(succeeded(), eq(variables['partialExists'], 'True'))
