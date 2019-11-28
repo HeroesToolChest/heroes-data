@@ -15,7 +15,13 @@ jobs:
         {
             exit 1
         }
-      displayName: Validate json encoding
+        $result = ./ps1/file-name-check.ps1 -Path $env:SOURCE_FOLDER
+        if ($result -eq 1)
+        {
+            exit 1
+        }
+
+      displayName: Validate files
 
   - job: GetFiles
     dependsOn: Validate
