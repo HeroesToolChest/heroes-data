@@ -6,6 +6,8 @@ param(
 	[Parameter(Mandatory=$true)][string]$path
 )
 
+Write-Host "Validating file names"
+
 # Powershell version check
 if ($PSVersionTable.PSVersion.Major -lt 6)
 {
@@ -84,5 +86,7 @@ foreach ($version in $versions)
 		}
 	}
 }
+
+Write-Host "Status: ${success}"
 
 return $success #success is 0

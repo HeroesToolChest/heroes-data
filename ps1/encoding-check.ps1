@@ -4,6 +4,8 @@ param(
 	[Parameter(Mandatory=$true)][string]$path
 )
 
+Write-Host "Validating json encodings"
+
 # Powershell version check
 if ($PSVersionTable.PSVersion.Major -lt 6)
 {
@@ -32,9 +34,14 @@ if ($invalidItems.Count -gt 0)
 	{
 		Write-Host $invalidItem
 	}
+
+	Write-Host "Status: 1"
+
 	return 1 
 }
 else
 {
+	Write-Host "Status: 0"
+
 	return 0 #success
 }
