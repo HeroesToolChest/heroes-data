@@ -649,7 +649,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_wcav_boss_general_horde.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_wcav_boss_general_horde.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 20000.0,
@@ -891,7 +892,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_wcav_boss_general_alliance.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_wcav_boss_general_alliance.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 20000.0,
@@ -2293,7 +2295,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_building_core.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_braxis_building_core.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 14000.0,
@@ -3755,7 +3758,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_dragonshire_building_core.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_dragonshire_building_core.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 14000.0,
@@ -5254,7 +5258,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_dragonshire_building_core.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_dragonshire_building_core.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 14000.0,
@@ -6506,7 +6511,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_core.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_core.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 14000.0,
@@ -7006,7 +7012,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_core.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_hanamura_building_core.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 8.0,
@@ -9119,6 +9126,9 @@
       "AITargetableStructure",
       "Structure"
     ],
+    "portraits": {
+      "minimap": "storm_ui_minimapicon_core_fill.png"
+    },
     "life": {
       "amount": 14000.0,
       "scale": 0.0,
@@ -12173,6 +12183,9 @@
       "NoMinionAggro",
       "Summoned"
     ],
+    "portraits": {
+      "minimap": "storm_ui_minimap_lavawave.png"
+    },
     "life": {
       "amount": 1.0,
       "scale": 0.0,
@@ -15719,7 +15732,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_tombofthespiderqueen_building_core.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_tombofthespiderqueen_building_core.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 14000.0,
@@ -17027,7 +17041,8 @@
       "Structure"
     ],
     "portraits": {
-      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_cursedhollow_building_core.png"
+      "targetInfo": "storm_ui_ingame_targetinfopanel_unit_cursedhollow_building_core.png",
+      "minimap": "storm_ui_minimapicon_core_fill.png"
     },
     "life": {
       "amount": 40.0,
