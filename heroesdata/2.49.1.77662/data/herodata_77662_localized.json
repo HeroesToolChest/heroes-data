@@ -4088,12 +4088,6 @@
       ],
       "heroic": [
         {
-          "nameId": "AurielResurrectSelf",
-          "buttonId": "AurielResurrectSelf",
-          "icon": "storm_ui_icon_auriel_resurrect.png",
-          "abilityType": "Heroic"
-        },
-        {
           "nameId": "AurielResurrect",
           "buttonId": "AurielResurrect",
           "icon": "storm_ui_icon_auriel_resurrect.png",
@@ -4157,6 +4151,16 @@
               "icon": "storm_ui_icon_generic_cancel_mount.png",
               "toggleCooldown": 0.1,
               "abilityType": "Z"
+            }
+          ]
+        },
+        "AurielResurrect|AurielResurrect|Heroic": {
+          "heroic": [
+            {
+              "nameId": "AurielResurrectSelf",
+              "buttonId": "AurielResurrectSelf",
+              "icon": "storm_ui_icon_auriel_resurrect.png",
+              "abilityType": "Heroic"
             }
           ]
         }
