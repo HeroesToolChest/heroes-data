@@ -1,4 +1,4 @@
-# Script to verify all file namnes
+# Script to verify all file names and the gamestring file meta data
 # Data be in <name>_<version>_localized.json
 # Gaemstrings be in <name>_<version>_<locale>.json
 
@@ -74,11 +74,34 @@ foreach ($version in $versions)
 				Continue
 			}
 
-			$name,$fileBuild,$localized = $file.Split("_")
-		
+			$name,$fileBuild,$localized = $file.Split("_") #localized contains .json
+
 			if (-not (($name -eq 'gamestrings') -and ($fileBuild -eq $build) -and ($localized -ne $null)))
 			{
 				Write-Host "Invalid file name format ${path}/${version}/gamestrings/${file}"
+				$success = 1
+
+				Continue
+			}
+
+			# get gamestring file contents
+			$contents = Get-Content -Path "${path}/${version}/gamestrings/${file}" | ConvertFrom-Json
+
+			# check the meta version
+			$contentVersion = $contents.meta.version
+			if ($contentVersion -ne $build)
+			{
+				Write-Host "Invalid meta version of ${$contentVersion}"
+				$success = 1
+
+				Continue
+			}
+
+			#  check the meta locale
+			$contentLocale = $contents.meta.locale
+			if ($contentLocale -ne $localized.Split(".")[0])
+			{
+				Write-Host "Invalid meta locale of ${contentLocale}"
 				$success = 1
 
 				Continue
