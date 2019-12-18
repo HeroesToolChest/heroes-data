@@ -15,7 +15,7 @@ jobs:
         {
             exit 1
         }
-        $result = ./ps1/file-name-check.ps1 -Path $env:SOURCE_FOLDER
+        $result = ./ps1/file-verification.ps1 -Path $env:SOURCE_FOLDER
         if ($result -eq 1)
         {
             exit 1
