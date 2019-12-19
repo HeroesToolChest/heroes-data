@@ -26,7 +26,7 @@ function Copy-NewFiles
 	
 	if ((Test-Path "${oldPath}/${version}/${directory}" -PathType Container) -and (Test-Path "${newPath}/${version}/${directory}" -PathType Container))
 	{		
-		Write-Host "Both paths exists"
+		Write-Host "[${directory}] Both paths exists"
 		Write-Host "${oldPath}/${version}/${directory}"
 		Write-Host "${newPath}/${version}/${directory}"
 		"====================="
@@ -65,18 +65,17 @@ function Copy-NewFiles
 	}
 	elseif ((Test-Path "${oldPath}/${version}/${directory}" -PathType Container) -and (-not (Test-Path "${newPath}/${version}/${directory}" -PathType Container)))
 	{
-		Continue
+		Write-Host "[${directory}] Old exists but not new, most likely deleted - nothing to do"
 	}
 	elseif ((-not (Test-Path "${oldPath}/${version}/${directory}" -PathType Container)) -and (Test-Path "${newPath}/${version}/${directory}" -PathType Container))
 	{
-		Write-Host "Brand new directory"
-		New-DirectoryIfNotExist -Path "${partialPath}/${version}/${directory}"
-							
+		Write-Host [${directory}] "Brand new directory"
+			
 		Copy-Item -Path "${newPath}/${version}/${directory}" -Destination "${partialPath}/${version}/${directory}" -Recurse
 	}
 	else # neither exists
 	{
-		Continue
+		Write-Host "[${directory}] Old and new does not exist - nothing to do"
 	}
 }
 
@@ -85,6 +84,7 @@ Write-Host "${versions}"
 
 foreach ($version in $versions)
 {
+	Write-Host "Checking ${version}"
 	# check if its a new folder (new version)
 	if (-not (Test-Path "${oldPath}/${version}" -PathType Container))
 	{
