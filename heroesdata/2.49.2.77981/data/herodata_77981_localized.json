@@ -918,6 +918,9 @@
           "abilityType": "Heroic",
           "isActive": true,
           "sort": 1,
+          "abilityTalentLinkIds": [
+            "AlarakCounterStrikeTargeted"
+          ],
           "prerequisiteTalentIds": [
             "AlarakDeadlyChargeFirstHeroic"
           ]
@@ -1223,7 +1226,8 @@
           "isActive": true,
           "sort": 2,
           "abilityTalentLinkIds": [
-            "AlexstraszaCleansingFlame"
+            "AlexstraszaCleansingFlame",
+            "AlexstraszaCleansingFlameDragonqueen"
           ]
         }
       ],
