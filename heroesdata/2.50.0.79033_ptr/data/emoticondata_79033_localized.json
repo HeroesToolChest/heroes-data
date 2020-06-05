@@ -806,7 +806,9 @@
       "texture": "storm_emoji_cat_blink_anim_sheet.png",
       "frames": 29,
       "duration": 50,
-      "width": 38
+      "width": 38,
+      "columns": 4,
+      "rows": 8
     }
   },
   "cat_dealwithit_anim": {
@@ -815,7 +817,9 @@
       "texture": "storm_emoji_cat_dealwithit_anim_sheet.png",
       "frames": 23,
       "duration": 100,
-      "width": 38
+      "width": 38,
+      "columns": 4,
+      "rows": 6
     }
   },
   "cat_gleam_anim": {
@@ -824,7 +828,9 @@
       "texture": "storm_emoji_cat_gleam_anim_sheet.png",
       "frames": 25,
       "duration": 50,
-      "width": 34
+      "width": 34,
+      "columns": 4,
+      "rows": 7
     }
   },
   "cat_grumpy_anim": {
@@ -833,7 +839,9 @@
       "texture": "storm_emoji_cat_grumpy_anim_sheet.png",
       "frames": 16,
       "duration": 300,
-      "width": 38
+      "width": 38,
+      "columns": 4,
+      "rows": 4
     }
   },
   "cat_puke_anim": {
@@ -842,7 +850,9 @@
       "texture": "storm_emoji_cat_puke_anim_sheet.png",
       "frames": 12,
       "duration": 50,
-      "width": 38
+      "width": 38,
+      "columns": 4,
+      "rows": 3
     }
   },
   "celebrations_fireworks": {
@@ -906,7 +916,9 @@
       "texture": "storm_emoji_chomp_growl_anim_sheet.png",
       "frames": 2,
       "duration": 100,
-      "width": 35
+      "width": 35,
+      "columns": 4,
+      "rows": 1
     }
   },
   "chomp_minion_anim": {
@@ -915,7 +927,9 @@
       "texture": "storm_emoji_chomp_minion_anim_sheet.png",
       "frames": 4,
       "duration": 100,
-      "width": 39
+      "width": 39,
+      "columns": 4,
+      "rows": 1
     }
   },
   "chomp_paku_anim": {
@@ -924,7 +938,9 @@
       "texture": "storm_emoji_chomp_paku_anim_sheet.png",
       "frames": 4,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 1
     }
   },
   "chomp_pet_anim": {
@@ -933,7 +949,9 @@
       "texture": "storm_emoji_chomp_pet_anim_sheet.png",
       "frames": 2,
       "duration": 500,
-      "width": 37
+      "width": 37,
+      "columns": 4,
+      "rows": 1
     }
   },
   "chomp_wave_anim": {
@@ -942,7 +960,9 @@
       "texture": "storm_emoji_chomp_wave_anim_sheet.png",
       "frames": 6,
       "duration": 100,
-      "width": 38
+      "width": 38,
+      "columns": 4,
+      "rows": 2
     }
   },
   "cho_angry": {
@@ -1461,7 +1481,9 @@
       "texture": "storm_emoji_eyeball_bloodlust_anim_sheet.png",
       "frames": 17,
       "duration": 50,
-      "width": 31
+      "width": 31,
+      "columns": 4,
+      "rows": 5
     }
   },
   "eyeball_cthun_anim": {
@@ -1470,7 +1492,9 @@
       "texture": "storm_emoji_eyeball_cthun_anim_sheet.png",
       "frames": 4,
       "duration": 50,
-      "width": 31
+      "width": 31,
+      "columns": 4,
+      "rows": 1
     }
   },
   "eyeball_human_anim": {
@@ -1479,7 +1503,9 @@
       "texture": "storm_emoji_eyeball_human_anim_sheet.png",
       "frames": 16,
       "duration": 50,
-      "width": 31
+      "width": 31,
+      "columns": 4,
+      "rows": 4
     }
   },
   "eyeball_kilrogg_anim": {
@@ -1488,7 +1514,9 @@
       "texture": "storm_emoji_eyeball_kilrogg_anim_sheet.png",
       "frames": 16,
       "duration": 80,
-      "width": 31
+      "width": 31,
+      "columns": 4,
+      "rows": 4
     }
   },
   "eyeball_ravenlord_anim": {
@@ -1497,7 +1525,9 @@
       "texture": "storm_emoji_eyeball_ravenlord_anim_sheet.png",
       "frames": 14,
       "duration": 50,
-      "width": 31
+      "width": 31,
+      "columns": 4,
+      "rows": 4
     }
   },
   "falstad_angry": {
@@ -1946,7 +1976,9 @@
       "texture": "storm_emoji_ghost_boogie_anim_sheet.png",
       "frames": 8,
       "duration": 100,
-      "width": 29
+      "width": 29,
+      "columns": 4,
+      "rows": 2
     }
   },
   "ghost_cheer_anim": {
@@ -1955,7 +1987,9 @@
       "texture": "storm_emoji_ghost_cheer_anim_sheet.png",
       "frames": 2,
       "duration": 500,
-      "width": 26
+      "width": 26,
+      "columns": 4,
+      "rows": 1
     }
   },
   "ghost_golfclap_anim": {
@@ -1964,7 +1998,9 @@
       "texture": "storm_emoji_ghost_golfclap_anim_sheet.png",
       "frames": 4,
       "duration": 100,
-      "width": 19
+      "width": 19,
+      "columns": 4,
+      "rows": 1
     }
   },
   "ghost_rage_anim": {
@@ -1973,7 +2009,9 @@
       "texture": "storm_emoji_ghost_rage_anim_sheet.png",
       "frames": 2,
       "duration": 50,
-      "width": 29
+      "width": 29,
+      "columns": 4,
+      "rows": 1
     }
   },
   "ghost_worry_anim": {
@@ -1982,7 +2020,9 @@
       "texture": "storm_emoji_ghost_worry_anim_sheet.png",
       "frames": 6,
       "duration": 150,
-      "width": 38
+      "width": 38,
+      "columns": 4,
+      "rows": 2
     }
   },
   "greymane_angry": {
@@ -3529,7 +3569,9 @@
       "texture": "storm_emoji_mecha_malthael_anim_sheet.png",
       "frames": 6,
       "duration": 120,
-      "width": 40
+      "width": 40,
+      "columns": 5,
+      "rows": 2
     }
   },
   "mecha_pilotvalla_anim": {
@@ -3538,7 +3580,9 @@
       "texture": "storm_emoji_mecha_pilotvalla_anim_sheet.png",
       "frames": 4,
       "duration": 60,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 1
     }
   },
   "mecha_pilotyrel_anim": {
@@ -3547,7 +3591,9 @@
       "texture": "storm_emoji_mecha_pilotyrel_anim_sheet.png",
       "frames": 5,
       "duration": 120,
-      "width": 40
+      "width": 40,
+      "columns": 5,
+      "rows": 1
     }
   },
   "mecha_valla_anim": {
@@ -3556,7 +3602,9 @@
       "texture": "storm_emoji_mecha_valla_anim_sheet.png",
       "frames": 6,
       "duration": 70,
-      "width": 40
+      "width": 40,
+      "columns": 5,
+      "rows": 2
     }
   },
   "mecha_yrel_anim": {
@@ -3565,7 +3613,9 @@
       "texture": "storm_emoji_mecha_yrel_anim_sheet.png",
       "frames": 3,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 3,
+      "rows": 1
     }
   },
   "medivh_angry": {
@@ -3654,7 +3704,9 @@
       "texture": "storm_emoji_mobster19_hammercar_sheet.png",
       "frames": 12,
       "duration": 50,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 3
     }
   },
   "mobster_junkrat_anim": {
@@ -3663,7 +3715,9 @@
       "texture": "storm_emoji_mobster19_junkrat_sheet.png",
       "frames": 8,
       "duration": 80,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "mobster_orphea_anim": {
@@ -3672,7 +3726,9 @@
       "texture": "storm_emoji_mobster19_orphea_sheet.png",
       "frames": 8,
       "duration": 120,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "mobster_raccoon_anim": {
@@ -3681,7 +3737,9 @@
       "texture": "storm_emoji_mobster19_raccoon_sheet.png",
       "frames": 5,
       "duration": 120,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "mobster_whitemane_anim": {
@@ -3690,7 +3748,9 @@
       "texture": "storm_emoji_mobster19_whitemane_sheet.png",
       "frames": 8,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "morales_angry": {
@@ -4793,7 +4853,9 @@
       "texture": "storm_emoji_spooky_potg_anim_sheet.png",
       "frames": 9,
       "duration": 40,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 3
     }
   },
   "spooky_ravenlol_anim": {
@@ -4802,7 +4864,9 @@
       "texture": "storm_emoji_spooky_ravenlol_anim_sheet.png",
       "frames": 8,
       "duration": 60,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "spooky_rip_anim": {
@@ -4811,7 +4875,9 @@
       "texture": "storm_emoji_spooky_rip_anim_sheet.png",
       "frames": 26,
       "duration": 50,
-      "width": 38
+      "width": 38,
+      "columns": 4,
+      "rows": 7
     }
   },
   "spooky_spider_anim": {
@@ -4820,7 +4886,9 @@
       "texture": "storm_emoji_spooky_spider_anim_sheet.png",
       "frames": 8,
       "duration": 50,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "spooky_worm_anim": {
@@ -4829,7 +4897,9 @@
       "texture": "storm_emoji_spooky_worm_anim_sheet.png",
       "frames": 8,
       "duration": 50,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "stitches_angry": {
@@ -5319,7 +5389,9 @@
       "texture": "storm_emoji_toys19_army.png",
       "frames": 8,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "toy2_horse_anim": {
@@ -5328,7 +5400,9 @@
       "texture": "storm_emoji_toys19_horse.png",
       "frames": 4,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 1
     }
   },
   "toy2_mephisto_anim": {
@@ -5337,7 +5411,9 @@
       "texture": "storm_emoji_toys19_mephisto.png",
       "frames": 4,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 1
     }
   },
   "toy2_qhira_anim": {
@@ -5346,7 +5422,9 @@
       "texture": "storm_emoji_toys19_qhira.png",
       "frames": 8,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "toy2_train_anim": {
@@ -5355,7 +5433,9 @@
       "texture": "storm_emoji_toys19_train.png",
       "frames": 4,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 1
     }
   },
   "toy_bear_anim": {
@@ -5364,7 +5444,9 @@
       "texture": "storm_emoji_toy_bear_anim_sheet.png",
       "frames": 12,
       "duration": 150,
-      "width": 39
+      "width": 39,
+      "columns": 4,
+      "rows": 3
     }
   },
   "toy_cosmicflurry_anim": {
@@ -5373,7 +5455,9 @@
       "texture": "storm_emoji_toy_cosmicflurry_anim_sheet.png",
       "frames": 5,
       "duration": 100,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 2
     }
   },
   "toy_dice_anim": {
@@ -5382,7 +5466,9 @@
       "texture": "storm_emoji_toy_dice_anim_sheet.png",
       "frames": 6,
       "duration": 100,
-      "width": 37
+      "width": 37,
+      "columns": 4,
+      "rows": 2
     }
   },
   "toy_dino_anim": {
@@ -5391,7 +5477,9 @@
       "texture": "storm_emoji_toy_dino_anim_sheet.png",
       "frames": 4,
       "duration": 80,
-      "width": 34
+      "width": 34,
+      "columns": 4,
+      "rows": 1
     }
   },
   "toy_herospinner_anim": {
@@ -5400,7 +5488,9 @@
       "texture": "storm_emoji_toy_herospinner_anim_sheet.png",
       "frames": 7,
       "duration": 25,
-      "width": 33
+      "width": 33,
+      "columns": 4,
+      "rows": 2
     }
   },
   "toy_minion_anim": {
@@ -5409,7 +5499,9 @@
       "texture": "storm_emoji_toy_minion_anim_sheet.png",
       "frames": 6,
       "duration": 160,
-      "width": 30
+      "width": 30,
+      "columns": 4,
+      "rows": 2
     }
   },
   "toy_nerfthis_anim": {
@@ -5418,7 +5510,9 @@
       "texture": "storm_emoji_toy_nerfthis_anim_sheet.png",
       "frames": 4,
       "duration": 62,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 1
     }
   },
   "toy_robots_anim": {
@@ -5427,7 +5521,9 @@
       "texture": "storm_emoji_toy_robots_anim_sheet.png",
       "frames": 10,
       "duration": 120,
-      "width": 40
+      "width": 40,
+      "columns": 4,
+      "rows": 3
     }
   },
   "toy_train_anim": {
@@ -5436,7 +5532,9 @@
       "texture": "storm_emoji_toy_train_anim_sheet.png",
       "frames": 6,
       "duration": 200,
-      "width": 37
+      "width": 37,
+      "columns": 4,
+      "rows": 2
     }
   },
   "toy_turd_anim": {
@@ -5445,7 +5543,9 @@
       "texture": "storm_emoji_toy_turd_anim_sheet.png",
       "frames": 8,
       "duration": 120,
-      "width": 26
+      "width": 26,
+      "columns": 4,
+      "rows": 2
     }
   },
   "tracer_angry": {

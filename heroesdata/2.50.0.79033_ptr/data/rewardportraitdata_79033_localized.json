@@ -10267,26 +10267,6 @@
       "rows": 6
     }
   },
-  "PortraitOverlayPlayerLevel": {
-    "hyperlinkId": "PortraitOverlayPlayerLevel",
-    "rarity": "Common",
-    "iconSlot": 0,
-    "textureSheet": {
-      "image": "ui_heroes_rewardicons_sheet1.png",
-      "columns": 6,
-      "rows": 6
-    }
-  },
-  "PortraitOverlayStormLeagueLevel": {
-    "hyperlinkId": "PortraitOverlayStormLeagueLevel",
-    "rarity": "Common",
-    "iconSlot": 0,
-    "textureSheet": {
-      "image": "ui_heroes_rewardicons_sheet1.png",
-      "columns": 6,
-      "rows": 6
-    }
-  },
   "PotionSpooky18Portrait": {
     "hyperlinkId": "NefariousPotionPortrait",
     "rarity": "Common",

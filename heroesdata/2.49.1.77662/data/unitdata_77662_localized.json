@@ -2333,7 +2333,7 @@
           "merc": 1.0,
           "structure": 1.0,
           "summoned": 1.0,
-          "mapcreature": 0.75
+          "mapcreature": 1.0
         }
       }
     ],
