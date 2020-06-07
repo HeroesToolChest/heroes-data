@@ -22,7 +22,7 @@ The optional `duplicate` property indicates that this version of data is a dupli
 **NOTE: This optional property will not appear just because the data is a duplicate of another version, but rather that duplicate version data was not obtainable or was just not extracted.**
 
 ## Data Library
-[Heroes Icons](https://github.com/HeroesToolChest/Heroes.Icons) is a dotnet core libray that provides an api to read the data and gamestrings files.
+[Heroes Icons](https://github.com/HeroesToolChest/Heroes.Icons) is a dotnet core libray that parses the json files and provides objects to easily the data.
 
 
 ## Releases
