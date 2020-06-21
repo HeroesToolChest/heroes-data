@@ -104,6 +104,8 @@ foreach ($version in $versions)
 		
 		if ($oldHdpJsonHash.Hash -ne $newHdpJsonHash.Hash)
 		{
+			New-DirectoryIfNotExist -Path "${partialPath}/${version}/${directory}"
+	
 			Copy-Item -Path "${newPath}/${version}/${hdpJson}" -Destination "${partialPath}/${version}/${hdpJson}" -Recurse
 		}	
 	}
