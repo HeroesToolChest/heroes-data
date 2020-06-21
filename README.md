@@ -22,11 +22,11 @@ The optional `duplicate` property indicates that this version of data is a dupli
 **NOTE: This optional property will not appear just because the data is a duplicate of another version, but rather that duplicate version data was not obtainable or was just not extracted.**
 
 ## Data Library
-[Heroes Icons](https://github.com/HeroesToolChest/Heroes.Icons) is a dotnet core libray that parses the json files and provides objects to easily the data.
+[Heroes Icons](https://github.com/HeroesToolChest/Heroes.Icons) is a dotnet core libray that parses the json files and provides objects to easily access the data.
 
 
 ## Releases
-Releases will have have up to three zip files. A `_all`, `_last`, and sometimes a `_new`.
+Releases will have have up to three zip files. A `_all`, `_last`, and a `_new`.
 
 The `_all` will contain all the versions.  
 The `_last` will only contain the last version.  
