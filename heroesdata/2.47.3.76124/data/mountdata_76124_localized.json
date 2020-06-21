@@ -2,7 +2,7 @@
   "AlarakTaldarimMarch": {
     "hyperlinkId": "HighlordsAscent",
     "attributeId": "Alru",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "AlarakTaldarimMarch",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -10,7 +10,7 @@
   "AnubarakWings": {
     "hyperlinkId": "CryptLordWings",
     "attributeId": "AnWg",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "AnubarakWings",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -42,7 +42,7 @@
   "AzmodanFireFeet": {
     "hyperlinkId": "FlamesOfWrath",
     "attributeId": "AzFF",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "AzmodanFireFeet",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -50,7 +50,7 @@
   "BattleBeast": {
     "hyperlinkId": "BattleBeast",
     "attributeId": "BaB1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2014-10-07"
@@ -58,7 +58,7 @@
   "BattleBeastBlue": {
     "hyperlinkId": "BattleBeastBlue",
     "attributeId": "BaB3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2014-10-07"
@@ -90,7 +90,7 @@
   "BattleBeastNexus": {
     "hyperlinkId": "NexusBattleBeast",
     "attributeId": "BBN1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2015-10-06"
@@ -98,7 +98,7 @@
   "BattleBeastNexusOrange": {
     "hyperlinkId": "AmberNexusBattleBeast",
     "attributeId": "BBN2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2015-10-06"
@@ -106,7 +106,7 @@
   "BattleBeastNexusPurple": {
     "hyperlinkId": "VioletNexusBattleBeast",
     "attributeId": "BBN3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2015-10-06"
@@ -138,7 +138,7 @@
   "BattleBeastSaddledVar3": {
     "hyperlinkId": "CrystallineSaddledBattleBeast",
     "attributeId": "BaB0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2014-03-13"
@@ -146,7 +146,7 @@
   "BattleBeastWarm": {
     "hyperlinkId": "TanBattleBeast",
     "attributeId": "BaB2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2014-10-07"
@@ -154,7 +154,7 @@
   "BillieGoat": {
     "hyperlinkId": "WonderBillie",
     "attributeId": "BGo1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2014-10-14"
@@ -162,7 +162,7 @@
   "BillieGoatBlue": {
     "hyperlinkId": "NighttimeWonderBillie",
     "attributeId": "BGo2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2014-10-14"
@@ -170,7 +170,7 @@
   "BillieGoatCelestial": {
     "hyperlinkId": "CelestialBillie",
     "attributeId": "BGo0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-07-10"
@@ -178,7 +178,7 @@
   "BillieGoatPink": {
     "hyperlinkId": "HeartyWonderBillie",
     "attributeId": "BGo3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2014-10-14"
@@ -186,7 +186,7 @@
   "BlackheartsDoubloon": {
     "hyperlinkId": "BlackheartsDoubloon",
     "attributeId": "BhDb",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2015-09-01"
@@ -210,7 +210,7 @@
   "CelestialHorse": {
     "hyperlinkId": "CelestialSteed",
     "attributeId": "HoC0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-04-25"
@@ -218,7 +218,7 @@
   "ChoGallRunArmoredHorse": {
     "hyperlinkId": "ArmoredWarSteed",
     "attributeId": "QArH",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -226,7 +226,7 @@
   "ChoGallRunArmoredHorseBrown": {
     "hyperlinkId": "LeatherArmoredWarSteed",
     "attributeId": "QAr1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -234,7 +234,7 @@
   "ChoGallRunArmoredHorsePurple": {
     "hyperlinkId": "RoyalArmoredWarSteed",
     "attributeId": "QAr2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -242,7 +242,7 @@
   "ChoGallRunCelestialHorse": {
     "hyperlinkId": "CelestialSteed",
     "attributeId": "QHo0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -277,7 +277,7 @@
   "ChoGallRunHorseAlmond": {
     "hyperlinkId": "AlmondHorse",
     "attributeId": "QHoA",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -285,7 +285,7 @@
   "ChoGallRunHorseBlack": {
     "hyperlinkId": "OnyxHorse",
     "attributeId": "QHoB",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -293,7 +293,7 @@
   "ChoGallRunHorseCommon": {
     "hyperlinkId": "Horse",
     "attributeId": "QHot",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -301,7 +301,7 @@
   "ChoGallRunHorseGrey": {
     "hyperlinkId": "GreyHorse",
     "attributeId": "QHos",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -309,7 +309,7 @@
   "ChoGallRunHorsePaint": {
     "hyperlinkId": "PaintedHorse",
     "attributeId": "QHou",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -317,7 +317,7 @@
   "ChoGallRunHorsePattern": {
     "hyperlinkId": "PintoHorse",
     "attributeId": "QHov",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -325,7 +325,7 @@
   "ChoGallRunHorseRed": {
     "hyperlinkId": "RedHorse",
     "attributeId": "QHow",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -333,7 +333,7 @@
   "ChoGallRunHorseTan": {
     "hyperlinkId": "TanHorse",
     "attributeId": "QHox",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -341,7 +341,7 @@
   "ChoGallRunHorseUndead": {
     "hyperlinkId": "UndeadHorse",
     "attributeId": "QHoy",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -349,7 +349,7 @@
   "ChoGallRunHorseWhite": {
     "hyperlinkId": "PaleHorse",
     "attributeId": "QHoz",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -357,7 +357,7 @@
   "ChoGallRunHorseZebra": {
     "hyperlinkId": "Zebra",
     "attributeId": "QhO0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -389,7 +389,7 @@
   "ChoGallRunInvisibleHorse": {
     "hyperlinkId": "InvisibleHorse",
     "attributeId": "QIN0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -397,7 +397,7 @@
   "ChoGallRunJudgementUtherCharger": {
     "hyperlinkId": "JudgmentCharger",
     "attributeId": "QJU4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-09-15"
@@ -405,7 +405,7 @@
   "ChoGallRunJudgementUtherHorseAzeroth": {
     "hyperlinkId": "FlamesofJudgementCharger",
     "attributeId": "QJU7",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-02-14"
@@ -413,7 +413,7 @@
   "ChoGallRunJudgementUtherHorsePurple": {
     "hyperlinkId": "PenanceJudgmentCharger",
     "attributeId": "QJU5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-09-15"
@@ -421,7 +421,7 @@
   "ChoGallRunJudgementUtherHorseWhite": {
     "hyperlinkId": "BlessedJudgementCharger",
     "attributeId": "QJU6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-09-15"
@@ -429,7 +429,7 @@
   "ChoGallRunMalthaelsHerohorse": {
     "hyperlinkId": "MalthaelsPhantom",
     "attributeId": "QMa4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-08-18"
@@ -437,7 +437,7 @@
   "ChoGallRunMalthaelsHerohorseGold": {
     "hyperlinkId": "AngelicPhantom",
     "attributeId": "QMa6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-08-18"
@@ -445,7 +445,7 @@
   "ChoGallRunMalthaelsHerohorseRed": {
     "hyperlinkId": "DemonicPhantom",
     "attributeId": "QMa5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-08-18"
@@ -453,7 +453,7 @@
   "ChoGallRunMalthaelsHerohorseVar3": {
     "hyperlinkId": "LeoricsPhantom",
     "attributeId": "QMaC",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-08-18"
@@ -461,7 +461,7 @@
   "ChoGallRunMarshallRaynorHorse": {
     "hyperlinkId": "MarshalsOutrider",
     "attributeId": "QMr4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-10-06"
@@ -469,7 +469,7 @@
   "ChoGallRunMarshallRaynorHorseBrown": {
     "hyperlinkId": "OldMarshalsOutrider",
     "attributeId": "QMr6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-10-06"
@@ -477,7 +477,7 @@
   "ChoGallRunMarshallRaynorHorseRed": {
     "hyperlinkId": "ConfederateMarshalsOutrider",
     "attributeId": "QMr5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-10-06"
@@ -485,7 +485,7 @@
   "ChoGallRunMountDemonicHorse": {
     "hyperlinkId": "DemonicHellsteed",
     "attributeId": "QDH0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2016-08-09"
@@ -493,7 +493,7 @@
   "ChoGallRunMountDemonicHorseVar1": {
     "hyperlinkId": "ToxicDemonicHellsteed",
     "attributeId": "QDH1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2016-08-09"
@@ -501,7 +501,7 @@
   "ChoGallRunMountDemonicHorseVar2": {
     "hyperlinkId": "AncientDemonicHellsteed",
     "attributeId": "QDH2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2016-08-09"
@@ -509,7 +509,7 @@
   "ChoGallRunMountHorseDead": {
     "hyperlinkId": "UndeadHorse",
     "attributeId": "QHo8",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -571,7 +571,7 @@
   "ChoGallRunMountRedHare": {
     "hyperlinkId": "CrimsonHare",
     "attributeId": "QRh4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2016-07-19"
@@ -579,7 +579,7 @@
   "ChoGallRunMountRedHareVar1": {
     "hyperlinkId": "FrozenCrimsonHare",
     "attributeId": "QRh5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2016-07-19"
@@ -587,7 +587,7 @@
   "ChoGallRunMountRedHareVar2": {
     "hyperlinkId": "ShadowCrimsonHare",
     "attributeId": "QRh6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2016-07-19"
@@ -595,7 +595,7 @@
   "ChoGallRunMountWarhorseChess": {
     "hyperlinkId": "Glitchsteed",
     "attributeId": "QWa0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2018-03-27"
@@ -603,7 +603,7 @@
   "ChoGallRunMountWarhorseHGC18": {
     "hyperlinkId": "MountWarhorseHGC18",
     "attributeId": "QHG0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2018-12-11"
@@ -635,7 +635,7 @@
   "ChoGallRunNazeebra": {
     "hyperlinkId": "Nazeebra",
     "attributeId": "QNzs",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -643,7 +643,7 @@
   "ChoGallRunNazeebraGreen": {
     "hyperlinkId": "ToxicNazeebra",
     "attributeId": "QNz3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -651,7 +651,7 @@
   "ChoGallRunNazeebraRed": {
     "hyperlinkId": "CrimsonNazeebra",
     "attributeId": "QNz4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -659,7 +659,7 @@
   "ChoGallRunNexusCharger": {
     "hyperlinkId": "NexusCharger",
     "attributeId": "QNx4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-10-07"
@@ -675,7 +675,7 @@
   "ChoGallRunNexusChargerOrange": {
     "hyperlinkId": "AmberNexusCharger",
     "attributeId": "QNx6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-10-07"
@@ -683,7 +683,7 @@
   "ChoGallRunNexusChargerViolet": {
     "hyperlinkId": "VioletNexusCharger",
     "attributeId": "QNx5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-10-07"
@@ -691,7 +691,7 @@
   "ChoGallRunRainbowUnicorn": {
     "hyperlinkId": "RainbowUnicorn",
     "attributeId": "QRao",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -699,7 +699,7 @@
   "ChoGallRunRainbowUnicornGreen": {
     "hyperlinkId": "LuckyRainbowUnicorn",
     "attributeId": "QRa3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -707,7 +707,7 @@
   "ChoGallRunRainbowUnicornOrange": {
     "hyperlinkId": "OrangeRainbowUnicorn",
     "attributeId": "QRa4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -715,7 +715,7 @@
   "ChoGallRunRank17Base": {
     "hyperlinkId": "Rank17Base",
     "attributeId": "QBr0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -723,7 +723,7 @@
   "ChoGallRunRank17BaseVar1": {
     "hyperlinkId": "Rank17BaseVar1",
     "attributeId": "QBr1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -731,7 +731,7 @@
   "ChoGallRunRank17BaseVar2": {
     "hyperlinkId": "Rank17BaseVar2",
     "attributeId": "QBr2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -739,7 +739,7 @@
   "ChoGallRunRank17BaseVar3": {
     "hyperlinkId": "Rank17BaseVar3",
     "attributeId": "QBr3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -747,7 +747,7 @@
   "ChoGallRunRank17BaseVar4": {
     "hyperlinkId": "Rank17BaseVar4",
     "attributeId": "QBr4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -755,7 +755,7 @@
   "ChoGallRunRank17Epic": {
     "hyperlinkId": "Rank17Epic",
     "attributeId": "QEr0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -763,7 +763,7 @@
   "ChoGallRunRank17EpicVar1": {
     "hyperlinkId": "Rank17EpicVar1",
     "attributeId": "QEr1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -771,7 +771,7 @@
   "ChoGallRunRank17EpicVar2": {
     "hyperlinkId": "Rank17EpicVar2",
     "attributeId": "QEr2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -779,7 +779,7 @@
   "ChoGallRunRank17EpicVar3": {
     "hyperlinkId": "Rank17EpicVar3",
     "attributeId": "QEr3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -787,7 +787,7 @@
   "ChoGallRunRank17EpicVar4": {
     "hyperlinkId": "Rank17EpicVar4",
     "attributeId": "QEr4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2017-12-19"
@@ -795,7 +795,7 @@
   "ChoGallRunSaddledHorse": {
     "hyperlinkId": "SaddledHorse",
     "attributeId": "Qsa1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -803,7 +803,7 @@
   "ChoGallRunTyraelsCharger": {
     "hyperlinkId": "TyraelsCharger",
     "attributeId": "QTyi",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-07-14"
@@ -811,7 +811,7 @@
   "ChoGallRunTyraelsChargerBlue": {
     "hyperlinkId": "PlatinumTyraelsCharger",
     "attributeId": "QTy4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-07-14"
@@ -819,7 +819,7 @@
   "ChoGallRunTyraelsChargerWhite": {
     "hyperlinkId": "IvoryTyraelsCharger",
     "attributeId": "QTy5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ChoGallRun",
     "category": "Unique",
     "releaseDate": "2015-07-14"
@@ -827,7 +827,7 @@
   "Cloud9Nexagon": {
     "hyperlinkId": "2015ChampionsNexagon",
     "attributeId": "C9N0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2015-12-15"
@@ -835,7 +835,7 @@
   "Cloud9NexagonVar1": {
     "hyperlinkId": "Onyx2015ChampionsNexagon",
     "attributeId": "C9N1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2015-12-15"
@@ -843,7 +843,7 @@
   "Cloud9NexagonVar2": {
     "hyperlinkId": "Ivory2015ChampionsNexagon",
     "attributeId": "C9N2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2015-12-15"
@@ -851,7 +851,7 @@
   "CountArthasMorphForm": {
     "hyperlinkId": "BatForm",
     "attributeId": "CABF",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "CountArthasMorphForm",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -859,7 +859,7 @@
   "CountessKerriganBatForm": {
     "hyperlinkId": "BatTransformation",
     "attributeId": "CKBF",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "CountessKerriganBatForm",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -875,7 +875,7 @@
   "CyberWolfBlack": {
     "hyperlinkId": "ObsidianCyberWolf",
     "attributeId": "Cyb6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Mechanical",
     "releaseDate": "2016-08-23"
@@ -883,7 +883,7 @@
   "CyberWolfBronze": {
     "hyperlinkId": "BronzeCyberWolf",
     "attributeId": "Cyb4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Mechanical",
     "releaseDate": "2014-10-14"
@@ -891,7 +891,7 @@
   "CyberWolfGold": {
     "hyperlinkId": "GoldenCyberWolf",
     "attributeId": "Cyb3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Mechanical",
     "releaseDate": "2014-10-14"
@@ -907,7 +907,7 @@
   "CyberWolfPlat": {
     "hyperlinkId": "PlatinumCyberWolf",
     "attributeId": "Cyb5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Mechanical",
     "releaseDate": "2014-10-14"
@@ -923,7 +923,7 @@
   "DiabloRun": {
     "hyperlinkId": "TerrorCharge",
     "attributeId": "Diru",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridenone",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -931,7 +931,7 @@
   "DiablosDoubloon": {
     "hyperlinkId": "DiablosDoubloon",
     "attributeId": "DiDb",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2018-05-08"
@@ -955,7 +955,7 @@
   "DirewolfIronsidesBlue": {
     "hyperlinkId": "CobaltsideDireWolf",
     "attributeId": "Idr1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-06-02"
@@ -963,7 +963,7 @@
   "DirewolfIronsidesGold": {
     "hyperlinkId": "GoldensideDireWolf",
     "attributeId": "Idr2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-06-02"
@@ -1027,7 +1027,7 @@
   "Goat": {
     "hyperlinkId": "BillieTheKid",
     "attributeId": "Goa1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-06-02"
@@ -1035,7 +1035,7 @@
   "GoatBlack": {
     "hyperlinkId": "OnyxBillietheKid",
     "attributeId": "Goa3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-06-02"
@@ -1043,7 +1043,7 @@
   "GoatBrown": {
     "hyperlinkId": "TanBillietheKid",
     "attributeId": "Goa2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-06-02"
@@ -1094,7 +1094,7 @@
   "HearthstoneCardMedivh": {
     "hyperlinkId": "MedivhHearthstoneCard",
     "attributeId": "HCM0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2015-06-02"
@@ -1110,7 +1110,7 @@
   "HorseAlmond": {
     "hyperlinkId": "AlmondHorse",
     "attributeId": "Hor1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-03-13"
@@ -1118,7 +1118,7 @@
   "HorseBlack": {
     "hyperlinkId": "OnyxHorse",
     "attributeId": "Hor2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-03-13"
@@ -1126,7 +1126,7 @@
   "HorseCommon": {
     "hyperlinkId": "Horse",
     "attributeId": "Hors",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-03-13"
@@ -1214,7 +1214,7 @@
   "InvisibleHorse": {
     "hyperlinkId": "InvisibleHorse",
     "attributeId": "INV0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-09-26"
@@ -1222,7 +1222,7 @@
   "IronsideDireWolf": {
     "hyperlinkId": "IronsideDireWolf",
     "attributeId": "Idir",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-06-02"
@@ -1238,7 +1238,7 @@
   "JudgementUtherHorseAzeroth": {
     "hyperlinkId": "FlamesofJudgementCharger",
     "attributeId": "JUH0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-02-14"
@@ -1383,7 +1383,7 @@
   "MalthaelsHerohorse": {
     "hyperlinkId": "MalthaelsPhantom",
     "attributeId": "Mal1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2015-08-18"
@@ -1391,7 +1391,7 @@
   "MalthaelsHerohorseGold": {
     "hyperlinkId": "AngelicPhantom",
     "attributeId": "Mal2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2015-08-18"
@@ -1399,7 +1399,7 @@
   "MalthaelsHerohorseRed": {
     "hyperlinkId": "DemonicPhantom",
     "attributeId": "Mal3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2015-08-18"
@@ -1407,7 +1407,7 @@
   "MalthaelsHerohorseVar3": {
     "hyperlinkId": "LeoricsPhantom",
     "attributeId": "MalC",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2015-08-18"
@@ -1415,7 +1415,7 @@
   "MarauderMuradinJetpackForm": {
     "hyperlinkId": "RocketJumpJets",
     "attributeId": "MMJF",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MarauderMuradinJetpackForm",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -1447,7 +1447,7 @@
   "Mechanospider": {
     "hyperlinkId": "Mechanospider",
     "attributeId": "Spi1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Mechanical",
     "releaseDate": "2015-06-09"
@@ -1455,7 +1455,7 @@
   "MechaTassadarMorphForm": {
     "hyperlinkId": "MechaMorph",
     "attributeId": "MTMF",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MechaTassadarMorphForm",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -1463,7 +1463,7 @@
   "MoneyPig": {
     "hyperlinkId": "PiggyBank",
     "attributeId": "Mpig",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-06-26"
@@ -1471,7 +1471,7 @@
   "MoneyPigGreen": {
     "hyperlinkId": "LuckyPiggyBank",
     "attributeId": "Mpi2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -1479,7 +1479,7 @@
   "MoneyPigPink": {
     "hyperlinkId": "ClassicPiggyBank",
     "attributeId": "Mpi1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2014-10-14"
@@ -1487,7 +1487,7 @@
   "MoneyPigVar3": {
     "hyperlinkId": "CopperMoneyPig",
     "attributeId": "Mpi0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-09-25"
@@ -1495,7 +1495,7 @@
   "MountAntelopeRank18_00": {
     "hyperlinkId": "Technolope",
     "attributeId": "ant0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-09-25"
@@ -1503,7 +1503,7 @@
   "MountAntelopeRank18_00Var1": {
     "hyperlinkId": "CobaltTechnolope",
     "attributeId": "ant1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-09-25"
@@ -1511,7 +1511,7 @@
   "MountAntelopeRank18_00Var2": {
     "hyperlinkId": "MasterTechnolope",
     "attributeId": "ant2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-09-25"
@@ -1519,7 +1519,7 @@
   "MountAntelopeRank18_01": {
     "hyperlinkId": "EpicTechnolope",
     "attributeId": "ant3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-09-25"
@@ -1527,7 +1527,7 @@
   "MountAntelopeRank18_01Var1": {
     "hyperlinkId": "EpicCobaltTechnolope",
     "attributeId": "ant4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-09-25"
@@ -1535,7 +1535,7 @@
   "MountAntelopeRank18_01Var2": {
     "hyperlinkId": "EpicMasterTechnolope",
     "attributeId": "ant5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-09-25"
@@ -1543,7 +1543,7 @@
   "MountAzmodanMadAxe18": {
     "hyperlinkId": "MountAzmodanMadAxe18",
     "attributeId": "AZT0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountAzmodanMadAxe18",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -1551,7 +1551,7 @@
   "MountAzmodanMadAxe18Var1": {
     "hyperlinkId": "MountAzmodanMadAxe18Var1",
     "attributeId": "AZT1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountAzmodanMadAxe18Var1",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -1559,7 +1559,7 @@
   "MountAzmodanMadAxe18Var2": {
     "hyperlinkId": "MountAzmodanMadAxe18Var2",
     "attributeId": "AZT2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountAzmodanMadAxe18Var2",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -1631,7 +1631,7 @@
   "MountBattleBeastEsport17Base": {
     "hyperlinkId": "ChaosLizard",
     "attributeId": "BAT0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -1639,7 +1639,7 @@
   "MountBattleBeastEsport17BaseVar1": {
     "hyperlinkId": "DeadlyChaosLizard",
     "attributeId": "BAT1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -1647,7 +1647,7 @@
   "MountBattleBeastEsport17BaseVar2": {
     "hyperlinkId": "ArcaneChaosLizard",
     "attributeId": "BAT2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -1655,7 +1655,7 @@
   "MountBattleBeastEsport17Epic": {
     "hyperlinkId": "EpicChaosLizard",
     "attributeId": "BAL0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -1663,7 +1663,7 @@
   "MountBattleBeastEsport17EpicVar1": {
     "hyperlinkId": "DeadlyEpicChaosLizard",
     "attributeId": "BAL1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -1671,7 +1671,7 @@
   "MountBattleBeastEsport17EpicVar2": {
     "hyperlinkId": "ArcaneEpicChaosLizard",
     "attributeId": "BAL2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -1679,7 +1679,7 @@
   "MountBattleBeastRankBase": {
     "hyperlinkId": "ElementalLizard",
     "attributeId": "BBR0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2016-07-12"
@@ -1687,7 +1687,7 @@
   "MountBattleBeastRankBaseVar1": {
     "hyperlinkId": "AzureElementalLizard",
     "attributeId": "BBR1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2016-07-12"
@@ -1695,7 +1695,7 @@
   "MountBattleBeastRankBaseVar2": {
     "hyperlinkId": "VerdantElementalLizard",
     "attributeId": "BBR2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2016-07-12"
@@ -1703,7 +1703,7 @@
   "MountBattleBeastRankEpic": {
     "hyperlinkId": "EpicElementalLizard",
     "attributeId": "BBR3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2016-07-12"
@@ -1711,7 +1711,7 @@
   "MountBattleBeastRankEpicVar1": {
     "hyperlinkId": "AzureEpicElementalLizard",
     "attributeId": "BBR4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2016-07-12"
@@ -1719,7 +1719,7 @@
   "MountBattleBeastRankEpicVar2": {
     "hyperlinkId": "VerdantEpicElementalLizard",
     "attributeId": "BBR5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2016-07-12"
@@ -1727,7 +1727,7 @@
   "MountBattleBeastTriceratops_00": {
     "hyperlinkId": "PrimalDirehorn",
     "attributeId": "TRI0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2018-07-10"
@@ -1735,7 +1735,7 @@
   "MountBattleBeastTriceratops_00Var1": {
     "hyperlinkId": "SholazarDirehorn",
     "attributeId": "TRI1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2018-07-10"
@@ -1743,7 +1743,7 @@
   "MountBattleBeastTriceratops_00Var2": {
     "hyperlinkId": "HellfireDirehorn",
     "attributeId": "TRI2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2018-07-10"
@@ -1751,7 +1751,7 @@
   "MountBattleBeastTriceratops_01": {
     "hyperlinkId": "EpicPrimalDirehorn",
     "attributeId": "TRI3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2018-07-10"
@@ -1759,7 +1759,7 @@
   "MountBattleBeastTriceratops_01Var1": {
     "hyperlinkId": "EpicSholazarDirehorn",
     "attributeId": "TRI4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2018-07-10"
@@ -1767,7 +1767,7 @@
   "MountBattleBeastTriceratops_01Var2": {
     "hyperlinkId": "EpicHellfireDirehorn",
     "attributeId": "TRI5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2018-07-10"
@@ -1775,7 +1775,7 @@
   "MountBearCelestial": {
     "hyperlinkId": "CelestialUrsa",
     "attributeId": "BEA8",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-27"
@@ -1783,7 +1783,7 @@
   "MountBearRank17Base": {
     "hyperlinkId": "EarthbreakerGrizzly",
     "attributeId": "BEA5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-09-05"
@@ -1791,7 +1791,7 @@
   "MountBearRank17BaseVar1": {
     "hyperlinkId": "DreambreakerGrizzly",
     "attributeId": "BEA6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-09-05"
@@ -1799,7 +1799,7 @@
   "MountBearRank17BaseVar2": {
     "hyperlinkId": "NetherbreakerGrizzly",
     "attributeId": "BEA7",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-09-05"
@@ -1807,7 +1807,7 @@
   "MountBearRank17Epic": {
     "hyperlinkId": "EpicEarthbreakerGrizzly",
     "attributeId": "BEAA",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-09-05"
@@ -1815,7 +1815,7 @@
   "MountBearRank17EpicVar1": {
     "hyperlinkId": "EpicDreambreakerGrizzly",
     "attributeId": "BEAB",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-09-05"
@@ -1823,7 +1823,7 @@
   "MountBearRank17EpicVar2": {
     "hyperlinkId": "EpicNetherbreakerGrizzly",
     "attributeId": "BEAC",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-09-05"
@@ -1855,7 +1855,7 @@
   "MountCatFire": {
     "hyperlinkId": "PrimalFlamesaber",
     "attributeId": "CAF0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-02-06"
@@ -1863,7 +1863,7 @@
   "MountCatFireVar1": {
     "hyperlinkId": "PrimalDreamsaber",
     "attributeId": "CAF1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-02-06"
@@ -1871,7 +1871,7 @@
   "MountCatFireVar2": {
     "hyperlinkId": "PrimalSandsaber",
     "attributeId": "CAF2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-02-06"
@@ -1879,7 +1879,7 @@
   "MountCatFireVar3": {
     "hyperlinkId": "MountCatFireVar3",
     "attributeId": "CAF3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-02-06"
@@ -1887,7 +1887,7 @@
   "MountCatFireVar4": {
     "hyperlinkId": "MountCatFireVar4",
     "attributeId": "CAF4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-02-06"
@@ -1960,7 +1960,7 @@
   "MountCrabRank18Base": {
     "hyperlinkId": "Deepcrawler",
     "attributeId": "Crb0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Beast",
     "releaseDate": "2018-12-11"
@@ -1968,7 +1968,7 @@
   "MountCrabRank18BaseVar1": {
     "hyperlinkId": "ReefDeepcrawler",
     "attributeId": "Crb1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Beast",
     "releaseDate": "2018-12-11"
@@ -1976,7 +1976,7 @@
   "MountCrabRank18BaseVar2": {
     "hyperlinkId": "CoralDeepcrawler",
     "attributeId": "Crb2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Beast",
     "releaseDate": "2018-12-11"
@@ -1984,7 +1984,7 @@
   "MountCrabRank18Epic": {
     "hyperlinkId": "EpicDeepcrawler",
     "attributeId": "Crb3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Beast",
     "releaseDate": "2018-12-11"
@@ -1992,7 +1992,7 @@
   "MountCrabRank18EpicVar1": {
     "hyperlinkId": "EpicReefDeepcrawler",
     "attributeId": "Crb4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Beast",
     "releaseDate": "2018-12-11"
@@ -2000,7 +2000,7 @@
   "MountCrabRank18EpicVar2": {
     "hyperlinkId": "EpicCoralDeepcrawler",
     "attributeId": "Crb5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Beast",
     "releaseDate": "2018-12-11"
@@ -2008,7 +2008,7 @@
   "MountDeer_Rank16_00": {
     "hyperlinkId": "ElementalStag",
     "attributeId": "DER0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-03-14"
@@ -2016,7 +2016,7 @@
   "MountDeer_Rank16_00Var1": {
     "hyperlinkId": "AzureElementalStag",
     "attributeId": "DER1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-03-14"
@@ -2024,7 +2024,7 @@
   "MountDeer_Rank16_00Var2": {
     "hyperlinkId": "VerdantElementalStag",
     "attributeId": "DER2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-03-14"
@@ -2032,7 +2032,7 @@
   "MountDeer_Rank16_01": {
     "hyperlinkId": "EpicElementalStag",
     "attributeId": "DER3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-03-14"
@@ -2040,7 +2040,7 @@
   "MountDeer_Rank16_01Var1": {
     "hyperlinkId": "AzureEpicElementalStag",
     "attributeId": "DER4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-03-14"
@@ -2048,7 +2048,7 @@
   "MountDeer_Rank16_01Var2": {
     "hyperlinkId": "VerdantEpicElementalStag",
     "attributeId": "DER5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-03-14"
@@ -2080,7 +2080,7 @@
   "MountDirewolf_Esport17Epic": {
     "hyperlinkId": "EpicChaosWolf",
     "attributeId": "DIL0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -2088,7 +2088,7 @@
   "MountDirewolf_Esport17EpicVar1": {
     "hyperlinkId": "DeadlyEpicChaosWolf",
     "attributeId": "DIL1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -2096,7 +2096,7 @@
   "MountDirewolf_Esport17EpicVar2": {
     "hyperlinkId": "FuriousEpicChaosWolf",
     "attributeId": "DIL2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -2104,7 +2104,7 @@
   "MountDirewolf_Esport17_00": {
     "hyperlinkId": "ChaosWolf",
     "attributeId": "DIO0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -2112,7 +2112,7 @@
   "MountDirewolf_Esport17_00Var1": {
     "hyperlinkId": "DeadlyChaosWolf",
     "attributeId": "DIO1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -2120,7 +2120,7 @@
   "MountDirewolf_Esport17_00Var2": {
     "hyperlinkId": "FuriousChaosWolf",
     "attributeId": "DIO2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-07-11"
@@ -2128,7 +2128,7 @@
   "MountDirewolf_Rank15_00": {
     "hyperlinkId": "ElementalWolf",
     "attributeId": "DIE0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-14"
@@ -2136,7 +2136,7 @@
   "MountDirewolf_Rank15_00Var1": {
     "hyperlinkId": "AzureElementalWolf",
     "attributeId": "DIE1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-14"
@@ -2144,7 +2144,7 @@
   "MountDirewolf_Rank15_00Var2": {
     "hyperlinkId": "VerdantElementalWolf",
     "attributeId": "DIE2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-14"
@@ -2152,7 +2152,7 @@
   "MountDirewolf_Rank15_01": {
     "hyperlinkId": "EpicElementalWolf",
     "attributeId": "DIW0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-14"
@@ -2160,7 +2160,7 @@
   "MountDirewolf_Rank15_01Var1": {
     "hyperlinkId": "AzureEpicElementalWolf",
     "attributeId": "DIW1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-14"
@@ -2168,7 +2168,7 @@
   "MountDirewolf_Rank15_01Var2": {
     "hyperlinkId": "VerdantEpicElementalWolf",
     "attributeId": "DIW2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-14"
@@ -2176,7 +2176,7 @@
   "MountDirewolf_Rank15_01Var5": {
     "hyperlinkId": "EpicCrimsonChaosWolf",
     "attributeId": "DIW5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-08-21"
@@ -2208,7 +2208,7 @@
   "MountDogBandage19": {
     "hyperlinkId": "BarkoPolo",
     "attributeId": "DBG0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2019-01-22"
@@ -2357,7 +2357,7 @@
   "MountFenixBase": {
     "hyperlinkId": "MountFenixBase",
     "attributeId": "FeCM",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountFenixBase",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -2365,7 +2365,7 @@
   "MountGoatAdultBillie": {
     "hyperlinkId": "WonderWilliam",
     "attributeId": "Goa0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-10-30"
@@ -2373,7 +2373,7 @@
   "MountGoatBirthday19": {
     "hyperlinkId": "HappyBirthdayBillie",
     "attributeId": "Goa7",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2019-05-28"
@@ -2482,7 +2482,7 @@
   "MountHellBillie": {
     "hyperlinkId": "HellBillie",
     "attributeId": "HlB0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-02"
@@ -2490,7 +2490,7 @@
   "MountHellBillieVar1": {
     "hyperlinkId": "MagentaHellBillie",
     "attributeId": "HlB1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-02"
@@ -2498,7 +2498,7 @@
   "MountHellBillieVar2": {
     "hyperlinkId": "CrimsonHellBillie",
     "attributeId": "HlB2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-06-02"
@@ -2613,7 +2613,7 @@
   "MountKelThuzadWake": {
     "hyperlinkId": "UnrelentingFrost",
     "attributeId": "KEL0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountKelThuzadWake",
     "category": "Unique",
     "releaseDate": "2017-01-01"
@@ -2621,7 +2621,7 @@
   "MountKelThuzadWakeVar1": {
     "hyperlinkId": "MountKelThuzadWake",
     "attributeId": "KEL1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountKelThuzadWake",
     "category": "Unique",
     "releaseDate": "2017-01-01"
@@ -2629,7 +2629,7 @@
   "MountKelThuzadWakeVar2": {
     "hyperlinkId": "MountKelThuzadWake",
     "attributeId": "KEL2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountKelThuzadWake",
     "category": "Unique",
     "releaseDate": "2017-01-01"
@@ -2664,7 +2664,7 @@
   "MountLion_Rank16_00": {
     "hyperlinkId": "ElementalLion",
     "attributeId": "LIO4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-12-14"
@@ -2672,7 +2672,7 @@
   "MountLion_Rank16_00_Var1": {
     "hyperlinkId": "AzureElementalLion",
     "attributeId": "LIO5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-12-14"
@@ -2680,7 +2680,7 @@
   "MountLion_Rank16_00_Var2": {
     "hyperlinkId": "VerdantElementalLion",
     "attributeId": "LIO6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-12-14"
@@ -2688,7 +2688,7 @@
   "MountLion_Rank16_00_Var3": {
     "hyperlinkId": "ArcaneElementalLion",
     "attributeId": "LIO7",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-05-22"
@@ -2696,7 +2696,7 @@
   "MountLion_Rank16_00_Var4": {
     "hyperlinkId": "ChaosLion",
     "attributeId": "LIOC",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-05-22"
@@ -2704,7 +2704,7 @@
   "MountLion_Rank16_00_Var5": {
     "hyperlinkId": "GoldenChaosLion",
     "attributeId": "LIOD",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-05-22"
@@ -2712,7 +2712,7 @@
   "MountLion_Rank16_01": {
     "hyperlinkId": "EpicElementalLion",
     "attributeId": "LIO8",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-12-14"
@@ -2720,7 +2720,7 @@
   "MountLion_Rank16_01_Var1": {
     "hyperlinkId": "AzureEpicElementalLion",
     "attributeId": "LIO9",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-12-14"
@@ -2728,7 +2728,7 @@
   "MountLion_Rank16_01_Var2": {
     "hyperlinkId": "VerdantEpicElementalLion",
     "attributeId": "LIOA",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-12-14"
@@ -2736,7 +2736,7 @@
   "MountLion_Rank16_01_Var3": {
     "hyperlinkId": "EpicElementalLion",
     "attributeId": "LIOB",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-12-14"
@@ -2744,7 +2744,7 @@
   "MountLion_Rank16_01_Var4": {
     "hyperlinkId": "EpicChaosLion",
     "attributeId": "LIOE",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-05-22"
@@ -2752,7 +2752,7 @@
   "MountLion_Rank16_01_Var5": {
     "hyperlinkId": "EpicGoldenChaosLion",
     "attributeId": "LIOF",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-05-22"
@@ -2792,7 +2792,7 @@
   "MountMephistoBase": {
     "hyperlinkId": "MountMephistoBase",
     "attributeId": "MeCM",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountMephistoBase",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -2800,7 +2800,7 @@
   "MountNexagonFAL16": {
     "hyperlinkId": "2016FallFinalsNexagon",
     "attributeId": "NEX1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2016-12-14"
@@ -2808,7 +2808,7 @@
   "MountNexagonMadAxe18": {
     "hyperlinkId": "Ripper",
     "attributeId": "NEX3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Mechanical",
     "releaseDate": "2018-07-24"
@@ -2816,7 +2816,7 @@
   "MountNexagonMadAxe18Var3": {
     "hyperlinkId": "ScavengersRipper",
     "attributeId": "NEX9",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Mechanical",
     "releaseDate": "2019-08-06"
@@ -2824,7 +2824,7 @@
   "MountNexagonMadAxe18Var4": {
     "hyperlinkId": "OutridersRipper",
     "attributeId": "NEXA",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Mechanical",
     "releaseDate": "2019-08-06"
@@ -2832,7 +2832,7 @@
   "MountNexagonMadAxe18Var5": {
     "hyperlinkId": "SoldiersRipper",
     "attributeId": "NEXB",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Mechanical",
     "releaseDate": "2019-08-06"
@@ -2840,7 +2840,7 @@
   "MountNexagonMSB18": {
     "hyperlinkId": "2018MidSeasonBrawlNexagon",
     "attributeId": "NEX6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2018-08-07"
@@ -2848,7 +2848,7 @@
   "MountNexagonOverwatch": {
     "hyperlinkId": "OverwatchNexagon",
     "attributeId": "NEX2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2017-04-25"
@@ -2856,7 +2856,7 @@
   "MountNexagonSpooky18": {
     "hyperlinkId": "RedeemedTombstone",
     "attributeId": "NEX7",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "SeasonalEvents",
     "releaseDate": "2018-09-25"
@@ -2864,7 +2864,7 @@
   "MountNexagonSpooky18Var1": {
     "hyperlinkId": "CorruptedTombstone",
     "attributeId": "NEX8",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "SeasonalEvents",
     "releaseDate": "2018-09-25"
@@ -2872,7 +2872,7 @@
   "MountNexagonSPR16": {
     "hyperlinkId": "2016SpringFinalsNexagon",
     "attributeId": "NXS0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2016-04-19"
@@ -2880,7 +2880,7 @@
   "MountNexagonSUM16": {
     "hyperlinkId": "2016SummerFinalsNexagon",
     "attributeId": "NEX0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2016-07-12"
@@ -2912,7 +2912,7 @@
   "MountPigNexus": {
     "hyperlinkId": "NexusRazorback",
     "attributeId": "PIF4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2017-10-17"
@@ -2991,7 +2991,7 @@
   "MountPig_Rank18_00": {
     "hyperlinkId": "ElementalBoar",
     "attributeId": "PIG0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -2999,7 +2999,7 @@
   "MountPig_Rank18_00Var1": {
     "hyperlinkId": "AzureElementalBoar",
     "attributeId": "PIG2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3007,7 +3007,7 @@
   "MountPig_Rank18_00Var2": {
     "hyperlinkId": "VerdantElementalBoar",
     "attributeId": "PIG3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3015,7 +3015,7 @@
   "MountPig_Rank18_00Var3": {
     "hyperlinkId": "MountPig_Rank18_00Var3",
     "attributeId": "PIG4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3023,7 +3023,7 @@
   "MountPig_Rank18_00Var4": {
     "hyperlinkId": "MountPig_Rank18_00Var4",
     "attributeId": "PIG5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3031,7 +3031,7 @@
   "MountPig_Rank18_01": {
     "hyperlinkId": "EpicElementalBoar",
     "attributeId": "PIG1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3039,7 +3039,7 @@
   "MountPig_Rank18_01Var1": {
     "hyperlinkId": "AzureEpicElementalBoar",
     "attributeId": "PIG6",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3047,7 +3047,7 @@
   "MountPig_Rank18_01Var2": {
     "hyperlinkId": "VerdantEpicElementalBoar",
     "attributeId": "PIG7",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3055,7 +3055,7 @@
   "MountPig_Rank18_01Var3": {
     "hyperlinkId": "MountPig_Rank18_01Var3",
     "attributeId": "PIG8",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3063,7 +3063,7 @@
   "MountPig_Rank18_01Var4": {
     "hyperlinkId": "MountPig_Rank18_01Var4",
     "attributeId": "PIG9",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-03-06"
@@ -3071,7 +3071,7 @@
   "MountRagnarosWake": {
     "hyperlinkId": "MoltenFlow",
     "attributeId": "RAG0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountRagnarosWake",
     "category": "Unique",
     "releaseDate": "2015-01-01"
@@ -3079,7 +3079,7 @@
   "MountRagnarosWakeVar1": {
     "hyperlinkId": "MountRagnarosWake",
     "attributeId": "RAG1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountRagnarosWake",
     "category": "Unique",
     "releaseDate": "2015-01-01"
@@ -3087,7 +3087,7 @@
   "MountRagnarosWakeVar2": {
     "hyperlinkId": "MountRagnarosWake",
     "attributeId": "RAG2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountRagnarosWake",
     "category": "Unique",
     "releaseDate": "2015-01-01"
@@ -3127,7 +3127,7 @@
   "MountRamWCAV_00": {
     "hyperlinkId": "MountRamWCAV_00",
     "attributeId": "ral0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-06-12"
@@ -3135,7 +3135,7 @@
   "MountRamWCAV_00Var3": {
     "hyperlinkId": "StormpikeRam",
     "attributeId": "ral3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-06-12"
@@ -3167,7 +3167,7 @@
   "MountRank17BaseHorse": {
     "hyperlinkId": "TitaniumCybersteed",
     "attributeId": "HorA",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-12-19"
@@ -3175,7 +3175,7 @@
   "MountRank17BaseHorseVar1": {
     "hyperlinkId": "CarbonCybersteed",
     "attributeId": "HorB",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-12-19"
@@ -3183,7 +3183,7 @@
   "MountRank17BaseHorseVar2": {
     "hyperlinkId": "SpectrumCybersteed",
     "attributeId": "HorC",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2018-01-09"
@@ -3191,7 +3191,7 @@
   "MountRank17BaseHorseVar3": {
     "hyperlinkId": "MasterCybersteed",
     "attributeId": "HorD",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-12-19"
@@ -3199,7 +3199,7 @@
   "MountRank17BaseHorseVar4": {
     "hyperlinkId": "GoldenCybersteed",
     "attributeId": "HorE",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2018-01-09"
@@ -3207,7 +3207,7 @@
   "MountRank17EpicHorse": {
     "hyperlinkId": "EpicTitaniumCybersteed",
     "attributeId": "HorF",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-12-19"
@@ -3215,7 +3215,7 @@
   "MountRank17EpicHorseVar1": {
     "hyperlinkId": "EpicCarbonCybersteed",
     "attributeId": "HorG",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-12-19"
@@ -3223,7 +3223,7 @@
   "MountRank17EpicHorseVar2": {
     "hyperlinkId": "EpicSpectrumCybersteed",
     "attributeId": "HorH",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2018-01-09"
@@ -3231,7 +3231,7 @@
   "MountRank17EpicHorseVar3": {
     "hyperlinkId": "EpicMasterCybersteed",
     "attributeId": "HorI",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2017-12-19"
@@ -3239,7 +3239,7 @@
   "MountRank17EpicHorseVar4": {
     "hyperlinkId": "EpicGoldenCybersteed",
     "attributeId": "HorK",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2018-01-09"
@@ -3247,7 +3247,7 @@
   "MountRaptorCelestial": {
     "hyperlinkId": "CelestialRaptor",
     "attributeId": "RAPA",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-09-26"
@@ -3255,7 +3255,7 @@
   "MountRaptor_Rank17_00": {
     "hyperlinkId": "BattleRaptor",
     "attributeId": "RAP0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-06-13"
@@ -3263,7 +3263,7 @@
   "MountRaptor_Rank17_00Var1": {
     "hyperlinkId": "CrimsonBattleRaptor",
     "attributeId": "RAP2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-06-13"
@@ -3271,7 +3271,7 @@
   "MountRaptor_Rank17_00Var2": {
     "hyperlinkId": "DeadlyBattleRaptor",
     "attributeId": "RAP3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-06-13"
@@ -3279,7 +3279,7 @@
   "MountRaptor_Rank17_01": {
     "hyperlinkId": "EpicBattleRaptor",
     "attributeId": "RAP1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-06-13"
@@ -3287,7 +3287,7 @@
   "MountRaptor_Rank17_01Var1": {
     "hyperlinkId": "CrimsonEpicBattleRaptor",
     "attributeId": "RAP4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-06-13"
@@ -3295,7 +3295,7 @@
   "MountRaptor_Rank17_01Var2": {
     "hyperlinkId": "DeadlyEpicBattleRaptor",
     "attributeId": "RAP5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2017-06-13"
@@ -3384,7 +3384,7 @@
   "MountRoosterLunar19": {
     "hyperlinkId": "CourageousRooster",
     "attributeId": "Ros2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2019-08-06"
@@ -3392,7 +3392,7 @@
   "MountRoosterLunar19Var1": {
     "hyperlinkId": "ValiantRooster",
     "attributeId": "Ros3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2019-08-06"
@@ -3400,7 +3400,7 @@
   "MountRoosterLunar19Var2": {
     "hyperlinkId": "VictoriousRooster",
     "attributeId": "Ros4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2019-08-06"
@@ -3424,7 +3424,7 @@
   "MountSnakeCelestial": {
     "hyperlinkId": "CelestialSerpent",
     "attributeId": "CEL0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Magical",
     "releaseDate": "2018-09-04"
@@ -3507,7 +3507,7 @@
   "MountSpeederBikeOni": {
     "hyperlinkId": "OrochiHovercycle",
     "attributeId": "ONI0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2016-11-15"
@@ -3515,7 +3515,7 @@
   "MountSpeederBikeOniVar1": {
     "hyperlinkId": "CrimsonOrochiHovercycle",
     "attributeId": "ONI1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2016-11-15"
@@ -3523,7 +3523,7 @@
   "MountSpeederBikeOniVar2": {
     "hyperlinkId": "AzureOrochiHovercycle",
     "attributeId": "ONI2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2016-11-15"
@@ -3531,7 +3531,7 @@
   "MountSpeederBikeOniVar3": {
     "hyperlinkId": "SlipstreamOrochiHovercyle",
     "attributeId": "ONI3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2016-11-15"
@@ -3539,7 +3539,7 @@
   "MountSpeederBikeOniVar4": {
     "hyperlinkId": "SpectreOrochiHovercyle",
     "attributeId": "ONI4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2016-11-15"
@@ -3547,7 +3547,7 @@
   "MountSpeederBikeOniVar5": {
     "hyperlinkId": "CyberOrochiHovercyle",
     "attributeId": "ONI5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2016-11-15"
@@ -3564,7 +3564,7 @@
   "MountSpeederBikePolice": {
     "hyperlinkId": "BusanPoliceHovercycle",
     "attributeId": "SBP0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2017-04-25"
@@ -3572,7 +3572,7 @@
   "MountSpeederBikePoliceVar1": {
     "hyperlinkId": "SuperchargedPoliceHovercycle",
     "attributeId": "SBP1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2017-04-25"
@@ -3580,7 +3580,7 @@
   "MountSpeederBikePoliceVar2": {
     "hyperlinkId": "RangerPoliceHovercycle",
     "attributeId": "SBP2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2017-04-25"
@@ -3738,7 +3738,7 @@
   "MountSurfboardCelestial": {
     "hyperlinkId": "CelestialSurfboard",
     "attributeId": "SUB5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "releaseDate": "2018-12-11"
@@ -3836,7 +3836,7 @@
   "MountSurfNexusShark": {
     "hyperlinkId": "NexusRazorgrin",
     "attributeId": "SNS0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Beast",
     "releaseDate": "2018-09-25"
@@ -3844,7 +3844,7 @@
   "MountSurfShark18": {
     "hyperlinkId": "GreatRazorgrin",
     "attributeId": "SSK0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "SeasonalEvents",
     "releaseDate": "2018-05-29"
@@ -3852,7 +3852,7 @@
   "MountSurfShark18Var1": {
     "hyperlinkId": "CoastalSharkShark18Surfboard",
     "attributeId": "SSK1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
@@ -3861,7 +3861,7 @@
   "MountSurfShark18Var2": {
     "hyperlinkId": "FelRazorgrin",
     "attributeId": "SSK2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "SeasonalEvents",
     "event": "LTO",
@@ -3870,7 +3870,7 @@
   "MountSurfShark18Var3": {
     "hyperlinkId": "CoastalSharkShark18Surfboard",
     "attributeId": "SSK3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
@@ -3879,7 +3879,7 @@
   "MountTigerNexus": {
     "hyperlinkId": "NexusTiger",
     "attributeId": "NEU0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-10-25"
@@ -3887,7 +3887,7 @@
   "MountTigerNexusVar1": {
     "hyperlinkId": "AmberNexusTiger",
     "attributeId": "NEU1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-10-25"
@@ -3895,7 +3895,7 @@
   "MountTigerNexusVar2": {
     "hyperlinkId": "VioletNexusTiger",
     "attributeId": "NEU2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2016-10-25"
@@ -3903,7 +3903,7 @@
   "MountTurtleRankSpr19Base": {
     "hyperlinkId": "ArcadianWarTurtle",
     "attributeId": "TUR0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2019-03-26"
@@ -3911,7 +3911,7 @@
   "MountTurtleRankSpr19BaseVar1": {
     "hyperlinkId": "JadeArcadianWarTurtle",
     "attributeId": "TUR1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2019-03-26"
@@ -3919,7 +3919,7 @@
   "MountTurtleRankSpr19BaseVar2": {
     "hyperlinkId": "SandyArcadianWarTurtle",
     "attributeId": "TUR2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2019-03-26"
@@ -3927,7 +3927,7 @@
   "MountTurtleRankSpr19Epic": {
     "hyperlinkId": "EpicArcadianWarTurtle",
     "attributeId": "TUR3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2019-03-26"
@@ -3935,7 +3935,7 @@
   "MountTurtleRankSpr19EpicVar1": {
     "hyperlinkId": "EpicJadeArcadianWarTurtle",
     "attributeId": "TUR4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2019-03-26"
@@ -3943,7 +3943,7 @@
   "MountTurtleRankSpr19EpicVar2": {
     "hyperlinkId": "EpicSandyArcadianWarTurtle",
     "attributeId": "TUR5",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Beast",
     "releaseDate": "2019-03-26"
@@ -3959,7 +3959,7 @@
   "MountWarhorseChess": {
     "hyperlinkId": "Glitchsteed",
     "attributeId": "War0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2018-03-27"
@@ -3967,7 +3967,7 @@
   "MountWarhorseHGC18": {
     "hyperlinkId": "2018HGCFinalsSteed",
     "attributeId": "HGC0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2018-12-11"
@@ -3999,7 +3999,7 @@
   "MountWhitemaneCat": {
     "hyperlinkId": "MountWhitemaneCat",
     "attributeId": "WHC0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "MountWhitemaneCat",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -4031,7 +4031,7 @@
   "MountWolfWCAV_00": {
     "hyperlinkId": "MountWolfWCAV_00",
     "attributeId": "whr0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-06-12"
@@ -4039,7 +4039,7 @@
   "MountWolfWCAV_00Var4": {
     "hyperlinkId": "SwiftFrostwolf",
     "attributeId": "whr4",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2018-06-12"
@@ -4095,7 +4095,7 @@
   "Nazeebra": {
     "hyperlinkId": "Nazeebra",
     "attributeId": "Nzbr",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-03-13"
@@ -4103,7 +4103,7 @@
   "NazeebraGreen": {
     "hyperlinkId": "ToxicNazeebra",
     "attributeId": "Nzb2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-03-13"
@@ -4111,7 +4111,7 @@
   "NazeebraRed": {
     "hyperlinkId": "CrimsonNazeebra",
     "attributeId": "Nzb1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-03-13"
@@ -4119,7 +4119,7 @@
   "NexusCharger": {
     "hyperlinkId": "NexusCharger",
     "attributeId": "Nxc1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-10-07"
@@ -4135,7 +4135,7 @@
   "NexusChargerOrange": {
     "hyperlinkId": "AmberNexusCharger",
     "attributeId": "Nxc3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-10-07"
@@ -4143,7 +4143,7 @@
   "NexusChargerViolet": {
     "hyperlinkId": "VioletNexusCharger",
     "attributeId": "Nxc2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Horse",
     "releaseDate": "2014-10-07"
@@ -4283,7 +4283,7 @@
   "SpiderMountBlack": {
     "hyperlinkId": "OnyxMechanospider",
     "attributeId": "Spi2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Mechanical",
     "releaseDate": "2015-06-09"
@@ -4291,7 +4291,7 @@
   "SpiderMountRed": {
     "hyperlinkId": "CrimsonMechanospider",
     "attributeId": "Spi3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebeast",
     "category": "Mechanical",
     "releaseDate": "2015-06-09"
@@ -4347,7 +4347,7 @@
   "TigerGold": {
     "hyperlinkId": "GoldenTiger",
     "attributeId": "Tigr",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-05-12"
@@ -4355,7 +4355,7 @@
   "TigerGoldChrome": {
     "hyperlinkId": "ChromeTiger",
     "attributeId": "Tig2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-05-12"
@@ -4363,7 +4363,7 @@
   "TigerGoldObsidian": {
     "hyperlinkId": "ObsidianTiger",
     "attributeId": "Tig1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-05-12"
@@ -4389,7 +4389,7 @@
   "TreasureGoblin": {
     "hyperlinkId": "TreasureGoblin",
     "attributeId": "TrGo",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-08-18"
@@ -4397,7 +4397,7 @@
   "TreasureGoblinPurple": {
     "hyperlinkId": "GreenTreasureGoblin",
     "attributeId": "TrG2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-08-18"
@@ -4405,7 +4405,7 @@
   "TreasureGoblinVar3": {
     "hyperlinkId": "GoldenTreasureGoblin",
     "attributeId": "TrG0",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-08-18"
@@ -4413,7 +4413,7 @@
   "TreasureGoblinWhite": {
     "hyperlinkId": "OrangeTreasureGoblin",
     "attributeId": "TrG3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ride",
     "category": "Beast",
     "releaseDate": "2015-08-18"
@@ -4430,7 +4430,7 @@
   "TyraelMechaJetpackForm": {
     "hyperlinkId": "TyraelMechaJetpackForm",
     "attributeId": "TMJF",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "TyraelMechaJetpackForm",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -4462,7 +4462,7 @@
   "VoidSpeeder": {
     "hyperlinkId": "VoidSpeeder",
     "attributeId": "VSp1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Mechanical",
     "releaseDate": "2015-10-06"
@@ -4470,7 +4470,7 @@
   "VoidSpeederBlue": {
     "hyperlinkId": "CyanVoidSpeeder",
     "attributeId": "VSp2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Mechanical",
     "releaseDate": "2015-10-06"
@@ -4478,7 +4478,7 @@
   "VoidSpeederPurple": {
     "hyperlinkId": "VioletVoidSpeeder",
     "attributeId": "VSp3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Mechanical",
     "releaseDate": "2015-10-06"
@@ -4486,7 +4486,7 @@
   "Vulture": {
     "hyperlinkId": "Vulture",
     "attributeId": "Vul1",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2015-10-06"
@@ -4518,7 +4518,7 @@
   "VultureBaseVar1": {
     "hyperlinkId": "DominionVulture",
     "attributeId": "Vul2",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2015-10-06"
@@ -4526,7 +4526,7 @@
   "VultureBaseVar2": {
     "hyperlinkId": "SpectreVulture",
     "attributeId": "Vul3",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridebike",
     "category": "Mechanical",
     "releaseDate": "2015-10-06"
@@ -4534,7 +4534,7 @@
   "ZagaraWings": {
     "hyperlinkId": "BroodmotherFlight",
     "attributeId": "Zaga",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "ZagaraWings",
     "category": "Unique",
     "releaseDate": "2014-03-13"
@@ -4542,7 +4542,7 @@
   "ZergDoubloon": {
     "hyperlinkId": "SwarmsDoubloon",
     "attributeId": "ZgDb",
-    "rarity": "None",
+    "rarity": "Common",
     "type": "Ridesurf",
     "category": "Magical",
     "event": "LTO",

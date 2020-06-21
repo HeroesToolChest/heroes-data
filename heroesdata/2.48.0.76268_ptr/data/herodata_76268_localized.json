@@ -917,6 +917,9 @@
           "abilityType": "Heroic",
           "isActive": true,
           "sort": 1,
+          "abilityTalentLinkIds": [
+            "AlarakCounterStrikeTargeted"
+          ],
           "prerequisiteTalentIds": [
             "AlarakDeadlyChargeFirstHeroic"
           ]
@@ -1222,7 +1225,8 @@
           "isActive": true,
           "sort": 2,
           "abilityTalentLinkIds": [
-            "AlexstraszaCleansingFlame"
+            "AlexstraszaCleansingFlame",
+            "AlexstraszaCleansingFlameDragonqueen"
           ]
         }
       ],
@@ -27327,7 +27331,7 @@
     },
     "subAbilities": [
       {
-        "RehgarEarthbindTotemColossalTotem|RehgarEarthbindTotemColossalTotem": {
+        "RehgarEarthbindTotem|RehgarEarthbindTotem|E": {
           "basic": [
             {
               "nameId": "RehgarTotemicProjection",
@@ -28592,15 +28596,7 @@
     },
     "subAbilities": [
       {
-        "SgtHammerSiegeMode|SgtHammerSiegeMode|Trait": {
-          "basic": [
-            {
-              "nameId": "SgtHammerSpiderMinesSiegeMode",
-              "buttonId": "SgtHammerSpiderMines",
-              "icon": "storm_ui_icon_sgthammer_spidermines.png",
-              "abilityType": "Q"
-            }
-          ],
+        "SgtHammerNapalmStrike|SgtHammerNapalmStrike|Heroic": {
           "heroic": [
             {
               "nameId": "SgtHammerNapalmStrikeSiege",
@@ -28608,23 +28604,35 @@
               "icon": "storm_ui_icon_sgthammer_napalmstrike.png",
               "abilityType": "Heroic"
             }
-          ],
-          "trait": [
+          ]
+        },
+        "SgtHammerSpiderMines|SgtHammerSpiderMines|Q": {
+          "basic": [
             {
-              "nameId": "SgtHammerTankMode",
-              "buttonId": "SgtHammerTankMode",
-              "icon": "storm_ui_icon_sgthammer_tankmode.png",
-              "abilityType": "Trait"
+              "nameId": "SgtHammerSpiderMinesSiegeMode",
+              "buttonId": "SgtHammerSpiderMines",
+              "icon": "storm_ui_icon_sgthammer_spidermines.png",
+              "abilityType": "Q"
             }
           ]
         },
-        "SgtHammerConcussiveBlastEntrenched|SgtHammerConcussiveBlastEntrenchedTalent": {
+        "SgtHammerConcussiveBlast|SgtHammerConcussiveBlast|W": {
           "basic": [
             {
               "nameId": "ConcussiveBlastScrapCancel",
               "buttonId": "SgtHammerConcussiveBlastBarricadeCancel",
               "icon": "hud_btn_bg_ability_cancel.png",
               "abilityType": "W"
+            }
+          ]
+        },
+        "SgtHammerSiegeMode|SgtHammerSiegeMode|Trait": {
+          "trait": [
+            {
+              "nameId": "SgtHammerTankMode",
+              "buttonId": "SgtHammerTankMode",
+              "icon": "storm_ui_icon_sgthammer_tankmode.png",
+              "abilityType": "Trait"
             }
           ]
         }

@@ -2332,7 +2332,7 @@
   "SprayDefaultHGCLogo": {
     "hyperlinkId": "SprayDefaultHGCLogo",
     "attributeId": "SY99",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_esports_hgclogo.png"
@@ -2418,7 +2418,7 @@
   "SprayMecha19picture": {
     "hyperlinkId": "MechaBestFriends",
     "attributeId": "SY5Y",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-06-18",
     "image": "storm_lootspray_mecha19_picture.png"
@@ -2426,7 +2426,7 @@
   "SprayMecha19VallaBack": {
     "hyperlinkId": "BattlefortheFuture",
     "attributeId": "SY5Z",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-06-18",
     "image": "storm_lootspray_mecha19_vallaback.png"
@@ -2434,7 +2434,7 @@
   "SprayMecha19VallaR": {
     "hyperlinkId": "MechaPilotValla",
     "attributeId": "SY5g",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-06-18",
     "image": "storm_lootspray_mecha19_vallar.png"
@@ -2478,7 +2478,7 @@
   "SprayMecha19YrelR": {
     "hyperlinkId": "MechaPilotYrel",
     "attributeId": "SY5h",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-06-18",
     "image": "storm_lootspray_mecha19_yrelr.png"
@@ -2486,7 +2486,7 @@
   "SprayMecha19YrelToast": {
     "hyperlinkId": "LatetoClassYrel",
     "attributeId": "SY5i",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-06-18",
     "image": "storm_lootspray_mecha19_yreltoast.png"
@@ -2494,7 +2494,7 @@
   "SprayStaticAbathurSlugLife": {
     "hyperlinkId": "SlugLife",
     "attributeId": "SY3P",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_abathur_sluglife.png"
@@ -2502,7 +2502,7 @@
   "SprayStaticAnaCheer": {
     "hyperlinkId": "Cheer",
     "attributeId": "SYa7",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_ana_cheer.png"
@@ -2510,7 +2510,7 @@
   "SprayStaticAnaGaze": {
     "hyperlinkId": "Gaze",
     "attributeId": "SYa8",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_ana_gaze.png"
@@ -2518,7 +2518,7 @@
   "SprayStaticAnaGrenade": {
     "hyperlinkId": "Grenade",
     "attributeId": "SYa9",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_ana_grenade.png"
@@ -2526,7 +2526,7 @@
   "SprayStaticAnaIcon": {
     "hyperlinkId": "AnaIcon",
     "attributeId": "SYaa",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_ana_icon.png"
@@ -2534,7 +2534,7 @@
   "SprayStaticAnaShhh": {
     "hyperlinkId": "Shhh",
     "attributeId": "SYab",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_ana_shhh.png"
@@ -2542,7 +2542,7 @@
   "SprayStaticAnaWedjat": {
     "hyperlinkId": "Wedjat",
     "attributeId": "SYac",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_ana_wedjat.png"
@@ -2550,7 +2550,7 @@
   "SprayStaticAnniversary2018": {
     "hyperlinkId": "3rdYearAnniversary",
     "attributeId": "SY1N",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_anniversary_2018.png"
@@ -2558,7 +2558,7 @@
   "SprayStaticAnniversary2nd": {
     "hyperlinkId": "2ndYearAnniversarySpray",
     "attributeId": "SY07",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-05-16",
     "image": "storm_lootspray_static_anniversary_2nd.png"
@@ -2566,7 +2566,7 @@
   "SprayStaticAnniversary4th": {
     "hyperlinkId": "4thYearAnniversary",
     "attributeId": "SYf7",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2019-04-30",
     "image": "storm_lootspray_static_anniversary_4th.png"
@@ -2574,7 +2574,7 @@
   "SprayStaticBlizzcon18NexusShark": {
     "hyperlinkId": "CartoonNexusRazorgrin",
     "attributeId": "SY2U",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-09-25",
     "image": "storm_lootspray_static_blizzcon18_nexusshark.png"
@@ -2582,7 +2582,7 @@
   "SprayStaticBlizzcon19NexusHeart": {
     "hyperlinkId": "NexusHeart",
     "attributeId": "SY9N",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2019-09-24",
     "image": "storm_lootspray_static_blizzcon19_nexusheart.png"
@@ -2590,7 +2590,7 @@
   "SprayStaticBlizzconBoarAchievement": {
     "hyperlinkId": "CartoonNexusRazorback",
     "attributeId": "SYce",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-10-17",
     "image": "storm_lootspray_static_blizzcon_boar_achievement.png"
@@ -2598,7 +2598,7 @@
   "SprayStaticCallOfKTCryptZerg": {
     "hyperlinkId": "ScourgeRush",
     "attributeId": "SY7e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_cryptzerg.png"
@@ -2606,7 +2606,7 @@
   "SprayStaticCallOfKTCultOfTheDamned": {
     "hyperlinkId": "CultoftheDamned",
     "attributeId": "SY7f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_cultofthedamned.png"
@@ -2614,7 +2614,7 @@
   "SprayStaticCallOfKTDeathBarbarian": {
     "hyperlinkId": "KnightoftheLivingDead",
     "attributeId": "SY80",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_deathbarbarian.png"
@@ -2622,7 +2622,7 @@
   "SprayStaticCallOfKTHeiganAchievement": {
     "hyperlinkId": "NecromancersBlight",
     "attributeId": "SY81",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_heigan_achievement.png"
@@ -2630,7 +2630,7 @@
   "SprayStaticCallOfKTJainaInfernal": {
     "hyperlinkId": "InfernalsRock",
     "attributeId": "SY82",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_jainainfernal.png"
@@ -2638,7 +2638,7 @@
   "SprayStaticCallOfKTLoathebMushrooms": {
     "hyperlinkId": "OhtheSporror",
     "attributeId": "SY83",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_loathebmushrooms.png"
@@ -2646,7 +2646,7 @@
   "SprayStaticCallOfKTMrBigglesworth": {
     "hyperlinkId": "MeowofMrBigglesworth",
     "attributeId": "SY8a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_mrbigglesworth.png"
@@ -2654,7 +2654,7 @@
   "SprayStaticCallOfKTNaxBanner": {
     "hyperlinkId": "Naxxramas",
     "attributeId": "SY8b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_naxbanner.png"
@@ -2662,7 +2662,7 @@
   "SprayStaticCallOfKTPatchwerk": {
     "hyperlinkId": "PatchwerkNotStitches",
     "attributeId": "SY8c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_patchwerk.png"
@@ -2670,7 +2670,7 @@
   "SprayStaticCallOfKTSapphiron": {
     "hyperlinkId": "Sapphiron",
     "attributeId": "SY8d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticWarcraft",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_callofkt_sapphiron.png"
@@ -3462,7 +3462,7 @@
   "SprayStaticCartoonGarrosh": {
     "hyperlinkId": "CartoonGarrosh",
     "attributeId": "SY5a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_cartoon_garrosh.png"
@@ -3582,7 +3582,7 @@
   "SprayStaticComicArchNemesisLeoric": {
     "hyperlinkId": "FallenApprenticeLeoric",
     "attributeId": "SY8e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_archnemesisleoric.png"
@@ -3590,7 +3590,7 @@
   "SprayStaticComicEvilKerrigan": {
     "hyperlinkId": "QueenofEvilKerrigan",
     "attributeId": "SY8f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_evilkerrigan.png"
@@ -3598,7 +3598,7 @@
   "SprayStaticComicForceJimmyRaynor": {
     "hyperlinkId": "CondorCommanderRaynor",
     "attributeId": "SY9a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_forcejimmyraynor.png"
@@ -3606,7 +3606,7 @@
   "SprayStaticComicLightningLeopardLiLi": {
     "hyperlinkId": "PantharianLiLi",
     "attributeId": "SY9b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_lightningleopardlili.png"
@@ -3614,7 +3614,7 @@
   "SprayStaticComicLoGoshVarian": {
     "hyperlinkId": "PrinceVaRian",
     "attributeId": "SY9c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_logoshvarian.png"
@@ -3622,7 +3622,7 @@
   "SprayStaticComicSpaceLichKelThuzad": {
     "hyperlinkId": "StarLichKelThuzad",
     "attributeId": "SY9d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_spacelichkelthuzad.png"
@@ -3630,7 +3630,7 @@
   "SprayStaticComicSpaceLordLeoric": {
     "hyperlinkId": "SpaceLordLeoric",
     "attributeId": "SY9e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_spacelordleoric.png"
@@ -3638,7 +3638,7 @@
   "SprayStaticComicStarPrincessLiMing": {
     "hyperlinkId": "StarPrincessLiMing",
     "attributeId": "SY9f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_starprincessliming.png"
@@ -3646,7 +3646,7 @@
   "SprayStaticComicStarPrincessValeera": {
     "hyperlinkId": "EternityPrincessValeeRa",
     "attributeId": "SYa0",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_starprincessvaleera.png"
@@ -3654,7 +3654,7 @@
   "SprayStaticComicSweetChromie": {
     "hyperlinkId": "MagicalGalChromie",
     "attributeId": "SYa1",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_comic_sweetchromie.png"
@@ -3662,7 +3662,7 @@
   "SprayStaticCommunity18Alarak": {
     "hyperlinkId": "IHaveThoughts",
     "attributeId": "SY3V",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_alarak.png"
@@ -3670,7 +3670,7 @@
   "SprayStaticCommunity18Azmodan": {
     "hyperlinkId": "Cheeky",
     "attributeId": "SY3Y",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_azmodan.png"
@@ -3678,7 +3678,7 @@
   "SprayStaticCommunity18Chromie": {
     "hyperlinkId": "Timestopcorn",
     "attributeId": "SY3g",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_chromie.png"
@@ -3686,7 +3686,7 @@
   "SprayStaticCommunity18Deckard": {
     "hyperlinkId": "ICanHoldAllThesePotions",
     "attributeId": "SY3T",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_deckard.png"
@@ -3694,7 +3694,7 @@
   "SprayStaticCommunity18Dehaka": {
     "hyperlinkId": "WhatADrag",
     "attributeId": "SY3U",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_dehaka.png"
@@ -3702,7 +3702,7 @@
   "SprayStaticCommunity18Dva": {
     "hyperlinkId": "DSaster",
     "attributeId": "SY3Z",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_dva.png"
@@ -3710,7 +3710,7 @@
   "SprayStaticCommunity18Leoric": {
     "hyperlinkId": "LifeDoesNotSimplyWalkIntoMyTomb",
     "attributeId": "SY3h",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_leoric.png"
@@ -3718,7 +3718,7 @@
   "SprayStaticCommunity18Maiev": {
     "hyperlinkId": "DarnassianIdol",
     "attributeId": "SY3S",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_maiev.png"
@@ -3726,7 +3726,7 @@
   "SprayStaticCommunity18Rexxar": {
     "hyperlinkId": "BeareroftheFlame",
     "attributeId": "SY3W",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_rexxar.png"
@@ -3734,7 +3734,7 @@
   "SprayStaticCommunity18Whitemane": {
     "hyperlinkId": "LookingGlorious",
     "attributeId": "SY3X",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_community18_whitemane.png"
@@ -3958,7 +3958,7 @@
   "SprayStaticDvaConfirmed": {
     "hyperlinkId": "DVaConfirmed",
     "attributeId": "SY3R",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-11-27",
     "image": "storm_lootspray_static_dva_confirmed.png"
@@ -3966,7 +3966,7 @@
   "SprayStaticEasternClash2018Winner": {
     "hyperlinkId": "EasternClash2018Winner",
     "attributeId": "SY2v",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-09-25",
     "image": "storm_lootspray_static_easternclash_2018_winner.png"
@@ -3974,7 +3974,7 @@
   "SprayStaticEnforcerGreymane1": {
     "hyperlinkId": "WatchdogGreymane",
     "attributeId": "Sy6f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-03-06",
     "image": "storm_lootspray_static_enforcer_greymane1.png"
@@ -3982,7 +3982,7 @@
   "SprayStaticEnforcerGreymane2": {
     "hyperlinkId": "Busted",
     "attributeId": "Sy70",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-03-06",
     "image": "storm_lootspray_static_enforcer_greymane2.png"
@@ -3990,7 +3990,7 @@
   "SprayStaticEnforcerGreymaneWeapons": {
     "hyperlinkId": "LawandOrder",
     "attributeId": "Sy71",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-03-06",
     "image": "storm_lootspray_static_enforcer_greymane_weapons.png"
@@ -3998,7 +3998,7 @@
   "SprayStaticEnforcerJohanna": {
     "hyperlinkId": "EnforcerJohanna",
     "attributeId": "Sy73",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-03-06",
     "image": "storm_lootspray_static_enforcer_johanna.png"
@@ -4006,7 +4006,7 @@
   "SprayStaticEnforcerJohannaCyber": {
     "hyperlinkId": "TechnosteelEnforcerJohanna",
     "attributeId": "Sy72",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-03-06",
     "image": "storm_lootspray_static_enforcer_johanna_cyber.png"
@@ -4014,7 +4014,7 @@
   "SprayStaticEnforcerJohannaShield": {
     "hyperlinkId": "ServeandProtect",
     "attributeId": "Sy74",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-03-06",
     "image": "storm_lootspray_static_enforcer_johanna_shield.png"
@@ -4022,7 +4022,7 @@
   "SprayStaticEnforcerMorales": {
     "hyperlinkId": "ParamedicMorales",
     "attributeId": "Sy75",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-03-06",
     "image": "storm_lootspray_static_enforcer_morales.png"
@@ -4030,7 +4030,7 @@
   "SprayStaticEnforcerMoralesWeapon": {
     "hyperlinkId": "FirstResponder",
     "attributeId": "Sy76",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-03-06",
     "image": "storm_lootspray_static_enforcer_morales_weapon.png"
@@ -4038,7 +4038,7 @@
   "SprayStaticEsportsHGCLogo2018": {
     "hyperlinkId": "HGC2018PhaseOneLogo",
     "attributeId": "Sy2b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_esports_hgclogo_2018.png"
@@ -4046,7 +4046,7 @@
   "SprayStaticEsportsHGCLogo2018Epic": {
     "hyperlinkId": "EpicHGC2018PhaseOneLogo",
     "attributeId": "Sy2c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_esports_hgclogo_2018_epic.png"
@@ -4054,7 +4054,7 @@
   "SprayStaticEsportsHGCLogo2018Legendary": {
     "hyperlinkId": "LegendaryHGC2018PhaseOneLogo",
     "attributeId": "Sy2d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_esports_hgclogo_2018_legendary.png"
@@ -4062,7 +4062,7 @@
   "SprayStaticEsportsHGCLogo2018Rare": {
     "hyperlinkId": "RareHGC2018PhaseOneLogo",
     "attributeId": "Sy2e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_esports_hgclogo_2018_rare.png"
@@ -4070,7 +4070,7 @@
   "SprayStaticFluidDefault": {
     "hyperlinkId": "NexusCrest",
     "attributeId": "SYDF",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2014-03-13",
     "image": "storm_lootspray_static_default.png"
@@ -4078,7 +4078,7 @@
   "SprayStaticHallowsEndArthas": {
     "hyperlinkId": "CrimsonCountArthas",
     "attributeId": "SYcf",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4087,7 +4087,7 @@
   "SprayStaticHallowsEndBrightwing": {
     "hyperlinkId": "BewitchingBrightwing",
     "attributeId": "SYd0",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4096,7 +4096,7 @@
   "SprayStaticHallowsEndChoGall": {
     "hyperlinkId": "PumpkinChogall",
     "attributeId": "SYd1",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4105,7 +4105,7 @@
   "SprayStaticHallowsEndChromie": {
     "hyperlinkId": "CreepieChromie",
     "attributeId": "SYd2",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4114,7 +4114,7 @@
   "SprayStaticHallowsEndDrGreymane": {
     "hyperlinkId": "DoctorWolf",
     "attributeId": "SYd3",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4123,7 +4123,7 @@
   "SprayStaticHallowsEndGreymaneWolf": {
     "hyperlinkId": "MisterStein",
     "attributeId": "SYd4",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4132,7 +4132,7 @@
   "SprayStaticHallowsEndHorsemanAchievement": {
     "hyperlinkId": "CartoonHeadlessHorseman",
     "attributeId": "SYd5",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4141,7 +4141,7 @@
   "SprayStaticHallowsEndKerrigan": {
     "hyperlinkId": "CountessKerrigan",
     "attributeId": "SYd6",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4150,7 +4150,7 @@
   "SprayStaticHallowsEndMurky": {
     "hyperlinkId": "GardenShamblerMurky",
     "attributeId": "SYd7",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4159,7 +4159,7 @@
   "SprayStaticHallowsEndValeera": {
     "hyperlinkId": "VampireSlayerV",
     "attributeId": "SYd8",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4168,7 +4168,7 @@
   "SprayStaticHallowsEndXul": {
     "hyperlinkId": "ScarecrowXul",
     "attributeId": "SYd9",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -4177,7 +4177,7 @@
   "SprayStaticHanzoDragon": {
     "hyperlinkId": "Dragon",
     "attributeId": "Sy1a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-12-12",
     "image": "storm_lootspray_static_hanzo_dragon.png"
@@ -4185,7 +4185,7 @@
   "SprayStaticHanzoKumo": {
     "hyperlinkId": "Kumo",
     "attributeId": "Sy1b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-12-12",
     "image": "storm_lootspray_static_hanzo_kumo.png"
@@ -4193,7 +4193,7 @@
   "SprayStaticHanzoSake": {
     "hyperlinkId": "Hyotan",
     "attributeId": "Sy1c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-12-12",
     "image": "storm_lootspray_static_hanzo_sake.png"
@@ -4201,7 +4201,7 @@
   "SprayStaticHanzoSpray": {
     "hyperlinkId": "HanzoIcon",
     "attributeId": "Sy1d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-12-12",
     "image": "storm_lootspray_static_hanzo_spray.png"
@@ -4209,7 +4209,7 @@
   "SprayStaticHanzoStoic": {
     "hyperlinkId": "Stoic",
     "attributeId": "Sy1e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-12-12",
     "image": "storm_lootspray_static_hanzo_stoic.png"
@@ -4217,7 +4217,7 @@
   "SprayStaticHanzoWanderer": {
     "hyperlinkId": "Wanderer",
     "attributeId": "Sy1f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-12-12",
     "image": "storm_lootspray_static_hanzo_wanderer.png"
@@ -4225,7 +4225,7 @@
   "SprayStaticHeroStukov": {
     "hyperlinkId": "ZergRussian",
     "attributeId": "SY5e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_hero_stukov.png"
@@ -4233,7 +4233,7 @@
   "SprayStaticHGC2017CNBTG": {
     "hyperlinkId": "BeyondTheGameLogo",
     "attributeId": "SYc4",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_hgc2017_cn_btg.png"
@@ -4241,7 +4241,7 @@
   "SprayStaticHGC2017CNCE": {
     "hyperlinkId": "SprayStaticHGC2017CNCE",
     "attributeId": "SY0b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_ce.png"
@@ -4249,7 +4249,7 @@
   "SprayStaticHGC2017CNEStar": {
     "hyperlinkId": "SprayStaticHGC2017CNEStar",
     "attributeId": "SY0c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_estar.png"
@@ -4257,7 +4257,7 @@
   "SprayStaticHGC2017CNHotsLady": {
     "hyperlinkId": "SprayStaticHGC2017CNHotsLady",
     "attributeId": "SY0d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_hotslady.png"
@@ -4265,7 +4265,7 @@
   "SprayStaticHGC2017CNKT": {
     "hyperlinkId": "KTLogo",
     "attributeId": "SY0e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_kt.png"
@@ -4273,7 +4273,7 @@
   "SprayStaticHGC2017CNKTV1": {
     "hyperlinkId": "KTClassicLogo",
     "attributeId": "SYc9",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_ktv1.png"
@@ -4281,7 +4281,7 @@
   "SprayStaticHGC2017CNRPG": {
     "hyperlinkId": "SprayStaticHGC2017CNRPG",
     "attributeId": "SY0f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_rpg.png"
@@ -4289,7 +4289,7 @@
   "SprayStaticHGC2017CNSOA": {
     "hyperlinkId": "SprayStaticHGC2017CNSOA",
     "attributeId": "SY10",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_soa.png"
@@ -4297,7 +4297,7 @@
   "SprayStaticHGC2017CNSPT": {
     "hyperlinkId": "SprayStaticHGC2017CNSPT",
     "attributeId": "SY11",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_spt.png"
@@ -4305,7 +4305,7 @@
   "SprayStaticHGC2017CNTheOne": {
     "hyperlinkId": "TheOneLogo",
     "attributeId": "SYc5",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_hgc2017_cn_theone.png"
@@ -4313,7 +4313,7 @@
   "SprayStaticHGC2017CNWKG": {
     "hyperlinkId": "SprayStaticHGC2017CNWKG",
     "attributeId": "SY12",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_cn_wkg.png"
@@ -4321,7 +4321,7 @@
   "SprayStaticHGC2017EUDignitas": {
     "hyperlinkId": "SprayStaticHGC2017EUDignitas",
     "attributeId": "SY13",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_eu_dignitas.png"
@@ -4329,7 +4329,7 @@
   "SprayStaticHGC2017EUExpert": {
     "hyperlinkId": "SprayStaticHGC2017EUExpert",
     "attributeId": "SY14",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_eu_expert.png"
@@ -4337,7 +4337,7 @@
   "SprayStaticHGC2017EUFnatic": {
     "hyperlinkId": "SprayStaticHGC2017EUFnatic",
     "attributeId": "SY1a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_eu_fnatic.png"
@@ -4345,7 +4345,7 @@
   "SprayStaticHGC2017EUGoodGuys": {
     "hyperlinkId": "SprayStaticHGC2017EUGoodGuys",
     "attributeId": "SY1b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_eu_goodguys.png"
@@ -4353,7 +4353,7 @@
   "SprayStaticHGC2017EUPlayingDucks": {
     "hyperlinkId": "PlayingDucksLogo",
     "attributeId": "SY1c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_hgc2017_eu_playingducks.png"
@@ -4361,7 +4361,7 @@
   "SprayStaticHGC2017EUTeamLiquid": {
     "hyperlinkId": "SprayStaticHGC2017EUTeamLiquid",
     "attributeId": "SY1d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_eu_teamliquid.png"
@@ -4369,7 +4369,7 @@
   "SprayStaticHGC2017EUTrickedEsport": {
     "hyperlinkId": "SprayStaticHGC2017EUTrickedEsport",
     "attributeId": "SY1e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_eu_trickedesport.png"
@@ -4377,7 +4377,7 @@
   "SprayStaticHGC2017EUZealots": {
     "hyperlinkId": "SprayStaticHGC2017EUZealots",
     "attributeId": "SY1f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_eu_zealots.png"
@@ -4385,7 +4385,7 @@
   "SprayStaticHGC2017KRBlossom": {
     "hyperlinkId": "SprayStaticHGC2017KRBlossom",
     "attributeId": "SY2a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_blossom.png"
@@ -4393,7 +4393,7 @@
   "SprayStaticHGC2017KRL5": {
     "hyperlinkId": "SprayStaticHGC2017KRL5",
     "attributeId": "SY2c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_l5.png"
@@ -4401,7 +4401,7 @@
   "SprayStaticHGC2017KRMighty": {
     "hyperlinkId": "SprayStaticHGC2017KRMighty",
     "attributeId": "SY2d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_mighty.png"
@@ -4409,7 +4409,7 @@
   "SprayStaticHGC2017KRMVPBlack": {
     "hyperlinkId": "SprayStaticHGC2017KRMVPBlack",
     "attributeId": "SY2e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_mvpblack.png"
@@ -4417,7 +4417,7 @@
   "SprayStaticHGC2017KRMVPMiracle": {
     "hyperlinkId": "SprayStaticHGC2017KRMVPMiracle",
     "attributeId": "SY2f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_mvpmiracle.png"
@@ -4425,7 +4425,7 @@
   "SprayStaticHGC2017KRRaven": {
     "hyperlinkId": "SprayStaticHGC2017KRRaven",
     "attributeId": "SY32",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_raven.png"
@@ -4433,7 +4433,7 @@
   "SprayStaticHGC2017KRRRR": {
     "hyperlinkId": "RRRClassicLogo",
     "attributeId": "SY2b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_rrrv1.png"
@@ -4441,7 +4441,7 @@
   "SprayStaticHGC2017KRRRRV2": {
     "hyperlinkId": "RRRLogo",
     "attributeId": "SYc6",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_rrr.png"
@@ -4449,7 +4449,7 @@
   "SprayStaticHGC2017KRTempest": {
     "hyperlinkId": "SprayStaticHGC2017KRTempest",
     "attributeId": "SY3a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_kr_tempest.png"
@@ -4457,7 +4457,7 @@
   "SprayStaticHGC2017NAEID": {
     "hyperlinkId": "SprayStaticHGC2017NAEID",
     "attributeId": "SY3b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_eid.png"
@@ -4465,7 +4465,7 @@
   "SprayStaticHGC2017NAGaleforce": {
     "hyperlinkId": "SprayStaticHGC2017NAGaleforce",
     "attributeId": "SY3c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_galeforce.png"
@@ -4473,7 +4473,7 @@
   "SprayStaticHGC2017NALagForce": {
     "hyperlinkId": "LagForceLogo",
     "attributeId": "SYc7",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_hgc2017_na_lagforce.png"
@@ -4481,7 +4481,7 @@
   "SprayStaticHGC2017NANaventic": {
     "hyperlinkId": "TeamNaventicLogo",
     "attributeId": "SY3d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_naventic.png"
@@ -4489,7 +4489,7 @@
   "SprayStaticHGC2017NANoTomorrow": {
     "hyperlinkId": "NoTomorrowLogo",
     "attributeId": "SYc8",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_notomorrow.png"
@@ -4497,7 +4497,7 @@
   "SprayStaticHGC2017NARoll20": {
     "hyperlinkId": "SprayStaticHGC2017NARoll20",
     "attributeId": "SY3f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_roll20.png"
@@ -4505,7 +4505,7 @@
   "SprayStaticHGC2017NASpacestation": {
     "hyperlinkId": "SpaceStationGamingLogo",
     "attributeId": "SY3e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_spacestation.png"
@@ -4513,7 +4513,7 @@
   "SprayStaticHGC2017NASuperstars": {
     "hyperlinkId": "SprayStaticHGC2017NASuperstars",
     "attributeId": "SY49",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_superstars.png"
@@ -4521,7 +4521,7 @@
   "SprayStaticHGC2017NATeamFreedom": {
     "hyperlinkId": "SprayStaticHGC2017NATeamFreedom",
     "attributeId": "SY4a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_teamfreedom.png"
@@ -4529,7 +4529,7 @@
   "SprayStaticHGC2017NATempoStorm": {
     "hyperlinkId": "SprayStaticHGC2017NATempoStorm",
     "attributeId": "SY4b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_hgc2017_na_tempostorm.png"
@@ -4537,7 +4537,7 @@
   "SprayStaticHGC2018CNATeam": {
     "hyperlinkId": "ATeam2018Logo",
     "attributeId": "SY2L",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "image": "storm_lootspray_static_hgc2018_cn_ateam.png"
@@ -4545,7 +4545,7 @@
   "SprayStaticHGC2018CNTeamNut": {
     "hyperlinkId": "TeamNut2018Logo",
     "attributeId": "SY2I",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "image": "storm_lootspray_static_hgc2018_cn_teamnut.png"
@@ -4553,7 +4553,7 @@
   "SprayStaticHGC2018EUGranit": {
     "hyperlinkId": "GranitGaming2018Logo",
     "attributeId": "SY2K",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "image": "storm_lootspray_static_hgc2018_eu_granit.png"
@@ -4561,7 +4561,7 @@
   "SprayStaticHGC2018EUMonkeyMenagerie": {
     "hyperlinkId": "MonkeyMenagerie2018Logo",
     "attributeId": "SY2M",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "image": "storm_lootspray_static_hgc2018_eu_monkeymenagerie.png"
@@ -4569,7 +4569,7 @@
   "SprayStaticHGC2018Finals": {
     "hyperlinkId": "2018HGCFinals",
     "attributeId": "SY4H",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-12-11",
     "image": "storm_lootspray_static_hgc2018_finals.png"
@@ -4577,7 +4577,7 @@
   "SprayStaticHGC2018KRGenG": {
     "hyperlinkId": "GenG2018Logo",
     "attributeId": "SY2N",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "image": "storm_lootspray_static_hgc2018_kr_geng.png"
@@ -4585,7 +4585,7 @@
   "SprayStaticHGC2018NAEndemic": {
     "hyperlinkId": "Endemic2018Logo",
     "attributeId": "SY2J",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "image": "storm_lootspray_static_hgc2018_na_endemic.png"
@@ -4593,7 +4593,7 @@
   "SprayStaticHGC2018P1CNBTG": {
     "hyperlinkId": "BTG2018PhaseOneLogo",
     "attributeId": "Sy2f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_cn_btg.png"
@@ -4601,7 +4601,7 @@
   "SprayStaticHGC2018P1CNCE": {
     "hyperlinkId": "CE2018PhaseOneLogo",
     "attributeId": "Sy30",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_cn_ce.png"
@@ -4609,7 +4609,7 @@
   "SprayStaticHGC2018P1CNKT": {
     "hyperlinkId": "KT2018PhaseOneLogo",
     "attributeId": "SY1J",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_cn_kt.png"
@@ -4617,7 +4617,7 @@
   "SprayStaticHGC2018P1CNRPG": {
     "hyperlinkId": "RPG2018PhaseOneLogo",
     "attributeId": "Sy31",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_cn_rpg.png"
@@ -4625,7 +4625,7 @@
   "SprayStaticHGC2018P1CNSOA": {
     "hyperlinkId": "SoA2018PhaseOneLogo",
     "attributeId": "Sy32",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_cn_soa.png"
@@ -4633,7 +4633,7 @@
   "SprayStaticHGC2018P1CNSPT": {
     "hyperlinkId": "SPT2018PhaseOneLogo",
     "attributeId": "Sy33",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_cn_spt.png"
@@ -4641,7 +4641,7 @@
   "SprayStaticHGC2018P1CNSunnyLion": {
     "hyperlinkId": "SunnyLion2018PhaseOneLogo",
     "attributeId": "SY1R",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_cn_sunnylion.png"
@@ -4649,7 +4649,7 @@
   "SprayStaticHGC2018P1CNTheOne": {
     "hyperlinkId": "TheOne2018PhaseOneLogo",
     "attributeId": "Sy34",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_cn_theone.png"
@@ -4657,7 +4657,7 @@
   "SprayStaticHGC2018P1EUDiamondSkin": {
     "hyperlinkId": "DiamondSkin2018PhaseOneLogo",
     "attributeId": "Sy35",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_eu_diamondskin.png"
@@ -4665,7 +4665,7 @@
   "SprayStaticHGC2018P1EUFnatic": {
     "hyperlinkId": "Fnatic2018PhaseOneLogo",
     "attributeId": "Sy38",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_eu_fnatic.png"
@@ -4673,7 +4673,7 @@
   "SprayStaticHGC2018P1EULeftovers": {
     "hyperlinkId": "Leftovers2018PhaseOneLogo",
     "attributeId": "Sy39",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_eu_leftovers.png"
@@ -4681,7 +4681,7 @@
   "SprayStaticHGC2018P1EUMethod": {
     "hyperlinkId": "Method2018PhaseOneLogo",
     "attributeId": "SY1I",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_eu_method.png"
@@ -4689,7 +4689,7 @@
   "SprayStaticHGC2018P1EURoll20": {
     "hyperlinkId": "Roll20esports2018Logo",
     "attributeId": "SY2z",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-10-16",
     "image": "storm_lootspray_static_hgc2018_p1_eu_roll20.png"
@@ -4697,7 +4697,7 @@
   "SprayStaticHGC2018P1EUTeamDignitas": {
     "hyperlinkId": "TeamDignitas2018PhaseOneLogo",
     "attributeId": "SY1M",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_eu_teamdignitas.png"
@@ -4705,7 +4705,7 @@
   "SprayStaticHGC2018P1EUTeamLiquid": {
     "hyperlinkId": "TeamLiquid2018PhaseOneLogo",
     "attributeId": "Sy3a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_eu_teamliquid.png"
@@ -4713,7 +4713,7 @@
   "SprayStaticHGC2018P1EUTricked": {
     "hyperlinkId": "TrickedEsports2018PhaseOneLogo",
     "attributeId": "SY0x",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_eu_tricked.png"
@@ -4721,7 +4721,7 @@
   "SprayStaticHGC2018P1EUZealots": {
     "hyperlinkId": "Zealots2018PhaseOneLogo",
     "attributeId": "Sy3c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_eu_zealots.png"
@@ -4729,7 +4729,7 @@
   "SprayStaticHGC2018P1KRBallistix": {
     "hyperlinkId": "Ballistix2018PhaseOneLogo",
     "attributeId": "SY1L",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_kr_ballistix.png"
@@ -4737,7 +4737,7 @@
   "SprayStaticHGC2018P1KRBlossom": {
     "hyperlinkId": "TeamBlossoM2018PhaseOneLogo",
     "attributeId": "Sy3d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_kr_blossom.png"
@@ -4745,7 +4745,7 @@
   "SprayStaticHGC2018P1KRFeliz": {
     "hyperlinkId": "Feliz2018PhaseOneLogo",
     "attributeId": "SY1G",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_kr_feliz.png"
@@ -4753,7 +4753,7 @@
   "SprayStaticHGC2018P1KRGoodLuck": {
     "hyperlinkId": "GLuck2018PhaseOneLogo",
     "attributeId": "SY0y",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_kr_goodluck.png"
@@ -4761,7 +4761,7 @@
   "SprayStaticHGC2018P1KRKSVBlack": {
     "hyperlinkId": "KSV2018PhaseOneLogo",
     "attributeId": "SY0o",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_kr_ksvblack.png"
@@ -4769,7 +4769,7 @@
   "SprayStaticHGC2018P1KRMiracle": {
     "hyperlinkId": "Miracle2018PhaseOneLogo",
     "attributeId": "SY1C",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_kr_miracle.png"
@@ -4777,7 +4777,7 @@
   "SprayStaticHGC2018P1KRSupernova": {
     "hyperlinkId": "Supernova2018Logo",
     "attributeId": "SY2H",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-07-10",
     "image": "storm_lootspray_static_hgc2018_p1_kr_supernova.png"
@@ -4785,7 +4785,7 @@
   "SprayStaticHGC2018P1KRTeamAce": {
     "hyperlinkId": "TeamAce2018PhaseOneLogo",
     "attributeId": "SY1Q",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_kr_teamace.png"
@@ -4793,7 +4793,7 @@
   "SprayStaticHGC2018P1KRTempest": {
     "hyperlinkId": "Tempest2018PhaseOneLogo",
     "attributeId": "Sy3e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_kr_tempest.png"
@@ -4801,7 +4801,7 @@
   "SprayStaticHGC2018P1NAGaleForceEsports": {
     "hyperlinkId": "GaleForceEsports2018PhaseOneLogo",
     "attributeId": "SY0Z",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_na_galeforceesports.png"
@@ -4809,7 +4809,7 @@
   "SprayStaticHGC2018P1NAHeroesHearth": {
     "hyperlinkId": "HeroesHearthEsports2018PhaseOneLogo",
     "attributeId": "Sy40",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_na_heroeshearth.png"
@@ -4817,7 +4817,7 @@
   "SprayStaticHGC2018P1NALFM": {
     "hyperlinkId": "LFMEsports2018PhaseOneLogo",
     "attributeId": "SY0u",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_na_lfm.png"
@@ -4825,7 +4825,7 @@
   "SprayStaticHGC2018P1NANoTomorrow": {
     "hyperlinkId": "NoTomorrow2018PhaseOneLogo",
     "attributeId": "SY1P",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_na_notomorrow.png"
@@ -4833,7 +4833,7 @@
   "SprayStaticHGC2018P1NASimplicity": {
     "hyperlinkId": "Simplicity2018PhaseOneLogo",
     "attributeId": "SY1E",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_na_simplicity.png"
@@ -4841,7 +4841,7 @@
   "SprayStaticHGC2018P1NATeamFreedom": {
     "hyperlinkId": "TeamFreedom2018PhaseOneLogo",
     "attributeId": "Sy44",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_na_teamfreedom.png"
@@ -4849,7 +4849,7 @@
   "SprayStaticHGC2018P1NATeamOctalysis": {
     "hyperlinkId": "TeamOctalysis2018Logo",
     "attributeId": "SY2F",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-06-12",
     "image": "storm_lootspray_static_hgc2018_p1_na_teamoctalysis.png"
@@ -4857,7 +4857,7 @@
   "SprayStaticHGC2018P1NATeamTwelve": {
     "hyperlinkId": "TeamTwelve2018Logo",
     "attributeId": "SY0m",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_na_teamtwelve.png"
@@ -4865,7 +4865,7 @@
   "SprayStaticHGC2018P1NATempoStorm": {
     "hyperlinkId": "TempoStorm2018PhaseOneLogo",
     "attributeId": "Sy45",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "image": "storm_lootspray_static_hgc2018_p1_na_tempostorm.png"
@@ -4873,7 +4873,7 @@
   "SprayStaticJunkratFireball": {
     "hyperlinkId": "Fireball",
     "attributeId": "SYda",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-10-17",
     "image": "storm_lootspray_static_junkrat_fireball.png"
@@ -4881,7 +4881,7 @@
   "SprayStaticJunkratFuse": {
     "hyperlinkId": "Fuse",
     "attributeId": "SYdb",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-10-17",
     "image": "storm_lootspray_static_junkrat_fuse.png"
@@ -4889,7 +4889,7 @@
   "SprayStaticJunkratIcon": {
     "hyperlinkId": "JunkratIcon",
     "attributeId": "SYdc",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-10-17",
     "image": "storm_lootspray_static_junkrat_icon.png"
@@ -4897,7 +4897,7 @@
   "SprayStaticJunkratMad": {
     "hyperlinkId": "Mad",
     "attributeId": "SYdd",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-10-17",
     "image": "storm_lootspray_static_junkrat_mad.png"
@@ -4905,7 +4905,7 @@
   "SprayStaticJunkratSpin": {
     "hyperlinkId": "Spin",
     "attributeId": "SYde",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-10-17",
     "image": "storm_lootspray_static_junkrat_spin.png"
@@ -4913,7 +4913,7 @@
   "SprayStaticJunkratVroom": {
     "hyperlinkId": "Vroom",
     "attributeId": "SYdf",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-10-17",
     "image": "storm_lootspray_static_junkrat_vroom.png"
@@ -4921,7 +4921,7 @@
   "SprayStaticLunarAchievementRocket": {
     "hyperlinkId": "CuteLunarSkyrocket",
     "attributeId": "Sy6c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -4930,7 +4930,7 @@
   "SprayStaticLunarRooster": {
     "hyperlinkId": "CuteLunarRooster",
     "attributeId": "Sy6d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -4939,7 +4939,7 @@
   "SprayStaticMechaAbathur": {
     "hyperlinkId": "XenotechAbathurInsignia",
     "attributeId": "Sy46",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_abathur.png"
@@ -4947,7 +4947,7 @@
   "SprayStaticMechaAnubarak": {
     "hyperlinkId": "CybarakInsignia",
     "attributeId": "Sy47",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_anubarak.png"
@@ -4955,7 +4955,7 @@
   "SprayStaticMechaAzmodan": {
     "hyperlinkId": "CyborganicAzmodanInsignia",
     "attributeId": "Sy48",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_azmodan.png"
@@ -4963,7 +4963,7 @@
   "SprayStaticMechaChen": {
     "hyperlinkId": "RoboChenInsignia",
     "attributeId": "Sy49",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_chen.png"
@@ -4971,7 +4971,7 @@
   "SprayStaticMechaDehaka": {
     "hyperlinkId": "MechaDehakaInsignia",
     "attributeId": "Sy4a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_dehaka.png"
@@ -4979,7 +4979,7 @@
   "SprayStaticMechaKerrigan": {
     "hyperlinkId": "ModelKR1GNInsignia",
     "attributeId": "Sy4b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_kerrigan.png"
@@ -4987,7 +4987,7 @@
   "SprayStaticMechaMalthael": {
     "hyperlinkId": "MechaMalthaelInsignia",
     "attributeId": "Sy4c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_malthael.png"
@@ -4995,7 +4995,7 @@
   "SprayStaticMechaRagnaros": {
     "hyperlinkId": "RagnarobotInsignia",
     "attributeId": "Sy4d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_ragnaros.png"
@@ -5003,7 +5003,7 @@
   "SprayStaticMechaRehgar": {
     "hyperlinkId": "MechaRehgarInsignia",
     "attributeId": "Sy4e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_rehgar.png"
@@ -5011,7 +5011,7 @@
   "SprayStaticMechaSamuro": {
     "hyperlinkId": "SamurobotInsignia",
     "attributeId": "Sy4f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_samuro.png"
@@ -5019,7 +5019,7 @@
   "SprayStaticMechaTassadar": {
     "hyperlinkId": "MechaTassadarInsignia",
     "attributeId": "Sy50",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_tassadar.png"
@@ -5027,7 +5027,7 @@
   "SprayStaticMechaTyrael": {
     "hyperlinkId": "MechaTyraelInsignia",
     "attributeId": "Sy51",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_tyrael.png"
@@ -5035,7 +5035,7 @@
   "SprayStaticMechaZagara": {
     "hyperlinkId": "XenotechZagaraInsignia",
     "attributeId": "Sy52",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_zagara.png"
@@ -5043,7 +5043,7 @@
   "SprayStaticMechaZeratul": {
     "hyperlinkId": "ModelZR42LInsignia",
     "attributeId": "Sy53",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_zeratul.png"
@@ -5051,7 +5051,7 @@
   "SprayStaticMechaZuljin": {
     "hyperlinkId": "RoboZuljinInsignia",
     "attributeId": "Sy54",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-01-16",
     "image": "storm_lootspray_static_mecha_zuljin.png"
@@ -5059,7 +5059,7 @@
   "SprayStaticMobster19CardHammer": {
     "hyperlinkId": "GetawayQueenSgtHammerSpray",
     "attributeId": "SY5o",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5068,7 +5068,7 @@
   "SprayStaticMobster19CardJunkrat": {
     "hyperlinkId": "WildCardJunkratSpray",
     "attributeId": "SY5w",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5077,7 +5077,7 @@
   "SprayStaticMobster19CardOrphea": {
     "hyperlinkId": "HeistQueenOrpheaSpray",
     "attributeId": "SY6B",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5086,7 +5086,7 @@
   "SprayStaticMobster19CardWhitemane": {
     "hyperlinkId": "CasinoQueenWhitemaneSpray",
     "attributeId": "SY5t",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5095,7 +5095,7 @@
   "SprayStaticMobster19Chomp": {
     "hyperlinkId": "MobsterChompSpray",
     "attributeId": "SY5z",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5104,7 +5104,7 @@
   "SprayStaticMobster19HammerCar": {
     "hyperlinkId": "CartoonHitmobileSpray",
     "attributeId": "SY5n",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5113,7 +5113,7 @@
   "SprayStaticMobster19Junkrat": {
     "hyperlinkId": "SmileSpray",
     "attributeId": "SY5u",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5122,7 +5122,7 @@
   "SprayStaticMobster19Raccoons": {
     "hyperlinkId": "RaccoonGoonsSpray",
     "attributeId": "SY6A",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5131,7 +5131,7 @@
   "SprayStaticMobster19RewardHammer": {
     "hyperlinkId": "CartoonHotshotSgtHammerSpray",
     "attributeId": "SY5k",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-09-24",
     "image": "storm_lootspray_static_mobster19_rewardhammer.png"
@@ -5139,7 +5139,7 @@
   "SprayStaticMobster19RewardJunkrat": {
     "hyperlinkId": "CartoonWiseguyJunkratSpray",
     "attributeId": "SY5l",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-09-24",
     "image": "storm_lootspray_static_mobster19_rewardjunkrat.png"
@@ -5147,7 +5147,7 @@
   "SprayStaticMobster19RewardOrphea": {
     "hyperlinkId": "CartoonBabyfaceOrpheaSpray",
     "attributeId": "SY5m",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-09-24",
     "image": "storm_lootspray_static_mobster19_rewardorphea.png"
@@ -5155,7 +5155,7 @@
   "SprayStaticMobster19Whitemane": {
     "hyperlinkId": "CartoonShowstopperWhitemaneSpray",
     "attributeId": "SY5v",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5164,7 +5164,7 @@
   "SprayStaticMobster19WhitemaneSinger": {
     "hyperlinkId": "EncoreSpray",
     "attributeId": "SY5s",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2019-09-24",
@@ -5173,7 +5173,7 @@
   "SprayStaticOutlineChen": {
     "hyperlinkId": "ChenIcon",
     "attributeId": "SYad",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_chen.png"
@@ -5181,7 +5181,7 @@
   "SprayStaticOutlineChromie": {
     "hyperlinkId": "TimewalkerChromieIcon",
     "attributeId": "SYae",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_chromie.png"
@@ -5189,7 +5189,7 @@
   "SprayStaticOutlineKerrigan": {
     "hyperlinkId": "KerriganIcon",
     "attributeId": "SYaf",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_kerrigan.png"
@@ -5197,7 +5197,7 @@
   "SprayStaticOutlineKharazim": {
     "hyperlinkId": "KharazimIcon",
     "attributeId": "SYb0",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_kharazim.png"
@@ -5205,7 +5205,7 @@
   "SprayStaticOutlineRexxar": {
     "hyperlinkId": "RexxarIcon",
     "attributeId": "SYb1",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_rexxar.png"
@@ -5213,7 +5213,7 @@
   "SprayStaticOutlineSonya": {
     "hyperlinkId": "SonyaIcon",
     "attributeId": "SYb2",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_sonya.png"
@@ -5221,7 +5221,7 @@
   "SprayStaticOutlineStukov": {
     "hyperlinkId": "StukovIcon",
     "attributeId": "SYb3",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_stukov.png"
@@ -5229,7 +5229,7 @@
   "SprayStaticOutlineVarian": {
     "hyperlinkId": "CommandantVarianIcon",
     "attributeId": "SYb4",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_varian.png"
@@ -5237,7 +5237,7 @@
   "SprayStaticOutlineXul": {
     "hyperlinkId": "XulIcon",
     "attributeId": "SYb5",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_xul.png"
@@ -5245,7 +5245,7 @@
   "SprayStaticOutlineZeratul": {
     "hyperlinkId": "ZeratulIcon",
     "attributeId": "SYb6",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_outline_zeratul.png"
@@ -5357,7 +5357,7 @@
   "SprayStaticPumpkinAbathur": {
     "hyperlinkId": "AbathurOLantern",
     "attributeId": "SYe0",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5366,7 +5366,7 @@
   "SprayStaticPumpkinAzmodan": {
     "hyperlinkId": "AzmodanOLantern",
     "attributeId": "SYe1",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5375,7 +5375,7 @@
   "SprayStaticPumpkinChen": {
     "hyperlinkId": "ChenOLantern",
     "attributeId": "SYe2",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5384,7 +5384,7 @@
   "SprayStaticPumpkinETC": {
     "hyperlinkId": "ETCOLantern",
     "attributeId": "SYe3",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5393,7 +5393,7 @@
   "SprayStaticPumpkinIllidan": {
     "hyperlinkId": "IllidanOLantern",
     "attributeId": "SYe4",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5402,7 +5402,7 @@
   "SprayStaticPumpkinMalfurion": {
     "hyperlinkId": "MalfurionOLantern",
     "attributeId": "SYe5",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5411,7 +5411,7 @@
   "SprayStaticPumpkinRagnaros": {
     "hyperlinkId": "RagnarosOLantern",
     "attributeId": "SYe6",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5420,7 +5420,7 @@
   "SprayStaticPumpkinRehgar": {
     "hyperlinkId": "RehgarOLantern",
     "attributeId": "SYe7",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5429,7 +5429,7 @@
   "SprayStaticPumpkinSgtHammer": {
     "hyperlinkId": "SgtHammerOLantern",
     "attributeId": "SYe8",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5438,7 +5438,7 @@
   "SprayStaticPumpkinUther": {
     "hyperlinkId": "UtherOLantern",
     "attributeId": "SYe9",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5447,7 +5447,7 @@
   "SprayStaticPumpkinValeera": {
     "hyperlinkId": "ValeeraOLantern",
     "attributeId": "SYea",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5456,7 +5456,7 @@
   "SprayStaticPumpkinValla": {
     "hyperlinkId": "VallaOLantern",
     "attributeId": "SYeb",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -5465,7 +5465,7 @@
   "SprayStaticRoadRageFalstad": {
     "hyperlinkId": "DriftBeak",
     "attributeId": "SY5f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_falstad.png"
@@ -5473,7 +5473,7 @@
   "SprayStaticRoadRageGarrosh": {
     "hyperlinkId": "MadAxeGarrosh",
     "attributeId": "SY60",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_garrosh.png"
@@ -5481,7 +5481,7 @@
   "SprayStaticRoadRageGazlowe": {
     "hyperlinkId": "CrazedTinkerer",
     "attributeId": "SY61",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_gazlowe.png"
@@ -5489,7 +5489,7 @@
   "SprayStaticRoadRageGGWP": {
     "hyperlinkId": "GGWP",
     "attributeId": "SY62",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_ggwp.png"
@@ -5497,7 +5497,7 @@
   "SprayStaticRoadRageIllidan": {
     "hyperlinkId": "Pandamonium",
     "attributeId": "SY63",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_illidan.png"
@@ -5505,7 +5505,7 @@
   "SprayStaticRoadRageLeoric": {
     "hyperlinkId": "RoadWraithLeoric",
     "attributeId": "SY64",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_leoric.png"
@@ -5513,7 +5513,7 @@
   "SprayStaticRoadRageMadAxe": {
     "hyperlinkId": "MadAxe",
     "attributeId": "SY65",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_madaxe.png"
@@ -5521,7 +5521,7 @@
   "SprayStaticRoadRageSamuro": {
     "hyperlinkId": "IronbladeSamuro",
     "attributeId": "SY66",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_samuro.png"
@@ -5529,7 +5529,7 @@
   "SprayStaticRoadRageSgtHammer": {
     "hyperlinkId": "MajorHammer",
     "attributeId": "SY67",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_sgthammer.png"
@@ -5537,7 +5537,7 @@
   "SprayStaticRoadRageSkull": {
     "hyperlinkId": "TheOutriders",
     "attributeId": "SY68",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_skull.png"
@@ -5545,7 +5545,7 @@
   "SprayStaticRoadRageVallaCowgirl": {
     "hyperlinkId": "GunsAblaze",
     "attributeId": "SY69",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_roadrage_valla_cowgirl.png"
@@ -5553,7 +5553,7 @@
   "SprayStaticSCAnubarakZerg": {
     "hyperlinkId": "TheLurkerKing",
     "attributeId": "SY6a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_anubarak_zerg.png"
@@ -5561,7 +5561,7 @@
   "SprayStaticSCETCMarine": {
     "hyperlinkId": "EliteTaurenMarine",
     "attributeId": "SY6b",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_etc_marine.png"
@@ -5569,7 +5569,7 @@
   "SprayStaticSCIllidanSpectre": {
     "hyperlinkId": "DominionBetrayer",
     "attributeId": "SY6c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_illidan_spectre.png"
@@ -5577,7 +5577,7 @@
   "SprayStaticSCKerriganGhost": {
     "hyperlinkId": "QueenofGhosts",
     "attributeId": "SY6d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_kerrigan_ghost.png"
@@ -5585,7 +5585,7 @@
   "SprayStaticSCLiMingTemplar": {
     "hyperlinkId": "PsionicProdigy",
     "attributeId": "SY6e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_liming_templar.png"
@@ -5593,7 +5593,7 @@
   "SprayStaticSCLtMorales": {
     "hyperlinkId": "WhereDoesItHurt",
     "attributeId": "SY6f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_ltmorales.png"
@@ -5601,7 +5601,7 @@
   "SprayStaticSCMuradinMarauder": {
     "hyperlinkId": "Maraudin",
     "attributeId": "SY70",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_muradin_marauder.png"
@@ -5609,7 +5609,7 @@
   "SprayStaticSCNovaSpectre": {
     "hyperlinkId": "NovaTerrazine",
     "attributeId": "SY71",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_nova_spectre.png"
@@ -5617,7 +5617,7 @@
   "SprayStaticSCRexxarMarine": {
     "hyperlinkId": "RexxarsRaiders",
     "attributeId": "SY72",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_rexxar_marine.png"
@@ -5625,7 +5625,7 @@
   "SprayStaticSCTychusPrisoner": {
     "hyperlinkId": "Convict626",
     "attributeId": "SY73",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2017-08-08",
     "image": "storm_lootspray_static_sc_tychus_prisoner.png"
@@ -5633,7 +5633,7 @@
   "SprayStaticSpooky18ChibiAlexstrasza": {
     "hyperlinkId": "CuteSpectralWyrmAlexstrasza",
     "attributeId": "SY2u",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5642,7 +5642,7 @@
   "SprayStaticSpooky18ChibiMaiev": {
     "hyperlinkId": "CuteSpiderWardenMaiev",
     "attributeId": "SY2l",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5651,7 +5651,7 @@
   "SprayStaticSpooky18ChibiRavenlord": {
     "hyperlinkId": "CuteRavenLord",
     "attributeId": "SY2n",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5660,7 +5660,7 @@
   "SprayStaticSpooky18ChibiWhitemane": {
     "hyperlinkId": "CuteCursedWitchWhitemane",
     "attributeId": "SY2r",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5669,7 +5669,7 @@
   "SprayStaticSpooky18ChibiZarya": {
     "hyperlinkId": "CutePhantomKnightZarya",
     "attributeId": "SY2t",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5678,7 +5678,7 @@
   "SprayStaticSpooky18CursedHand": {
     "hyperlinkId": "CurseofThorns",
     "attributeId": "SY2k",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5687,7 +5687,7 @@
   "SprayStaticSpooky18LadyofThorns": {
     "hyperlinkId": "ForKingsCrest",
     "attributeId": "SY2j",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5696,7 +5696,7 @@
   "SprayStaticSpooky18RavenForm": {
     "hyperlinkId": "RavenForm",
     "attributeId": "SY2g",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5705,7 +5705,7 @@
   "SprayStaticSpooky18RavenKnight": {
     "hyperlinkId": "BlackKnight",
     "attributeId": "SY2i",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5714,7 +5714,7 @@
   "SprayStaticSpooky18RavenLord": {
     "hyperlinkId": "PoweroftheSingularity",
     "attributeId": "SY2p",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5723,7 +5723,7 @@
   "SprayStaticSpooky18RavenTower": {
     "hyperlinkId": "TheRavenTowerLooms",
     "attributeId": "SY2V",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5732,7 +5732,7 @@
   "SprayStaticSpooky18RewardAlexstrasza": {
     "hyperlinkId": "SpectralWyrmAlexstrasza",
     "attributeId": "SY2W",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5741,7 +5741,7 @@
   "SprayStaticSpooky18RewardMaiev": {
     "hyperlinkId": "SpiderWardenMaiev",
     "attributeId": "SY2X",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5750,7 +5750,7 @@
   "SprayStaticSpooky18RewardWhitemane": {
     "hyperlinkId": "CursedHollowWhitemane",
     "attributeId": "SY2h",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5759,7 +5759,7 @@
   "SprayStaticSpooky18RewardZarya": {
     "hyperlinkId": "PhantomKnightZarya",
     "attributeId": "SY2o",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5768,7 +5768,7 @@
   "SprayStaticSpooky18TombstoneGarrosh": {
     "hyperlinkId": "RIPGarrosh",
     "attributeId": "SY2q",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5777,7 +5777,7 @@
   "SprayStaticSpooky18TombstoneGenji": {
     "hyperlinkId": "RIPGenji",
     "attributeId": "SY2Y",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5786,7 +5786,7 @@
   "SprayStaticSpooky18TombstoneJaina": {
     "hyperlinkId": "RIPJaina",
     "attributeId": "SY2s",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5795,7 +5795,7 @@
   "SprayStaticSpooky18TombstoneJohanna": {
     "hyperlinkId": "RIPJohanna",
     "attributeId": "SY2Z",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5804,7 +5804,7 @@
   "SprayStaticSpooky18TombstoneStukov": {
     "hyperlinkId": "RIPStukov",
     "attributeId": "SY2m",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2018-09-25",
@@ -5939,7 +5939,7 @@
   "SprayStaticSpring19RewardCyber": {
     "hyperlinkId": "JigokuCybernetics",
     "attributeId": "SY4m",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-03-26",
     "image": "storm_lootspray_static_spring19_reward_cyber.png"
@@ -5947,7 +5947,7 @@
   "SprayStaticSpring19RewardDragons": {
     "hyperlinkId": "AzureDragons",
     "attributeId": "SY5I",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-03-26",
     "image": "storm_lootspray_static_spring19_reward_dragons.png"
@@ -5955,7 +5955,7 @@
   "SprayStaticSpring19RewardTigers": {
     "hyperlinkId": "IvoryTigers",
     "attributeId": "SY4i",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-03-26",
     "image": "storm_lootspray_static_spring19_reward_tigers.png"
@@ -5963,7 +5963,7 @@
   "SprayStaticSpring19RewardTurtles": {
     "hyperlinkId": "OnyxTurtles",
     "attributeId": "SY4X",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-03-26",
     "image": "storm_lootspray_static_spring19_reward_turtles.png"
@@ -5989,7 +5989,7 @@
   "SprayStaticStylizedBlackheart": {
     "hyperlinkId": "SprayStaticStylizedBlackheart",
     "attributeId": "SY4c",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_blackheart.png"
@@ -5997,7 +5997,7 @@
   "SprayStaticStylizedBlaze": {
     "hyperlinkId": "LightItUp",
     "attributeId": "Sy55",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStarCraft",
     "releaseDate": "2018-01-09",
     "image": "storm_lootspray_static_stylized_blaze.png"
@@ -6005,7 +6005,7 @@
   "SprayStaticStylizedCassiaPirate": {
     "hyperlinkId": "SprayStaticStylizedCassiaPirate",
     "attributeId": "SY4d",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_cassia_pirate.png"
@@ -6013,7 +6013,7 @@
   "SprayStaticStylizedChogallCorruptor": {
     "hyperlinkId": "StylizedCorruptorChogall",
     "attributeId": "SYa2",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_chogall_corruptor.png"
@@ -6021,7 +6021,7 @@
   "SprayStaticStylizedDehaka": {
     "hyperlinkId": "SprayStaticStylizedDehaka",
     "attributeId": "SY4e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_dehaka.png"
@@ -6029,7 +6029,7 @@
   "SprayStaticStylizedEye": {
     "hyperlinkId": "SprayStaticStylizedEye",
     "attributeId": "SY4f",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_eye.png"
@@ -6037,7 +6037,7 @@
   "SprayStaticStylizedFalstad": {
     "hyperlinkId": "SprayStaticStylizedFalstad",
     "attributeId": "SY50",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_falstad.png"
@@ -6045,7 +6045,7 @@
   "SprayStaticStylizedGreymane": {
     "hyperlinkId": "SprayStaticStylizedGreymane",
     "attributeId": "SY51",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_greymane.png"
@@ -6053,7 +6053,7 @@
   "SprayStaticStylizedGuldanUltimate": {
     "hyperlinkId": "StylizedShadowCouncilGuldan",
     "attributeId": "SYa3",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_stylized_guldan_ultimate.png"
@@ -6061,7 +6061,7 @@
   "SprayStaticStylizedHeart": {
     "hyperlinkId": "SprayStaticStylizedHeart",
     "attributeId": "SY52",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_heart.png"
@@ -6069,7 +6069,7 @@
   "SprayStaticStylizedKelthuzad": {
     "hyperlinkId": "StylizedKelThuzad",
     "attributeId": "SYa4",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_stylized_kelthuzad.png"
@@ -6077,7 +6077,7 @@
   "SprayStaticStylizedKharazimTiger": {
     "hyperlinkId": "StylizedTigerKharazim",
     "attributeId": "SYa5",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_kharazim_tiger.png"
@@ -6085,7 +6085,7 @@
   "SprayStaticStylizedMaiev": {
     "hyperlinkId": "CuteMaiev",
     "attributeId": "Sy6e",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-02-06",
     "image": "storm_lootspray_static_stylized_maiev.png"
@@ -6093,7 +6093,7 @@
   "SprayStaticStylizedMurky": {
     "hyperlinkId": "SprayStaticStylizedMurky",
     "attributeId": "SY53",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_murky.png"
@@ -6101,7 +6101,7 @@
   "SprayStaticStylizedPachimariAbathur": {
     "hyperlinkId": "PachimariAbathur",
     "attributeId": "SYb7",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_abathur.png"
@@ -6109,7 +6109,7 @@
   "SprayStaticStylizedPachimariAlarak": {
     "hyperlinkId": "PachimariAlarak",
     "attributeId": "SYb8",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_alarak.png"
@@ -6117,7 +6117,7 @@
   "SprayStaticStylizedPachimariDeathwing": {
     "hyperlinkId": "PachimariDeathwing",
     "attributeId": "SYb9",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-10-03",
     "image": "storm_lootspray_static_stylized_pachimari_deathwing.png"
@@ -6125,7 +6125,7 @@
   "SprayStaticStylizedPachimariDiablo": {
     "hyperlinkId": "PachimariDiablo",
     "attributeId": "SYba",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_diablo.png"
@@ -6133,7 +6133,7 @@
   "SprayStaticStylizedPachimariGoldAchievement": {
     "hyperlinkId": "GoldenPachimari",
     "attributeId": "SYbb",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimarigold_achievement.png"
@@ -6141,7 +6141,7 @@
   "SprayStaticStylizedPachimariGuldan": {
     "hyperlinkId": "PachimariGuldan",
     "attributeId": "SYbc",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_guldan.png"
@@ -6149,7 +6149,7 @@
   "SprayStaticStylizedPachimariIllidan": {
     "hyperlinkId": "PachimariIllidan",
     "attributeId": "SYbd",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_illidan.png"
@@ -6157,7 +6157,7 @@
   "SprayStaticStylizedPachimariJaina": {
     "hyperlinkId": "PachimariJaina",
     "attributeId": "SYbe",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_jaina.png"
@@ -6165,7 +6165,7 @@
   "SprayStaticStylizedPachimariMurloc": {
     "hyperlinkId": "PachimariMurky",
     "attributeId": "SYbf",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_murloc.png"
@@ -6173,7 +6173,7 @@
   "SprayStaticStylizedPachimariNazeebo": {
     "hyperlinkId": "PachimariNazeebo",
     "attributeId": "SYc0",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_nazeebo.png"
@@ -6181,7 +6181,7 @@
   "SprayStaticStylizedPachimariRagnaros": {
     "hyperlinkId": "PachimariRagnaros",
     "attributeId": "SYc1",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_ragnaros.png"
@@ -6189,7 +6189,7 @@
   "SprayStaticStylizedPachimariStitches": {
     "hyperlinkId": "PachimariStitches",
     "attributeId": "SYc2",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_stitches.png"
@@ -6197,7 +6197,7 @@
   "SprayStaticStylizedPachimariTyrael": {
     "hyperlinkId": "PachimariTyrael",
     "attributeId": "SYc3",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-26",
     "image": "storm_lootspray_static_stylized_pachimari_tyrael.png"
@@ -6205,7 +6205,7 @@
   "SprayStaticStylizedProbius": {
     "hyperlinkId": "SprayStaticStylizedProbius",
     "attributeId": "SY54",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_probius.png"
@@ -6213,7 +6213,7 @@
   "SprayStaticStylizedSamuroMonkeyKing": {
     "hyperlinkId": "StylizedMonkeyKingSamuro",
     "attributeId": "SYa6",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-09-05",
     "image": "storm_lootspray_static_stylized_samuro_monkeyking.png"
@@ -6221,7 +6221,7 @@
   "SprayStaticStylizedSgtHammer": {
     "hyperlinkId": "SprayStaticStylizedSgtHammer",
     "attributeId": "SY55",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_sgthammer.png"
@@ -6229,7 +6229,7 @@
   "SprayStaticStylizedStukov": {
     "hyperlinkId": "SprayStaticStylizedStukov",
     "attributeId": "SY57",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_tattoo_stukov.png"
@@ -6237,7 +6237,7 @@
   "SprayStaticStylizedStukovPirate": {
     "hyperlinkId": "SprayStaticStylizedStukovPirate",
     "attributeId": "SY56",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_pirate_stukov_pirate.png"
@@ -6245,7 +6245,7 @@
   "SprayStaticStylizedXulClassic": {
     "hyperlinkId": "SprayStaticStylizedXulClassic",
     "attributeId": "SY58",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-07-11",
     "image": "storm_lootspray_static_tattoo_xul_classic.png"
@@ -6253,7 +6253,7 @@
   "SprayStaticSummer2018Arthas": {
     "hyperlinkId": "ElReyArthas",
     "attributeId": "SY1S",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -6262,7 +6262,7 @@
   "SprayStaticSummer2018Junkrat": {
     "hyperlinkId": "TheJunkersElbow",
     "attributeId": "SY0n",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -6271,7 +6271,7 @@
   "SprayStaticSummer2018Kerrigan": {
     "hyperlinkId": "LaFantasmaKerrigan",
     "attributeId": "SY0V",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -6280,7 +6280,7 @@
   "SprayStaticSummer2018QuestLunaraArmwrestling": {
     "hyperlinkId": "TheUnderworldGrip",
     "attributeId": "SY0k",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -6289,7 +6289,7 @@
   "SprayStaticSummer2018QuestSonyaArmwrestling": {
     "hyperlinkId": "ThePantherForearm",
     "attributeId": "SY0h",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -6298,7 +6298,7 @@
   "SprayStaticSummer2018Raynor": {
     "hyperlinkId": "ElAsaltanteRaynor",
     "attributeId": "SY1D",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -6307,7 +6307,7 @@
   "SprayStaticSummer2018Thrall": {
     "hyperlinkId": "ElLoboGelidoThrall",
     "attributeId": "SY1B",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -6316,7 +6316,7 @@
   "SprayStaticSummerChromie": {
     "hyperlinkId": "SandsofTimeCastle",
     "attributeId": "SY92",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6325,7 +6325,7 @@
   "SprayStaticSummerGreymane": {
     "hyperlinkId": "MakingFetchHappen",
     "attributeId": "SY91",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6334,7 +6334,7 @@
   "SprayStaticSummerJohanna": {
     "hyperlinkId": "TheLifeguardian",
     "attributeId": "SY95",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6343,7 +6343,7 @@
   "SprayStaticSummerKaelthas": {
     "hyperlinkId": "BeholdtheSunKing",
     "attributeId": "SY90",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6352,7 +6352,7 @@
   "SprayStaticSummerLostVikings": {
     "hyperlinkId": "Olaf-topus",
     "attributeId": "SY98",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6361,7 +6361,7 @@
   "SprayStaticSummerMalthael": {
     "hyperlinkId": "TakingaHoliday",
     "attributeId": "SY96",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6370,7 +6370,7 @@
   "SprayStaticSummerStitchesBikini": {
     "hyperlinkId": "POOLTime",
     "attributeId": "SY0a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6379,7 +6379,7 @@
   "SprayStaticSummerTiki": {
     "hyperlinkId": "Murk-IslandPunch",
     "attributeId": "SY89",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6388,7 +6388,7 @@
   "SprayStaticSummerTracerWatergun": {
     "hyperlinkId": "ThePartysHere",
     "attributeId": "SY86",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6397,7 +6397,7 @@
   "SprayStaticSummerUther": {
     "hyperlinkId": "Beachcomber",
     "attributeId": "SY87",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6406,7 +6406,7 @@
   "SprayStaticSummerValeera": {
     "hyperlinkId": "ThistleIslandTea",
     "attributeId": "SY88",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6415,7 +6415,7 @@
   "SprayStaticSummerXul": {
     "hyperlinkId": "WiththeFishes",
     "attributeId": "SY97",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2017-06-27",
@@ -6424,7 +6424,7 @@
   "SprayStaticTattooAlexstrasza": {
     "hyperlinkId": "TattooAlexstrasza",
     "attributeId": "SYec",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_tattoo_alexstrasza.png"
@@ -6464,7 +6464,7 @@
   "SprayStaticTattooTyrandeSentinel": {
     "hyperlinkId": "TattooTyrandeSpray",
     "attributeId": "SY47",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2014-03-13",
     "image": "storm_lootspray_static_tattoo_tyrande_sentinel.png"
@@ -6480,7 +6480,7 @@
   "SprayStaticToonAlexstraszaDark": {
     "hyperlinkId": "OldTimeyDarkQueenAlexstrasza",
     "attributeId": "SYed",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_alexstrasza_dark.png"
@@ -6488,7 +6488,7 @@
   "SprayStaticToonBlaze": {
     "hyperlinkId": "StickerBlaze",
     "attributeId": "SY3B",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-10-16",
     "image": "storm_lootspray_static_toon_blaze.png"
@@ -6496,7 +6496,7 @@
   "SprayStaticToonBrightwingMonkey": {
     "hyperlinkId": "OldTimeyFlyingMonkeyBrightwing",
     "attributeId": "SYee",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_brightwing_monkey.png"
@@ -6504,7 +6504,7 @@
   "SprayStaticToonDvaDestroyer": {
     "hyperlinkId": "StickerDStroyer",
     "attributeId": "SY3A",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-10-16",
     "image": "storm_lootspray_static_toon_dva_destroyer.png"
@@ -6512,7 +6512,7 @@
   "SprayStaticToonGuldan": {
     "hyperlinkId": "OldTimeyGuldan",
     "attributeId": "SYef",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_guldan.png"
@@ -6520,7 +6520,7 @@
   "SprayStaticToonHammer": {
     "hyperlinkId": "OldTimeySgtHammer",
     "attributeId": "SYf0",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_hammer.png"
@@ -6528,7 +6528,7 @@
   "SprayStaticToonJunkrat": {
     "hyperlinkId": "OldTimeyJunkrat",
     "attributeId": "SYf1",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_junkrat.png"
@@ -6536,7 +6536,7 @@
   "SprayStaticToonKerriganCheerleader": {
     "hyperlinkId": "OldTimeyCheerleaderKerrigan",
     "attributeId": "SYf2",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_kerrigan_cheerleader.png"
@@ -6544,7 +6544,7 @@
   "SprayStaticToonLunara": {
     "hyperlinkId": "OldTimeyLunara",
     "attributeId": "SYf3",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_lunara.png"
@@ -6552,7 +6552,7 @@
   "SprayStaticToonMephisto": {
     "hyperlinkId": "StickerMephistoShower",
     "attributeId": "SY3D",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-10-16",
     "image": "storm_lootspray_static_toon_mephisto.png"
@@ -6560,7 +6560,7 @@
   "SprayStaticToonMurky": {
     "hyperlinkId": "OldTimeyMurky",
     "attributeId": "SYf4",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_murky.png"
@@ -6568,7 +6568,7 @@
   "SprayStaticToonRagnarosLil": {
     "hyperlinkId": "OldTimeyLilRagnaros",
     "attributeId": "SYf5",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_ragnaros_lil.png"
@@ -6576,7 +6576,7 @@
   "SprayStaticToonRavenlord": {
     "hyperlinkId": "StickerRavenLord",
     "attributeId": "SY2y",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2018-10-16",
     "image": "storm_lootspray_static_toon_ravenlord.png"
@@ -6584,7 +6584,7 @@
   "SprayStaticToonStitches": {
     "hyperlinkId": "OldTimeyStitches",
     "attributeId": "SYf6",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "StaticStylized",
     "releaseDate": "2017-11-14",
     "image": "storm_lootspray_static_toon_stitches.png"
@@ -6592,7 +6592,7 @@
   "SprayStaticToys18ActionDva": {
     "hyperlinkId": "CosmicRiderDVa",
     "attributeId": "SY3l",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6601,7 +6601,7 @@
   "SprayStaticToys18ActionLiMing": {
     "hyperlinkId": "GalacticSorcererLiMing",
     "attributeId": "SY3s",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6610,7 +6610,7 @@
   "SprayStaticToys18ActionVarian": {
     "hyperlinkId": "CometKnightVarian",
     "attributeId": "SY3r",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6619,7 +6619,7 @@
   "SprayStaticToys18CatReward": {
     "hyperlinkId": "GiftoftheCosmicLion",
     "attributeId": "SY4U",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-12-11",
     "image": "storm_lootspray_static_toys18_cat_reward.png"
@@ -6627,7 +6627,7 @@
   "SprayStaticToys18ChenBarrel": {
     "hyperlinkId": "ToyWanderingKeg",
     "attributeId": "SY3o",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6636,7 +6636,7 @@
   "SprayStaticToys18ChibiCat": {
     "hyperlinkId": "CuteCosmicLion",
     "attributeId": "SY4F",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6645,7 +6645,7 @@
   "SprayStaticToys18ChibiDehaka": {
     "hyperlinkId": "CuteDehakasaurusRex",
     "attributeId": "SY4D",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6654,7 +6654,7 @@
   "SprayStaticToys18ChibiStitches": {
     "hyperlinkId": "CuteCuddleBearStitches",
     "attributeId": "SY4O",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6663,7 +6663,7 @@
   "SprayStaticToys18ChibiValeera": {
     "hyperlinkId": "CuteCosmicForceValeera",
     "attributeId": "SY3u",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6672,7 +6672,7 @@
   "SprayStaticToys18DehakaReward": {
     "hyperlinkId": "GiftoftheDehakasaur",
     "attributeId": "SY4P",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-12-11",
     "image": "storm_lootspray_static_toys18_dehaka_reward.png"
@@ -6680,7 +6680,7 @@
   "SprayStaticToys18PuppetAuriel": {
     "hyperlinkId": "PuppetAuriel",
     "attributeId": "SY4I",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6689,7 +6689,7 @@
   "SprayStaticToys18PuppetJaina": {
     "hyperlinkId": "PuppetJaina",
     "attributeId": "SY3k",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6698,7 +6698,7 @@
   "SprayStaticToys18PuppetKaelthas": {
     "hyperlinkId": "PuppetKaelThas",
     "attributeId": "SY3m",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6707,7 +6707,7 @@
   "SprayStaticToys18PuppetKerrigan": {
     "hyperlinkId": "PuppetKerrigan",
     "attributeId": "SY3x",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6716,7 +6716,7 @@
   "SprayStaticToys18PuppetNazeebo": {
     "hyperlinkId": "PuppetNazeebo",
     "attributeId": "SY3i",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6725,7 +6725,7 @@
   "SprayStaticToys18PuppetSylvanas": {
     "hyperlinkId": "PuppetSylvanas",
     "attributeId": "SY4T",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6734,7 +6734,7 @@
   "SprayStaticToys18StitchesReward": {
     "hyperlinkId": "GiftoftheCuddleBear",
     "attributeId": "SY4G",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-12-11",
     "image": "storm_lootspray_static_toys18_stitches_reward.png"
@@ -6742,7 +6742,7 @@
   "SprayStaticToys18UnicornReward": {
     "hyperlinkId": "GiftofthePlushUnicorn",
     "attributeId": "SY4E",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-12-11",
     "image": "storm_lootspray_static_toys18_unicorn_reward.png"
@@ -6750,7 +6750,7 @@
   "SprayStaticToys18ValeeraReward": {
     "hyperlinkId": "GiftoftheCosmicForce",
     "attributeId": "SY3w",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-12-11",
     "image": "storm_lootspray_static_toys18_valeera_reward.png"
@@ -6758,7 +6758,7 @@
   "SprayStaticToys18WeaponGenji": {
     "hyperlinkId": "ToyDragonblade",
     "attributeId": "SY3y",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6767,7 +6767,7 @@
   "SprayStaticToys18WeaponHanzo": {
     "hyperlinkId": "ToyStormBow",
     "attributeId": "SY3q",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6776,7 +6776,7 @@
   "SprayStaticToys18WeaponIllidan": {
     "hyperlinkId": "ToyWarglaives",
     "attributeId": "SY3p",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6785,7 +6785,7 @@
   "SprayStaticToys18WeaponVarian": {
     "hyperlinkId": "ToyShalamayne",
     "attributeId": "SY3n",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2018-12-11",
@@ -6794,7 +6794,7 @@
   "SprayStaticTwitchChomp": {
     "hyperlinkId": "ChompBubble",
     "attributeId": "SY3Q",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-11-13",
     "image": "storm_lootspray_static_twitch_chomp.png"
@@ -6802,7 +6802,7 @@
   "SprayStaticTwitchEsports18": {
     "hyperlinkId": "CheeryVikings",
     "attributeId": "SY3C",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-10-16",
     "image": "storm_lootspray_static_twitch_esports18.png"
@@ -6810,7 +6810,7 @@
   "SprayStaticWesternClash2018Winner": {
     "hyperlinkId": "WesternClash2018Winner",
     "attributeId": "SY2w",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-09-25",
     "image": "storm_lootspray_static_westernclash_2018_winner.png"
@@ -6818,7 +6818,7 @@
   "SprayStaticWinterElemental": {
     "hyperlinkId": "NostalgicFrostElemental",
     "attributeId": "Sy20",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6827,7 +6827,7 @@
   "SprayStaticWinterJaina": {
     "hyperlinkId": "NostalgicWinterVeilJaina",
     "attributeId": "Sy21",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6836,7 +6836,7 @@
   "SprayStaticWinterLunara": {
     "hyperlinkId": "NostalgicWinterVeilLunara",
     "attributeId": "Sy22",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6845,7 +6845,7 @@
   "SprayStaticWinterMalfurion": {
     "hyperlinkId": "NostalgicGreatfatherWinterMalfurion",
     "attributeId": "Sy23",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6854,7 +6854,7 @@
   "SprayStaticWinterNazeebo": {
     "hyperlinkId": "NostalgicGingerdreadNazeebo",
     "attributeId": "Sy24",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6863,7 +6863,7 @@
   "SprayStaticWinterRehgar": {
     "hyperlinkId": "NostalgicGreatfatherWinterRehgar",
     "attributeId": "Sy25",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6872,7 +6872,7 @@
   "SprayStaticWinterRewardReigndeer": {
     "hyperlinkId": "NostalgicReignDeer",
     "attributeId": "Sy26",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2017-12-12",
     "image": "storm_lootspray_static_winter_reward_reigndeer.png"
@@ -6880,7 +6880,7 @@
   "SprayStaticWinterStitches": {
     "hyperlinkId": "NostalgicGreatfatherWinterStitches",
     "attributeId": "Sy27",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6889,7 +6889,7 @@
   "SprayStaticWinterSylvanas": {
     "hyperlinkId": "NostalgicSugarPlumSylvanas",
     "attributeId": "Sy28",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6898,7 +6898,7 @@
   "SprayStaticWinterTreant": {
     "hyperlinkId": "NostalgicWinterTreant",
     "attributeId": "Sy29",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -6907,7 +6907,7 @@
   "SprayStaticWinterValla": {
     "hyperlinkId": "NostalgicWintersHelperValla",
     "attributeId": "Sy2a",
-    "rarity": "None",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",

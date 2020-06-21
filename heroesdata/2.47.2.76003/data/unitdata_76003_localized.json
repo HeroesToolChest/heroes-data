@@ -379,7 +379,7 @@
     }
   },
   "alteracpass-AllianceCavalry": {
-    "hyperlinkId": "AllianceCavalry",
+    "hyperlinkId": "alteracpass-AllianceCavalry",
     "radius": 1.25,
     "sight": 8.0,
     "speed": 5.0,
@@ -423,7 +423,7 @@
     ]
   },
   "alteracpass-AlteracCoreBossParent": {
-    "hyperlinkId": "AlteracCoreBossParent",
+    "hyperlinkId": "alteracpass-AlteracCoreBossParent",
     "radius": 1.5,
     "sight": 11.0,
     "speed": 4.0,
@@ -478,7 +478,7 @@
     }
   },
   "alteracpass-AVCaptureFlagPreviewDummyAlliance": {
-    "hyperlinkId": "AVCaptureFlagPreviewDummyAlliance",
+    "hyperlinkId": "alteracpass-AVCaptureFlagPreviewDummyAlliance",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -497,7 +497,7 @@
     }
   },
   "alteracpass-AVCaptureFlagPreviewDummyHorde": {
-    "hyperlinkId": "AVCaptureFlagPreviewDummyHorde",
+    "hyperlinkId": "alteracpass-AVCaptureFlagPreviewDummyHorde",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -516,7 +516,7 @@
     }
   },
   "alteracpass-AVCapturePointBeingCappedDummy": {
-    "hyperlinkId": "AVCapturePointBeingCappedDummy",
+    "hyperlinkId": "alteracpass-AVCapturePointBeingCappedDummy",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -532,7 +532,7 @@
     }
   },
   "alteracpass-AVCapturePointDefender": {
-    "hyperlinkId": "AVCapturePointDefender",
+    "hyperlinkId": "alteracpass-AVCapturePointDefender",
     "innerRadius": 0.625,
     "radius": 0.625,
     "sight": 8.0,
@@ -574,7 +574,7 @@
     }
   },
   "alteracpass-AVMinimapIcon": {
-    "hyperlinkId": "AVMinimapIcon",
+    "hyperlinkId": "alteracpass-AVMinimapIcon",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -593,7 +593,7 @@
     }
   },
   "alteracpass-CaptureCage": {
-    "hyperlinkId": "CaptureCage",
+    "hyperlinkId": "alteracpass-CaptureCage",
     "radius": 0.5,
     "attributes": [
       "IgnoredByTowerAI",
@@ -611,7 +611,7 @@
     }
   },
   "alteracpass-CapturedSoldier": {
-    "hyperlinkId": "CapturedSoldier",
+    "hyperlinkId": "alteracpass-CapturedSoldier",
     "radius": 2.0,
     "attributes": [
       "ImmuneToAOE",
@@ -639,7 +639,7 @@
     ]
   },
   "alteracpass-DrekThar": {
-    "hyperlinkId": "DrekThar",
+    "hyperlinkId": "alteracpass-DrekThar",
     "radius": 1.5,
     "sight": 11.0,
     "speed": 4.0,
@@ -698,7 +698,7 @@
     }
   },
   "alteracpass-HordeCavalry": {
-    "hyperlinkId": "HordeCavalry",
+    "hyperlinkId": "alteracpass-HordeCavalry",
     "radius": 1.25,
     "sight": 8.0,
     "speed": 5.0,
@@ -742,7 +742,7 @@
     ]
   },
   "alteracpass-LockDummyUnit": {
-    "hyperlinkId": "LockDummyUnit",
+    "hyperlinkId": "alteracpass-LockDummyUnit",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -758,7 +758,7 @@
     }
   },
   "alteracpass-ReaverMinion": {
-    "hyperlinkId": "ReaverMinion",
+    "hyperlinkId": "alteracpass-ReaverMinion",
     "innerRadius": 0.6875,
     "radius": 0.6875,
     "sight": 8.0,
@@ -801,7 +801,7 @@
     ]
   },
   "alteracpass-SnowDriftLarge": {
-    "hyperlinkId": "SnowDriftLarge",
+    "hyperlinkId": "alteracpass-SnowDriftLarge",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -816,7 +816,7 @@
     }
   },
   "alteracpass-SnowDriftMedium": {
-    "hyperlinkId": "SnowDriftMedium",
+    "hyperlinkId": "alteracpass-SnowDriftMedium",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -831,7 +831,7 @@
     }
   },
   "alteracpass-SnowDriftSmall": {
-    "hyperlinkId": "SnowDriftSmall",
+    "hyperlinkId": "alteracpass-SnowDriftSmall",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -846,7 +846,7 @@
     }
   },
   "alteracpass-Storm_Building_WCAV_Alliance_CaptureCage": {
-    "hyperlinkId": "Storm_Building_WCAV_Alliance_CaptureCage",
+    "hyperlinkId": "alteracpass-Storm_Building_WCAV_Alliance_CaptureCage",
     "radius": 0.5,
     "attributes": [
       "IgnoredByTowerAI",
@@ -864,7 +864,7 @@
     }
   },
   "alteracpass-Storm_Building_WCAV_Horde_CaptureCage": {
-    "hyperlinkId": "Storm_Building_WCAV_Horde_CaptureCage",
+    "hyperlinkId": "alteracpass-Storm_Building_WCAV_Horde_CaptureCage",
     "radius": 0.5,
     "attributes": [
       "IgnoredByTowerAI",
@@ -882,7 +882,7 @@
     }
   },
   "alteracpass-VanndarStormpike": {
-    "hyperlinkId": "VanndarStormpike",
+    "hyperlinkId": "alteracpass-VanndarStormpike",
     "radius": 1.5,
     "sight": 11.0,
     "speed": 4.0,
@@ -1466,7 +1466,7 @@
     }
   },
   "battlefieldofeternity-BossDuelBossHeaven": {
-    "hyperlinkId": "BossDuelBossHeaven",
+    "hyperlinkId": "battlefieldofeternity-BossDuelBossHeaven",
     "radius": 1.25,
     "sight": 10.0,
     "speed": 15.0,
@@ -1514,7 +1514,7 @@
     }
   },
   "battlefieldofeternity-BossDuelBossHell": {
-    "hyperlinkId": "BossDuelBossHell",
+    "hyperlinkId": "battlefieldofeternity-BossDuelBossHell",
     "radius": 1.25,
     "sight": 10.0,
     "speed": 15.0,
@@ -1562,7 +1562,7 @@
     }
   },
   "battlefieldofeternity-BossDuelBossPathingBlocker": {
-    "hyperlinkId": "BossDuelBossPathingBlocker",
+    "hyperlinkId": "battlefieldofeternity-BossDuelBossPathingBlocker",
     "radius": 1.0,
     "attributes": [
       "ImmuneToAOE",
@@ -1578,7 +1578,7 @@
     }
   },
   "battlefieldofeternity-BossDuelBossPreviewUnitHeaven": {
-    "hyperlinkId": "BossDuelBossPreviewUnitHeaven",
+    "hyperlinkId": "battlefieldofeternity-BossDuelBossPreviewUnitHeaven",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -1596,7 +1596,7 @@
     }
   },
   "battlefieldofeternity-BossDuelBossPreviewUnitHell": {
-    "hyperlinkId": "BossDuelBossPreviewUnitHell",
+    "hyperlinkId": "battlefieldofeternity-BossDuelBossPreviewUnitHell",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -1614,7 +1614,7 @@
     }
   },
   "battlefieldofeternity-BossDuelLanerHeaven": {
-    "hyperlinkId": "BossDuelLanerHeaven",
+    "hyperlinkId": "battlefieldofeternity-BossDuelLanerHeaven",
     "radius": 1.25,
     "sight": 10.0,
     "speed": 4.3984,
@@ -1686,7 +1686,7 @@
     }
   },
   "battlefieldofeternity-BossDuelLanerHell": {
-    "hyperlinkId": "BossDuelLanerHell",
+    "hyperlinkId": "battlefieldofeternity-BossDuelLanerHell",
     "radius": 1.25,
     "sight": 10.0,
     "speed": 4.3984,
@@ -1758,7 +1758,7 @@
     }
   },
   "battlefieldofeternity-ImmortalPingUnit": {
-    "hyperlinkId": "ImmortalPingUnit",
+    "hyperlinkId": "battlefieldofeternity-ImmortalPingUnit",
     "radius": 0.125,
     "speed": 9.0,
     "attributes": [
@@ -1775,7 +1775,7 @@
     }
   },
   "battlefieldofeternity-InvisibleBossPathingLine": {
-    "hyperlinkId": "InvisibleBossPathingLine",
+    "hyperlinkId": "battlefieldofeternity-InvisibleBossPathingLine",
     "speed": 30.0,
     "attributes": [
       "ImmuneToAOE",
@@ -1791,7 +1791,7 @@
     }
   },
   "battlefieldofeternity-JungleMinionDefault": {
-    "hyperlinkId": "JungleMinionDefault",
+    "hyperlinkId": "battlefieldofeternity-JungleMinionDefault",
     "innerRadius": 1.0,
     "radius": 1.0,
     "sight": 8.0,
@@ -1818,7 +1818,7 @@
     ]
   },
   "battlefieldofeternity-JungleMinionHeaven": {
-    "hyperlinkId": "JungleMinionHeaven",
+    "hyperlinkId": "battlefieldofeternity-JungleMinionHeaven",
     "innerRadius": 1.0,
     "radius": 1.0,
     "sight": 8.0,
@@ -1848,7 +1848,7 @@
     ]
   },
   "battlefieldofeternity-JungleMinionHell": {
-    "hyperlinkId": "JungleMinionHell",
+    "hyperlinkId": "battlefieldofeternity-JungleMinionHell",
     "innerRadius": 1.0,
     "radius": 1.0,
     "sight": 8.0,
@@ -1878,7 +1878,7 @@
     ]
   },
   "battlefieldofeternity-LanerMinionDefault": {
-    "hyperlinkId": "LanerMinionDefault",
+    "hyperlinkId": "battlefieldofeternity-LanerMinionDefault",
     "innerRadius": 1.0,
     "radius": 1.0,
     "sight": 8.0,
@@ -1905,7 +1905,7 @@
     ]
   },
   "battlefieldofeternity-LanerMinionHeaven": {
-    "hyperlinkId": "LanerMinionHeaven",
+    "hyperlinkId": "battlefieldofeternity-LanerMinionHeaven",
     "innerRadius": 1.0,
     "radius": 1.0,
     "sight": 8.0,
@@ -1935,7 +1935,7 @@
     ]
   },
   "battlefieldofeternity-LanerMinionHell": {
-    "hyperlinkId": "LanerMinionHell",
+    "hyperlinkId": "battlefieldofeternity-LanerMinionHell",
     "innerRadius": 1.0,
     "radius": 1.0,
     "sight": 8.0,
@@ -2160,7 +2160,7 @@
     }
   },
   "blackheartsbay-JungleBattleship": {
-    "hyperlinkId": "JungleBattleship",
+    "hyperlinkId": "blackheartsbay-JungleBattleship",
     "radius": 7.75,
     "sight": 9.0,
     "speed": 3.5,
@@ -2207,7 +2207,7 @@
     }
   },
   "braxisholdoutdata-ArchangelElevatorPathingBlocker": {
-    "hyperlinkId": "ArchangelElevatorPathingBlocker",
+    "hyperlinkId": "braxisholdoutdata-ArchangelElevatorPathingBlocker",
     "radius": 1.0,
     "attributes": [
       "ImmuneToAOE",
@@ -2224,7 +2224,7 @@
     }
   },
   "braxisholdoutdata-BraxisHoldoutSCV": {
-    "hyperlinkId": "BraxisHoldoutSCV",
+    "hyperlinkId": "braxisholdoutdata-BraxisHoldoutSCV",
     "radius": 1.0,
     "sight": 8.0,
     "speed": 4.0,
@@ -2253,7 +2253,7 @@
     }
   },
   "braxisholdoutdata-HoldingPenPathingBlocker": {
-    "hyperlinkId": "HoldingPenPathingBlocker",
+    "hyperlinkId": "braxisholdoutdata-HoldingPenPathingBlocker",
     "radius": 1.0,
     "attributes": [
       "ImmuneToAOE",
@@ -2270,7 +2270,7 @@
     }
   },
   "braxisholdoutdata-InvisibleBossPathingLine": {
-    "hyperlinkId": "InvisibleBossPathingLine",
+    "hyperlinkId": "braxisholdoutdata-InvisibleBossPathingLine",
     "speed": 30.0,
     "attributes": [
       "ImmuneToAOE",
@@ -2286,7 +2286,7 @@
     }
   },
   "braxisholdoutdata-KingsCore": {
-    "hyperlinkId": "KingsCore",
+    "hyperlinkId": "braxisholdoutdata-KingsCore",
     "radius": 4.0,
     "sight": 11.0,
     "scalingLinkId": "CoreScaling",
@@ -2339,7 +2339,7 @@
     }
   },
   "braxisholdoutdata-SamuroShowdownMachine": {
-    "hyperlinkId": "SamuroShowdownMachine",
+    "hyperlinkId": "braxisholdoutdata-SamuroShowdownMachine",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -2356,7 +2356,7 @@
     }
   },
   "braxisholdoutdata-StormSCBraxisCaptureAntenna": {
-    "hyperlinkId": "StormSCBraxisCaptureAntenna",
+    "hyperlinkId": "braxisholdoutdata-StormSCBraxisCaptureAntenna",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -2372,7 +2372,7 @@
     }
   },
   "braxisholdoutdata-StormSCBraxisCaptureCage": {
-    "hyperlinkId": "StormSCBraxisCaptureCage",
+    "hyperlinkId": "braxisholdoutdata-StormSCBraxisCaptureCage",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -2388,7 +2388,7 @@
     }
   },
   "braxisholdoutdata-TerranArchangelDefender": {
-    "hyperlinkId": "TerranArchangelDefender",
+    "hyperlinkId": "braxisholdoutdata-TerranArchangelDefender",
     "radius": 2.0,
     "sight": 8.0,
     "speed": 3.75,
@@ -2441,7 +2441,7 @@
     }
   },
   "braxisholdoutdata-TerranArchangelDefenderBulletstormVisualDummy": {
-    "hyperlinkId": "TerranArchangelDefenderBulletstormVisualDummy",
+    "hyperlinkId": "braxisholdoutdata-TerranArchangelDefenderBulletstormVisualDummy",
     "sight": 2.0,
     "speed": 2.5,
     "attributes": [
@@ -2458,7 +2458,7 @@
     }
   },
   "braxisholdoutdata-TerranArchangelDefenderMortar": {
-    "hyperlinkId": "TerranArchangelDefenderMortar",
+    "hyperlinkId": "braxisholdoutdata-TerranArchangelDefenderMortar",
     "life": {
       "amount": 10.0,
       "scale": 0.0,
@@ -2467,7 +2467,7 @@
     }
   },
   "braxisholdoutdata-TerranArchangelDefenderRangedWeapon": {
-    "hyperlinkId": "TerranArchangelDefenderRangedWeapon",
+    "hyperlinkId": "braxisholdoutdata-TerranArchangelDefenderRangedWeapon",
     "life": {
       "amount": 10.0,
       "scale": 0.0,
@@ -2476,7 +2476,7 @@
     }
   },
   "braxisholdoutdata-TerranArchangelLaner": {
-    "hyperlinkId": "TerranArchangelLaner",
+    "hyperlinkId": "braxisholdoutdata-TerranArchangelLaner",
     "radius": 2.0,
     "sight": 8.0,
     "speed": 3.75,
@@ -2541,7 +2541,7 @@
     }
   },
   "braxisholdoutdata-TownCannonTowerL2": {
-    "hyperlinkId": "TownCannonTowerL2",
+    "hyperlinkId": "braxisholdoutdata-TownCannonTowerL2",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 125,
@@ -2608,7 +2608,7 @@
     ]
   },
   "braxisholdoutdata-TownCannonTowerL3": {
-    "hyperlinkId": "TownCannonTowerL3",
+    "hyperlinkId": "braxisholdoutdata-TownCannonTowerL3",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 400,
@@ -2675,7 +2675,7 @@
     ]
   },
   "braxisholdoutdata-TownTownHallL2": {
-    "hyperlinkId": "TownTownHallL2",
+    "hyperlinkId": "braxisholdoutdata-TownTownHallL2",
     "radius": 2.5,
     "sight": 12.0,
     "attributes": [
@@ -2720,7 +2720,7 @@
     }
   },
   "braxisholdoutdata-TownTownHallL3": {
-    "hyperlinkId": "TownTownHallL3",
+    "hyperlinkId": "braxisholdoutdata-TownTownHallL3",
     "radius": 3.0,
     "sight": 12.0,
     "attributes": [
@@ -2765,7 +2765,7 @@
     }
   },
   "braxisholdoutdata-ZergBaneling": {
-    "hyperlinkId": "ZergBaneling",
+    "hyperlinkId": "braxisholdoutdata-ZergBaneling",
     "innerRadius": 0.5,
     "radius": 0.5,
     "sight": 2.0,
@@ -2801,7 +2801,7 @@
     ]
   },
   "braxisholdoutdata-ZergGuardian": {
-    "hyperlinkId": "ZergGuardian",
+    "hyperlinkId": "braxisholdoutdata-ZergGuardian",
     "innerRadius": 0.75,
     "radius": 1.0,
     "sight": 11.0,
@@ -2837,7 +2837,7 @@
     ]
   },
   "braxisholdoutdata-ZergHive": {
-    "hyperlinkId": "ZergHive",
+    "hyperlinkId": "braxisholdoutdata-ZergHive",
     "radius": 1.5,
     "sight": 8.0,
     "attributes": [
@@ -2877,7 +2877,7 @@
     }
   },
   "braxisholdoutdata-ZergHiveControlBeacon": {
-    "hyperlinkId": "ZergHiveControlBeacon",
+    "hyperlinkId": "braxisholdoutdata-ZergHiveControlBeacon",
     "radius": 4.0,
     "sight": 4.0,
     "attributes": [
@@ -2894,7 +2894,7 @@
     }
   },
   "braxisholdoutdata-ZergHydralisk": {
-    "hyperlinkId": "ZergHydralisk",
+    "hyperlinkId": "braxisholdoutdata-ZergHydralisk",
     "innerRadius": 0.6875,
     "radius": 0.6875,
     "sight": 9.0,
@@ -2940,7 +2940,7 @@
     ]
   },
   "braxisholdoutdata-ZergHydraliskRangedWeapon": {
-    "hyperlinkId": "ZergHydraliskRangedWeapon",
+    "hyperlinkId": "braxisholdoutdata-ZergHydraliskRangedWeapon",
     "life": {
       "amount": 10.0,
       "scale": 0.0,
@@ -2949,7 +2949,7 @@
     }
   },
   "braxisholdoutdata-ZergMutalisk": {
-    "hyperlinkId": "ZergMutalisk",
+    "hyperlinkId": "braxisholdoutdata-ZergMutalisk",
     "innerRadius": 0.375,
     "radius": 0.5,
     "sight": 9.0,
@@ -2983,7 +2983,7 @@
     ]
   },
   "braxisholdoutdata-ZergMutaliskMissile1": {
-    "hyperlinkId": "ZergMutaliskMissile1",
+    "hyperlinkId": "braxisholdoutdata-ZergMutaliskMissile1",
     "life": {
       "amount": 10.0,
       "scale": 0.0,
@@ -2992,7 +2992,7 @@
     }
   },
   "braxisholdoutdata-ZergMutaliskMissile2": {
-    "hyperlinkId": "ZergMutaliskMissile2",
+    "hyperlinkId": "braxisholdoutdata-ZergMutaliskMissile2",
     "life": {
       "amount": 10.0,
       "scale": 0.0,
@@ -3001,7 +3001,7 @@
     }
   },
   "braxisholdoutdata-ZergMutaliskMissile3": {
-    "hyperlinkId": "ZergMutaliskMissile3",
+    "hyperlinkId": "braxisholdoutdata-ZergMutaliskMissile3",
     "life": {
       "amount": 10.0,
       "scale": 0.0,
@@ -3010,7 +3010,7 @@
     }
   },
   "braxisholdoutdata-ZergNydusWorm": {
-    "hyperlinkId": "ZergNydusWorm",
+    "hyperlinkId": "braxisholdoutdata-ZergNydusWorm",
     "radius": 1.5,
     "sight": 8.0,
     "attributes": [
@@ -3043,7 +3043,7 @@
     }
   },
   "braxisholdoutdata-ZergPathDummy": {
-    "hyperlinkId": "ZergPathDummy",
+    "hyperlinkId": "braxisholdoutdata-ZergPathDummy",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -3059,7 +3059,7 @@
     }
   },
   "braxisholdoutdata-ZergRoach": {
-    "hyperlinkId": "ZergRoach",
+    "hyperlinkId": "braxisholdoutdata-ZergRoach",
     "innerRadius": 0.6875,
     "radius": 0.6875,
     "sight": 9.0,
@@ -3103,7 +3103,7 @@
     ]
   },
   "braxisholdoutdata-ZergRoachRangedWeapon": {
-    "hyperlinkId": "ZergRoachRangedWeapon",
+    "hyperlinkId": "braxisholdoutdata-ZergRoachRangedWeapon",
     "radius": 0.5,
     "life": {
       "amount": 1.0,
@@ -3113,7 +3113,7 @@
     }
   },
   "braxisholdoutdata-ZergUltralisk": {
-    "hyperlinkId": "ZergUltralisk",
+    "hyperlinkId": "braxisholdoutdata-ZergUltralisk",
     "innerRadius": 1.0,
     "radius": 1.5,
     "sight": 9.0,
@@ -3149,7 +3149,7 @@
     ]
   },
   "braxisholdoutdata-ZergZergling": {
-    "hyperlinkId": "ZergZergling",
+    "hyperlinkId": "braxisholdoutdata-ZergZergling",
     "innerRadius": 0.5,
     "radius": 0.5625,
     "sight": 6.0,
@@ -3450,7 +3450,7 @@
     }
   },
   "conveyorbelts-ConveyorBelt3x3East": {
-    "hyperlinkId": "ConveyorBelt3x3East",
+    "hyperlinkId": "conveyorbelts-ConveyorBelt3x3East",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -3464,7 +3464,7 @@
     }
   },
   "conveyorbelts-ConveyorBelt3x3North": {
-    "hyperlinkId": "ConveyorBelt3x3North",
+    "hyperlinkId": "conveyorbelts-ConveyorBelt3x3North",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -3478,7 +3478,7 @@
     }
   },
   "conveyorbelts-ConveyorBelt3x3NorthEast": {
-    "hyperlinkId": "ConveyorBelt3x3NorthEast",
+    "hyperlinkId": "conveyorbelts-ConveyorBelt3x3NorthEast",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -3492,7 +3492,7 @@
     }
   },
   "conveyorbelts-ConveyorBelt3x3South": {
-    "hyperlinkId": "ConveyorBelt3x3South",
+    "hyperlinkId": "conveyorbelts-ConveyorBelt3x3South",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -3506,7 +3506,7 @@
     }
   },
   "conveyorbelts-ConveyorBelt3x3SouthEast": {
-    "hyperlinkId": "ConveyorBelt3x3SouthEast",
+    "hyperlinkId": "conveyorbelts-ConveyorBelt3x3SouthEast",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -3520,7 +3520,7 @@
     }
   },
   "conveyorbelts-ConveyorBelt3x3SouthWest": {
-    "hyperlinkId": "ConveyorBelt3x3SouthWest",
+    "hyperlinkId": "conveyorbelts-ConveyorBelt3x3SouthWest",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -3534,7 +3534,7 @@
     }
   },
   "conveyorbelts-ConveyorBelt3x3West": {
-    "hyperlinkId": "ConveyorBelt3x3West",
+    "hyperlinkId": "conveyorbelts-ConveyorBelt3x3West",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -3749,7 +3749,7 @@
     }
   },
   "dragonshire-KingsCore": {
-    "hyperlinkId": "KingsCore",
+    "hyperlinkId": "dragonshire-KingsCore",
     "radius": 4.0,
     "sight": 11.0,
     "scalingLinkId": "CoreScaling",
@@ -3801,7 +3801,7 @@
     }
   },
   "dragonshire-TownCannonTower": {
-    "hyperlinkId": "TownCannonTower",
+    "hyperlinkId": "dragonshire-TownCannonTower",
     "radius": 1.0,
     "sight": 8.0,
     "attributes": [
@@ -3864,7 +3864,7 @@
     ]
   },
   "dragonshire-TownCannonTowerL2": {
-    "hyperlinkId": "TownCannonTowerL2",
+    "hyperlinkId": "dragonshire-TownCannonTowerL2",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 125,
@@ -3930,7 +3930,7 @@
     ]
   },
   "dragonshire-TownCannonTowerL2Standalone": {
-    "hyperlinkId": "TownCannonTowerL2Standalone",
+    "hyperlinkId": "dragonshire-TownCannonTowerL2Standalone",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 125,
@@ -3996,7 +3996,7 @@
     ]
   },
   "dragonshire-TownCannonTowerL3": {
-    "hyperlinkId": "TownCannonTowerL3",
+    "hyperlinkId": "dragonshire-TownCannonTowerL3",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 400,
@@ -4062,7 +4062,7 @@
     ]
   },
   "dragonshire-TownCannonTowerL3Standalone": {
-    "hyperlinkId": "TownCannonTowerL3Standalone",
+    "hyperlinkId": "dragonshire-TownCannonTowerL3Standalone",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 400,
@@ -4128,7 +4128,7 @@
     ]
   },
   "dragonshire-TownTownHallL2": {
-    "hyperlinkId": "TownTownHallL2",
+    "hyperlinkId": "dragonshire-TownTownHallL2",
     "radius": 2.5,
     "sight": 12.0,
     "attributes": [
@@ -4172,7 +4172,7 @@
     }
   },
   "dragonshire-TownTownHallL3": {
-    "hyperlinkId": "TownTownHallL3",
+    "hyperlinkId": "dragonshire-TownTownHallL3",
     "radius": 3.0,
     "sight": 12.0,
     "attributes": [
@@ -4927,7 +4927,7 @@
     }
   },
   "gardenofterror-GardenTerror": {
-    "hyperlinkId": "GardenTerror",
+    "hyperlinkId": "gardenofterror-GardenTerror",
     "innerRadius": 0.75,
     "radius": 1.5,
     "sight": 8.0,
@@ -4984,7 +4984,7 @@
     }
   },
   "gardenofterror-OvergrowthPlant": {
-    "hyperlinkId": "OvergrowthPlant",
+    "hyperlinkId": "gardenofterror-OvergrowthPlant",
     "innerRadius": 1.0,
     "radius": 1.0,
     "sight": 9.25,
@@ -5015,7 +5015,7 @@
     }
   },
   "gardenofterror-OvergrowthPlantDummyUnit": {
-    "hyperlinkId": "OvergrowthPlantDummyUnit",
+    "hyperlinkId": "gardenofterror-OvergrowthPlantDummyUnit",
     "radius": 1.0,
     "sight": 2.0,
     "speed": 4.0,
@@ -5034,7 +5034,7 @@
     }
   },
   "gardenofterror-Seed": {
-    "hyperlinkId": "Seed",
+    "hyperlinkId": "gardenofterror-Seed",
     "radius": 0.75,
     "sight": 4.0,
     "attributes": [
@@ -5053,7 +5053,7 @@
     }
   },
   "gardenofterror-SeedSpawnPreview": {
-    "hyperlinkId": "SeedSpawnPreview",
+    "hyperlinkId": "gardenofterror-SeedSpawnPreview",
     "radius": 0.25,
     "sight": 4.0,
     "attributes": [
@@ -5070,7 +5070,7 @@
     }
   },
   "gardenofterror-Shambler": {
-    "hyperlinkId": "Shambler",
+    "hyperlinkId": "gardenofterror-Shambler",
     "radius": 0.6875,
     "sight": 8.0,
     "speed": 2.0,
@@ -5100,7 +5100,7 @@
     ]
   },
   "gardenofterror-ShamblerRanged": {
-    "hyperlinkId": "ShamblerRanged",
+    "hyperlinkId": "gardenofterror-ShamblerRanged",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -5132,7 +5132,7 @@
     ]
   },
   "gardenofterrordata-FertileSoil": {
-    "hyperlinkId": "FertileSoil",
+    "hyperlinkId": "gardenofterrordata-FertileSoil",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -5147,7 +5147,7 @@
     }
   },
   "gardenofterrordata-ItemSeedPickup": {
-    "hyperlinkId": "ItemSeedPickup",
+    "hyperlinkId": "gardenofterrordata-ItemSeedPickup",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -5167,7 +5167,7 @@
     }
   },
   "gardenofterrordata-ItemSeedPickupPrecursor": {
-    "hyperlinkId": "ItemSeedPickupPrecursor",
+    "hyperlinkId": "gardenofterrordata-ItemSeedPickupPrecursor",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -5183,7 +5183,7 @@
     }
   },
   "gardenofterrordata-JunglePlantHorror": {
-    "hyperlinkId": "JunglePlantHorror",
+    "hyperlinkId": "gardenofterrordata-JunglePlantHorror",
     "innerRadius": 1.75,
     "radius": 1.75,
     "sight": 8.0,
@@ -5234,7 +5234,7 @@
     }
   },
   "gardenofterrordata-JunglePlantHorrorPoisonBulb": {
-    "hyperlinkId": "JunglePlantHorrorPoisonBulb",
+    "hyperlinkId": "gardenofterrordata-JunglePlantHorrorPoisonBulb",
     "radius": 0.5,
     "attributes": [
       "ImmuneToFriendlyAbilities",
@@ -5249,7 +5249,7 @@
     }
   },
   "gardenofterrordata-KingsCore": {
-    "hyperlinkId": "KingsCore",
+    "hyperlinkId": "gardenofterrordata-KingsCore",
     "radius": 4.0,
     "sight": 11.0,
     "scalingLinkId": "CoreScaling",
@@ -5301,7 +5301,7 @@
     }
   },
   "gardenofterrordata-PlantHorrorOvergrowthPlant": {
-    "hyperlinkId": "PlantHorrorOvergrowthPlant",
+    "hyperlinkId": "gardenofterrordata-PlantHorrorOvergrowthPlant",
     "innerRadius": 0.75,
     "radius": 1.0,
     "sight": 9.25,
@@ -5331,7 +5331,7 @@
     }
   },
   "gardenofterrordata-PlantHorrorOvergrowthPlantDummyUnit": {
-    "hyperlinkId": "PlantHorrorOvergrowthPlantDummyUnit",
+    "hyperlinkId": "gardenofterrordata-PlantHorrorOvergrowthPlantDummyUnit",
     "radius": 1.0,
     "sight": 2.0,
     "speed": 4.0,
@@ -5347,7 +5347,7 @@
     }
   },
   "gardenofterrordata-PlantHorrorPoisonBulb": {
-    "hyperlinkId": "PlantHorrorPoisonBulb",
+    "hyperlinkId": "gardenofterrordata-PlantHorrorPoisonBulb",
     "radius": 0.5,
     "attributes": [
       "ImmuneToFriendlyAbilities",
@@ -5362,7 +5362,7 @@
     }
   },
   "gardenofterrordata-PlantHorrorStranglingBloomPlant": {
-    "hyperlinkId": "PlantHorrorStranglingBloomPlant",
+    "hyperlinkId": "gardenofterrordata-PlantHorrorStranglingBloomPlant",
     "radius": 0.5,
     "sight": 9.25,
     "attributes": [
@@ -5388,7 +5388,7 @@
     }
   },
   "gardenofterrordata-PlantHorrorThornSpitter": {
-    "hyperlinkId": "PlantHorrorThornSpitter",
+    "hyperlinkId": "gardenofterrordata-PlantHorrorThornSpitter",
     "innerRadius": 0.5,
     "radius": 0.5,
     "sight": 7.0,
@@ -5424,7 +5424,7 @@
     }
   },
   "gardenofterrordata-PlantHorrorZombie": {
-    "hyperlinkId": "PlantHorrorZombie",
+    "hyperlinkId": "gardenofterrordata-PlantHorrorZombie",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -5456,7 +5456,7 @@
     ]
   },
   "gardenofterrordata-Shambler": {
-    "hyperlinkId": "Shambler",
+    "hyperlinkId": "gardenofterrordata-Shambler",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -5492,7 +5492,7 @@
     ]
   },
   "gardenofterrordata-ShamblerRanged": {
-    "hyperlinkId": "ShamblerRanged",
+    "hyperlinkId": "gardenofterrordata-ShamblerRanged",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -5528,7 +5528,7 @@
     ]
   },
   "gardenofterrordata-ShamblerWalker": {
-    "hyperlinkId": "ShamblerWalker",
+    "hyperlinkId": "gardenofterrordata-ShamblerWalker",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -5560,7 +5560,7 @@
     ]
   },
   "gardenofterrordata-TownCannonTower": {
-    "hyperlinkId": "TownCannonTower",
+    "hyperlinkId": "gardenofterrordata-TownCannonTower",
     "radius": 1.0,
     "sight": 8.0,
     "attributes": [
@@ -5623,7 +5623,7 @@
     ]
   },
   "gardenofterrordata-TownCannonTowerL2": {
-    "hyperlinkId": "TownCannonTowerL2",
+    "hyperlinkId": "gardenofterrordata-TownCannonTowerL2",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 125,
@@ -5689,7 +5689,7 @@
     ]
   },
   "gardenofterrordata-TownCannonTowerL2Standalone": {
-    "hyperlinkId": "TownCannonTowerL2Standalone",
+    "hyperlinkId": "gardenofterrordata-TownCannonTowerL2Standalone",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 125,
@@ -5755,7 +5755,7 @@
     ]
   },
   "gardenofterrordata-TownCannonTowerL3": {
-    "hyperlinkId": "TownCannonTowerL3",
+    "hyperlinkId": "gardenofterrordata-TownCannonTowerL3",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 400,
@@ -5821,7 +5821,7 @@
     ]
   },
   "gardenofterrordata-TownCannonTowerL3Standalone": {
-    "hyperlinkId": "TownCannonTowerL3Standalone",
+    "hyperlinkId": "gardenofterrordata-TownCannonTowerL3Standalone",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 400,
@@ -5887,7 +5887,7 @@
     ]
   },
   "gardenofterrordata-TownTownHallL2": {
-    "hyperlinkId": "TownTownHallL2",
+    "hyperlinkId": "gardenofterrordata-TownTownHallL2",
     "radius": 2.5,
     "sight": 12.0,
     "attributes": [
@@ -5931,7 +5931,7 @@
     }
   },
   "gardenofterrordata-TownTownHallL3": {
-    "hyperlinkId": "TownTownHallL3",
+    "hyperlinkId": "gardenofterrordata-TownTownHallL3",
     "radius": 3.0,
     "sight": 12.0,
     "attributes": [
@@ -5975,7 +5975,7 @@
     }
   },
   "gardenofterrordata-VehiclePlantHorror": {
-    "hyperlinkId": "VehiclePlantHorror",
+    "hyperlinkId": "gardenofterrordata-VehiclePlantHorror",
     "innerRadius": 0.75,
     "radius": 1.5,
     "sight": 2.0,
@@ -6345,7 +6345,7 @@
     }
   },
   "hanamura-ControlPointMinimapIconA": {
-    "hyperlinkId": "ControlPointMinimapIconA",
+    "hyperlinkId": "hanamura-ControlPointMinimapIconA",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -6362,7 +6362,7 @@
     }
   },
   "hanamura-ControlPointMinimapIconB": {
-    "hyperlinkId": "ControlPointMinimapIconB",
+    "hyperlinkId": "hanamura-ControlPointMinimapIconB",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -6379,7 +6379,7 @@
     }
   },
   "hanamura-ControlPointMinimapIconC": {
-    "hyperlinkId": "ControlPointMinimapIconC",
+    "hyperlinkId": "hanamura-ControlPointMinimapIconC",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -6396,7 +6396,7 @@
     }
   },
   "hanamura-ControlPointMinimapPreviewIconA": {
-    "hyperlinkId": "ControlPointMinimapPreviewIconA",
+    "hyperlinkId": "hanamura-ControlPointMinimapPreviewIconA",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -6413,7 +6413,7 @@
     }
   },
   "hanamura-ControlPointMinimapPreviewIconB": {
-    "hyperlinkId": "ControlPointMinimapPreviewIconB",
+    "hyperlinkId": "hanamura-ControlPointMinimapPreviewIconB",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -6430,7 +6430,7 @@
     }
   },
   "hanamura-ControlPointMinimapPreviewIconC": {
-    "hyperlinkId": "ControlPointMinimapPreviewIconC",
+    "hyperlinkId": "hanamura-ControlPointMinimapPreviewIconC",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -6447,7 +6447,7 @@
     }
   },
   "hanamura-Elevator_PathingBlocker": {
-    "hyperlinkId": "Elevator_PathingBlocker",
+    "hyperlinkId": "hanamura-Elevator_PathingBlocker",
     "innerRadius": 0.0625,
     "radius": 3.0,
     "attributes": [
@@ -6468,7 +6468,7 @@
     }
   },
   "hanamura-FootmanMinion": {
-    "hyperlinkId": "FootmanMinion",
+    "hyperlinkId": "hanamura-FootmanMinion",
     "innerRadius": 0.6875,
     "radius": 0.6875,
     "sight": 8.0,
@@ -6502,7 +6502,7 @@
     ]
   },
   "hanamura-KingsCore": {
-    "hyperlinkId": "KingsCore",
+    "hyperlinkId": "hanamura-KingsCore",
     "radius": 4.0,
     "sight": 11.0,
     "scalingLinkId": "CoreScaling",
@@ -6554,7 +6554,7 @@
     }
   },
   "hanamura-MercDefenderHenchman1": {
-    "hyperlinkId": "MercDefenderHenchman1",
+    "hyperlinkId": "hanamura-MercDefenderHenchman1",
     "radius": 0.625,
     "sight": 8.0,
     "speed": 3.25,
@@ -6584,7 +6584,7 @@
     ]
   },
   "hanamura-MercDefenderHenchman2": {
-    "hyperlinkId": "MercDefenderHenchman2",
+    "hyperlinkId": "hanamura-MercDefenderHenchman2",
     "radius": 0.625,
     "sight": 8.0,
     "speed": 3.25,
@@ -6614,7 +6614,7 @@
     ]
   },
   "hanamura-MercDefenderHenchman3": {
-    "hyperlinkId": "MercDefenderHenchman3",
+    "hyperlinkId": "hanamura-MercDefenderHenchman3",
     "radius": 0.625,
     "sight": 8.0,
     "speed": 3.25,
@@ -6644,7 +6644,7 @@
     ]
   },
   "hanamura-MercDefenderSentinel": {
-    "hyperlinkId": "MercDefenderSentinel",
+    "hyperlinkId": "hanamura-MercDefenderSentinel",
     "innerRadius": 0.5,
     "radius": 1.0,
     "sight": 8.0,
@@ -6684,7 +6684,7 @@
     }
   },
   "hanamura-MercLanerHenchman1": {
-    "hyperlinkId": "MercLanerHenchman1",
+    "hyperlinkId": "hanamura-MercLanerHenchman1",
     "radius": 0.625,
     "sight": 8.0,
     "speed": 3.25,
@@ -6713,7 +6713,7 @@
     ]
   },
   "hanamura-MercLanerHenchman2": {
-    "hyperlinkId": "MercLanerHenchman2",
+    "hyperlinkId": "hanamura-MercLanerHenchman2",
     "radius": 0.625,
     "sight": 8.0,
     "speed": 3.25,
@@ -6743,7 +6743,7 @@
     ]
   },
   "hanamura-MercLanerHenchman3": {
-    "hyperlinkId": "MercLanerHenchman3",
+    "hyperlinkId": "hanamura-MercLanerHenchman3",
     "radius": 0.625,
     "sight": 8.0,
     "speed": 3.25,
@@ -6773,7 +6773,7 @@
     ]
   },
   "hanamura-MercLanerSentinel": {
-    "hyperlinkId": "MercLanerSentinel",
+    "hyperlinkId": "hanamura-MercLanerSentinel",
     "radius": 0.5,
     "sight": 8.0,
     "speed": 4.0,
@@ -6816,7 +6816,7 @@
     }
   },
   "hanamura-Payload_Neutral": {
-    "hyperlinkId": "Payload_Neutral",
+    "hyperlinkId": "hanamura-Payload_Neutral",
     "innerRadius": 1.5,
     "radius": 1.5,
     "sight": 8.0,
@@ -6842,7 +6842,7 @@
     }
   },
   "hanamura-Payload_Neutral_Warning": {
-    "hyperlinkId": "Payload_Neutral_Warning",
+    "hyperlinkId": "hanamura-Payload_Neutral_Warning",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -6859,7 +6859,7 @@
     }
   },
   "hanamura-RangedMinion": {
-    "hyperlinkId": "RangedMinion",
+    "hyperlinkId": "hanamura-RangedMinion",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -6893,7 +6893,7 @@
     ]
   },
   "hanamura-ReconCampVisionUnit": {
-    "hyperlinkId": "ReconCampVisionUnit",
+    "hyperlinkId": "hanamura-ReconCampVisionUnit",
     "sight": 14.0,
     "attributes": [
       "ImmuneToAOE",
@@ -6909,7 +6909,7 @@
     }
   },
   "hanamura-Storm_Building_OWHana_LargeGate_Ext": {
-    "hyperlinkId": "Storm_Building_OWHana_LargeGate_Ext",
+    "hyperlinkId": "hanamura-Storm_Building_OWHana_LargeGate_Ext",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -6931,7 +6931,7 @@
     }
   },
   "hanamura-Storm_Building_OWHana_LargeGate_Int": {
-    "hyperlinkId": "Storm_Building_OWHana_LargeGate_Int",
+    "hyperlinkId": "hanamura-Storm_Building_OWHana_LargeGate_Int",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -6953,7 +6953,7 @@
     }
   },
   "hanamura-WizardMinion": {
-    "hyperlinkId": "WizardMinion",
+    "hyperlinkId": "hanamura-WizardMinion",
     "innerRadius": 0.5625,
     "radius": 0.5625,
     "sight": 8.0,
@@ -6987,7 +6987,7 @@
     ]
   },
   "hanamuradata-AttackCoreSourceInvisibleUnit": {
-    "hyperlinkId": "AttackCoreSourceInvisibleUnit",
+    "hyperlinkId": "hanamuradata-AttackCoreSourceInvisibleUnit",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -7003,7 +7003,7 @@
     }
   },
   "hanamuradata-KingsCore": {
-    "hyperlinkId": "KingsCore",
+    "hyperlinkId": "hanamuradata-KingsCore",
     "radius": 4.0,
     "sight": 11.0,
     "attributes": [
@@ -7048,7 +7048,7 @@
     }
   },
   "hanamuradata-MercGoblinSapperLaner": {
-    "hyperlinkId": "MercGoblinSapperLaner",
+    "hyperlinkId": "hanamuradata-MercGoblinSapperLaner",
     "radius": 0.75,
     "sight": 9.0,
     "speed": 3.25,
@@ -7093,7 +7093,7 @@
     }
   },
   "hanamuradata-Payload": {
-    "hyperlinkId": "Payload",
+    "hyperlinkId": "hanamuradata-Payload",
     "innerRadius": 1.5,
     "radius": 1.5,
     "sight": 8.0,
@@ -7112,7 +7112,7 @@
     }
   },
   "hanamuradata-PayloadChaosPath1": {
-    "hyperlinkId": "PayloadChaosPath1",
+    "hyperlinkId": "hanamuradata-PayloadChaosPath1",
     "innerRadius": 1.5,
     "radius": 1.5,
     "sight": 8.0,
@@ -7131,7 +7131,7 @@
     }
   },
   "hanamuradata-PayloadChaosPath2": {
-    "hyperlinkId": "PayloadChaosPath2",
+    "hyperlinkId": "hanamuradata-PayloadChaosPath2",
     "innerRadius": 1.5,
     "radius": 1.5,
     "sight": 8.0,
@@ -7150,7 +7150,7 @@
     }
   },
   "hanamuradata-PayloadDestinationMinimapIcon": {
-    "hyperlinkId": "PayloadDestinationMinimapIcon",
+    "hyperlinkId": "hanamuradata-PayloadDestinationMinimapIcon",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -7168,7 +7168,7 @@
     }
   },
   "hanamuradata-PayloadOrderPath1": {
-    "hyperlinkId": "PayloadOrderPath1",
+    "hyperlinkId": "hanamuradata-PayloadOrderPath1",
     "innerRadius": 1.5,
     "radius": 1.5,
     "sight": 8.0,
@@ -7187,7 +7187,7 @@
     }
   },
   "hanamuradata-PayloadOrderPath2": {
-    "hyperlinkId": "PayloadOrderPath2",
+    "hyperlinkId": "hanamuradata-PayloadOrderPath2",
     "innerRadius": 1.5,
     "radius": 1.5,
     "sight": 8.0,
@@ -7206,7 +7206,7 @@
     }
   },
   "hanamuradata-PayloadSpawningWarningUnit": {
-    "hyperlinkId": "PayloadSpawningWarningUnit",
+    "hyperlinkId": "hanamuradata-PayloadSpawningWarningUnit",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -7225,7 +7225,7 @@
     }
   },
   "hanamuradata-Storm_Building_OWHana_LargeGate_Ext": {
-    "hyperlinkId": "Storm_Building_OWHana_LargeGate_Ext",
+    "hyperlinkId": "hanamuradata-Storm_Building_OWHana_LargeGate_Ext",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -7247,7 +7247,7 @@
     }
   },
   "hanamuradata-Storm_Building_OWHana_LargeGate_Int": {
-    "hyperlinkId": "Storm_Building_OWHana_LargeGate_Int",
+    "hyperlinkId": "hanamuradata-Storm_Building_OWHana_LargeGate_Int",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -7393,7 +7393,7 @@
     }
   },
   "hauntedmines-BossHoleSharedVisionUnit": {
-    "hyperlinkId": "BossHoleSharedVisionUnit",
+    "hyperlinkId": "hauntedmines-BossHoleSharedVisionUnit",
     "radius": 0.5,
     "sight": 8.0,
     "life": {
@@ -7404,7 +7404,7 @@
     }
   },
   "hauntedmines-MercGoblinSapperDefender": {
-    "hyperlinkId": "MercGoblinSapperDefender",
+    "hyperlinkId": "hauntedmines-MercGoblinSapperDefender",
     "radius": 0.75,
     "sight": 9.0,
     "speed": 3.5,
@@ -7436,7 +7436,7 @@
     ]
   },
   "hauntedmines-MercGoblinSapperLaner": {
-    "hyperlinkId": "MercGoblinSapperLaner",
+    "hyperlinkId": "hauntedmines-MercGoblinSapperLaner",
     "radius": 0.75,
     "sight": 9.0,
     "speed": 3.5,
@@ -7481,7 +7481,7 @@
     }
   },
   "hauntedmines-UnderworldSummonedBoss": {
-    "hyperlinkId": "UnderworldSummonedBoss",
+    "hyperlinkId": "hauntedmines-UnderworldSummonedBoss",
     "radius": 1.25,
     "sight": 8.0,
     "speed": 3.75,
@@ -7538,7 +7538,7 @@
     }
   },
   "hauntedmines-UnderworldSummonedBossBody": {
-    "hyperlinkId": "UnderworldSummonedBossBody",
+    "hyperlinkId": "hauntedmines-UnderworldSummonedBossBody",
     "sight": 8.0,
     "speed": 3.75,
     "attributes": [
@@ -7617,7 +7617,7 @@
     }
   },
   "heavenhell-Hell_GiantDemon_Base": {
-    "hyperlinkId": "Hell_GiantDemon_Base",
+    "hyperlinkId": "heavenhell-Hell_GiantDemon_Base",
     "speed": 6.0,
     "attributes": [
       "ImmuneToAOE",
@@ -7635,7 +7635,7 @@
     }
   },
   "heavenhell-Hell_GiantDemon_Chains": {
-    "hyperlinkId": "Hell_GiantDemon_Chains",
+    "hyperlinkId": "heavenhell-Hell_GiantDemon_Chains",
     "speed": 6.0,
     "attributes": [
       "ImmuneToAOE",
@@ -7653,7 +7653,7 @@
     }
   },
   "heavenhell-MercSiegeTrooperDefender": {
-    "hyperlinkId": "MercSiegeTrooperDefender",
+    "hyperlinkId": "heavenhell-MercSiegeTrooperDefender",
     "innerRadius": 0.875,
     "radius": 1.0,
     "sight": 8.0,
@@ -7689,7 +7689,7 @@
     ]
   },
   "heavenhell-MercSiegeTrooperLaner": {
-    "hyperlinkId": "MercSiegeTrooperLaner",
+    "hyperlinkId": "heavenhell-MercSiegeTrooperLaner",
     "innerRadius": 0.875,
     "radius": 1.0,
     "sight": 12.0,
@@ -7723,7 +7723,7 @@
     ]
   },
   "heavenhell-MercSummonerDefender": {
-    "hyperlinkId": "MercSummonerDefender",
+    "hyperlinkId": "heavenhell-MercSummonerDefender",
     "innerRadius": 0.75,
     "radius": 0.75,
     "sight": 8.0,
@@ -7785,7 +7785,7 @@
     }
   },
   "heavenhell-MercSummonerLaner": {
-    "hyperlinkId": "MercSummonerLaner",
+    "hyperlinkId": "heavenhell-MercSummonerLaner",
     "innerRadius": 0.75,
     "radius": 0.75,
     "sight": 8.0,
@@ -7848,7 +7848,7 @@
     }
   },
   "heavenhell-TownTownHallL3": {
-    "hyperlinkId": "TownTownHallL3",
+    "hyperlinkId": "heavenhell-TownTownHallL3",
     "radius": 3.0,
     "sight": 12.0,
     "attributes": [
@@ -7892,7 +7892,7 @@
     }
   },
   "heavenhell-WeaponRackSpecialHeaven": {
-    "hyperlinkId": "WeaponRackSpecialHeaven",
+    "hyperlinkId": "heavenhell-WeaponRackSpecialHeaven",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -7909,7 +7909,7 @@
     }
   },
   "heavenhell-WeaponRackSpecialHell": {
-    "hyperlinkId": "WeaponRackSpecialHell",
+    "hyperlinkId": "heavenhell-WeaponRackSpecialHell",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -7998,7 +7998,7 @@
     }
   },
   "infernalshrines-MercPunisherLaner": {
-    "hyperlinkId": "MercPunisherLaner",
+    "hyperlinkId": "infernalshrines-MercPunisherLaner",
     "radius": 0.5,
     "life": {
       "amount": 1.0,
@@ -8008,7 +8008,7 @@
     }
   },
   "infernalshrinesdata-CursedShrineMinion": {
-    "hyperlinkId": "CursedShrineMinion",
+    "hyperlinkId": "infernalshrinesdata-CursedShrineMinion",
     "innerRadius": 0.375,
     "radius": 0.5,
     "sight": 9.0,
@@ -8038,7 +8038,7 @@
     ]
   },
   "infernalshrinesdata-DiabloArcaneUnit": {
-    "hyperlinkId": "DiabloArcaneUnit",
+    "hyperlinkId": "infernalshrinesdata-DiabloArcaneUnit",
     "innerRadius": 0.5,
     "radius": 3.0,
     "sight": 8.0,
@@ -8067,7 +8067,7 @@
     }
   },
   "infernalshrinesdata-DiabloShrine": {
-    "hyperlinkId": "DiabloShrine",
+    "hyperlinkId": "infernalshrinesdata-DiabloShrine",
     "radius": 1.5,
     "sight": 8.0,
     "attributes": [
@@ -8108,7 +8108,7 @@
     }
   },
   "infernalshrinesdata-DiabloShrineWarningUnit": {
-    "hyperlinkId": "DiabloShrineWarningUnit",
+    "hyperlinkId": "infernalshrinesdata-DiabloShrineWarningUnit",
     "radius": 2.0,
     "attributes": [
       "ImmuneToAOE",
@@ -8127,7 +8127,7 @@
     }
   },
   "infernalshrinesdata-FallenLunatic": {
-    "hyperlinkId": "FallenLunatic",
+    "hyperlinkId": "infernalshrinesdata-FallenLunatic",
     "innerRadius": 0.375,
     "radius": 0.5,
     "sight": 9.0,
@@ -8157,7 +8157,7 @@
     }
   },
   "infernalshrinesdata-MercPunisherLaner": {
-    "hyperlinkId": "MercPunisherLaner",
+    "hyperlinkId": "infernalshrinesdata-MercPunisherLaner",
     "innerRadius": 1.0,
     "radius": 1.125,
     "sight": 8.0,
@@ -8246,7 +8246,7 @@
     ]
   },
   "infernalshrinesdata-ParalyzeStructure": {
-    "hyperlinkId": "ParalyzeStructure",
+    "hyperlinkId": "infernalshrinesdata-ParalyzeStructure",
     "radius": 0.5,
     "sight": 2.5,
     "life": {
@@ -8257,7 +8257,7 @@
     }
   },
   "infernalshrinesdata-ShrineAuraMinion": {
-    "hyperlinkId": "ShrineAuraMinion",
+    "hyperlinkId": "infernalshrinesdata-ShrineAuraMinion",
     "innerRadius": 0.375,
     "radius": 0.5,
     "sight": 9.0,
@@ -11337,7 +11337,7 @@
     }
   },
   "overwatchdata-BioticEmitter": {
-    "hyperlinkId": "BioticEmitter",
+    "hyperlinkId": "overwatchdata-BioticEmitter",
     "sight": 6.5,
     "scalingLinkId": "BioticEmitterScaling",
     "attributes": [
@@ -11359,7 +11359,7 @@
     }
   },
   "overwatchdata-DragonSpirit": {
-    "hyperlinkId": "DragonSpirit",
+    "hyperlinkId": "overwatchdata-DragonSpirit",
     "sight": 6.0,
     "life": {
       "amount": 10.0,
@@ -11369,7 +11369,7 @@
     }
   },
   "overwatchdata-DragonSpiritsPickup": {
-    "hyperlinkId": "DragonSpiritsPickup",
+    "hyperlinkId": "overwatchdata-DragonSpiritsPickup",
     "radius": 0.5,
     "portraits": {
       "minimap": "storm_ui_hud_minimap_hanamura_dragon_icon.png"
@@ -11382,7 +11382,7 @@
     }
   },
   "overwatchdata-DummyTurret": {
-    "hyperlinkId": "DummyTurret",
+    "hyperlinkId": "overwatchdata-DummyTurret",
     "innerRadius": 0.5,
     "radius": 0.5,
     "sight": 7.0,
@@ -11422,7 +11422,7 @@
     }
   },
   "overwatchdata-HealingPulsePickup": {
-    "hyperlinkId": "HealingPulsePickup",
+    "hyperlinkId": "overwatchdata-HealingPulsePickup",
     "radius": 0.5,
     "portraits": {
       "minimap": "storm_ui_hud_minimap_hanamura_healing_icon.png"
@@ -11435,7 +11435,7 @@
     }
   },
   "overwatchdata-JungleGraveGolemDefender": {
-    "hyperlinkId": "JungleGraveGolemDefender",
+    "hyperlinkId": "overwatchdata-JungleGraveGolemDefender",
     "innerRadius": 0.125,
     "radius": 2.0,
     "sight": 8.0,
@@ -11505,7 +11505,7 @@
     }
   },
   "overwatchdata-MercDefenderMeleeBruiser": {
-    "hyperlinkId": "MercDefenderMeleeBruiser",
+    "hyperlinkId": "overwatchdata-MercDefenderMeleeBruiser",
     "innerRadius": 0.3125,
     "radius": 0.625,
     "sight": 8.0,
@@ -11534,7 +11534,7 @@
     ]
   },
   "overwatchdata-MercDefenderMeleeBruiser2": {
-    "hyperlinkId": "MercDefenderMeleeBruiser2",
+    "hyperlinkId": "overwatchdata-MercDefenderMeleeBruiser2",
     "innerRadius": 0.3125,
     "radius": 0.625,
     "sight": 8.0,
@@ -11563,7 +11563,7 @@
     ]
   },
   "overwatchdata-MercDefenderMeleeBruiser3": {
-    "hyperlinkId": "MercDefenderMeleeBruiser3",
+    "hyperlinkId": "overwatchdata-MercDefenderMeleeBruiser3",
     "innerRadius": 0.3125,
     "radius": 0.625,
     "sight": 8.0,
@@ -11592,7 +11592,7 @@
     ]
   },
   "overwatchdata-MercDefenderMeleeIndividual": {
-    "hyperlinkId": "MercDefenderMeleeIndividual",
+    "hyperlinkId": "overwatchdata-MercDefenderMeleeIndividual",
     "innerRadius": 0.5,
     "radius": 1.0,
     "sight": 8.0,
@@ -11628,7 +11628,7 @@
     }
   },
   "overwatchdata-MercSiegeTrooperDefender": {
-    "hyperlinkId": "MercSiegeTrooperDefender",
+    "hyperlinkId": "overwatchdata-MercSiegeTrooperDefender",
     "innerRadius": 0.875,
     "radius": 1.0,
     "sight": 8.0,
@@ -11661,7 +11661,7 @@
     ]
   },
   "overwatchdata-OverwatchBossImprisonMissileDummy": {
-    "hyperlinkId": "OverwatchBossImprisonMissileDummy",
+    "hyperlinkId": "overwatchdata-OverwatchBossImprisonMissileDummy",
     "life": {
       "amount": 10.0,
       "scale": 0.0,
@@ -11670,7 +11670,7 @@
     }
   },
   "overwatchdata-OverwatchBossLaner": {
-    "hyperlinkId": "OverwatchBossLaner",
+    "hyperlinkId": "overwatchdata-OverwatchBossLaner",
     "radius": 1.25,
     "sight": 8.0,
     "speed": 8.0,
@@ -11701,7 +11701,7 @@
     }
   },
   "overwatchdata-OverwatchMechanic": {
-    "hyperlinkId": "OverwatchMechanic",
+    "hyperlinkId": "overwatchdata-OverwatchMechanic",
     "innerRadius": 0.5,
     "radius": 0.75,
     "sight": 8.0,
@@ -11738,7 +11738,7 @@
     }
   },
   "overwatchdata-OverwatchTurret": {
-    "hyperlinkId": "OverwatchTurret",
+    "hyperlinkId": "overwatchdata-OverwatchTurret",
     "innerRadius": 0.5,
     "radius": 0.75,
     "sight": 8.0,
@@ -11763,7 +11763,7 @@
     ]
   },
   "overwatchdata-OverwatchTurretPlayer": {
-    "hyperlinkId": "OverwatchTurretPlayer",
+    "hyperlinkId": "overwatchdata-OverwatchTurretPlayer",
     "innerRadius": 0.5,
     "radius": 0.75,
     "sight": 8.0,
@@ -11802,7 +11802,7 @@
     ]
   },
   "overwatchdata-OWPickupChest": {
-    "hyperlinkId": "OWPickupChest",
+    "hyperlinkId": "overwatchdata-OWPickupChest",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -11818,7 +11818,7 @@
     }
   },
   "overwatchdata-RegenGlobe": {
-    "hyperlinkId": "RegenGlobe",
+    "hyperlinkId": "overwatchdata-RegenGlobe",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -11834,7 +11834,7 @@
     }
   },
   "overwatchdata-RegenGlobePrecursor": {
-    "hyperlinkId": "RegenGlobePrecursor",
+    "hyperlinkId": "overwatchdata-RegenGlobePrecursor",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -11850,7 +11850,7 @@
     }
   },
   "overwatchdata-TurretPickup": {
-    "hyperlinkId": "TurretPickup",
+    "hyperlinkId": "overwatchdata-TurretPickup",
     "radius": 0.5,
     "portraits": {
       "minimap": "storm_ui_hud_minimap_hanamura_turret_icon.png"
@@ -13009,7 +13009,7 @@
     ]
   },
   "starcraft-ArcadeMachine": {
-    "hyperlinkId": "ArcadeMachine",
+    "hyperlinkId": "starcraft-ArcadeMachine",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -13026,7 +13026,7 @@
     }
   },
   "starcraft-BroadcastingRelay": {
-    "hyperlinkId": "BroadcastingRelay",
+    "hyperlinkId": "starcraft-BroadcastingRelay",
     "radius": 1.5,
     "attributes": [
       "AITargetableStructure",
@@ -13066,7 +13066,7 @@
     }
   },
   "starcraft-CatapultMinion": {
-    "hyperlinkId": "CatapultMinion",
+    "hyperlinkId": "starcraft-CatapultMinion",
     "innerRadius": 0.875,
     "radius": 1.125,
     "sight": 13.0,
@@ -13100,7 +13100,7 @@
     ]
   },
   "starcraft-PsiReceiver": {
-    "hyperlinkId": "PsiReceiver",
+    "hyperlinkId": "starcraft-PsiReceiver",
     "radius": 1.5,
     "attributes": [
       "AITargetableStructure",
@@ -13132,7 +13132,7 @@
     }
   },
   "starcraft-PsiRelay": {
-    "hyperlinkId": "PsiRelay",
+    "hyperlinkId": "starcraft-PsiRelay",
     "life": {
       "amount": 5.0,
       "scale": 0.0,
@@ -13141,7 +13141,7 @@
     }
   },
   "starcraft-TerranAutoTurret": {
-    "hyperlinkId": "TerranAutoTurret",
+    "hyperlinkId": "starcraft-TerranAutoTurret",
     "innerRadius": 0.5,
     "radius": 0.5,
     "sight": 7.0,
@@ -13177,7 +13177,7 @@
     }
   },
   "starcraft-TerranBunker": {
-    "hyperlinkId": "TerranBunker",
+    "hyperlinkId": "starcraft-TerranBunker",
     "radius": 1.25,
     "sight": 10.0,
     "attributes": [
@@ -13239,7 +13239,7 @@
     }
   },
   "starcraft-TerranBunkerUpgraded": {
-    "hyperlinkId": "TerranBunkerUpgraded",
+    "hyperlinkId": "starcraft-TerranBunkerUpgraded",
     "radius": 1.25,
     "sight": 10.0,
     "attributes": [
@@ -13301,7 +13301,7 @@
     }
   },
   "starcraft-TerranGoliath": {
-    "hyperlinkId": "TerranGoliath",
+    "hyperlinkId": "starcraft-TerranGoliath",
     "innerRadius": 0.75,
     "radius": 0.75,
     "sight": 9.0,
@@ -13328,7 +13328,7 @@
     ]
   },
   "starcraft-TerranGoliathDefender": {
-    "hyperlinkId": "TerranGoliathDefender",
+    "hyperlinkId": "starcraft-TerranGoliathDefender",
     "radius": 0.6875,
     "sight": 9.0,
     "speed": 3.75,
@@ -13354,7 +13354,7 @@
     ]
   },
   "starcraft-TerranMarine": {
-    "hyperlinkId": "TerranMarine",
+    "hyperlinkId": "starcraft-TerranMarine",
     "innerRadius": 0.375,
     "radius": 0.6875,
     "sight": 9.0,
@@ -13381,7 +13381,7 @@
     ]
   },
   "starcraft-TerranRaven": {
-    "hyperlinkId": "TerranRaven",
+    "hyperlinkId": "starcraft-TerranRaven",
     "radius": 0.625,
     "sight": 11.0,
     "speed": 3.5,
@@ -13426,7 +13426,7 @@
     }
   },
   "starcraft-TerranRavenDefender": {
-    "hyperlinkId": "TerranRavenDefender",
+    "hyperlinkId": "starcraft-TerranRavenDefender",
     "radius": 0.625,
     "sight": 11.0,
     "speed": 3.5,
@@ -13471,7 +13471,7 @@
     }
   },
   "starcraft-WizardMinion": {
-    "hyperlinkId": "WizardMinion",
+    "hyperlinkId": "starcraft-WizardMinion",
     "innerRadius": 0.5625,
     "radius": 0.5625,
     "sight": 8.0,
@@ -15440,7 +15440,7 @@
     ]
   },
   "tombofthespiderqueen-FootmanMinion": {
-    "hyperlinkId": "FootmanMinion",
+    "hyperlinkId": "tombofthespiderqueen-FootmanMinion",
     "innerRadius": 0.6875,
     "radius": 0.6875,
     "sight": 8.0,
@@ -15474,7 +15474,7 @@
     ]
   },
   "tombofthespiderqueen-HarrisonJones": {
-    "hyperlinkId": "HarrisonJones",
+    "hyperlinkId": "tombofthespiderqueen-HarrisonJones",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -15491,7 +15491,7 @@
     }
   },
   "tombofthespiderqueen-ItemSoulPickup": {
-    "hyperlinkId": "ItemSoulPickup",
+    "hyperlinkId": "tombofthespiderqueen-ItemSoulPickup",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -15510,7 +15510,7 @@
     }
   },
   "tombofthespiderqueen-ItemSoulPickupFive": {
-    "hyperlinkId": "ItemSoulPickupFive",
+    "hyperlinkId": "tombofthespiderqueen-ItemSoulPickupFive",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -15529,7 +15529,7 @@
     }
   },
   "tombofthespiderqueen-ItemSoulPickupNeutral": {
-    "hyperlinkId": "ItemSoulPickupNeutral",
+    "hyperlinkId": "tombofthespiderqueen-ItemSoulPickupNeutral",
     "radius": 0.25,
     "portraits": {
       "targetInfo": "ui_targetportrait_bbay_doubloon.png"
@@ -15551,7 +15551,7 @@
     }
   },
   "tombofthespiderqueen-ItemSoulPickupPrecursor": {
-    "hyperlinkId": "ItemSoulPickupPrecursor",
+    "hyperlinkId": "tombofthespiderqueen-ItemSoulPickupPrecursor",
     "radius": 0.75,
     "attributes": [
       "ImmuneToAOE",
@@ -15567,7 +15567,7 @@
     }
   },
   "tombofthespiderqueen-ItemSoulPickupTwenty": {
-    "hyperlinkId": "ItemSoulPickupTwenty",
+    "hyperlinkId": "tombofthespiderqueen-ItemSoulPickupTwenty",
     "radius": 0.75,
     "attributes": [
       "ImmuneToAOE",
@@ -15586,7 +15586,7 @@
     }
   },
   "tombofthespiderqueen-JungleGraveGolemDefender": {
-    "hyperlinkId": "JungleGraveGolemDefender",
+    "hyperlinkId": "tombofthespiderqueen-JungleGraveGolemDefender",
     "radius": 2.0,
     "sight": 8.0,
     "speed": 3.75,
@@ -15644,7 +15644,7 @@
     }
   },
   "tombofthespiderqueen-JungleGraveGolemLaner": {
-    "hyperlinkId": "JungleGraveGolemLaner",
+    "hyperlinkId": "tombofthespiderqueen-JungleGraveGolemLaner",
     "radius": 1.25,
     "sight": 8.0,
     "speed": 3.75,
@@ -15723,7 +15723,7 @@
     ]
   },
   "tombofthespiderqueen-KingsCore": {
-    "hyperlinkId": "KingsCore",
+    "hyperlinkId": "tombofthespiderqueen-KingsCore",
     "radius": 4.0,
     "sight": 11.0,
     "scalingLinkId": "CoreScaling",
@@ -15775,7 +15775,7 @@
     }
   },
   "tombofthespiderqueen-LostSoul": {
-    "hyperlinkId": "LostSoul",
+    "hyperlinkId": "tombofthespiderqueen-LostSoul",
     "innerRadius": 0.125,
     "radius": 0.5,
     "sight": 8.0,
@@ -15819,7 +15819,7 @@
     }
   },
   "tombofthespiderqueen-MercDefenderSiegeGiant": {
-    "hyperlinkId": "MercDefenderSiegeGiant",
+    "hyperlinkId": "tombofthespiderqueen-MercDefenderSiegeGiant",
     "innerRadius": 0.875,
     "radius": 1.25,
     "sight": 8.0,
@@ -15855,7 +15855,7 @@
     ]
   },
   "tombofthespiderqueen-RangedMinion": {
-    "hyperlinkId": "RangedMinion",
+    "hyperlinkId": "tombofthespiderqueen-RangedMinion",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -15889,7 +15889,7 @@
     ]
   },
   "tombofthespiderqueen-SoulCage": {
-    "hyperlinkId": "SoulCage",
+    "hyperlinkId": "tombofthespiderqueen-SoulCage",
     "radius": 1.5,
     "attributes": [
       "AITargetableStructure",
@@ -15922,7 +15922,7 @@
     }
   },
   "tombofthespiderqueen-SoulCageTurnInAnimation": {
-    "hyperlinkId": "SoulCageTurnInAnimation",
+    "hyperlinkId": "tombofthespiderqueen-SoulCageTurnInAnimation",
     "attributes": [
       "AITargetableStructure"
     ],
@@ -15945,7 +15945,7 @@
     }
   },
   "tombofthespiderqueen-SoulEater": {
-    "hyperlinkId": "SoulEater",
+    "hyperlinkId": "tombofthespiderqueen-SoulEater",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -16011,7 +16011,7 @@
     }
   },
   "tombofthespiderqueen-SoulEaterMinion": {
-    "hyperlinkId": "SoulEaterMinion",
+    "hyperlinkId": "tombofthespiderqueen-SoulEaterMinion",
     "innerRadius": 0.75,
     "radius": 0.75,
     "sight": 8.0,
@@ -16059,7 +16059,7 @@
     ]
   },
   "tombofthespiderqueen-SoulEaterMinionDummy": {
-    "hyperlinkId": "SoulEaterMinionDummy",
+    "hyperlinkId": "tombofthespiderqueen-SoulEaterMinionDummy",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -16072,7 +16072,7 @@
     }
   },
   "tombofthespiderqueen-SoulPriest": {
-    "hyperlinkId": "SoulPriest",
+    "hyperlinkId": "tombofthespiderqueen-SoulPriest",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "speed": 3.25,
@@ -16093,7 +16093,7 @@
     }
   },
   "tombofthespiderqueen-SpectralMinion": {
-    "hyperlinkId": "SpectralMinion",
+    "hyperlinkId": "tombofthespiderqueen-SpectralMinion",
     "innerRadius": 0.5,
     "radius": 0.6875,
     "sight": 8.0,
@@ -16126,7 +16126,7 @@
     ]
   },
   "tombofthespiderqueen-TempleChampionTornado": {
-    "hyperlinkId": "TempleChampionTornado",
+    "hyperlinkId": "tombofthespiderqueen-TempleChampionTornado",
     "sight": 2.0,
     "speed": 2.5,
     "attributes": [
@@ -16147,7 +16147,7 @@
     }
   },
   "tombofthespiderqueen-TownCannonTowerL2": {
-    "hyperlinkId": "TownCannonTowerL2",
+    "hyperlinkId": "tombofthespiderqueen-TownCannonTowerL2",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 125,
@@ -16213,7 +16213,7 @@
     ]
   },
   "tombofthespiderqueen-TownCannonTowerL2Standalone": {
-    "hyperlinkId": "TownCannonTowerL2Standalone",
+    "hyperlinkId": "tombofthespiderqueen-TownCannonTowerL2Standalone",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 125,
@@ -16279,7 +16279,7 @@
     ]
   },
   "tombofthespiderqueen-TownCannonTowerL3": {
-    "hyperlinkId": "TownCannonTowerL3",
+    "hyperlinkId": "tombofthespiderqueen-TownCannonTowerL3",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 400,
@@ -16345,7 +16345,7 @@
     ]
   },
   "tombofthespiderqueen-TownCannonTowerL3Standalone": {
-    "hyperlinkId": "TownCannonTowerL3Standalone",
+    "hyperlinkId": "tombofthespiderqueen-TownCannonTowerL3Standalone",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 400,
@@ -16411,7 +16411,7 @@
     ]
   },
   "tombofthespiderqueen-TownTownHallL2": {
-    "hyperlinkId": "TownTownHallL2",
+    "hyperlinkId": "tombofthespiderqueen-TownTownHallL2",
     "radius": 2.5,
     "sight": 12.0,
     "attributes": [
@@ -16455,7 +16455,7 @@
     }
   },
   "tombofthespiderqueen-TownTownHallL3": {
-    "hyperlinkId": "TownTownHallL3",
+    "hyperlinkId": "tombofthespiderqueen-TownTownHallL3",
     "radius": 3.0,
     "sight": 12.0,
     "attributes": [
@@ -16499,7 +16499,7 @@
     }
   },
   "tombofthespiderqueen-WizardMinion": {
-    "hyperlinkId": "WizardMinion",
+    "hyperlinkId": "tombofthespiderqueen-WizardMinion",
     "innerRadius": 0.5625,
     "radius": 0.5625,
     "sight": 8.0,
@@ -16533,7 +16533,7 @@
     ]
   },
   "towersofdoom-BaseAvatarUnit": {
-    "hyperlinkId": "BaseAvatarUnit",
+    "hyperlinkId": "towersofdoom-BaseAvatarUnit",
     "radius": 0.0625,
     "attributes": [
       "ImmuneToAOE",
@@ -16548,7 +16548,7 @@
     }
   },
   "towersofdoom-BaseProtectionCannonExtraHigh": {
-    "hyperlinkId": "BaseProtectionCannonExtraHigh",
+    "hyperlinkId": "towersofdoom-BaseProtectionCannonExtraHigh",
     "radius": 1.0,
     "sight": 15.0,
     "attributes": [
@@ -16592,7 +16592,7 @@
     ]
   },
   "towersofdoom-BaseProtectionCannonHigh": {
-    "hyperlinkId": "BaseProtectionCannonHigh",
+    "hyperlinkId": "towersofdoom-BaseProtectionCannonHigh",
     "radius": 1.0,
     "sight": 15.0,
     "attributes": [
@@ -16636,7 +16636,7 @@
     ]
   },
   "towersofdoom-BaseProtectionCannonLow": {
-    "hyperlinkId": "BaseProtectionCannonLow",
+    "hyperlinkId": "towersofdoom-BaseProtectionCannonLow",
     "radius": 1.0,
     "sight": 15.0,
     "attributes": [
@@ -16680,7 +16680,7 @@
     ]
   },
   "towersofdoom-BaseProtectionCannonMid": {
-    "hyperlinkId": "BaseProtectionCannonMid",
+    "hyperlinkId": "towersofdoom-BaseProtectionCannonMid",
     "radius": 1.0,
     "sight": 15.0,
     "attributes": [
@@ -16724,7 +16724,7 @@
     ]
   },
   "towersofdoom-BaseProtectionTowerGround": {
-    "hyperlinkId": "BaseProtectionTowerGround",
+    "hyperlinkId": "towersofdoom-BaseProtectionTowerGround",
     "radius": 1.0,
     "sight": 15.0,
     "attributes": [
@@ -16777,7 +16777,7 @@
     ]
   },
   "towersofdoom-BaseProtectionTowerHigh": {
-    "hyperlinkId": "BaseProtectionTowerHigh",
+    "hyperlinkId": "towersofdoom-BaseProtectionTowerHigh",
     "radius": 1.0,
     "sight": 15.0,
     "attributes": [
@@ -16830,7 +16830,7 @@
     ]
   },
   "towersofdoom-BaseProtectionTowerMid": {
-    "hyperlinkId": "BaseProtectionTowerMid",
+    "hyperlinkId": "towersofdoom-BaseProtectionTowerMid",
     "radius": 1.0,
     "sight": 15.0,
     "attributes": [
@@ -16883,7 +16883,7 @@
     ]
   },
   "towersofdoom-BombChest": {
-    "hyperlinkId": "BombChest",
+    "hyperlinkId": "towersofdoom-BombChest",
     "innerRadius": 1.0,
     "radius": 1.0,
     "speed": 3.5,
@@ -16904,7 +16904,7 @@
     }
   },
   "towersofdoom-BombStructureItem": {
-    "hyperlinkId": "BombStructureItem",
+    "hyperlinkId": "towersofdoom-BombStructureItem",
     "radius": 0.5,
     "sight": 2.5,
     "life": {
@@ -16915,7 +16915,7 @@
     }
   },
   "towersofdoom-CatapultMinion": {
-    "hyperlinkId": "CatapultMinion",
+    "hyperlinkId": "towersofdoom-CatapultMinion",
     "innerRadius": 0.875,
     "radius": 1.125,
     "sight": 13.0,
@@ -16948,7 +16948,7 @@
     ]
   },
   "towersofdoom-FortressArchwayCurvedDL": {
-    "hyperlinkId": "FortressArchwayCurvedDL",
+    "hyperlinkId": "towersofdoom-FortressArchwayCurvedDL",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -16962,7 +16962,7 @@
     }
   },
   "towersofdoom-FortressArchwayCurvedDR": {
-    "hyperlinkId": "FortressArchwayCurvedDR",
+    "hyperlinkId": "towersofdoom-FortressArchwayCurvedDR",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -16976,7 +16976,7 @@
     }
   },
   "towersofdoom-FortressArchwayCurvedUL": {
-    "hyperlinkId": "FortressArchwayCurvedUL",
+    "hyperlinkId": "towersofdoom-FortressArchwayCurvedUL",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -16990,7 +16990,7 @@
     }
   },
   "towersofdoom-FortressArchwayCurvedUR": {
-    "hyperlinkId": "FortressArchwayCurvedUR",
+    "hyperlinkId": "towersofdoom-FortressArchwayCurvedUR",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -17004,7 +17004,7 @@
     }
   },
   "towersofdoom-FortressArchwayVerticalLeft": {
-    "hyperlinkId": "FortressArchwayVerticalLeft",
+    "hyperlinkId": "towersofdoom-FortressArchwayVerticalLeft",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -17018,7 +17018,7 @@
     }
   },
   "towersofdoom-FortressArchwayVerticalRight": {
-    "hyperlinkId": "FortressArchwayVerticalRight",
+    "hyperlinkId": "towersofdoom-FortressArchwayVerticalRight",
     "radius": 0.75,
     "sight": 8.0,
     "attributes": [
@@ -17032,7 +17032,7 @@
     }
   },
   "towersofdoom-KingsCore": {
-    "hyperlinkId": "KingsCore",
+    "hyperlinkId": "towersofdoom-KingsCore",
     "radius": 4.0,
     "scalingLinkId": "CoreScaling",
     "attributes": [
@@ -17077,7 +17077,7 @@
     }
   },
   "towersofdoom-LandGrabCannonTower": {
-    "hyperlinkId": "LandGrabCannonTower",
+    "hyperlinkId": "towersofdoom-LandGrabCannonTower",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 650,
@@ -17147,7 +17147,7 @@
     ]
   },
   "towersofdoom-LandGrabCaptureBeacon": {
-    "hyperlinkId": "LandGrabCaptureBeacon",
+    "hyperlinkId": "towersofdoom-LandGrabCaptureBeacon",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -17162,7 +17162,7 @@
     }
   },
   "towersofdoom-MercHorsemanDefender": {
-    "hyperlinkId": "MercHorsemanDefender",
+    "hyperlinkId": "towersofdoom-MercHorsemanDefender",
     "radius": 1.5,
     "sight": 8.0,
     "speed": 3.75,
@@ -17206,7 +17206,7 @@
     }
   },
   "towersofdoom-MercHorsemanFlyingHead": {
-    "hyperlinkId": "MercHorsemanFlyingHead",
+    "hyperlinkId": "towersofdoom-MercHorsemanFlyingHead",
     "sight": 2.0,
     "speed": 12.0,
     "attributes": [
@@ -17223,7 +17223,7 @@
     }
   },
   "towersofdoom-MercHorsemanLaner": {
-    "hyperlinkId": "MercHorsemanLaner",
+    "hyperlinkId": "towersofdoom-MercHorsemanLaner",
     "radius": 1.5,
     "sight": 8.0,
     "speed": 3.75,
@@ -17256,7 +17256,7 @@
     ]
   },
   "towersofdoom-MercWinterCrestHorsemanEntrance": {
-    "hyperlinkId": "MercWinterCrestHorsemanEntrance",
+    "hyperlinkId": "towersofdoom-MercWinterCrestHorsemanEntrance",
     "radius": 0.5,
     "life": {
       "amount": 1.0,
@@ -17266,7 +17266,7 @@
     }
   },
   "towersofdoom-NecromancerAvatarUnit": {
-    "hyperlinkId": "NecromancerAvatarUnit",
+    "hyperlinkId": "towersofdoom-NecromancerAvatarUnit",
     "radius": 0.0625,
     "attributes": [
       "ImmuneToAOE",
@@ -17281,7 +17281,7 @@
     }
   },
   "towersofdoom-NeutralTownCaptureBeacon": {
-    "hyperlinkId": "NeutralTownCaptureBeacon",
+    "hyperlinkId": "towersofdoom-NeutralTownCaptureBeacon",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -17296,7 +17296,7 @@
     }
   },
   "towersofdoom-PathingBlockerToDWall": {
-    "hyperlinkId": "PathingBlockerToDWall",
+    "hyperlinkId": "towersofdoom-PathingBlockerToDWall",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -17310,7 +17310,7 @@
     }
   },
   "towersofdoom-RavenLordAvatarUnit": {
-    "hyperlinkId": "RavenLordAvatarUnit",
+    "hyperlinkId": "towersofdoom-RavenLordAvatarUnit",
     "radius": 0.0625,
     "attributes": [
       "ImmuneToAOE",
@@ -17325,7 +17325,7 @@
     }
   },
   "towersofdoom-ScoringAltar": {
-    "hyperlinkId": "ScoringAltar",
+    "hyperlinkId": "towersofdoom-ScoringAltar",
     "innerRadius": 0.875,
     "radius": 0.875,
     "portraits": {
@@ -17339,7 +17339,7 @@
     }
   },
   "towersofdoom-ScoringCaptureBeacon": {
-    "hyperlinkId": "ScoringCaptureBeacon",
+    "hyperlinkId": "towersofdoom-ScoringCaptureBeacon",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -17357,7 +17357,7 @@
     }
   },
   "towersofdoom-SpiritHealer": {
-    "hyperlinkId": "SpiritHealer",
+    "hyperlinkId": "towersofdoom-SpiritHealer",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -17374,7 +17374,7 @@
     }
   },
   "towersofdoom-StormGameStartPathingBlocker": {
-    "hyperlinkId": "StormGameStartPathingBlocker",
+    "hyperlinkId": "towersofdoom-StormGameStartPathingBlocker",
     "radius": 1.0,
     "life": {
       "amount": 1.0,
@@ -17384,7 +17384,7 @@
     }
   },
   "towersofdoom-TownCannonTowerL2": {
-    "hyperlinkId": "TownCannonTowerL2",
+    "hyperlinkId": "towersofdoom-TownCannonTowerL2",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 250,
@@ -17450,7 +17450,7 @@
     ]
   },
   "towersofdoom-TownCannonTowerL2Standalone": {
-    "hyperlinkId": "TownCannonTowerL2Standalone",
+    "hyperlinkId": "towersofdoom-TownCannonTowerL2Standalone",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 125,
@@ -17524,7 +17524,7 @@
     ]
   },
   "towersofdoom-TownCannonTowerL3": {
-    "hyperlinkId": "TownCannonTowerL3",
+    "hyperlinkId": "towersofdoom-TownCannonTowerL3",
     "radius": 1.0,
     "sight": 10.0,
     "killXP": 800,
@@ -17587,7 +17587,7 @@
     ]
   },
   "towersofdoom-TownCannonTowerL3Standalone": {
-    "hyperlinkId": "TownCannonTowerL3Standalone",
+    "hyperlinkId": "towersofdoom-TownCannonTowerL3Standalone",
     "radius": 1.0,
     "sight": 8.0,
     "killXP": 400,
@@ -17653,7 +17653,7 @@
     ]
   },
   "towersofdoom-TownMoonwellL2": {
-    "hyperlinkId": "TownMoonwellL2",
+    "hyperlinkId": "towersofdoom-TownMoonwellL2",
     "radius": 1.5,
     "sight": 8.0,
     "attributes": [
@@ -17698,7 +17698,7 @@
     }
   },
   "towersofdoom-TownMoonwellL3": {
-    "hyperlinkId": "TownMoonwellL3",
+    "hyperlinkId": "towersofdoom-TownMoonwellL3",
     "radius": 1.5,
     "sight": 8.0,
     "attributes": [
@@ -17734,7 +17734,7 @@
     }
   },
   "towersofdoom-TownTownHallL2": {
-    "hyperlinkId": "TownTownHallL2",
+    "hyperlinkId": "towersofdoom-TownTownHallL2",
     "radius": 2.5,
     "sight": 12.0,
     "killXP": 1200,
@@ -17787,7 +17787,7 @@
     }
   },
   "towersofdoom-TownTownHallL3": {
-    "hyperlinkId": "TownTownHallL3",
+    "hyperlinkId": "towersofdoom-TownTownHallL3",
     "radius": 3.0,
     "sight": 12.0,
     "killXP": 2050,
@@ -17831,7 +17831,7 @@
     }
   },
   "towersofdoom-WaygateEntrance": {
-    "hyperlinkId": "WaygateEntrance",
+    "hyperlinkId": "towersofdoom-WaygateEntrance",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -17847,7 +17847,7 @@
     }
   },
   "towersofdoom-WaygateEntranceMinimapIconActor": {
-    "hyperlinkId": "WaygateEntranceMinimapIconActor",
+    "hyperlinkId": "towersofdoom-WaygateEntranceMinimapIconActor",
     "radius": 0.5,
     "portraits": {
       "minimap": "storm_ui_minimapicon_tod_waygate_in.png"
@@ -17860,7 +17860,7 @@
     }
   },
   "towersofdoom-WaygateUnit": {
-    "hyperlinkId": "WaygateUnit",
+    "hyperlinkId": "towersofdoom-WaygateUnit",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToSkillshots",
@@ -17877,7 +17877,7 @@
     }
   },
   "towersofdoom-XelNagaWatchTower": {
-    "hyperlinkId": "XelNagaWatchTower",
+    "hyperlinkId": "towersofdoom-XelNagaWatchTower",
     "sight": 14.0,
     "attributes": [
       "ImmuneToAOE",
@@ -22171,7 +22171,7 @@
     }
   },
   "volskayadata-VolskayaMercCaptureSlab": {
-    "hyperlinkId": "VolskayaMercCaptureSlab",
+    "hyperlinkId": "volskayadata-VolskayaMercCaptureSlab",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -22187,7 +22187,7 @@
     }
   },
   "volskayadata-VolskayaVehicle": {
-    "hyperlinkId": "VolskayaVehicle",
+    "hyperlinkId": "volskayadata-VolskayaVehicle",
     "radius": 1.5,
     "sight": 12.0,
     "speed": 4.0,
@@ -22314,7 +22314,7 @@
     }
   },
   "volskayadata-VolskayaVehicleGunner": {
-    "hyperlinkId": "VolskayaVehicleGunner",
+    "hyperlinkId": "volskayadata-VolskayaVehicleGunner",
     "radius": 0.5,
     "sight": 12.0,
     "attributes": [
@@ -22424,7 +22424,7 @@
     ]
   },
   "volskayadata-VolskayaVehicleSkyLaserMoverUnit": {
-    "hyperlinkId": "VolskayaVehicleSkyLaserMoverUnit",
+    "hyperlinkId": "volskayadata-VolskayaVehicleSkyLaserMoverUnit",
     "radius": 0.5,
     "speed": 25.3007,
     "attributes": [
@@ -22441,7 +22441,7 @@
     }
   },
   "volskayadata-VolskayaVehicleWarningMinimapUnit": {
-    "hyperlinkId": "VolskayaVehicleWarningMinimapUnit",
+    "hyperlinkId": "volskayadata-VolskayaVehicleWarningMinimapUnit",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -22460,7 +22460,7 @@
     }
   },
   "volskayamechanics-ControlPointMinimapIconA": {
-    "hyperlinkId": "ControlPointMinimapIconA",
+    "hyperlinkId": "volskayamechanics-ControlPointMinimapIconA",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -22477,7 +22477,7 @@
     }
   },
   "volskayamechanics-ControlPointMinimapIconB": {
-    "hyperlinkId": "ControlPointMinimapIconB",
+    "hyperlinkId": "volskayamechanics-ControlPointMinimapIconB",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -22494,7 +22494,7 @@
     }
   },
   "volskayamechanics-ControlPointMinimapIconC": {
-    "hyperlinkId": "ControlPointMinimapIconC",
+    "hyperlinkId": "volskayamechanics-ControlPointMinimapIconC",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -22511,7 +22511,7 @@
     }
   },
   "volskayamechanics-ControlPointMinimapPreviewIconA": {
-    "hyperlinkId": "ControlPointMinimapPreviewIconA",
+    "hyperlinkId": "volskayamechanics-ControlPointMinimapPreviewIconA",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -22528,7 +22528,7 @@
     }
   },
   "volskayamechanics-ControlPointMinimapPreviewIconB": {
-    "hyperlinkId": "ControlPointMinimapPreviewIconB",
+    "hyperlinkId": "volskayamechanics-ControlPointMinimapPreviewIconB",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -22545,7 +22545,7 @@
     }
   },
   "volskayamechanics-ControlPointMinimapPreviewIconC": {
-    "hyperlinkId": "ControlPointMinimapPreviewIconC",
+    "hyperlinkId": "volskayamechanics-ControlPointMinimapPreviewIconC",
     "attributes": [
       "ImmuneToAOE",
       "ImmuneToFriendlyAbilities",
@@ -22791,7 +22791,7 @@
     ]
   },
   "warcraftdata-Peon_Dummy": {
-    "hyperlinkId": "Peon_Dummy",
+    "hyperlinkId": "warcraftdata-Peon_Dummy",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -22807,7 +22807,7 @@
     }
   },
   "warcraftdata-SpiritHealer": {
-    "hyperlinkId": "SpiritHealer",
+    "hyperlinkId": "warcraftdata-SpiritHealer",
     "radius": 0.25,
     "attributes": [
       "ImmuneToAOE",
@@ -22823,7 +22823,7 @@
     }
   },
   "warcraftdata-TerranHellbat": {
-    "hyperlinkId": "TerranHellbat",
+    "hyperlinkId": "warcraftdata-TerranHellbat",
     "innerRadius": 0.625,
     "radius": 0.75,
     "sight": 8.0,
@@ -22860,7 +22860,7 @@
     ]
   },
   "warcraftdata-TerranHellbatDefender": {
-    "hyperlinkId": "TerranHellbatDefender",
+    "hyperlinkId": "warcraftdata-TerranHellbatDefender",
     "innerRadius": 0.625,
     "radius": 0.75,
     "sight": 8.0,
@@ -22890,7 +22890,7 @@
     ]
   },
   "warcraftdata-TownTownHallL2": {
-    "hyperlinkId": "TownTownHallL2",
+    "hyperlinkId": "warcraftdata-TownTownHallL2",
     "radius": 2.5,
     "sight": 12.0,
     "attributes": [
@@ -22934,7 +22934,7 @@
     }
   },
   "warcraftdata-TownTownHallL3": {
-    "hyperlinkId": "TownTownHallL3",
+    "hyperlinkId": "warcraftdata-TownTownHallL3",
     "radius": 3.0,
     "sight": 12.0,
     "attributes": [
@@ -22978,7 +22978,7 @@
     }
   },
   "warheadjunctiondata-MapMechanicNuke": {
-    "hyperlinkId": "MapMechanicNuke",
+    "hyperlinkId": "warheadjunctiondata-MapMechanicNuke",
     "radius": 0.5,
     "sight": 2.5,
     "life": {
@@ -22989,7 +22989,7 @@
     }
   },
   "warheadjunctiondata-MapMechanicNukeSilo": {
-    "hyperlinkId": "MapMechanicNukeSilo",
+    "hyperlinkId": "warheadjunctiondata-MapMechanicNukeSilo",
     "radius": 0.5,
     "sight": 3.0,
     "attributes": [
@@ -23007,7 +23007,7 @@
     }
   },
   "warheadjunctiondata-NukeTargetMinimapIconUnit": {
-    "hyperlinkId": "NukeTargetMinimapIconUnit",
+    "hyperlinkId": "warheadjunctiondata-NukeTargetMinimapIconUnit",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -23026,7 +23026,7 @@
     }
   },
   "warheadjunctiondata-NukeTargetMinimapPreviewIconUnit": {
-    "hyperlinkId": "NukeTargetMinimapPreviewIconUnit",
+    "hyperlinkId": "warheadjunctiondata-NukeTargetMinimapPreviewIconUnit",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -23045,7 +23045,7 @@
     }
   },
   "warheadjunctiondata-PapaCosplay": {
-    "hyperlinkId": "PapaCosplay",
+    "hyperlinkId": "warheadjunctiondata-PapaCosplay",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -23061,7 +23061,7 @@
     }
   },
   "warheadjunctiondata-SlimeBossDefender": {
-    "hyperlinkId": "SlimeBossDefender",
+    "hyperlinkId": "warheadjunctiondata-SlimeBossDefender",
     "radius": 2.0,
     "sight": 8.0,
     "speed": 3.75,
@@ -23119,7 +23119,7 @@
     }
   },
   "warheadjunctiondata-SlimeBossLaner": {
-    "hyperlinkId": "SlimeBossLaner",
+    "hyperlinkId": "warheadjunctiondata-SlimeBossLaner",
     "radius": 1.25,
     "sight": 8.0,
     "speed": 3.75,
@@ -23180,7 +23180,7 @@
     }
   },
   "warheadjunctiondata-SlimeBossPodlingDefender": {
-    "hyperlinkId": "SlimeBossPodlingDefender",
+    "hyperlinkId": "warheadjunctiondata-SlimeBossPodlingDefender",
     "radius": 0.5,
     "sight": 8.0,
     "speed": 4.0,
@@ -23208,7 +23208,7 @@
     ]
   },
   "warheadjunctiondata-SlimeBossPodlingLaner": {
-    "hyperlinkId": "SlimeBossPodlingLaner",
+    "hyperlinkId": "warheadjunctiondata-SlimeBossPodlingLaner",
     "radius": 0.5,
     "sight": 8.0,
     "speed": 4.0,
@@ -23241,7 +23241,7 @@
     ]
   },
   "warheadjunctiondata-SwampMonsterEasterEggUnit": {
-    "hyperlinkId": "SwampMonsterEasterEggUnit",
+    "hyperlinkId": "warheadjunctiondata-SwampMonsterEasterEggUnit",
     "radius": 0.5,
     "attributes": [
       "ImmuneToAOE",
@@ -23258,7 +23258,7 @@
     }
   },
   "warheadjunctiondata-TerrazineGasVein": {
-    "hyperlinkId": "TerrazineGasVein",
+    "hyperlinkId": "warheadjunctiondata-TerrazineGasVein",
     "innerRadius": 0.875,
     "radius": 0.875,
     "sight": 4.0,
@@ -23273,7 +23273,7 @@
     }
   },
   "warheadjunctiondata-WarheadDouble": {
-    "hyperlinkId": "WarheadDouble",
+    "hyperlinkId": "warheadjunctiondata-WarheadDouble",
     "innerRadius": 0.5,
     "radius": 0.5,
     "sight": 4.0,
@@ -23288,7 +23288,7 @@
     }
   },
   "warheadjunctiondata-WarheadDropped": {
-    "hyperlinkId": "WarheadDropped",
+    "hyperlinkId": "warheadjunctiondata-WarheadDropped",
     "innerRadius": 0.5,
     "radius": 0.25,
     "sight": 4.0,
@@ -23303,7 +23303,7 @@
     }
   },
   "warheadjunctiondata-WarheadSingle": {
-    "hyperlinkId": "WarheadSingle",
+    "hyperlinkId": "warheadjunctiondata-WarheadSingle",
     "innerRadius": 0.5,
     "radius": 0.5,
     "sight": 4.0,
@@ -23318,7 +23318,7 @@
     }
   },
   "warheadjunctiondata-WarheadTriple": {
-    "hyperlinkId": "WarheadTriple",
+    "hyperlinkId": "warheadjunctiondata-WarheadTriple",
     "innerRadius": 0.5,
     "radius": 0.5,
     "sight": 4.0,

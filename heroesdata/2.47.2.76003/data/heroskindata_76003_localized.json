@@ -8,13 +8,13 @@
   "AbathurBone": {
     "hyperlinkId": "BoneAbathur",
     "attributeId": "Aba1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "AbathurChar": {
     "hyperlinkId": "CharAbathur",
     "attributeId": "Aba2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "AbathurMecha": {
@@ -173,13 +173,13 @@
   "AlarakBaseVar1": {
     "hyperlinkId": "CrimsonAlarak",
     "attributeId": "Ala0",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-09-13"
   },
   "AlarakBaseVar2": {
     "hyperlinkId": "IvoryAlarak",
     "attributeId": "Ala1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-09-13"
   },
   "AlarakBaseVar3": {
@@ -748,7 +748,7 @@
   "AnubarakIce": {
     "hyperlinkId": "FrozenAnubarak",
     "attributeId": "Anu2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-10-07"
   },
   "AnubarakLovebug": {
@@ -805,7 +805,7 @@
   "AnubarakWhite": {
     "hyperlinkId": "DesertAnubarak",
     "attributeId": "Anu1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-10-07"
   },
   "AnubarakZerg": {
@@ -973,7 +973,7 @@
   "ArthasBlue": {
     "hyperlinkId": "SaroniteArthas",
     "attributeId": "Art1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "ArthasCrimsonCount": {
@@ -1143,19 +1143,19 @@
   "ArthasWhite": {
     "hyperlinkId": "TundraArthas",
     "attributeId": "Art2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "AurielBaseVar1": {
     "hyperlinkId": "DuskAuriel",
     "attributeId": "Aur0",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-08-09"
   },
   "AurielBaseVar2": {
     "hyperlinkId": "CourageousAuriel",
     "attributeId": "Aur1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-08-09"
   },
   "AurielBaseVar3": {
@@ -2788,7 +2788,7 @@
   "DemonHunterGreen": {
     "hyperlinkId": "VerdantValla",
     "attributeId": "Dem2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "DemonHunterHorns": {
@@ -2862,7 +2862,7 @@
   "DemonHunterPink": {
     "hyperlinkId": "FuchsiaValla",
     "attributeId": "Dem1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "DemonHunterVampireHunter": {
@@ -2998,7 +2998,7 @@
   "DiabloBlack": {
     "hyperlinkId": "OnyxDiablo",
     "attributeId": "Dia1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "DiabloKaijoe": {
@@ -3049,7 +3049,7 @@
   "DiabloPink": {
     "hyperlinkId": "VisceralDiablo",
     "attributeId": "Dia2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "DiabloPrime": {
@@ -3892,7 +3892,7 @@
   "GarroshBaseVar1": {
     "hyperlinkId": "ShatteredHandGarrosh",
     "attributeId": "Gar0",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2017-08-08"
   },
   "GarroshBaseVar2": {
@@ -3904,7 +3904,7 @@
   "GarroshBaseVar3": {
     "hyperlinkId": "GloriousGarrosh",
     "attributeId": "Gar2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2017-08-08"
   },
   "GarroshBaseVar4": {
@@ -4665,13 +4665,13 @@
   "IllidanBlack": {
     "hyperlinkId": "CrimsonIllidan",
     "attributeId": "Ill1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "IllidanBlue": {
     "hyperlinkId": "VoidIllidan",
     "attributeId": "Ill2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "IllidanLunar": {
@@ -4864,7 +4864,7 @@
   "JainaBlue": {
     "hyperlinkId": "AzureJaina",
     "attributeId": "Jai2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-12-02"
   },
   "JainaClaus": {
@@ -4952,7 +4952,7 @@
   "JainaGreen": {
     "hyperlinkId": "VerdantJaina",
     "attributeId": "Jai1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-12-02"
   },
   "JainaModern": {
@@ -5205,7 +5205,7 @@
   "KaelthasSilver": {
     "hyperlinkId": "SilverKaelthas",
     "attributeId": "Kae1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-05-12"
   },
   "KaelthasSuper": {
@@ -5271,7 +5271,7 @@
   "KaelthasWhite": {
     "hyperlinkId": "IvoryKaelthas",
     "attributeId": "Kae2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-05-12"
   },
   "KelThuzadBaseVar1": {
@@ -5555,7 +5555,7 @@
   "KerriganOrange": {
     "hyperlinkId": "CharKerrigan",
     "attributeId": "Ker1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "KerriganSuccubus": {
@@ -5579,7 +5579,7 @@
   "KerriganToxic": {
     "hyperlinkId": "ToxicKerrigan",
     "attributeId": "Ker2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "KerriganUltimate": {
@@ -5645,7 +5645,7 @@
   "LeoricRed": {
     "hyperlinkId": "CopperLeoric",
     "attributeId": "Leo1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-07-21"
   },
   "LeoricSpace": {
@@ -5727,7 +5727,7 @@
   "LeoricWhite": {
     "hyperlinkId": "IvoryLeoric",
     "attributeId": "Leo2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-07-21"
   },
   "LiLiExplorer": {
@@ -5751,7 +5751,7 @@
   "LiLiGreen": {
     "hyperlinkId": "JadeLiLi",
     "attributeId": "Lil1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-06-03"
   },
   "LiLiLunarBlack": {
@@ -5856,19 +5856,19 @@
   "LiLiYellow": {
     "hyperlinkId": "SaffronLiLi",
     "attributeId": "Lil2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-06-03"
   },
   "LostVikingsClassic": {
     "hyperlinkId": "ClassicLostVikings",
     "attributeId": "Lvk3",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-02-10"
   },
   "LostVikingsOrange": {
     "hyperlinkId": "OchreLostVikings",
     "attributeId": "Lvk2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-02-10"
   },
   "LostVikingsPajamaParty": {
@@ -6149,13 +6149,13 @@
   "MalfurionBasePurple": {
     "hyperlinkId": "RavenMalfurion",
     "attributeId": "Mal2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "MalfurionBaseWhite": {
     "hyperlinkId": "TundraMalfurion",
     "attributeId": "Mal1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "MalfurionBetrayer": {
@@ -6568,7 +6568,7 @@
   "MedicBlack": {
     "hyperlinkId": "KnightLieutenantMorales",
     "attributeId": "Med1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-10-06"
   },
   "MedicEnforcer": {
@@ -6629,7 +6629,7 @@
   "MedicGold": {
     "hyperlinkId": "CrystalArchLtMorales",
     "attributeId": "Med2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-10-06"
   },
   "MedicSkinApoth": {
@@ -7061,7 +7061,7 @@
   "MuradinIron": {
     "hyperlinkId": "MithrilMuradin",
     "attributeId": "Mur1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "MuradinKandyKing": {
@@ -7196,7 +7196,7 @@
   "MuradinRed": {
     "hyperlinkId": "RedstoneMuradin",
     "attributeId": "Mur2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "MuradinUltimate": {
@@ -7391,13 +7391,13 @@
   "NecromancerBaseVar1": {
     "hyperlinkId": "PoisonXul",
     "attributeId": "Nec2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-03-01"
   },
   "NecromancerBaseVar2": {
     "hyperlinkId": "CrimsonXul",
     "attributeId": "Nec3",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-03-01"
   },
   "NecromancerBaseVar3": {
@@ -7582,13 +7582,13 @@
   "NexusHunterVar1": {
     "hyperlinkId": "NexusHunterVar1",
     "attributeId": "NXH0",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2019-08-06"
   },
   "NexusHunterVar2": {
     "hyperlinkId": "NexusHunterVar2",
     "attributeId": "NXH1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2019-08-06"
   },
   "NexusHunterVar3": {
@@ -7606,7 +7606,7 @@
   "NovaGreen": {
     "hyperlinkId": "JadeNova",
     "attributeId": "Nov1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "NovaMadAxe18": {
@@ -7657,7 +7657,7 @@
   "NovaRed": {
     "hyperlinkId": "ScarletNova",
     "attributeId": "Nov2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "NovaRollerDerby": {
@@ -7963,13 +7963,13 @@
   "RagnarosBaseVar1": {
     "hyperlinkId": "ScorchingRagnaros",
     "attributeId": "Rag1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-12-14"
   },
   "RagnarosBaseVar2": {
     "hyperlinkId": "MoltenRagnaros",
     "attributeId": "Rag2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-12-14"
   },
   "RagnarosLil": {
@@ -8020,13 +8020,13 @@
   "RaynorBaseVar3": {
     "hyperlinkId": "RaynorBaseVar3",
     "attributeId": "RayA",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "RaynorBaseVar4": {
     "hyperlinkId": "RaynorBaseVar4",
     "attributeId": "RayB",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "RaynorCommander": {
@@ -8082,7 +8082,7 @@
   "RaynorGold": {
     "hyperlinkId": "WarPigRaynor",
     "attributeId": "Ray1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "RaynorMadAxe18": {
@@ -8170,7 +8170,7 @@
   "RaynorSilver": {
     "hyperlinkId": "DominionRaynor",
     "attributeId": "Ray2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "RaynorUltimate": {
@@ -8403,13 +8403,13 @@
   "RexxarBaseBrown": {
     "hyperlinkId": "WildRexxar",
     "attributeId": "Rxr2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-09-08"
   },
   "RexxarBaseWhite": {
     "hyperlinkId": "PallidRexxar",
     "attributeId": "Rxr1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-09-08"
   },
   "RexxarMarine": {
@@ -8650,7 +8650,7 @@
   "SgtHammerBlue": {
     "hyperlinkId": "RaiderSgtHammer",
     "attributeId": "Sgt1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "SgtHammerDoom": {
@@ -8701,7 +8701,7 @@
   "SgtHammerWhite": {
     "hyperlinkId": "UmojanSgtHammer",
     "attributeId": "Sgt2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "SgtHammerWW2": {
@@ -8860,13 +8860,13 @@
   "StitchesDecay": {
     "hyperlinkId": "BruisedStitches",
     "attributeId": "Sti2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "StitchesFlesh": {
     "hyperlinkId": "CongealedStitches",
     "attributeId": "Sti1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "StitchesPsycho": {
@@ -9065,13 +9065,13 @@
   "StukovBaseVar1": {
     "hyperlinkId": "DictatorStukov",
     "attributeId": "Stu0",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2017-07-11"
   },
   "StukovBaseVar2": {
     "hyperlinkId": "UEDStukov",
     "attributeId": "Stu1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2017-07-11"
   },
   "StukovBaseVar3": {
@@ -9205,7 +9205,7 @@
   "SylvanasBlue": {
     "hyperlinkId": "FrostSylvanas",
     "attributeId": "Syl1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-03-24"
   },
   "SylvanasFairy": {
@@ -9365,7 +9365,7 @@
   "SylvanasRed": {
     "hyperlinkId": "ScarletSylvanas",
     "attributeId": "Syl2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-03-24"
   },
   "SylvanasUltimate": {
@@ -9389,7 +9389,7 @@
   "TassadarArgent": {
     "hyperlinkId": "SolariteTassadar",
     "attributeId": "Tas2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "TassadarBaseVar3": {
@@ -9495,7 +9495,7 @@
   "TassadarPurple": {
     "hyperlinkId": "VoidTassadar",
     "attributeId": "Tas1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "TassadarUltimate": {
@@ -9585,13 +9585,13 @@
   "ThrallRed": {
     "hyperlinkId": "MagharThrall",
     "attributeId": "Thr3",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-01-13"
   },
   "ThrallSilver": {
     "hyperlinkId": "SilverThrall",
     "attributeId": "Thr2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2015-01-13"
   },
   "ThrallUltimate": {
@@ -9615,7 +9615,7 @@
   "TinkerAzure": {
     "hyperlinkId": "SewageGazlowe",
     "attributeId": "Tin1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "TinkerBaseVar3": {
@@ -9627,7 +9627,7 @@
   "TinkerCamo": {
     "hyperlinkId": "SludgeGazlowe",
     "attributeId": "Tin2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "TracerGhost": {
@@ -9715,13 +9715,13 @@
   "TracerVar1": {
     "hyperlinkId": "NeonGreenTracer",
     "attributeId": "Tra1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-04-19"
   },
   "TracerVar2": {
     "hyperlinkId": "RoyalBlueTracer",
     "attributeId": "Tra2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-04-19"
   },
   "TracerVar3": {
@@ -9783,7 +9783,7 @@
   "TychusBronze": {
     "hyperlinkId": "NavyTychus",
     "attributeId": "Tyc1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-18"
   },
   "TychusInfestedBase": {
@@ -9849,7 +9849,7 @@
   "TychusSilver": {
     "hyperlinkId": "SlateTychus",
     "attributeId": "Tyc2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-18"
   },
   "TychusUltimateBase": {
@@ -9983,7 +9983,7 @@
   "TyraelBlue": {
     "hyperlinkId": "PlatinumTyrael",
     "attributeId": "Tyl2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "TyraelDemonic": {
@@ -10155,13 +10155,13 @@
   "TyraelWhite": {
     "hyperlinkId": "IvoryTyrael",
     "attributeId": "Tyl1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "TyrandeBlack": {
     "hyperlinkId": "BansheeTyrande",
     "attributeId": "Tyd2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "TyrandeBloodElfBase": {
@@ -10248,7 +10248,7 @@
   "TyrandeShadow": {
     "hyperlinkId": "DarkTyrande",
     "attributeId": "Tyd1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "TyrandeSuper": {
@@ -10341,7 +10341,7 @@
   "UtherBlackHand": {
     "hyperlinkId": "BlackHandUther",
     "attributeId": "Uth2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "UtherJudgement": {
@@ -10413,7 +10413,7 @@
   "UtherSilverHand": {
     "hyperlinkId": "SilverHandUther",
     "attributeId": "Uth1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "UtherSulfuron": {
@@ -10455,25 +10455,25 @@
   "ValeeraBaseVar1": {
     "hyperlinkId": "WraithValeera",
     "attributeId": "Vlr0",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2017-01-24"
   },
   "ValeeraBaseVar2": {
     "hyperlinkId": "MalachiteValeera",
     "attributeId": "Vlr1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2017-01-24"
   },
   "ValeeraBaseVar3": {
     "hyperlinkId": "ValeeraBaseVar3",
     "attributeId": "Vlr2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2017-01-24"
   },
   "ValeeraBaseVar4": {
     "hyperlinkId": "ValeeraBaseVar4",
     "attributeId": "Vlr3",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2017-01-24"
   },
   "ValeeraHunter": {
@@ -11322,13 +11322,13 @@
   "WizardVar1": {
     "hyperlinkId": "CrimsonLiMing",
     "attributeId": "Wiz1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-02-02"
   },
   "WizardVar2": {
     "hyperlinkId": "VeradaniLiMing",
     "attributeId": "Wiz2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2016-02-02"
   },
   "WizardVar3": {
@@ -11492,7 +11492,7 @@
   "ZagaraChar": {
     "hyperlinkId": "CharZagara",
     "attributeId": "Zag2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-06-25"
   },
   "ZagaraCryptQueen": {
@@ -11615,7 +11615,7 @@
   "ZagaraToxic": {
     "hyperlinkId": "ZerusZagara",
     "attributeId": "Zag1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-06-25"
   },
   "ZagaraUltimate": {
@@ -11804,7 +11804,7 @@
   "ZeratulArgent": {
     "hyperlinkId": "CrimsonZeratul",
     "attributeId": "Zer1",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "ZeratulGem": {
@@ -11822,7 +11822,7 @@
   "ZeratulGreen": {
     "hyperlinkId": "JungleZeratul",
     "attributeId": "Zer2",
-    "rarity": "None",
+    "rarity": "Common",
     "releaseDate": "2014-03-13"
   },
   "ZeratulHighTemplar": {

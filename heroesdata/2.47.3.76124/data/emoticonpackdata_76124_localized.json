@@ -1,6 +1,7 @@
 {
   "AbathurEmoticonPack": {
     "hyperlinkId": "AbathurEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -13,6 +14,7 @@
   },
   "AbathurEmoticonPack2": {
     "hyperlinkId": "AbathurEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -25,6 +27,7 @@
   },
   "AbstractEmoticonPack": {
     "hyperlinkId": "AbstractEmoticonPack",
+    "rarity": "Common",
     "releaseDate": "2017-03-14",
     "emoticons": [
       "abstract_angry",
@@ -43,6 +46,7 @@
   },
   "AlarakEmoticonPack": {
     "hyperlinkId": "AlarakEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -55,6 +59,7 @@
   },
   "AlarakEmoticonPack2": {
     "hyperlinkId": "AlarakEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -67,6 +72,7 @@
   },
   "AlexstraszaPack1": {
     "hyperlinkId": "AlexstraszaPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-11-14",
     "emoticons": [
@@ -79,6 +85,7 @@
   },
   "AlexstraszaPack2": {
     "hyperlinkId": "AlexstraszaPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-11-14",
     "emoticons": [
@@ -91,6 +98,7 @@
   },
   "AnaPack1": {
     "hyperlinkId": "AnaEmoticonPack",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "emoticons": [
@@ -103,6 +111,7 @@
   },
   "AnaPack2": {
     "hyperlinkId": "AnaEmoticonPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "emoticons": [
@@ -115,6 +124,7 @@
   },
   "AnubarakEmoticonPack": {
     "hyperlinkId": "AnubarakEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -127,6 +137,7 @@
   },
   "AnubarakEmoticonPack2": {
     "hyperlinkId": "AnubarakEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -139,6 +150,7 @@
   },
   "ArtanisEmoticonPack": {
     "hyperlinkId": "ArtanisEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -151,6 +163,7 @@
   },
   "ArtanisEmoticonPack2": {
     "hyperlinkId": "ArtanisEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -163,6 +176,7 @@
   },
   "ArthasEmoticonPack": {
     "hyperlinkId": "ArthasEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -175,6 +189,7 @@
   },
   "ArthasEmoticonPack2": {
     "hyperlinkId": "ArthasEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -187,6 +202,7 @@
   },
   "AurielEmoticonPack": {
     "hyperlinkId": "AurielEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -199,6 +215,7 @@
   },
   "AurielEmoticonPack2": {
     "hyperlinkId": "AurielEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -211,6 +228,7 @@
   },
   "AzmodanEmoticonPack": {
     "hyperlinkId": "AzmodanEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -223,6 +241,7 @@
   },
   "AzmodanEmoticonPack2": {
     "hyperlinkId": "AzmodanEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -235,6 +254,7 @@
   },
   "BlazePack1": {
     "hyperlinkId": "BlazePack1",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2018-01-09",
     "emoticons": [
@@ -247,6 +267,7 @@
   },
   "BlazePack2": {
     "hyperlinkId": "BlazePack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2018-01-09",
     "emoticons": [
@@ -259,6 +280,7 @@
   },
   "BrightwingEmoticonPack": {
     "hyperlinkId": "BrightwingEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -271,6 +293,7 @@
   },
   "BrightwingEmoticonPack2": {
     "hyperlinkId": "BrightwingEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -283,6 +306,7 @@
   },
   "ButcherEmoticonPack": {
     "hyperlinkId": "ButcherEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -295,6 +319,7 @@
   },
   "ButcherEmoticonPack2": {
     "hyperlinkId": "ButcherEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -307,6 +332,7 @@
   },
   "CassiaEmoticonPack": {
     "hyperlinkId": "CassiaEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -319,6 +345,7 @@
   },
   "CassiaEmoticonPack2": {
     "hyperlinkId": "CassiaEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -331,6 +358,7 @@
   },
   "CatSpooky18Pack": {
     "hyperlinkId": "CatSpooky18Pack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-09-25",
     "emoticons": [
@@ -343,6 +371,7 @@
   },
   "CelebrationsEmoticonPack": {
     "hyperlinkId": "CelebrationsEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -355,6 +384,7 @@
   },
   "ChenEmoticonPack": {
     "hyperlinkId": "ChenEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -367,6 +397,7 @@
   },
   "ChenEmoticonPack2": {
     "hyperlinkId": "ChenEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -379,6 +410,7 @@
   },
   "ChoEmoticonPack": {
     "hyperlinkId": "ChoEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -391,6 +423,7 @@
   },
   "ChoEmoticonPack2": {
     "hyperlinkId": "ChoEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -403,6 +436,7 @@
   },
   "ChompPack": {
     "hyperlinkId": "ChompPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-11-13",
     "emoticons": [
@@ -415,6 +449,7 @@
   },
   "ChromieEmoticonPack": {
     "hyperlinkId": "ChromieEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -427,6 +462,7 @@
   },
   "ChromieEmoticonPack2": {
     "hyperlinkId": "ChromieEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -439,6 +475,7 @@
   },
   "CountessKerriganPack1": {
     "hyperlinkId": "CountessKerriganPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -452,6 +489,7 @@
   },
   "CountessKerriganPack2": {
     "hyperlinkId": "CountessKerriganPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -465,6 +503,7 @@
   },
   "CrimsonCountArthasPack1": {
     "hyperlinkId": "CrimsonCountArthasPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -478,6 +517,7 @@
   },
   "CrimsonCountArthasPack2": {
     "hyperlinkId": "CrimsonCountArthasPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -491,6 +531,7 @@
   },
   "CryptQueenZagaraPack1": {
     "hyperlinkId": "CryptQueenZagaraPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -503,6 +544,7 @@
   },
   "CryptQueenZagaraPack2": {
     "hyperlinkId": "CryptQueenZagaraPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -515,6 +557,7 @@
   },
   "DeathbringerSonyaPack1": {
     "hyperlinkId": "DeathbringerSonyaPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -527,6 +570,7 @@
   },
   "DeathbringerSonyaPack2": {
     "hyperlinkId": "DeathbringerSonyaPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -539,6 +583,7 @@
   },
   "DeathEmoticonPack": {
     "hyperlinkId": "DeathEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -551,6 +596,7 @@
   },
   "DeathfangGenjiPack": {
     "hyperlinkId": "DeathfangGenjiPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "emoticons": [
@@ -563,6 +609,7 @@
   },
   "DeathKnightSonyaPack1": {
     "hyperlinkId": "DeathKnightSonyaPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -575,6 +622,7 @@
   },
   "DeathKnightSonyaPack2": {
     "hyperlinkId": "DeathKnightSonyaPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -587,6 +635,7 @@
   },
   "DeckardPack1": {
     "hyperlinkId": "DeckardPack1",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2018-04-24",
     "emoticons": [
@@ -599,6 +648,7 @@
   },
   "DeckardPack2": {
     "hyperlinkId": "DeckardPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2018-04-24",
     "emoticons": [
@@ -611,6 +661,7 @@
   },
   "DecktheHallsPack": {
     "hyperlinkId": "DecktheHallsPack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -624,6 +675,7 @@
   },
   "DehakaEmoticonPack": {
     "hyperlinkId": "DehakaEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -636,6 +688,7 @@
   },
   "DehakaEmoticonPack2": {
     "hyperlinkId": "DehakaEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -648,6 +701,7 @@
   },
   "DeputyVallaPack1": {
     "hyperlinkId": "DeputyVallaPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -661,6 +715,7 @@
   },
   "DeputyVallaPack2": {
     "hyperlinkId": "DeputyVallaPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -674,6 +729,7 @@
   },
   "DiabloEmoticonPack": {
     "hyperlinkId": "DiabloEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -686,6 +742,7 @@
   },
   "DiabloEmoticonPack2": {
     "hyperlinkId": "DiabloEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -698,6 +755,7 @@
   },
   "DoctorWolfSteinPack1": {
     "hyperlinkId": "DoctorWolfSteinPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -711,6 +769,7 @@
   },
   "DoctorWolfSteinPack2": {
     "hyperlinkId": "DoctorWolfSteinPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -724,6 +783,7 @@
   },
   "DragonKnightPack1": {
     "hyperlinkId": "DragonKnightPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-11-14",
     "emoticons": [
@@ -736,6 +796,7 @@
   },
   "DragonKnightPack2": {
     "hyperlinkId": "DragonKnightPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-11-14",
     "emoticons": [
@@ -748,6 +809,7 @@
   },
   "DreadlordJainaPack1": {
     "hyperlinkId": "DreadlordJainaPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -760,6 +822,7 @@
   },
   "DreadlordJainaPack2": {
     "hyperlinkId": "DreadlordJainaPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -772,6 +835,7 @@
   },
   "DrinksPack": {
     "hyperlinkId": "DrinksPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-11-14",
     "emoticons": [
@@ -784,6 +848,7 @@
   },
   "DVaEmoticonPack": {
     "hyperlinkId": "DVaEmoticonPack",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-05-16",
     "emoticons": [
@@ -796,6 +861,7 @@
   },
   "DVaEmoticonPack2": {
     "hyperlinkId": "DVaEmoticonPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-05-16",
     "emoticons": [
@@ -808,6 +874,7 @@
   },
   "ElChamucoDiabloPack1": {
     "hyperlinkId": "ElChamucoDiabloPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -821,6 +888,7 @@
   },
   "ElChamucoDiabloPack2": {
     "hyperlinkId": "ElChamucoDiabloPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -834,6 +902,7 @@
   },
   "ElementsPack": {
     "hyperlinkId": "ElementsPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-02-06",
     "emoticons": [
@@ -846,6 +915,7 @@
   },
   "ElJefeGarroshPack1": {
     "hyperlinkId": "ElJefeGarroshPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -859,6 +929,7 @@
   },
   "ElJefeGarroshPack2": {
     "hyperlinkId": "ElJefeGarroshPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -872,6 +943,7 @@
   },
   "EmojiAnduinPack1": {
     "hyperlinkId": "EmojiAnduinPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2019-04-30",
     "emoticons": [
@@ -884,6 +956,7 @@
   },
   "EmojiAnduinPack2": {
     "hyperlinkId": "EmojiAnduinPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2019-04-30",
     "emoticons": [
@@ -896,6 +969,7 @@
   },
   "EmojiCarbotAlliancePack": {
     "hyperlinkId": "EmojiCarbotAlliancePack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2019-04-30",
     "emoticons": [
@@ -908,6 +982,7 @@
   },
   "EmojiCarbotDiabloPack": {
     "hyperlinkId": "EmojiCarbotDiabloPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2019-01-08",
     "emoticons": [
@@ -920,6 +995,7 @@
   },
   "EmojiCarbotHordePack": {
     "hyperlinkId": "EmojiCarbotHordePack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2019-04-30",
     "emoticons": [
@@ -932,6 +1008,7 @@
   },
   "EmojiImperiusPack1": {
     "hyperlinkId": "EmojiImperiusPack1",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2019-01-08",
     "emoticons": [
@@ -944,6 +1021,7 @@
   },
   "EmojiImperiusPack2": {
     "hyperlinkId": "EmojiImperiusPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2019-01-08",
     "emoticons": [
@@ -956,6 +1034,7 @@
   },
   "EmojiMadAxe19Pack1": {
     "hyperlinkId": "WarchromePack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2019-08-06",
     "emoticons": [
@@ -968,6 +1047,7 @@
   },
   "EmojiMadAxe19Pack2": {
     "hyperlinkId": "WarchromePack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2019-08-06",
     "emoticons": [
@@ -980,6 +1060,7 @@
   },
   "EmojiMalGanisPack1": {
     "hyperlinkId": "EmojiMalGanisPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2018-10-16",
     "emoticons": [
@@ -992,6 +1073,7 @@
   },
   "EmojiMalGanisPack2": {
     "hyperlinkId": "EmojiMalGanisPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2018-10-16",
     "emoticons": [
@@ -1004,6 +1086,7 @@
   },
   "EmojiMechastormPack1": {
     "hyperlinkId": "EmojiMechastormPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-06-18",
     "emoticons": [
@@ -1017,6 +1100,7 @@
   },
   "EmojiNexusHunterPack1": {
     "hyperlinkId": "QhiraPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2019-08-06",
     "emoticons": [
@@ -1029,6 +1113,7 @@
   },
   "EmojiNexusHunterPack2": {
     "hyperlinkId": "QhiraPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2019-08-06",
     "emoticons": [
@@ -1041,6 +1126,7 @@
   },
   "EmojiOrpheaPack1": {
     "hyperlinkId": "EmojiOrpheaPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-11-13",
     "emoticons": [
@@ -1053,6 +1139,7 @@
   },
   "EmojiOrpheaPack2": {
     "hyperlinkId": "EmojiOrpheaPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-11-13",
     "emoticons": [
@@ -1065,6 +1152,7 @@
   },
   "EmojiPlushiePack1": {
     "hyperlinkId": "EmojiPlushiePack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-12-11",
     "emoticons": [
@@ -1077,6 +1165,7 @@
   },
   "EmojiToysPack1": {
     "hyperlinkId": "EmojiToysPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-12-11",
     "emoticons": [
@@ -1089,6 +1178,7 @@
   },
   "EtcEmoticonPack": {
     "hyperlinkId": "EtcEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1101,6 +1191,7 @@
   },
   "EtcEmoticonPack2": {
     "hyperlinkId": "EtcEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1113,6 +1204,7 @@
   },
   "EyeSpooky18Pack": {
     "hyperlinkId": "EyeSpooky18Pack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-09-25",
     "emoticons": [
@@ -1125,6 +1217,7 @@
   },
   "FalstadEmoticonPack": {
     "hyperlinkId": "FalstadEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1137,6 +1230,7 @@
   },
   "FalstadEmoticonPack2": {
     "hyperlinkId": "FalstadEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1149,6 +1243,7 @@
   },
   "FenixPack1": {
     "hyperlinkId": "FenixPack1",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2018-03-27",
     "emoticons": [
@@ -1161,6 +1256,7 @@
   },
   "FenixPack2": {
     "hyperlinkId": "FenixPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2018-03-27",
     "emoticons": [
@@ -1173,6 +1269,7 @@
   },
   "Food1EmoticonPack": {
     "hyperlinkId": "Food1EmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1185,6 +1282,7 @@
   },
   "Food2EmoticonPack": {
     "hyperlinkId": "Food2EmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1197,6 +1295,7 @@
   },
   "FoodPack3": {
     "hyperlinkId": "FoodPack3",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "emoticons": [
@@ -1209,6 +1308,7 @@
   },
   "GallEmoticonPack": {
     "hyperlinkId": "GallEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1221,6 +1321,7 @@
   },
   "GallEmoticonPack2": {
     "hyperlinkId": "GallEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1233,6 +1334,7 @@
   },
   "GarroshPack1": {
     "hyperlinkId": "GarroshPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-08-08",
     "emoticons": [
@@ -1245,6 +1347,7 @@
   },
   "GarroshPack2": {
     "hyperlinkId": "GarroshPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-08-08",
     "emoticons": [
@@ -1257,6 +1360,7 @@
   },
   "GazloweEmoticonPack": {
     "hyperlinkId": "GazloweEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1269,6 +1373,7 @@
   },
   "GazloweEmoticonPack2": {
     "hyperlinkId": "GazloweEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1281,6 +1386,7 @@
   },
   "GenjiEmoticonPack": {
     "hyperlinkId": "GenjiEmoticonPack",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-04-25",
     "emoticons": [
@@ -1293,6 +1399,7 @@
   },
   "GenjiEmoticonPack2": {
     "hyperlinkId": "GenjiEmoticonPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-04-25",
     "emoticons": [
@@ -1305,6 +1412,7 @@
   },
   "GhostSpooky18Pack": {
     "hyperlinkId": "GhostSpooky18Pack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-10-04",
     "emoticons": [
@@ -1317,6 +1425,7 @@
   },
   "GingerdreadNazeeboPack1": {
     "hyperlinkId": "GingerdreadNazeeboPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -1330,6 +1439,7 @@
   },
   "GingerdreadNazeeboPack2": {
     "hyperlinkId": "GingerdreadNazeeboPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -1343,6 +1453,7 @@
   },
   "GreatfatherWinterMalfurionPack1": {
     "hyperlinkId": "GreatfatherWinterMalfurionPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -1356,6 +1467,7 @@
   },
   "GreatfatherWinterMalfurionPack2": {
     "hyperlinkId": "GreatfatherWinterMalfurionPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -1369,6 +1481,7 @@
   },
   "GreatfatherWinterRehgarPack1": {
     "hyperlinkId": "GreatfatherWinterRehgarPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -1382,6 +1495,7 @@
   },
   "GreatfatherWinterRehgarPack2": {
     "hyperlinkId": "GreatfatherWinterRehgarPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -1395,6 +1509,7 @@
   },
   "GreatfatherWinterStitchesPack1": {
     "hyperlinkId": "GreatfatherWinterStitchesPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -1408,6 +1523,7 @@
   },
   "GreatfatherWinterStitchesPack2": {
     "hyperlinkId": "GreatfatherWinterStitchesPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -1421,6 +1537,7 @@
   },
   "GreymaneEmoticonPack": {
     "hyperlinkId": "GreymaneEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1433,6 +1550,7 @@
   },
   "GreymaneEmoticonPack2": {
     "hyperlinkId": "GreymaneEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1445,6 +1563,7 @@
   },
   "GuldanEmoticonPack": {
     "hyperlinkId": "GuldanEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1457,6 +1576,7 @@
   },
   "GuldanEmoticonPack2": {
     "hyperlinkId": "GuldanEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1469,6 +1589,7 @@
   },
   "HallowsEndPhrasesPack": {
     "hyperlinkId": "HallowsEndPhrasesPack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -1482,6 +1603,7 @@
   },
   "HammerEmoticonPack": {
     "hyperlinkId": "HammerEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1494,6 +1616,7 @@
   },
   "HammerEmoticonPack2": {
     "hyperlinkId": "HammerEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1506,6 +1629,7 @@
   },
   "HandSigns1EmoticonPack": {
     "hyperlinkId": "HandSigns1EmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1518,6 +1642,7 @@
   },
   "HandSigns1GauntletEmoticonPack": {
     "hyperlinkId": "HandSigns1GauntletEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1530,6 +1655,7 @@
   },
   "HandSigns1OrcEmoticonPack": {
     "hyperlinkId": "HandSigns1OrcEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1542,6 +1668,7 @@
   },
   "HandSigns2EmoticonPack": {
     "hyperlinkId": "HandSigns2EmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1554,6 +1681,7 @@
   },
   "HandSigns2GauntletEmoticonPack": {
     "hyperlinkId": "HandSigns2GauntletEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1566,6 +1694,7 @@
   },
   "HandSigns2OrcEmoticonPack": {
     "hyperlinkId": "HandSigns2OrcEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1578,6 +1707,7 @@
   },
   "HandSigns3EmoticonPack": {
     "hyperlinkId": "HandSigns3EmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1590,6 +1720,7 @@
   },
   "HandSigns3GauntletEmoticonPack": {
     "hyperlinkId": "HandSigns3GauntletEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1602,6 +1733,7 @@
   },
   "HandSigns3OrcEmoticonPack": {
     "hyperlinkId": "HandSigns3OrcEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1614,6 +1746,7 @@
   },
   "HanzoPack1": {
     "hyperlinkId": "HanzoPack1",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-12-12",
     "emoticons": [
@@ -1626,6 +1759,7 @@
   },
   "HanzoPack2": {
     "hyperlinkId": "HanzoPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-12-12",
     "emoticons": [
@@ -1638,6 +1772,7 @@
   },
   "HeartPack": {
     "hyperlinkId": "HeartPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-02-13",
     "emoticons": [
@@ -1650,6 +1785,7 @@
   },
   "HeroStormNexusPack": {
     "hyperlinkId": "HeroStormNexusPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-11-13",
     "emoticons": [
@@ -1662,6 +1798,7 @@
   },
   "IllidanEmoticonPack": {
     "hyperlinkId": "IllidanEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1674,6 +1811,7 @@
   },
   "IllidanEmoticonPack2": {
     "hyperlinkId": "IllidanEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1686,6 +1824,7 @@
   },
   "ImperatorStukovPack": {
     "hyperlinkId": "ImperatorStukovPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "emoticons": [
@@ -1700,6 +1839,7 @@
   },
   "JainaEmoticonPack": {
     "hyperlinkId": "JainaEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1712,6 +1852,7 @@
   },
   "JainaEmoticonPack2": {
     "hyperlinkId": "JainaEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1724,6 +1865,7 @@
   },
   "JohannaEmoticonPack": {
     "hyperlinkId": "JohannaEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1736,6 +1878,7 @@
   },
   "JohannaEmoticonPack2": {
     "hyperlinkId": "JohannaEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1748,6 +1891,7 @@
   },
   "JunkratPack1": {
     "hyperlinkId": "JunkratPack1",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-10-17",
     "emoticons": [
@@ -1760,6 +1904,7 @@
   },
   "JunkratPack2": {
     "hyperlinkId": "JunkratPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-10-17",
     "emoticons": [
@@ -1772,6 +1917,7 @@
   },
   "KaelthasEmoticonPack": {
     "hyperlinkId": "KaelthasEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1784,6 +1930,7 @@
   },
   "KaelthasEmoticonPack2": {
     "hyperlinkId": "KaelthasEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1796,6 +1943,7 @@
   },
   "KelThuzadPack1": {
     "hyperlinkId": "KelThuzadPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -1808,6 +1956,7 @@
   },
   "KelThuzadPack2": {
     "hyperlinkId": "KelThuzadPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-09-05",
     "emoticons": [
@@ -1820,6 +1969,7 @@
   },
   "KerriganEmoticonPack": {
     "hyperlinkId": "KerriganEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1832,6 +1982,7 @@
   },
   "KerriganEmoticonPack2": {
     "hyperlinkId": "KerriganEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1844,6 +1995,7 @@
   },
   "KharazimEmoticonPack": {
     "hyperlinkId": "KharazimEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1856,6 +2008,7 @@
   },
   "KharazimEmoticonPack2": {
     "hyperlinkId": "KharazimEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1868,6 +2021,7 @@
   },
   "LaPanteraSonyaPack1": {
     "hyperlinkId": "LaPanteraSonyaPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -1881,6 +2035,7 @@
   },
   "LaPanteraSonyaPack2": {
     "hyperlinkId": "LaPanteraSonyaPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -1894,6 +2049,7 @@
   },
   "LaParcaLunaraPack1": {
     "hyperlinkId": "LaParcaLunaraPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -1907,6 +2063,7 @@
   },
   "LaParcaLunaraPack2": {
     "hyperlinkId": "LaParcaLunaraPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "SunsOutGunsOut",
     "releaseDate": "2018-05-22",
@@ -1920,6 +2077,7 @@
   },
   "LeoricEmoticonPack": {
     "hyperlinkId": "LeoricEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1932,6 +2090,7 @@
   },
   "LeoricEmoticonPack2": {
     "hyperlinkId": "LeoricEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1944,6 +2103,7 @@
   },
   "LiliEmoticonPack": {
     "hyperlinkId": "LiliEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1956,6 +2116,7 @@
   },
   "LiliEmoticonPack2": {
     "hyperlinkId": "LiliEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1968,6 +2129,7 @@
   },
   "LimingEmoticonPack": {
     "hyperlinkId": "LimingEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1980,6 +2142,7 @@
   },
   "LimingEmoticonPack2": {
     "hyperlinkId": "LimingEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -1992,6 +2155,7 @@
   },
   "LucioEmoticonPack": {
     "hyperlinkId": "LucioEmoticonPack",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2004,6 +2168,7 @@
   },
   "LucioEmoticonPack2": {
     "hyperlinkId": "LucioEmoticonPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2016,6 +2181,7 @@
   },
   "LunaraEmoticonPack": {
     "hyperlinkId": "LunaraEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2028,6 +2194,7 @@
   },
   "LunaraEmoticonPack2": {
     "hyperlinkId": "LunaraEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2040,6 +2207,7 @@
   },
   "LunarFestivalPhrasesPack": {
     "hyperlinkId": "LunarFestivalPhrasesPack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2053,6 +2221,7 @@
   },
   "LunarGenjiPack1": {
     "hyperlinkId": "LunarGenjiPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2066,6 +2235,7 @@
   },
   "LunarGenjiPack2": {
     "hyperlinkId": "LunarGenjiPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2079,6 +2249,7 @@
   },
   "LunarGuardianPack1": {
     "hyperlinkId": "LunarGuardianPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2092,6 +2263,7 @@
   },
   "LunarGuardianPack2": {
     "hyperlinkId": "LunarGuardianPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2105,6 +2277,7 @@
   },
   "LunarIllidanPack1": {
     "hyperlinkId": "LunarIllidanPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2118,6 +2291,7 @@
   },
   "LunarIllidanPack2": {
     "hyperlinkId": "LunarIllidanPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2131,6 +2305,7 @@
   },
   "LunarKaelthasPack1": {
     "hyperlinkId": "LunarKaelthasPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2144,6 +2319,7 @@
   },
   "LunarKaelthasPack2": {
     "hyperlinkId": "LunarKaelthasPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2157,6 +2333,7 @@
   },
   "LunarLiLiPack1": {
     "hyperlinkId": "LunarLiLiPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2170,6 +2347,7 @@
   },
   "LunarLiLiPack2": {
     "hyperlinkId": "LunarLiLiPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2183,6 +2361,7 @@
   },
   "LunarSylvanasPack1": {
     "hyperlinkId": "LunarSylvanasPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2196,6 +2375,7 @@
   },
   "LunarSylvanasPack2": {
     "hyperlinkId": "LunarSylvanasPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "LunarFestival",
     "releaseDate": "2018-02-06",
@@ -2209,6 +2389,7 @@
   },
   "MaievPack1": {
     "hyperlinkId": "MaievPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2018-02-06",
     "emoticons": [
@@ -2221,6 +2402,7 @@
   },
   "MaievPack2": {
     "hyperlinkId": "MaievPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2018-02-06",
     "emoticons": [
@@ -2233,6 +2415,7 @@
   },
   "MalfurionEmoticonPack": {
     "hyperlinkId": "MalfurionEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2245,6 +2428,7 @@
   },
   "MalfurionEmoticonPack2": {
     "hyperlinkId": "MalfurionEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2257,6 +2441,7 @@
   },
   "MalthaelEmoticonPack": {
     "hyperlinkId": "MalthaelEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-06-13",
     "emoticons": [
@@ -2269,6 +2454,7 @@
   },
   "MalthaelEmoticonPack2": {
     "hyperlinkId": "MalthaelEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-06-13",
     "emoticons": [
@@ -2281,6 +2467,7 @@
   },
   "MechaAbathurPack1": {
     "hyperlinkId": "XenotechAbathurPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2293,6 +2480,7 @@
   },
   "MechaAbathurPack2": {
     "hyperlinkId": "XenotechAbathurPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2305,6 +2493,7 @@
   },
   "MechaDehakaPack1": {
     "hyperlinkId": "MechaDehakaPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2317,6 +2506,7 @@
   },
   "MechaDehakaPack2": {
     "hyperlinkId": "MechaDehakaPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2329,6 +2519,7 @@
   },
   "MechaPhrasesPack": {
     "hyperlinkId": "MechaPhrasesPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2341,6 +2532,7 @@
   },
   "MechaRehgarPack1": {
     "hyperlinkId": "MechaRehgarPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2353,6 +2545,7 @@
   },
   "MechaRehgarPack2": {
     "hyperlinkId": "MechaRehgarPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2365,6 +2558,7 @@
   },
   "MechaTassadarPack1": {
     "hyperlinkId": "MechaTassadarPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2377,6 +2571,7 @@
   },
   "MechaTassadarPack2": {
     "hyperlinkId": "MechaTassadarPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2389,6 +2584,7 @@
   },
   "MechaTyraelPack1": {
     "hyperlinkId": "MechaTyraelPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2401,6 +2597,7 @@
   },
   "MechaTyraelPack2": {
     "hyperlinkId": "MechaTyraelPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-01-16",
     "emoticons": [
@@ -2413,6 +2610,7 @@
   },
   "MedivhEmoticonPack": {
     "hyperlinkId": "MedivhEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2425,6 +2623,7 @@
   },
   "MedivhEmoticonPack2": {
     "hyperlinkId": "MedivhEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2437,6 +2636,7 @@
   },
   "MephistoPack1": {
     "hyperlinkId": "MephistoPack1",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2018-09-04",
     "emoticons": [
@@ -2449,6 +2649,7 @@
   },
   "MephistoPack2": {
     "hyperlinkId": "MephistoPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2018-09-04",
     "emoticons": [
@@ -2461,6 +2662,7 @@
   },
   "MoralesEmoticonPack": {
     "hyperlinkId": "MoralesEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2473,6 +2675,7 @@
   },
   "MoralesEmoticonPack2": {
     "hyperlinkId": "MoralesEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2485,6 +2688,7 @@
   },
   "MuradinEmoticonPack": {
     "hyperlinkId": "MuradinEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2497,6 +2701,7 @@
   },
   "MuradinEmoticonPack2": {
     "hyperlinkId": "MuradinEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2509,6 +2714,7 @@
   },
   "MurkyEmoticonPack": {
     "hyperlinkId": "MurkyEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2521,6 +2727,7 @@
   },
   "MurkyEmoticonPack2": {
     "hyperlinkId": "MurkyEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2533,6 +2740,7 @@
   },
   "NazeeboEmoticonPack": {
     "hyperlinkId": "NazeeboEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2545,6 +2753,7 @@
   },
   "NazeeboEmoticonPack2": {
     "hyperlinkId": "NazeeboEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2557,6 +2766,7 @@
   },
   "NexusEmoticonPack": {
     "hyperlinkId": "NexusEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2575,6 +2785,7 @@
   },
   "NovaEmoticonPack": {
     "hyperlinkId": "NovaEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2587,6 +2798,7 @@
   },
   "NovaEmoticonPack2": {
     "hyperlinkId": "NovaEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2599,6 +2811,7 @@
   },
   "PachimariPack1": {
     "hyperlinkId": "PachimariEmoticonPack",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "emoticons": [
@@ -2611,6 +2824,7 @@
   },
   "PachimariPack2": {
     "hyperlinkId": "PachimariEmoticonPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-09-26",
     "emoticons": [
@@ -2624,6 +2838,7 @@
   },
   "PhrasesEmoticonPack": {
     "hyperlinkId": "PhrasesEmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2636,6 +2851,7 @@
   },
   "PhrasesTheme1EmoticonPack": {
     "hyperlinkId": "PhrasesTheme1EmoticonPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2648,6 +2864,7 @@
   },
   "ProbiusEmoticonPack": {
     "hyperlinkId": "ProbiusEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2660,6 +2877,7 @@
   },
   "ProbiusEmoticonPack2": {
     "hyperlinkId": "ProbiusEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2672,6 +2890,7 @@
   },
   "PsychoStitchesPack1": {
     "hyperlinkId": "PsychoStitchesPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2685,6 +2904,7 @@
   },
   "PsychoStitchesPack2": {
     "hyperlinkId": "PsychoStitchesPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2698,6 +2918,7 @@
   },
   "RagnarosEmoticonPack": {
     "hyperlinkId": "RagnarosEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2710,6 +2931,7 @@
   },
   "RagnarosEmoticonPack2": {
     "hyperlinkId": "RagnarosEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2722,6 +2944,7 @@
   },
   "RaynorEmoticonPack": {
     "hyperlinkId": "RaynorEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2734,6 +2957,7 @@
   },
   "RaynorEmoticonPack2": {
     "hyperlinkId": "RaynorEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2746,6 +2970,7 @@
   },
   "RehgarEmoticonPack": {
     "hyperlinkId": "RehgarEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2758,6 +2983,7 @@
   },
   "RehgarEmoticonPack2": {
     "hyperlinkId": "RehgarEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2770,6 +2996,7 @@
   },
   "RexxarEmoticonPack": {
     "hyperlinkId": "RexxarEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2782,6 +3009,7 @@
   },
   "RexxarEmoticonPack2": {
     "hyperlinkId": "RexxarEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2794,6 +3022,7 @@
   },
   "SamuroEmoticonPack": {
     "hyperlinkId": "SamuroEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2806,6 +3035,7 @@
   },
   "SamuroEmoticonPack2": {
     "hyperlinkId": "SamuroEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2818,6 +3048,7 @@
   },
   "SapperPack1": {
     "hyperlinkId": "SapperPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2831,6 +3062,7 @@
   },
   "SapperPack2": {
     "hyperlinkId": "SapperPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2844,6 +3076,7 @@
   },
   "SapperPackBonus": {
     "hyperlinkId": "SapperPackBonus",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2853,6 +3086,7 @@
   },
   "ScarecrowXulPack1": {
     "hyperlinkId": "ScarecrowXulPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2866,6 +3100,7 @@
   },
   "ScarecrowXulPack2": {
     "hyperlinkId": "ScarecrowXulPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2879,6 +3114,7 @@
   },
   "SidewinderAnaPack1": {
     "hyperlinkId": "SidewinderAnaPack1",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "emoticons": [
@@ -2891,6 +3127,7 @@
   },
   "SidewinderAnaPack2": {
     "hyperlinkId": "SidewinderAnaPack2",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-08-07",
     "emoticons": [
@@ -2903,6 +3140,7 @@
   },
   "SillySpooky18Pack": {
     "hyperlinkId": "SillySpooky18Pack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2018-09-25",
     "emoticons": [
@@ -2915,6 +3153,7 @@
   },
   "SkeletalHandSymbolPack1": {
     "hyperlinkId": "SkeletalHandSymbolPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2928,6 +3167,7 @@
   },
   "SkeletalHandSymbolPack2": {
     "hyperlinkId": "SkeletalHandSymbolPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2941,6 +3181,7 @@
   },
   "SkeletalHandSymbolPack3": {
     "hyperlinkId": "SkeletalHandSymbolPack3",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -2954,6 +3195,7 @@
   },
   "SonyaEmoticonPack": {
     "hyperlinkId": "SonyaEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2966,6 +3208,7 @@
   },
   "SonyaEmoticonPack2": {
     "hyperlinkId": "SonyaEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -2978,6 +3221,7 @@
   },
   "SportsballPack": {
     "hyperlinkId": "SportsballPack",
+    "rarity": "Common",
     "category": "Default",
     "releaseDate": "2018-05-22",
     "emoticons": [
@@ -2990,6 +3234,7 @@
   },
   "Spring19PhrasesPack": {
     "hyperlinkId": "Spring19PhrasesPack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "releaseDate": "2019-03-26",
     "emoticons": [
@@ -3002,6 +3247,7 @@
   },
   "StitchesEmoticonPack": {
     "hyperlinkId": "StitchesEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3014,6 +3260,7 @@
   },
   "StitchesEmoticonPack2": {
     "hyperlinkId": "StitchesEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3026,6 +3273,7 @@
   },
   "StukovEmoticonPack": {
     "hyperlinkId": "StukovEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-07-11",
     "emoticons": [
@@ -3038,6 +3286,7 @@
   },
   "StukovEmoticonPack2": {
     "hyperlinkId": "StukovEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-07-11",
     "emoticons": [
@@ -3050,6 +3299,7 @@
   },
   "SugarPlumSylvanasPack1": {
     "hyperlinkId": "SugarPlumSylvanasPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -3063,6 +3313,7 @@
   },
   "SugarPlumSylvanasPack2": {
     "hyperlinkId": "SugarPlumSylvanasPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -3076,6 +3327,7 @@
   },
   "SylvanasEmoticonPack": {
     "hyperlinkId": "SylvanasEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3088,6 +3340,7 @@
   },
   "SylvanasEmoticonPack2": {
     "hyperlinkId": "SylvanasEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3100,6 +3353,7 @@
   },
   "TassadarEmoticonPack": {
     "hyperlinkId": "TassadarEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3112,6 +3366,7 @@
   },
   "TassadarEmoticonPack2": {
     "hyperlinkId": "TassadarEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3124,6 +3379,7 @@
   },
   "ThrallEmoticonPack": {
     "hyperlinkId": "ThrallEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3136,6 +3392,7 @@
   },
   "ThrallEmoticonPack2": {
     "hyperlinkId": "ThrallEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3148,6 +3405,7 @@
   },
   "TracerEmoticonPack": {
     "hyperlinkId": "TracerEmoticonPack",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3160,6 +3418,7 @@
   },
   "TracerEmoticonPack2": {
     "hyperlinkId": "TracerEmoticonPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3172,6 +3431,7 @@
   },
   "TychusEmoticonPack": {
     "hyperlinkId": "TychusEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3184,6 +3444,7 @@
   },
   "TychusEmoticonPack2": {
     "hyperlinkId": "TychusEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3196,6 +3457,7 @@
   },
   "TyraelEmoticonPack": {
     "hyperlinkId": "TyraelEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3208,6 +3470,7 @@
   },
   "TyraelEmoticonPack2": {
     "hyperlinkId": "TyraelEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3220,6 +3483,7 @@
   },
   "TyrandeEmoticonPack": {
     "hyperlinkId": "TyrandeEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3232,6 +3496,7 @@
   },
   "TyrandeEmoticonPack2": {
     "hyperlinkId": "TyrandeEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3244,6 +3509,7 @@
   },
   "UtherEmoticonPack": {
     "hyperlinkId": "UtherEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3256,6 +3522,7 @@
   },
   "UtherEmoticonPack2": {
     "hyperlinkId": "UtherEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3268,6 +3535,7 @@
   },
   "ValeeraEmoticonPack": {
     "hyperlinkId": "ValeeraEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3280,6 +3548,7 @@
   },
   "ValeeraEmoticonPack2": {
     "hyperlinkId": "ValeeraEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3292,6 +3561,7 @@
   },
   "VallaEmoticonPack": {
     "hyperlinkId": "VallaEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3304,6 +3574,7 @@
   },
   "VallaEmoticonPack2": {
     "hyperlinkId": "VallaEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3316,6 +3587,7 @@
   },
   "VampireSlayerVPack1": {
     "hyperlinkId": "VampireSlayerVPack1",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -3329,6 +3601,7 @@
   },
   "VampireSlayerVPack2": {
     "hyperlinkId": "VampireSlayerVPack2",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "HallowsEnd",
     "releaseDate": "2017-10-17",
@@ -3342,6 +3615,7 @@
   },
   "VarianEmoticonPack": {
     "hyperlinkId": "VarianEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3354,6 +3628,7 @@
   },
   "VarianEmoticonPack2": {
     "hyperlinkId": "VarianEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3366,6 +3641,7 @@
   },
   "VikingsEmoticonPack": {
     "hyperlinkId": "VikingsEmoticonPack",
+    "rarity": "Common",
     "category": "BlizzClassic",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3378,6 +3654,7 @@
   },
   "VikingsEmoticonPack2": {
     "hyperlinkId": "VikingsEmoticonPack2",
+    "rarity": "Common",
     "category": "BlizzClassic",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3390,6 +3667,7 @@
   },
   "WhitemanePack1": {
     "hyperlinkId": "WhitemanePack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2018-08-07",
     "emoticons": [
@@ -3402,6 +3680,7 @@
   },
   "WhitemanePack2": {
     "hyperlinkId": "WhitemanePack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2018-08-07",
     "emoticons": [
@@ -3414,6 +3693,7 @@
   },
   "WinterVeilPhrasesPack": {
     "hyperlinkId": "WinterVeilPhrasesPack",
+    "rarity": "Common",
     "category": "SeasonalEvents",
     "event": "WinterVeil",
     "releaseDate": "2017-12-12",
@@ -3427,6 +3707,7 @@
   },
   "XulEmoticonPack": {
     "hyperlinkId": "XulEmoticonPack",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3439,6 +3720,7 @@
   },
   "XulEmoticonPack2": {
     "hyperlinkId": "XulEmoticonPack2",
+    "rarity": "Common",
     "category": "Diablo",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3451,6 +3733,7 @@
   },
   "YrelPack1": {
     "hyperlinkId": "YrelPack1",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2018-06-12",
     "emoticons": [
@@ -3463,6 +3746,7 @@
   },
   "YrelPack2": {
     "hyperlinkId": "YrelPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2018-06-12",
     "emoticons": [
@@ -3475,6 +3759,7 @@
   },
   "ZagaraEmoticonPack": {
     "hyperlinkId": "ZagaraEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3487,6 +3772,7 @@
   },
   "ZagaraEmoticonPack2": {
     "hyperlinkId": "ZagaraEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3499,6 +3785,7 @@
   },
   "ZaryaEmoticonPack": {
     "hyperlinkId": "ZaryaEmoticonPack",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3511,6 +3798,7 @@
   },
   "ZaryaEmoticonPack2": {
     "hyperlinkId": "ZaryaEmoticonPack2",
+    "rarity": "Common",
     "category": "StaticOverwatch",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3523,6 +3811,7 @@
   },
   "ZeratulEmoticonPack": {
     "hyperlinkId": "ZeratulEmoticonPack",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3535,6 +3824,7 @@
   },
   "ZeratulEmoticonPack2": {
     "hyperlinkId": "ZeratulEmoticonPack2",
+    "rarity": "Common",
     "category": "Starcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3547,6 +3837,7 @@
   },
   "ZuljinEmoticonPack": {
     "hyperlinkId": "ZuljinEmoticonPack",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
@@ -3559,6 +3850,7 @@
   },
   "ZuljinEmoticonPack2": {
     "hyperlinkId": "ZuljinEmoticonPack2",
+    "rarity": "Common",
     "category": "Warcraft",
     "releaseDate": "2017-03-14",
     "emoticons": [
