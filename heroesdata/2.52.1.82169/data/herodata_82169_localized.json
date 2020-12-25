@@ -61,6 +61,24 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "AbathurUltimate",
+      "AbathurPajamathur",
+      "AbathurSkelethur",
+      "AbathurMecha"
+    ],
+    "variationSkins": [
+      "AbathurBone",
+      "AbathurChar",
+      "AbathurBaseVar3"
+    ],
+    "voiceLines": [
+      "AbathurBase_VoiceLine01",
+      "AbathurBase_VoiceLine02",
+      "AbathurBase_VoiceLine03",
+      "AbathurBase_VoiceLine04",
+      "AbathurBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -516,6 +534,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "AlarakTaldarimMarch",
     "descriptors": [
       "EnergyImportant",
       "Escaper",
@@ -560,6 +579,27 @@
         "damage": 150.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "AlarakUltimate",
+      "AlarakHunter",
+      "AlarakDark18"
+    ],
+    "variationSkins": [
+      "AlarakBaseVar1",
+      "AlarakBaseVar2",
+      "AlarakBaseVar3"
+    ],
+    "voiceLines": [
+      "AlarakBase_VoiceLine01",
+      "AlarakBase_VoiceLine02",
+      "AlarakBase_VoiceLine03",
+      "AlarakBase_VoiceLine04",
+      "AlarakBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "AlarakTaldarimMarch",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -971,6 +1011,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -1017,6 +1058,30 @@
         "damage": 73.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "AlexstraszaCowl",
+      "AlexstraszaDark",
+      "AlexstraszaSpooky18"
+    ],
+    "variationSkins": [
+      "AlexstraszaBaseVar1",
+      "AlexstraszaBaseVar2",
+      "AlexstraszaBaseVar3",
+      "AlexstraszaBaseVar4"
+    ],
+    "voiceLines": [
+      "AlexstraszaBase_VoiceLineOne",
+      "AlexstraszaBase_VoiceLineTwo",
+      "AlexstraszaBase_VoiceLineThree",
+      "AlexstraszaBase_VoiceLineFour",
+      "AlexstraszaBase_VoiceLineFive"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -1485,6 +1550,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -1538,6 +1604,30 @@
         "damage": 125.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "AmazonUltimate",
+      "AmazonPirate",
+      "AmazonLunar",
+      "AmazonMyth20"
+    ],
+    "variationSkins": [
+      "AmazonBaseVar1",
+      "AmazonBaseVar2",
+      "AmazonBaseVar3"
+    ],
+    "voiceLines": [
+      "AmazonBase_VoiceLine01",
+      "AmazonBase_VoiceLine02",
+      "AmazonBase_VoiceLine03",
+      "AmazonBase_VoiceLine04",
+      "AmazonBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -1935,6 +2025,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "ChanneledAutoAttacker",
@@ -1980,6 +2071,30 @@
         "damage": 30.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "AnaShrike",
+      "AnaArmy18"
+    ],
+    "variationSkins": [
+      "AnaBaseVar1",
+      "AnaBaseVar2",
+      "AnaBaseVar3",
+      "AnaBaseVar4",
+      "AnaBaseVar5"
+    ],
+    "voiceLines": [
+      "AnaBase_VoiceLine01",
+      "AnaBase_VoiceLine02",
+      "AnaBase_VoiceLine03",
+      "AnaBase_VoiceLine04",
+      "AnaBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -2387,6 +2502,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -2431,6 +2547,29 @@
         "damage": 85.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "AnduinSciFi19",
+      "AnduinCraft20"
+    ],
+    "variationSkins": [
+      "AnduinBaseVar1",
+      "AnduinBaseVar2",
+      "AnduinBaseVar3",
+      "AnduinBaseVar4"
+    ],
+    "voiceLines": [
+      "AnduinBase_VoiceLine01",
+      "AnduinBase_VoiceLine02",
+      "AnduinBase_VoiceLine03",
+      "AnduinBase_VoiceLine04",
+      "AnduinBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -2786,6 +2925,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "AnubarakWings",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -2834,6 +2974,28 @@
         "damage": 81.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "AnubarakUltimate",
+      "AnubarakCyberSkin",
+      "AnubarakLovebug",
+      "AnubarakCyberNeonSkin",
+      "AnubarakZerg"
+    ],
+    "variationSkins": [
+      "AnubarakWhite",
+      "AnubarakIce"
+    ],
+    "voiceLines": [
+      "AnubarakBase_VoiceLine01",
+      "AnubarakBase_VoiceLine02",
+      "AnubarakBase_VoiceLine03",
+      "AnubarakBase_VoiceLine04",
+      "AnubarakBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "AnubarakWings",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -3176,6 +3338,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -3228,6 +3391,31 @@
         "damage": 111.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ArtanisUltimate",
+      "ArtanisPurifier",
+      "ArtanisSkinRonin",
+      "ArtanisZeraBlade",
+      "ArtanisCraft20"
+    ],
+    "variationSkins": [
+      "ArtanisBaseRed",
+      "ArtanisBaseBlack",
+      "ArtanisBaseVar3"
+    ],
+    "voiceLines": [
+      "ArtanisBase_VoiceLine01",
+      "ArtanisBase_VoiceLine02",
+      "ArtanisBase_VoiceLine03",
+      "ArtanisBase_VoiceLine04",
+      "ArtanisBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -3615,6 +3803,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -3662,6 +3851,32 @@
         "damage": 95.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ArthasUltimate",
+      "ArthasFrostWyrm",
+      "ArthasLichPrince",
+      "ArthasCrimsonCount",
+      "ArthasGuanYu",
+      "ArthasCraft20"
+    ],
+    "variationSkins": [
+      "ArthasBlue",
+      "ArthasWhite",
+      "ArthasVar3"
+    ],
+    "voiceLines": [
+      "ArthasBase_VoiceLine01",
+      "ArthasBase_VoiceLine02",
+      "ArthasBase_VoiceLine03",
+      "ArthasBase_VoiceLine04",
+      "ArthasBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -4034,6 +4249,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "Helper",
@@ -4077,6 +4293,31 @@
         "damage": 64.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "AurielUltimate",
+      "AurielDemonic",
+      "AurielHanamura",
+      "AurielWCAV",
+      "AurielCharity20"
+    ],
+    "variationSkins": [
+      "AurielBaseVar1",
+      "AurielBaseVar2",
+      "AurielBaseVar3"
+    ],
+    "voiceLines": [
+      "AurielBase_VoiceLine01",
+      "AurielBase_VoiceLine02",
+      "AurielBase_VoiceLine03",
+      "AurielBase_VoiceLine04",
+      "AurielBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -4436,6 +4677,7 @@
     "speed": 4.8398,
     "rarity": "Rare",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "AzmodanFireFeet",
     "descriptors": [
       "EnergyImportant",
       "RoleSpecialist",
@@ -4485,6 +4727,29 @@
         "damage": 85.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "AzmodanUltimate",
+      "AzmodanAzguldan",
+      "AzmodanSkinAzmodunk",
+      "AzmodanMadAxe18"
+    ],
+    "variationSkins": [
+      "AzmodanGreen",
+      "AzmodanBlue",
+      "AzmodanBaseVar3",
+      "AzmodanBaseVar4"
+    ],
+    "voiceLines": [
+      "AzmodanBase_VoiceLine01",
+      "AzmodanBase_VoiceLine02",
+      "AzmodanBase_VoiceLine03",
+      "AzmodanBase_VoiceLine04",
+      "AzmodanBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "AzmodanFireFeet",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -4851,6 +5116,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "Ganker",
       "MercKiller",
@@ -4897,6 +5163,34 @@
         "damage": 84.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "SonyaUltimate",
+      "BarbarianWrathFemale",
+      "SuperSonya",
+      "BarbarianLegionFemale",
+      "BarbarianDeathKnightFemale",
+      "BarbarianSummer18",
+      "BarbarianDeathKnightFemaleVar5"
+    ],
+    "variationSkins": [
+      "BarbarianBlue",
+      "BarbarianRed",
+      "BarbarianBaseVar3",
+      "BarbarianBaseVar4"
+    ],
+    "voiceLines": [
+      "BarbarianBase_VoiceLine01",
+      "BarbarianBase_VoiceLine02",
+      "BarbarianBase_VoiceLine03",
+      "BarbarianBase_VoiceLine04",
+      "BarbarianBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -5267,6 +5561,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -5315,6 +5610,31 @@
         "damage": 130.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ButcherUltimate",
+      "ButcherIron",
+      "ButcherButcherlisk",
+      "ButcherSpring19"
+    ],
+    "variationSkins": [
+      "ButcherGreen",
+      "ButcherYellow",
+      "ButcherBaseVar3",
+      "ButcherBaseVar4"
+    ],
+    "voiceLines": [
+      "ButcherBase_VoiceLine01",
+      "ButcherBase_VoiceLine02",
+      "ButcherBase_VoiceLine03",
+      "ButcherBase_VoiceLine04",
+      "ButcherBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -5653,6 +5973,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "BodyBlocker",
       "Escaper",
@@ -5698,6 +6019,30 @@
         "damage": 90.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ChenUltimate",
+      "ChenWarmaster",
+      "ChenLunar",
+      "ChenHat"
+    ],
+    "variationSkins": [
+      "ChenRed",
+      "ChenGreen",
+      "ChenVar3"
+    ],
+    "voiceLines": [
+      "ChenBase_VoiceLine01",
+      "ChenBase_VoiceLine02",
+      "ChenBase_VoiceLine03",
+      "ChenBase_VoiceLine04",
+      "ChenBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -6357,6 +6702,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "ChoGallRunHorseCommon",
     "descriptors": [
       "BodyBlocker",
       "Escaper",
@@ -6406,6 +6752,31 @@
         "damage": 130.0,
         "damageScale": 0.045
       }
+    ],
+    "skins": [
+      "ChoUltimate",
+      "ChoCorruptor",
+      "ChoPumpkin",
+      "ChoAltered20"
+    ],
+    "variationSkins": [
+      "ChoBaseVar1",
+      "ChoBaseVar2",
+      "ChoBaseVar3"
+    ],
+    "voiceLines": [
+      "ChoBase_VoiceLine01",
+      "ChoBase_VoiceLine02",
+      "ChoBase_VoiceLine03",
+      "ChoBase_VoiceLine04",
+      "ChoBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf",
+      "ChoGallRun"
     ],
     "abilities": {
       "basic": [
@@ -6764,6 +7135,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "RoleCaster"
@@ -6809,6 +7181,31 @@
         "damage": 82.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ChromieUltimate",
+      "ChromieFel",
+      "ChromieGenie",
+      "ChromieCuteSkull",
+      "ChromieSpring19"
+    ],
+    "variationSkins": [
+      "ChromieBaseVar1",
+      "ChromieBaseVar2",
+      "ChromieBaseVar3"
+    ],
+    "voiceLines": [
+      "ChromieBase_VoiceLine01",
+      "ChromieBase_VoiceLine02",
+      "ChromieBase_VoiceLine03",
+      "ChromieBase_VoiceLine04",
+      "ChromieBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -7203,6 +7600,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "Overconfident",
@@ -7246,6 +7644,33 @@
         "damage": 99.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "UltimateCrusader",
+      "CrusaderCenturion",
+      "CrusaderSpell",
+      "CrusaderEnforcer",
+      "CrusaderWCAV"
+    ],
+    "variationSkins": [
+      "CrusaderRed",
+      "CrusaderIvory",
+      "CrusaderBaseVar3",
+      "CrusaderBaseVar5",
+      "CrusaderBaseVar6"
+    ],
+    "voiceLines": [
+      "CrusaderBase_VoiceLine01",
+      "CrusaderBase_VoiceLine02",
+      "CrusaderBase_VoiceLine03",
+      "CrusaderBase_VoiceLine04",
+      "CrusaderBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -7619,6 +8044,29 @@
         "damage": 155.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "DeathwingDark20"
+    ],
+    "variationSkins": [
+      "DeathwingVar1",
+      "DeathwingVar2",
+      "DeathwingVar3",
+      "DeathwingVar4",
+      "DeathwingVar5"
+    ],
+    "voiceLines": [
+      "DeathwingBase_VoiceLine01",
+      "DeathwingBase_VoiceLine02",
+      "DeathwingBase_VoiceLine03",
+      "DeathwingBase_VoiceLine04",
+      "DeathwingBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -8017,6 +8465,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -8064,6 +8513,30 @@
         "damage": 63.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "DeckardRoad",
+      "DeckardArmy19",
+      "DeckardToys19"
+    ],
+    "variationSkins": [
+      "DeckardBaseVar1",
+      "DeckardBaseVar2",
+      "DeckardBaseVar3",
+      "DeckardBaseVar4"
+    ],
+    "voiceLines": [
+      "DeckardBase_VoiceLine01",
+      "DeckardBase_VoiceLine02",
+      "DeckardBase_VoiceLine03",
+      "DeckardBase_VoiceLine04",
+      "DeckardBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -8487,6 +8960,24 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "DehakaMaster",
+      "DehakaMecha",
+      "DehakaVHaka",
+      "DehakaToys18"
+    ],
+    "variationSkins": [
+      "DehakaVar1",
+      "DehakaVar2",
+      "DehakaVar3"
+    ],
+    "voiceLines": [
+      "DehakaBase_VoiceLine01",
+      "DehakaBase_VoiceLine02",
+      "DehakaBase_VoiceLine03",
+      "DehakaBase_VoiceLine04",
+      "DehakaBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -8856,6 +9347,7 @@
     "speed": 4.8398,
     "rarity": "Rare",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -8900,6 +9392,33 @@
         "damage": 75.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "VallaUltimate",
+      "DemonHunterVampireHunter",
+      "DemonHunterAngel",
+      "DemonHunterCowgirl",
+      "DemonHunterHorns",
+      "DemonHunterWinter",
+      "DemonHunterMecha19"
+    ],
+    "variationSkins": [
+      "DemonHunterGreen",
+      "DemonHunterPink",
+      "DemonHunterBaseVar3"
+    ],
+    "voiceLines": [
+      "DemonHunterBase_VoiceLine01",
+      "DemonHunterBase_VoiceLine02",
+      "DemonHunterBase_VoiceLine03",
+      "DemonHunterBase_VoiceLine04",
+      "DemonHunterBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -9286,6 +9805,7 @@
     "speed": 4.8398,
     "rarity": "Rare",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "DiabloRun",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -9330,6 +9850,33 @@
         "damage": 105.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "DiabloUltimate",
+      "DiabloKaijoe",
+      "DiabloMurkablo",
+      "DiabloAngelic",
+      "DiabloPrime",
+      "DiabloSummer18"
+    ],
+    "variationSkins": [
+      "DiabloBlack",
+      "DiabloPink",
+      "DiabloVar3"
+    ],
+    "voiceLines": [
+      "DiabloBase_VoiceLine01",
+      "DiabloBase_VoiceLine02",
+      "DiabloBase_VoiceLine03",
+      "DiabloBase_VoiceLine04",
+      "DiabloBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf",
+      "Ridenone"
     ],
     "abilities": {
       "basic": [
@@ -9749,6 +10296,25 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "DryadSkinUltimate",
+      "DryadSkinSentinel",
+      "DryadWinter",
+      "DryadSummer18",
+      "DryadWarden"
+    ],
+    "variationSkins": [
+      "DryadVar1",
+      "DryadVar2",
+      "DryadVar3"
+    ],
+    "voiceLines": [
+      "DryadBase_VoiceLine01",
+      "DryadBase_VoiceLine02",
+      "DryadBase_VoiceLine03",
+      "DryadBase_VoiceLine04",
+      "DryadBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -10156,6 +10722,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "Escaper",
@@ -10199,6 +10766,31 @@
         "damage": 22.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "DVaUltimate",
+      "DVaTerran",
+      "DVaDeathwing"
+    ],
+    "variationSkins": [
+      "DVaBaseVar1",
+      "DVaBaseVar2",
+      "DVaBaseVar3",
+      "DVaBaseVar4",
+      "DVaBaseVar5"
+    ],
+    "voiceLines": [
+      "DVaBase_VoiceLine01",
+      "DVaBase_VoiceLine02",
+      "DVaBase_VoiceLine03",
+      "DVaBase_VoiceLine04",
+      "DVaBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -10790,6 +11382,25 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "BrightwingUltimate",
+      "BrightwingMonarch",
+      "BrightwingLuxMonkey",
+      "BrightwingWitchHat",
+      "BrightwingBright19"
+    ],
+    "variationSkins": [
+      "BrightwingRed",
+      "BrightwingBlack",
+      "BrightwingBaseVar3"
+    ],
+    "voiceLines": [
+      "FaerieDragonBase_VoiceLine01",
+      "FaerieDragonBase_VoiceLine02",
+      "FaerieDragonBase_VoiceLine03",
+      "FaerieDragonBase_VoiceLine04",
+      "FaerieDragonBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -11188,6 +11799,23 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "FalstadUltimate",
+      "FalstadStormLord",
+      "FalstadPirate"
+    ],
+    "variationSkins": [
+      "FalstadDarkIron",
+      "FalstadNordic",
+      "FalstadBaseVar3"
+    ],
+    "voiceLines": [
+      "FalstadBase_VoiceLine01",
+      "FalstadBase_VoiceLine02",
+      "FalstadBase_VoiceLine03",
+      "FalstadBase_VoiceLine04",
+      "FalstadBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -11523,6 +12151,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "MountFenixBase",
     "descriptors": [
       "Escaper",
       "Ganker",
@@ -11569,6 +12198,27 @@
         "damage": 83.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "FenixGuardian",
+      "FenixDark20"
+    ],
+    "variationSkins": [
+      "FenixBaseVar1",
+      "FenixBaseVar2",
+      "FenixBaseVar3",
+      "FenixBaseVar4"
+    ],
+    "voiceLines": [
+      "FenixBase_VoiceLine01",
+      "FenixBase_VoiceLine02",
+      "FenixBase_VoiceLine03",
+      "FenixBase_VoiceLine04",
+      "FenixBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ridesurf",
+      "MountFenixBase"
     ],
     "abilities": {
       "basic": [
@@ -11935,6 +12585,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -11980,6 +12631,29 @@
         "damage": 55.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "FirebatFelReaver",
+      "FirebatArmy19"
+    ],
+    "variationSkins": [
+      "FirebatBaseVar1",
+      "FirebatBaseVar2",
+      "FirebatBaseVar3",
+      "FirebatBaseVar4"
+    ],
+    "voiceLines": [
+      "FirebatBase_VoiceLine01",
+      "FirebatBase_VoiceLine02",
+      "FirebatBase_VoiceLine03",
+      "FirebatBase_VoiceLine04",
+      "FirebatBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -12347,6 +13021,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "ChoGallRunHorseCommon",
     "descriptors": [
       "GoalsDisabled",
       "RoleCaster"
@@ -12376,6 +13051,31 @@
       "survivability": 10.0,
       "utility": 4.0
     },
+    "skins": [
+      "ChoUltimate",
+      "ChoCorruptor",
+      "ChoPumpkin",
+      "ChoAltered20"
+    ],
+    "variationSkins": [
+      "ChoBaseVar1",
+      "ChoBaseVar2",
+      "ChoBaseVar3"
+    ],
+    "voiceLines": [
+      "GallBase_VoiceLine01",
+      "GallBase_VoiceLine02",
+      "GallBase_VoiceLine03",
+      "GallBase_VoiceLine04",
+      "GallBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf",
+      "ChoGallRun"
+    ],
     "abilities": {
       "basic": [
         {
@@ -12757,6 +13457,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -12801,6 +13502,30 @@
         "damage": 137.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "GarroshRoad",
+      "GarroshSummer18",
+      "GarroshWCAV"
+    ],
+    "variationSkins": [
+      "GarroshBaseVar1",
+      "GarroshBaseVar2",
+      "GarroshBaseVar3",
+      "GarroshBaseVar4"
+    ],
+    "voiceLines": [
+      "GarroshBase_VoiceLine01",
+      "GarroshBase_VoiceLine02",
+      "GarroshBase_VoiceLine03",
+      "GarroshBase_VoiceLine04",
+      "GarroshBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -13211,6 +13936,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Escaper",
@@ -13258,6 +13984,32 @@
         "damage": 44.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "GenjiOni",
+      "GenjiUltimate",
+      "GenjiArmy18"
+    ],
+    "variationSkins": [
+      "GenjiBaseVar1",
+      "GenjiBaseVar2",
+      "GenjiBaseVar3",
+      "GenjiBaseVar4",
+      "GenjiBaseVar5",
+      "GenjiBaseVar6"
+    ],
+    "voiceLines": [
+      "GenjiBase_VoiceLine01",
+      "GenjiBase_VoiceLine02",
+      "GenjiBase_VoiceLine03",
+      "GenjiBase_VoiceLine04",
+      "GenjiBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -13651,6 +14403,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -13703,6 +14456,30 @@
         "damage": 148.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "GreymaneMasterDefault",
+      "GreymaneCircusDefault",
+      "GreymaneDoctor",
+      "GreymaneEnforcer"
+    ],
+    "variationSkins": [
+      "GreymaneBaseVar1",
+      "GreymaneBaseVar2",
+      "GreymaneBaseVar3"
+    ],
+    "voiceLines": [
+      "GreymaneBase_VoiceLine01",
+      "GreymaneBase_VoiceLine02",
+      "GreymaneBase_VoiceLine03",
+      "GreymaneBase_VoiceLine04",
+      "GreymaneBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -14078,6 +14855,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "GuldanVeterancyMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "RoleCaster",
       "SoloLaner",
@@ -14121,6 +14899,30 @@
         "damage": 60.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "GuldanUltimate",
+      "GuldanSpider",
+      "GuldanDark18"
+    ],
+    "variationSkins": [
+      "GuldanBaseVar1",
+      "GuldanBaseVar2",
+      "GuldanBaseVar3",
+      "GuldanBaseVar4"
+    ],
+    "voiceLines": [
+      "GuldanBase_VoiceLine01",
+      "GuldanBase_VoiceLine02",
+      "GuldanBase_VoiceLine03",
+      "GuldanBase_VoiceLine04",
+      "GuldanBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -14492,6 +15294,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Escaper",
@@ -14539,6 +15342,30 @@
         "damage": 198.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "HanzoBloodElf",
+      "HanzoArmy19"
+    ],
+    "variationSkins": [
+      "HanzoBaseVar1",
+      "HanzoBaseVar2",
+      "HanzoBaseVar3",
+      "HanzoBaseVar4",
+      "HanzoBaseVar5"
+    ],
+    "voiceLines": [
+      "HanzoBase_VoiceLine01",
+      "HanzoBase_VoiceLine02",
+      "HanzoBase_VoiceLine03",
+      "HanzoBase_VoiceLine04",
+      "HanzoBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -14915,6 +15742,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "Escaper",
@@ -14956,6 +15784,31 @@
         "damage": 78.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "IllidanUltimate",
+      "IllidanLunar",
+      "IllidanShando",
+      "IllidanSpectre",
+      "IllidanWar3"
+    ],
+    "variationSkins": [
+      "IllidanBlack",
+      "IllidanBlue",
+      "IllidanBaseVar3"
+    ],
+    "voiceLines": [
+      "IllidanBase_VoiceLine01",
+      "IllidanBase_VoiceLine02",
+      "IllidanBase_VoiceLine03",
+      "IllidanBase_VoiceLine04",
+      "IllidanBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -15328,6 +16181,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -15372,6 +16226,29 @@
         "damage": 122.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ImperiusDemonic19",
+      "ImperiusSummer20"
+    ],
+    "variationSkins": [
+      "ImperiusVar1",
+      "ImperiusVar2",
+      "ImperiusVar3",
+      "ImperiusVar4"
+    ],
+    "voiceLines": [
+      "ImperiusBase_VoiceLine01",
+      "ImperiusBase_VoiceLine02",
+      "ImperiusBase_VoiceLine03",
+      "ImperiusBase_VoiceLine04",
+      "ImperiusBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -15708,6 +16585,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "RoleCaster",
@@ -15754,6 +16632,32 @@
         "damage": 60.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "JainaUltimate",
+      "JainaClaus",
+      "JainaTempest",
+      "LunarJaina",
+      "JainaModern",
+      "JainaDreadlord"
+    ],
+    "variationSkins": [
+      "JainaBlue",
+      "JainaGreen",
+      "JainaBaseVar3"
+    ],
+    "voiceLines": [
+      "JainaBase_VoiceLine01",
+      "JainaBase_VoiceLine02",
+      "JainaBase_VoiceLine03",
+      "JainaBase_VoiceLine04",
+      "JainaBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -16111,6 +17015,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "RoleSpecialist",
       "TowerPusher",
@@ -16159,6 +17064,30 @@
         "damage": 120.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "JunkratFallen",
+      "JunkratWCAV",
+      "JunkratMobster19"
+    ],
+    "variationSkins": [
+      "JunkratBaseVar1",
+      "JunkratBaseVar2",
+      "JunkratBaseVar3",
+      "JunkratBaseVar4"
+    ],
+    "voiceLines": [
+      "JunkratBase_VoiceLine01",
+      "JunkratBase_VoiceLine02",
+      "JunkratBase_VoiceLine03",
+      "JunkratBase_VoiceLine04",
+      "JunkratBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -16614,6 +17543,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -16661,6 +17591,31 @@
         "damage": 65.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "KaelthasUltimate",
+      "StormPunkKaelthas",
+      "KaelthasRobot",
+      "KaelthasSuper",
+      "KaelthasLunar"
+    ],
+    "variationSkins": [
+      "KaelthasSilver",
+      "KaelthasWhite",
+      "KaelthasVar3"
+    ],
+    "voiceLines": [
+      "KaelthasBase_VoiceLine01",
+      "KaelthasBase_VoiceLine02",
+      "KaelthasBase_VoiceLine03",
+      "KaelthasBase_VoiceLine04",
+      "KaelthasBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -17056,6 +18011,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "MountKelThuzadWake",
     "descriptors": [
       "DeadUpdater",
       "EnergyImportant",
@@ -17099,6 +18055,25 @@
         "damage": 72.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "KelThuzadStarLich"
+    ],
+    "variationSkins": [
+      "KelThuzadBaseVar1",
+      "KelThuzadBaseVar2",
+      "KelThuzadBaseVar3",
+      "KelThuzadBaseVar4"
+    ],
+    "voiceLines": [
+      "KelthuzadBase_VoiceLine01",
+      "KelthuzadBase_VoiceLine02",
+      "KelthuzadBase_VoiceLine03",
+      "KelthuzadBase_VoiceLine04",
+      "KelthuzadBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "MountKelThuzadWake"
     ],
     "abilities": {
       "basic": [
@@ -17456,6 +18431,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -17502,6 +18478,32 @@
         "damage": 115.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "KerriganUltimate",
+      "KerriganSuccubus",
+      "KerriganCountess",
+      "KerriganGhost",
+      "KerriganCheer",
+      "KerriganLegion"
+    ],
+    "variationSkins": [
+      "KerriganToxic",
+      "KerriganOrange",
+      "KerriganBaseVar3"
+    ],
+    "voiceLines": [
+      "KerriganBase_VoiceLine01",
+      "KerriganBase_VoiceLine02",
+      "KerriganBase_VoiceLine03",
+      "KerriganBase_VoiceLine04",
+      "KerriganBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -17881,6 +18883,7 @@
     "speed": 4.8398,
     "rarity": "Rare",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -17927,6 +18930,31 @@
         "damage": 99.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ETCUltimate",
+      "ETCGlam",
+      "ETCPureCountry",
+      "ETCMarine",
+      "ETCSummer18"
+    ],
+    "variationSkins": [
+      "ETCDark",
+      "ETCLight",
+      "ETCVar3"
+    ],
+    "voiceLines": [
+      "L90ETCBase_VoiceLine01",
+      "L90ETCBase_VoiceLine02",
+      "L90ETCBase_VoiceLine03",
+      "L90ETCBase_VoiceLine04",
+      "L90ETCBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -18283,6 +19311,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Overconfident",
@@ -18329,6 +19358,30 @@
         "damage": 109.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "LeoricUltimate",
+      "LeoricVrykul",
+      "LeoricKingVrykul",
+      "LeoricSpace",
+      "LeoricJanitor18"
+    ],
+    "variationSkins": [
+      "LeoricRed",
+      "LeoricWhite"
+    ],
+    "voiceLines": [
+      "LeoricBase_VoiceLine01",
+      "LeoricBase_VoiceLine02",
+      "LeoricBase_VoiceLine03",
+      "LeoricBase_VoiceLine04",
+      "LeoricBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -18714,6 +19767,7 @@
     "speed": 4.8398,
     "rarity": "Rare",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -18761,6 +19815,31 @@
         "damage": 60.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "LiLiUltimate",
+      "LiLiExplorer",
+      "LiLiLunarLiLi",
+      "LiLiShadowpaw",
+      "LiLiShadowblade",
+      "LiLiSummer20"
+    ],
+    "variationSkins": [
+      "LiLiGreen",
+      "LiLiYellow"
+    ],
+    "voiceLines": [
+      "LiLiBase_VoiceLine01",
+      "LiLiBase_VoiceLine02",
+      "LiLiBase_VoiceLine03",
+      "LiLiBase_VoiceLine04",
+      "LiLiBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -19150,6 +20229,21 @@
       "survivability": 6.0,
       "utility": 5.0
     },
+    "skins": [
+      "LostVikingsUltimate",
+      "LostVikingsPajamaParty"
+    ],
+    "variationSkins": [
+      "LostVikingsOrange",
+      "LostVikingsClassic"
+    ],
+    "voiceLines": [
+      "LostVikingsBase_VoiceLine01",
+      "LostVikingsBase_VoiceLine02",
+      "LostVikingsBase_VoiceLine03",
+      "LostVikingsBase_VoiceLine04",
+      "LostVikingsBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -20061,6 +21155,23 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "LucioUltimate",
+      "LucioFrog",
+      "LucioSpring19"
+    ],
+    "variationSkins": [
+      "LucioBaseVar1",
+      "LucioBaseVar2",
+      "LucioBaseVar3"
+    ],
+    "voiceLines": [
+      "LucioBase_VoiceLine01",
+      "LucioBase_VoiceLine02",
+      "LucioBase_VoiceLine03",
+      "LucioBase_VoiceLine04",
+      "LucioBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -20408,6 +21519,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "portraits": {
       "heroSelect": "storm_ui_ingame_heroselect_btn_maiev.png",
       "leaderboard": "storm_ui_ingame_hero_leaderboard_maiev.png",
@@ -20445,6 +21557,30 @@
         "damage": 145.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MaievHellWarden",
+      "MaievSpooky18",
+      "MaievAltered20"
+    ],
+    "variationSkins": [
+      "MaievBaseVar1",
+      "MaievBaseVar2",
+      "MaievBaseVar3",
+      "MaievBaseVar4"
+    ],
+    "voiceLines": [
+      "MaievBase_VoiceLine01",
+      "MaievBase_VoiceLine02",
+      "MaievBase_VoiceLine03",
+      "MaievBase_VoiceLine04",
+      "MaievBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -20829,6 +21965,7 @@
     "speed": 4.8398,
     "rarity": "Rare",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -20876,6 +22013,30 @@
         "damage": 60.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MalfurionUltimate",
+      "MalfurionStormrageRed",
+      "MalfurionBetrayer",
+      "MalfurionFlame",
+      "MalfurionWinter"
+    ],
+    "variationSkins": [
+      "MalfurionBasePurple",
+      "MalfurionBaseWhite"
+    ],
+    "voiceLines": [
+      "MalfurionBase_VoiceLine01",
+      "MalfurionBase_VoiceLine02",
+      "MalfurionBase_VoiceLine03",
+      "MalfurionBase_VoiceLine04",
+      "MalfurionBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -21221,6 +22382,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "Ganker",
@@ -21265,6 +22427,29 @@
         "damage": 92.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MalGanisPilotHawk",
+      "MalGanisSummer20"
+    ],
+    "variationSkins": [
+      "MalGanisBaseVar1",
+      "MalGanisBaseVar2",
+      "MalGanisBaseVar3",
+      "MalGanisBaseVar4"
+    ],
+    "voiceLines": [
+      "MalGanisBase_VoiceLineOne",
+      "MalGanisBase_VoiceLineTwo",
+      "MalGanisBase_VoiceLineThree",
+      "MalGanisBase_VoiceLineFour",
+      "MalGanisBase_VoiceLineFive"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -21647,6 +22832,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "DeadUpdater",
@@ -21693,6 +22879,30 @@
         "damage": 82.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MalthaelGrave",
+      "MalthaelWinter17",
+      "MalthaelMecha19"
+    ],
+    "variationSkins": [
+      "MalthaelBaseVar1",
+      "MalthaelBaseVar2",
+      "MalthaelBaseVar3",
+      "MalthaelBaseVar4"
+    ],
+    "voiceLines": [
+      "MalthaelBase_VoiceLine01",
+      "MalthaelBase_VoiceLine05",
+      "MalthaelBase_VoiceLine04",
+      "MalthaelBase_VoiceLine03",
+      "MalthaelBase_VoiceLine02"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -22038,6 +23248,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "Helper",
@@ -22084,6 +23295,30 @@
         "damage": 83.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MedicSkinMaster",
+      "MedicSkinApoth",
+      "MedicSkinLove",
+      "MedicEnforcer"
+    ],
+    "variationSkins": [
+      "MedicBlack",
+      "MedicGold",
+      "MedicBaseVar3"
+    ],
+    "voiceLines": [
+      "MedicBase_VoiceLine01",
+      "MedicBase_VoiceLine02",
+      "MedicBase_VoiceLine03",
+      "MedicBase_VoiceLine04",
+      "MedicBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -22548,6 +23783,23 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "MedivhUltimate",
+      "MedivhKnightOwl"
+    ],
+    "variationSkins": [
+      "MedivhBaseVar1",
+      "MedivhBaseVar2",
+      "MedivhBaseVar3",
+      "MedivhBaseVar4"
+    ],
+    "voiceLines": [
+      "MedivhBase_VoiceLine01",
+      "MedivhBase_VoiceLine02",
+      "MedivhBase_VoiceLine03",
+      "MedivhBase_VoiceLine04",
+      "MedivhBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -22920,6 +24172,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -22964,6 +24217,29 @@
         "damage": 75.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MeiOWPajama",
+      "MeiOWDeathKnight19"
+    ],
+    "variationSkins": [
+      "MeiOWVar1",
+      "MeiOWVar2",
+      "MeiOWVar3",
+      "MeiOWVar4"
+    ],
+    "voiceLines": [
+      "MeiOWBase_VoiceLine01",
+      "MeiOWBase_VoiceLine02",
+      "MeiOWBase_VoiceLine03",
+      "MeiOWBase_VoiceLine04",
+      "MeiOWBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -23350,6 +24626,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "MountMephistoBase",
     "descriptors": [
       "EnergyImportant",
       "Overconfident",
@@ -23396,6 +24673,26 @@
         "damage": 66.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MephistoStarWraith",
+      "MephistoToys19"
+    ],
+    "variationSkins": [
+      "MephistoVar1",
+      "MephistoVar2",
+      "MephistoVar3",
+      "MephistoVar4"
+    ],
+    "voiceLines": [
+      "MephistoBase_VoiceLine01",
+      "MephistoBase_VoiceLine02",
+      "MephistoBase_VoiceLine03",
+      "MephistoBase_VoiceLine04",
+      "MephistoBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "MountMephistoBase"
     ],
     "abilities": {
       "basic": [
@@ -23737,6 +25034,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -23783,6 +25081,34 @@
         "damage": 64.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MonkMaster",
+      "MonkJade",
+      "MonkTiger",
+      "MonkWinter17",
+      "MonkClaws",
+      "MonkSummer18",
+      "MonkSpring19"
+    ],
+    "variationSkins": [
+      "MonkGreen",
+      "MonkWhite",
+      "MonkBaseVar3",
+      "MonkBaseVar4"
+    ],
+    "voiceLines": [
+      "MonkBase_VoiceLine01",
+      "MonkBase_VoiceLine02",
+      "MonkBase_VoiceLine03",
+      "MonkBase_VoiceLine04",
+      "MonkBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -24182,6 +25508,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -24227,6 +25554,30 @@
         "damage": 88.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MuradinUltimate",
+      "MuradinMagni",
+      "MuradinKandyKing",
+      "MuradinMarauder",
+      "MuradinWCAV"
+    ],
+    "variationSkins": [
+      "MuradinIron",
+      "MuradinRed"
+    ],
+    "voiceLines": [
+      "MuradinBase_VoiceLine01",
+      "MuradinBase_VoiceLine02",
+      "MuradinBase_VoiceLine03",
+      "MuradinBase_VoiceLine04",
+      "MuradinBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -24594,6 +25945,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "BodyBlocker",
       "Escaper",
@@ -24642,6 +25994,31 @@
         "damage": 60.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MurkyUltimate",
+      "MurkyGrunty",
+      "MurkyFunnyBunny",
+      "MurkyCrusader",
+      "MurkyEyeMask"
+    ],
+    "variationSkins": [
+      "MurkyBlue",
+      "MurkyOrange",
+      "MurkyVar3"
+    ],
+    "voiceLines": [
+      "MurkyBase_VoiceLine01",
+      "MurkyBase_VoiceLine02",
+      "MurkyBase_VoiceLine03",
+      "MurkyBase_VoiceLine04",
+      "MurkyBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -24993,6 +26370,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -25044,6 +26422,30 @@
         "damage": 95.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "NecromancerUltimate",
+      "NecromancerSnake",
+      "NecromancerScare",
+      "NecromancerClassic"
+    ],
+    "variationSkins": [
+      "NecromancerBaseVar1",
+      "NecromancerBaseVar2",
+      "NecromancerBaseVar3"
+    ],
+    "voiceLines": [
+      "NecromancerBase_VoiceLine01",
+      "NecromancerBase_VoiceLine02",
+      "NecromancerBase_VoiceLine03",
+      "NecromancerBase_VoiceLine04",
+      "NecromancerBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -25426,6 +26828,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "ChanneledAutoAttacker",
       "Escaper",
@@ -25472,6 +26875,29 @@
         "damage": 100.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "NexusHunterMadAxe19",
+      "NexusHunterToys19"
+    ],
+    "variationSkins": [
+      "NexusHunterVar1",
+      "NexusHunterVar2",
+      "NexusHunterVar3",
+      "NexusHunterVar4"
+    ],
+    "voiceLines": [
+      "NexusHunterBase_VoiceLineOne",
+      "NexusHunterBase_VoiceLineTwo",
+      "NexusHunterBase_VoiceLineThree",
+      "NexusHunterBase_VoiceLineFour",
+      "NexusHunterBase_VoiceLineFive"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -25830,6 +27256,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -25876,6 +27303,31 @@
         "damage": 105.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "NovaUltimateWhiteTeal",
+      "NovaSpectre",
+      "NovaRollerDerby",
+      "NovaZon",
+      "NovaWidow",
+      "NovaMadAxe18"
+    ],
+    "variationSkins": [
+      "NovaGreen",
+      "NovaRed"
+    ],
+    "voiceLines": [
+      "NovaBase_VoiceLine01",
+      "NovaBase_VoiceLine02",
+      "NovaBase_VoiceLine03",
+      "NovaBase_VoiceLine04",
+      "NovaBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -26283,6 +27735,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "Escaper",
       "Ganker",
@@ -26336,6 +27789,29 @@
         "damage": 88.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "OrpheaSchool18",
+      "OrpheaMobster19"
+    ],
+    "variationSkins": [
+      "OrpheaBaseVar1",
+      "OrpheaBaseVar2",
+      "OrpheaBaseVar3",
+      "OrpheaBaseVar4"
+    ],
+    "voiceLines": [
+      "OrpheaBase_VoiceLineOne",
+      "OrpheaBase_VoiceLineTwo",
+      "OrpheaBase_VoiceLineThree",
+      "OrpheaBase_VoiceLineFour",
+      "OrpheaBase_VoiceLineFive"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -26746,6 +28222,23 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "ProbiusTerran",
+      "ProbiusUltimate"
+    ],
+    "variationSkins": [
+      "ProbiusBaseVar1",
+      "ProbiusBaseVar2",
+      "ProbiusBaseVar3",
+      "ProbiusBaseVar4"
+    ],
+    "voiceLines": [
+      "ProbiusBase_VoiceLine01",
+      "ProbiusBase_VoiceLine02",
+      "ProbiusBase_VoiceLine03",
+      "ProbiusBase_VoiceLine04",
+      "ProbiusBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -27107,6 +28600,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "MountRagnarosWake",
     "descriptors": [
       "EnergyImportant",
       "Escaper",
@@ -27151,6 +28645,24 @@
         "damage": 180.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "RagnarosUltimate",
+      "RagnarosLil"
+    ],
+    "variationSkins": [
+      "RagnarosBaseVar1",
+      "RagnarosBaseVar2"
+    ],
+    "voiceLines": [
+      "RagnarosBase_VoiceLine01",
+      "RagnarosBase_VoiceLine02",
+      "RagnarosBase_VoiceLine03",
+      "RagnarosBase_VoiceLine04",
+      "RagnarosBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "MountRagnarosWake"
     ],
     "abilities": {
       "basic": [
@@ -27620,6 +29132,7 @@
     "speed": 4.8398,
     "rarity": "Rare",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "RoleAutoAttacker",
@@ -27669,6 +29182,33 @@
         "damage": 101.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "RaynorUltimate",
+      "RaynorPatriot",
+      "RaynorCommander",
+      "MarshallRaynor",
+      "RaynorMadAxe18",
+      "RaynorToys19"
+    ],
+    "variationSkins": [
+      "RaynorGold",
+      "RaynorSilver",
+      "RaynorBaseVar3",
+      "RaynorBaseVar4"
+    ],
+    "voiceLines": [
+      "RaynorBase_VoiceLine01",
+      "RaynorBase_VoiceLine02",
+      "RaynorBase_VoiceLine03",
+      "RaynorBase_VoiceLine04",
+      "RaynorBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -28095,6 +29635,26 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "RehgarUltimate",
+      "RehgarIronClaw",
+      "RehgarGFWinter",
+      "RehgarMecha",
+      "RehgarWCAV"
+    ],
+    "variationSkins": [
+      "RehgarGreen",
+      "RehgarRed",
+      "RehgarBaseVar3",
+      "RehgarBaseVar4"
+    ],
+    "voiceLines": [
+      "RehgarBase_VoiceLine01",
+      "RehgarBase_VoiceLine02",
+      "RehgarBase_VoiceLine03",
+      "RehgarBase_VoiceLine04",
+      "RehgarBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -28448,6 +30008,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "EnergyImportant",
       "MercKiller",
@@ -28503,6 +30064,28 @@
         "damage": 134.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "RexxarSkinMaster",
+      "RexxarSkinFrost",
+      "RexxarMarine"
+    ],
+    "variationSkins": [
+      "RexxarBaseWhite",
+      "RexxarBaseBrown"
+    ],
+    "voiceLines": [
+      "RexxarBase_VoiceLine01",
+      "RexxarBase_VoiceLine02",
+      "RexxarBase_VoiceLine03",
+      "RexxarBase_VoiceLine04",
+      "RexxarBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -28867,6 +30450,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "Ganker",
       "MercKiller",
@@ -28907,6 +30491,29 @@
         "damage": 102.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "SamuroUltimate",
+      "SamuroFel",
+      "SamuroMonkey"
+    ],
+    "variationSkins": [
+      "SamuroBaseVar1",
+      "SamuroBaseVar2",
+      "SamuroBaseVar3"
+    ],
+    "voiceLines": [
+      "SamuroBase_VoiceLine01",
+      "SamuroBase_VoiceLine02",
+      "SamuroBase_VoiceLine03",
+      "SamuroBase_VoiceLine04",
+      "SamuroBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -29362,6 +30969,24 @@
         "damageScale": 0.04
       }
     ],
+    "skins": [
+      "SgtHammerUltimate",
+      "SgtHammerWW2",
+      "SgtHammerDoom",
+      "SgtHammerWW2Neon",
+      "SgtHammerMobster19"
+    ],
+    "variationSkins": [
+      "SgtHammerBlue",
+      "SgtHammerWhite"
+    ],
+    "voiceLines": [
+      "SgtHammerBase_VoiceLine01",
+      "SgtHammerBase_VoiceLine02",
+      "SgtHammerBase_VoiceLine03",
+      "SgtHammerBase_VoiceLine04",
+      "SgtHammerBase_VoiceLine05"
+    ],
     "abilities": {
       "basic": [
         {
@@ -29731,6 +31356,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -29775,6 +31401,31 @@
         "damage": 70.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "StitchesUltimate",
+      "StitchesPsycho",
+      "StitchesChef",
+      "StitchesBeachParty",
+      "StitchesWinter",
+      "StitchesToys18"
+    ],
+    "variationSkins": [
+      "StitchesFlesh",
+      "StitchesDecay"
+    ],
+    "voiceLines": [
+      "StitchesBase_VoiceLine01",
+      "StitchesBase_VoiceLine02",
+      "StitchesBase_VoiceLine03",
+      "StitchesBase_VoiceLine04",
+      "StitchesBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -30160,6 +31811,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -30207,6 +31859,29 @@
         "damage": 261.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "StukovPirate",
+      "StukovArmy18"
+    ],
+    "variationSkins": [
+      "StukovBaseVar1",
+      "StukovBaseVar2",
+      "StukovBaseVar3",
+      "StukovBaseVar4"
+    ],
+    "voiceLines": [
+      "StukovBase_VoiceLine01",
+      "StukovBase_VoiceLine02",
+      "StukovBase_VoiceLine03",
+      "StukovBase_VoiceLine04",
+      "StukovBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -30597,6 +32272,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Escaper",
@@ -30643,6 +32319,31 @@
         "damage": 81.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "SylvanasUltimate",
+      "SylvanasRangerGeneral",
+      "SylvanasFairy",
+      "SylvanasLegion",
+      "SylvanasBloodRaven",
+      "SylvanasLunar"
+    ],
+    "variationSkins": [
+      "SylvanasBlue",
+      "SylvanasRed"
+    ],
+    "voiceLines": [
+      "SylvanasBase_VoiceLine01",
+      "SylvanasBase_VoiceLine02",
+      "SylvanasBase_VoiceLine03",
+      "SylvanasBase_VoiceLine04",
+      "SylvanasBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -31036,6 +32737,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "ChanneledAutoAttacker",
       "EnergyImportant",
@@ -31081,6 +32783,30 @@
         "damage": 14.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "TassadarUltimate",
+      "TassadarMecha",
+      "TassadarPharaoh",
+      "TassadarDark20"
+    ],
+    "variationSkins": [
+      "TassadarArgent",
+      "TassadarPurple",
+      "TassadarBaseVar3"
+    ],
+    "voiceLines": [
+      "TassadarBase_VoiceLine01",
+      "TassadarBase_VoiceLine02",
+      "TassadarBase_VoiceLine03",
+      "TassadarBase_VoiceLine04",
+      "TassadarBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -31453,6 +33179,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "EnergyImportant",
       "Escaper",
@@ -31497,6 +33224,28 @@
         "damage": 173.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ThrallUltimate",
+      "ThrallHellhammer",
+      "ThrallEarthbreaker"
+    ],
+    "variationSkins": [
+      "ThrallSilver",
+      "ThrallRed"
+    ],
+    "voiceLines": [
+      "ThrallBase_VoiceLine01",
+      "ThrallBase_VoiceLine02",
+      "ThrallBase_VoiceLine03",
+      "ThrallBase_VoiceLine04",
+      "ThrallBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -31897,6 +33646,7 @@
     "speed": 4.8398,
     "rarity": "Rare",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "MercKiller",
@@ -31945,6 +33695,31 @@
         "damage": 100.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "GazloweUltimate",
+      "GazloweBigTop",
+      "GazloweScifi",
+      "GazloweBag",
+      "GazloweCraft20"
+    ],
+    "variationSkins": [
+      "TinkerAzure",
+      "TinkerCamo",
+      "TinkerBaseVar3"
+    ],
+    "voiceLines": [
+      "TinkerBase_VoiceLine01",
+      "TinkerBase_VoiceLine02",
+      "TinkerBase_VoiceLine03",
+      "TinkerBase_VoiceLine04",
+      "TinkerBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -32350,6 +34125,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "Escaper",
       "Ganker",
@@ -32392,6 +34168,31 @@
         "damage": 23.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "TracerUltimate",
+      "TracerSpectre",
+      "TracerGhost",
+      "TracerWaterGun",
+      "TracerMyth20"
+    ],
+    "variationSkins": [
+      "TracerVar1",
+      "TracerVar2",
+      "TracerVar3"
+    ],
+    "voiceLines": [
+      "TracerBase_VoiceLine01",
+      "TracerBase_VoiceLine02",
+      "TracerBase_VoiceLine03",
+      "TracerBase_VoiceLine04",
+      "TracerBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -32835,6 +34636,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "BattleBeast",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -32881,6 +34683,29 @@
         "damage": 50.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "TychusUltimateBase",
+      "TychusInfestedBase",
+      "TychusPrisonerBase",
+      "TychusWatergunBase"
+    ],
+    "variationSkins": [
+      "TychusBronze",
+      "TychusSilver"
+    ],
+    "voiceLines": [
+      "TychusBase_VoiceLine01",
+      "TychusBase_VoiceLine02",
+      "TychusBase_VoiceLine03",
+      "TychusBase_VoiceLine04",
+      "TychusBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -33325,6 +35150,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "EnergyImportant",
@@ -33371,6 +35197,29 @@
         "damage": 78.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "TyraelUltimate",
+      "TyraelSeraphim",
+      "TyraelDemonic",
+      "TyraelMecha"
+    ],
+    "variationSkins": [
+      "TyraelBlue",
+      "TyraelWhite"
+    ],
+    "voiceLines": [
+      "TyraelBase_VoiceLine01",
+      "TyraelBase_VoiceLine02",
+      "TyraelBase_VoiceLine03",
+      "TyraelBase_VoiceLine04",
+      "TyraelBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -33732,6 +35581,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -33778,6 +35628,30 @@
         "damage": 55.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "TyrandeUltimate",
+      "TyrandeWarden",
+      "TyrandeBloodElfBase",
+      "TyrandeSuper",
+      "TyrandeLove"
+    ],
+    "variationSkins": [
+      "TyrandeShadow",
+      "TyrandeBlack"
+    ],
+    "voiceLines": [
+      "TyrandeBase_VoiceLine01",
+      "TyrandeBase_VoiceLine02",
+      "TyrandeBase_VoiceLine03",
+      "TyrandeBase_VoiceLine04",
+      "TyrandeBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -34154,6 +36028,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -34199,6 +36074,30 @@
         "damage": 75.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "UtherUltimate",
+      "UtherLumberjack",
+      "UtherMedic",
+      "UtherJudgement",
+      "UtherSulfuron"
+    ],
+    "variationSkins": [
+      "UtherSilverHand",
+      "UtherBlackHand"
+    ],
+    "voiceLines": [
+      "UtherBase_VoiceLine01",
+      "UtherBase_VoiceLine02",
+      "UtherBase_VoiceLine03",
+      "UtherBase_VoiceLine04",
+      "UtherBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -34565,6 +36464,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "Ganker",
       "Helper",
@@ -34609,6 +36509,32 @@
         "damage": 79.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ValeeraUltimate",
+      "ValeeraVampire",
+      "ValeeraHunter",
+      "ValeeraWCAV",
+      "ValeeraToys18"
+    ],
+    "variationSkins": [
+      "ValeeraBaseVar1",
+      "ValeeraBaseVar2",
+      "ValeeraBaseVar3",
+      "ValeeraBaseVar4"
+    ],
+    "voiceLines": [
+      "ValeeraBase_VoiceLine01",
+      "ValeeraBase_VoiceLine02",
+      "ValeeraBase_VoiceLine03",
+      "ValeeraBase_VoiceLine04",
+      "ValeeraBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -34994,6 +36920,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -35038,6 +36965,33 @@
         "damage": 74.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "VarianUltimate",
+      "VarianLogosh",
+      "VarianCommandant",
+      "VarianWCAVGrand",
+      "VarianWCAVFoot",
+      "VarianToys19"
+    ],
+    "variationSkins": [
+      "VarianBaseVar1",
+      "VarianBaseVar2",
+      "VarianBaseVar3",
+      "VarianBaseVar4"
+    ],
+    "voiceLines": [
+      "VarianBase_VoiceLine01",
+      "VarianBase_VoiceLine02",
+      "VarianBase_VoiceLine03",
+      "VarianBase_VoiceLine04",
+      "VarianBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -35420,6 +37374,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "AllyHealer",
       "EnergyImportant",
@@ -35463,6 +37418,30 @@
         "damage": 62.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "WhitemaneCelestial",
+      "WhitemaneSpooky18",
+      "WhitemaneMobster19"
+    ],
+    "variationSkins": [
+      "WhitemaneBaseVar1",
+      "WhitemaneBaseVar2",
+      "WhitemaneBaseVar3",
+      "WhitemaneBaseVar4"
+    ],
+    "voiceLines": [
+      "WhitemaneBase_VoiceLine01",
+      "WhitemaneBase_VoiceLine02",
+      "WhitemaneBase_VoiceLine03",
+      "WhitemaneBase_VoiceLine04",
+      "WhitemaneBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -35836,6 +37815,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "RoleSpecialist",
@@ -35886,6 +37866,34 @@
         "damage": 88.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "MasterNazeebo",
+      "WitchDoctorGrimskull",
+      "WitchDoctorHarlequin",
+      "WitchDoctorWinter",
+      "WitchDoctorMadAxe18"
+    ],
+    "variationSkins": [
+      "WitchDoctorBlood",
+      "WitchDoctorToxic",
+      "WitchDoctorVar3",
+      "WitchDoctorVar4",
+      "WitchDoctorVar5",
+      "WitchDoctorVar6"
+    ],
+    "voiceLines": [
+      "WitchDoctorBase_VoiceLine01",
+      "WitchDoctorBase_VoiceLine02",
+      "WitchDoctorBase_VoiceLine03",
+      "WitchDoctorBase_VoiceLine04",
+      "WitchDoctorBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -36289,6 +38297,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -36332,6 +38341,33 @@
         "damage": 63.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "WizardSkinUltimate",
+      "WizardSkinStarPrincess",
+      "WizardSkinStarQueen",
+      "WizardSkinVolley",
+      "WizardSkinLunar",
+      "WizardSkinMask",
+      "WizardSkinTemplar"
+    ],
+    "variationSkins": [
+      "WizardVar1",
+      "WizardVar2",
+      "WizardVar3"
+    ],
+    "voiceLines": [
+      "WizardBase_VoiceLine01",
+      "WizardBase_VoiceLine02",
+      "WizardBase_VoiceLine03",
+      "WizardBase_VoiceLine04",
+      "WizardBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -36716,6 +38752,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "BodyBlocker",
       "Escaper",
@@ -36765,6 +38802,29 @@
         "damage": 155.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "YrelJester",
+      "YrelMecha19"
+    ],
+    "variationSkins": [
+      "YrelBaseVar1",
+      "YrelBaseVar2",
+      "YrelBaseVar3",
+      "YrelBaseVar4"
+    ],
+    "voiceLines": [
+      "YrelBase_VoiceLine01",
+      "YrelBase_VoiceLine02",
+      "YrelBase_VoiceLine03",
+      "YrelBase_VoiceLine04",
+      "YrelBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -37165,6 +39225,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "ZagaraWings",
     "descriptors": [
       "EnergyImportant",
       "RoleSpecialist",
@@ -37217,6 +39278,28 @@
         "damage": 85.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ZagaraUltimate",
+      "ZagaraInsectoid",
+      "ZagaraLuxoriaQueen",
+      "ZagaraCryptQueen"
+    ],
+    "variationSkins": [
+      "ZagaraChar",
+      "ZagaraToxic",
+      "ZagaraBaseVar3"
+    ],
+    "voiceLines": [
+      "ZagaraBase_VoiceLine01",
+      "ZagaraBase_VoiceLine02",
+      "ZagaraBase_VoiceLine03",
+      "ZagaraBase_VoiceLine04",
+      "ZagaraBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "ZagaraWings",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -37597,6 +39680,7 @@
     "speed": 4.8398,
     "rarity": "Epic",
     "scalingLinkId": "HeroDummyVeterancy",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "ChanneledAutoAttacker",
       "Helper",
@@ -37640,6 +39724,30 @@
         "damage": 20.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ZaryaUltimate",
+      "ZaryaThunder",
+      "ZaryaHanamura",
+      "ZaryaSpooky18"
+    ],
+    "variationSkins": [
+      "ZaryaBaseVar1",
+      "ZaryaBaseVar2",
+      "ZaryaBaseVar3"
+    ],
+    "voiceLines": [
+      "ZaryaBase_VoiceLine01",
+      "ZaryaBase_VoiceLine02",
+      "ZaryaBase_VoiceLine03",
+      "ZaryaBase_VoiceLine04",
+      "ZaryaBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -38046,6 +40154,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Escaper",
@@ -38104,6 +40213,31 @@
         "damage": 126.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ZeratulUltimate",
+      "ZeratulHighTemplar",
+      "ZeratulRonin",
+      "ZeratulZergHunter",
+      "ZeratulGem",
+      "ZeratulMummy"
+    ],
+    "variationSkins": [
+      "ZeratulArgent",
+      "ZeratulGreen"
+    ],
+    "voiceLines": [
+      "ZeratulBase_VoiceLine01",
+      "ZeratulBase_VoiceLine02",
+      "ZeratulBase_VoiceLine03",
+      "ZeratulBase_VoiceLine04",
+      "ZeratulBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
@@ -38502,6 +40636,7 @@
     "speed": 4.8398,
     "rarity": "Legendary",
     "scalingLinkId": "ExcellentMana",
+    "defaultMountId": "HorseCommon",
     "descriptors": [
       "EnergyImportant",
       "Ganker",
@@ -38545,6 +40680,30 @@
         "damage": 94.0,
         "damageScale": 0.04
       }
+    ],
+    "skins": [
+      "ZuljinUltimate",
+      "ZuljinFire",
+      "ZuljinLunar"
+    ],
+    "variationSkins": [
+      "ZuljinBaseVar1",
+      "ZuljinBaseVar2",
+      "ZuljinBaseVar3",
+      "ZuljinBaseVar4"
+    ],
+    "voiceLines": [
+      "ZuljinBase_VoiceLine01",
+      "ZuljinBase_VoiceLine02",
+      "ZuljinBase_VoiceLine03",
+      "ZuljinBase_VoiceLine04",
+      "ZuljinBase_VoiceLine05"
+    ],
+    "mountCategories": [
+      "Ride",
+      "Ridebeast",
+      "Ridebike",
+      "Ridesurf"
     ],
     "abilities": {
       "basic": [
