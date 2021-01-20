@@ -1,0 +1,782 @@
+{
+  "AnnouncerPack": {
+    "hyperlinkId": "AnnouncerPack",
+    "iconSlot": 20,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_announcerpack.png"
+  },
+  "Banner": {
+    "hyperlinkId": "Banner",
+    "iconSlot": 20,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_banner.png"
+  },
+  "BasicPortrait": {
+    "hyperlinkId": "BasicPortrait",
+    "iconSlot": 10,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_basicportrait.png"
+  },
+  "Boost": {
+    "hyperlinkId": "Boost",
+    "iconSlot": 12,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_boost.png"
+  },
+  "Bundle": {
+    "hyperlinkId": "Bundle",
+    "iconSlot": 20,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_bundle.png"
+  },
+  "EmoticonPack": {
+    "hyperlinkId": "EmoticonPack",
+    "iconSlot": 20,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_emoticonpack.png"
+  },
+  "FreeRotationSlot": {
+    "hyperlinkId": "FreeRotationSlot",
+    "iconSlot": 2,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_freerotationslot.png"
+  },
+  "Gem": {
+    "hyperlinkId": "Gem",
+    "iconSlot": 25,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_gem.png"
+  },
+  "GemPack": {
+    "hyperlinkId": "GemPack",
+    "iconSlot": 25,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_gempack.png"
+  },
+  "GiftBoxBlueRibbon": {
+    "hyperlinkId": "GiftBoxBlueRibbon",
+    "iconSlot": 20,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_giftboxblueribbon.png"
+  },
+  "GiftBoxGoldRibbon": {
+    "hyperlinkId": "GiftBoxGoldRibbon",
+    "iconSlot": 21,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_giftboxgoldribbon.png"
+  },
+  "GiftBoxGoldRibbon2": {
+    "hyperlinkId": "GiftBoxGoldRibbon2",
+    "iconSlot": 23,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_giftboxgoldribbon2.png"
+  },
+  "GiftBoxRedRibbon": {
+    "hyperlinkId": "GiftBoxRedRibbon",
+    "iconSlot": 22,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_giftboxredribbon.png"
+  },
+  "Gold": {
+    "hyperlinkId": "Gold",
+    "iconSlot": 1,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_gold.png"
+  },
+  "HalloweenLootChestCommon": {
+    "hyperlinkId": "HalloweenLootChestCommon",
+    "iconSlot": 39,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_halloweenlootchestcommon.png"
+  },
+  "HalloweenLootChestEpic": {
+    "hyperlinkId": "HalloweenLootChestEpic",
+    "iconSlot": 41,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_halloweenlootchestepic.png"
+  },
+  "HalloweenLootChestRare": {
+    "hyperlinkId": "HalloweenLootChestRare",
+    "iconSlot": 40,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_halloweenlootchestrare.png"
+  },
+  "Hero": {
+    "hyperlinkId": "Hero",
+    "iconSlot": 19,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_hero.png"
+  },
+  "LootChest": {
+    "hyperlinkId": "LootChest",
+    "iconSlot": 26,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchest.png"
+  },
+  "LootChestChristmas2018Common": {
+    "hyperlinkId": "LootChestChristmas2018Common",
+    "iconSlot": 48,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2018common.png"
+  },
+  "LootChestChristmas2018Epic": {
+    "hyperlinkId": "LootChestChristmas2018Epic",
+    "iconSlot": 50,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2018epic.png"
+  },
+  "LootChestChristmas2018Rare": {
+    "hyperlinkId": "LootChestChristmas2018Rare",
+    "iconSlot": 49,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2018rare.png"
+  },
+  "LootChestChristmas2019Common": {
+    "hyperlinkId": "LootChestChristmas2019Common",
+    "iconSlot": 48,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2019common.png"
+  },
+  "LootChestChristmas2019Epic": {
+    "hyperlinkId": "LootChestChristmas2019Epic",
+    "iconSlot": 50,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2019epic.png"
+  },
+  "LootChestChristmas2019Rare": {
+    "hyperlinkId": "LootChestChristmas2019Rare",
+    "iconSlot": 49,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2019rare.png"
+  },
+  "LootChestChristmas2020Common": {
+    "hyperlinkId": "LootChestChristmas2020Common",
+    "iconSlot": 42,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2020common.png"
+  },
+  "LootChestChristmas2020Epic": {
+    "hyperlinkId": "LootChestChristmas2020Epic",
+    "iconSlot": 44,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2020epic.png"
+  },
+  "LootChestChristmas2020Rare": {
+    "hyperlinkId": "LootChestChristmas2020Rare",
+    "iconSlot": 43,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestchristmas2020rare.png"
+  },
+  "LootChestCommon": {
+    "hyperlinkId": "LootChestCommon",
+    "iconSlot": 26,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestcommon.png"
+  },
+  "LootChestEpic": {
+    "hyperlinkId": "LootChestEpic",
+    "iconSlot": 28,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestepic.png"
+  },
+  "LootChestHalloween2018": {
+    "hyperlinkId": "LootChestHalloween2018",
+    "iconSlot": 39,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchesthalloween2018.png"
+  },
+  "LootChestHalloween2018Epic": {
+    "hyperlinkId": "LootChestHalloween2018Epic",
+    "iconSlot": 41,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchesthalloween2018epic.png"
+  },
+  "LootChestHalloween2018Rare": {
+    "hyperlinkId": "LootChestHalloween2018Rare",
+    "iconSlot": 40,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchesthalloween2018rare.png"
+  },
+  "LootChestHalloween2020Common": {
+    "hyperlinkId": "LootChestHalloween2020Common",
+    "iconSlot": 39,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchesthalloween2020common.png"
+  },
+  "LootChestHalloween2020Epic": {
+    "hyperlinkId": "LootChestHalloween2020Epic",
+    "iconSlot": 41,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchesthalloween2020epic.png"
+  },
+  "LootChestHalloween2020Rare": {
+    "hyperlinkId": "LootChestHalloween2020Rare",
+    "iconSlot": 40,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchesthalloween2020rare.png"
+  },
+  "LootChestHero": {
+    "hyperlinkId": "LootChestHero",
+    "iconSlot": 29,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchesthero.png"
+  },
+  "LootChestRare": {
+    "hyperlinkId": "LootChestRare",
+    "iconSlot": 27,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestrare.png"
+  },
+  "LootChestSpring2019Common": {
+    "hyperlinkId": "LootChestSpring2019Common",
+    "iconSlot": 51,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestspring2019common.png"
+  },
+  "LootChestSpring2019Epic": {
+    "hyperlinkId": "LootChestSpring2019Epic",
+    "iconSlot": 53,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestspring2019epic.png"
+  },
+  "LootChestSpring2019Rare": {
+    "hyperlinkId": "LootChestSpring2019Rare",
+    "iconSlot": 52,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestspring2019rare.png"
+  },
+  "LootChestSpring2020Common": {
+    "hyperlinkId": "LootChestSpring2020Common",
+    "iconSlot": 51,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestspring2020common.png"
+  },
+  "LootChestSpring2020Epic": {
+    "hyperlinkId": "LootChestSpring2020Epic",
+    "iconSlot": 53,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestspring2020epic.png"
+  },
+  "LootChestSpring2020Rare": {
+    "hyperlinkId": "LootChestSpring2020Rare",
+    "iconSlot": 52,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestspring2020rare.png"
+  },
+  "LootChestSummer2018Common": {
+    "hyperlinkId": "LootChestSummer2018Common",
+    "iconSlot": 35,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2018common.png"
+  },
+  "LootChestSummer2018Epic": {
+    "hyperlinkId": "LootChestSummer2018Epic",
+    "iconSlot": 37,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2018epic.png"
+  },
+  "LootChestSummer2018Rare": {
+    "hyperlinkId": "LootChestSummer2018Rare",
+    "iconSlot": 36,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2018rare.png"
+  },
+  "LootChestSummer2019Common": {
+    "hyperlinkId": "LootChestSummer2019Common",
+    "iconSlot": 54,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2019common.png"
+  },
+  "LootChestSummer2019Epic": {
+    "hyperlinkId": "LootChestSummer2019Epic",
+    "iconSlot": 56,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2019epic.png"
+  },
+  "LootChestSummer2019Rare": {
+    "hyperlinkId": "LootChestSummer2019Rare",
+    "iconSlot": 55,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2019rare.png"
+  },
+  "LootChestSummer2020Common": {
+    "hyperlinkId": "LootChestSummer2020Common",
+    "iconSlot": 35,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2020common.png"
+  },
+  "LootChestSummer2020Epic": {
+    "hyperlinkId": "LootChestSummer2020Epic",
+    "iconSlot": 37,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2020epic.png"
+  },
+  "LootChestSummer2020Rare": {
+    "hyperlinkId": "LootChestSummer2020Rare",
+    "iconSlot": 36,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lootchestsummer2020rare.png"
+  },
+  "Lunar18LootChestCommon": {
+    "hyperlinkId": "Lunar18LootChestCommon",
+    "iconSlot": 45,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lunar18lootchestcommon.png"
+  },
+  "Lunar18LootChestEpic": {
+    "hyperlinkId": "Lunar18LootChestEpic",
+    "iconSlot": 47,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lunar18lootchestepic.png"
+  },
+  "Lunar18LootChestRare": {
+    "hyperlinkId": "Lunar18LootChestRare",
+    "iconSlot": 46,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_lunar18lootchestrare.png"
+  },
+  "MasterPortrait": {
+    "hyperlinkId": "MasterPortrait",
+    "iconSlot": 11,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_masterportrait.png"
+  },
+  "MasteryTaunt1": {
+    "hyperlinkId": "MasteryTaunt1",
+    "iconSlot": 30,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_masterytaunt1.png"
+  },
+  "MasteryTaunt2": {
+    "hyperlinkId": "MasteryTaunt2",
+    "iconSlot": 31,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_masterytaunt2.png"
+  },
+  "MasteryTaunt3": {
+    "hyperlinkId": "MasteryTaunt3",
+    "iconSlot": 32,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_masterytaunt3.png"
+  },
+  "MasteryTaunt4": {
+    "hyperlinkId": "MasteryTaunt4",
+    "iconSlot": 33,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_masterytaunt4.png"
+  },
+  "MasteryTaunt5": {
+    "hyperlinkId": "MasteryTaunt5",
+    "iconSlot": 34,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_masterytaunt5.png"
+  },
+  "Mobster2019EpicLootChest": {
+    "hyperlinkId": "Mobster2019EpicLootChest",
+    "iconSlot": 41,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_mobster2019epiclootchest.png"
+  },
+  "Mobster2019LootChest": {
+    "hyperlinkId": "Mobster2019LootChest",
+    "iconSlot": 39,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_mobster2019lootchest.png"
+  },
+  "Mobster2019RareLootChest": {
+    "hyperlinkId": "Mobster2019RareLootChest",
+    "iconSlot": 40,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_mobster2019rarelootchest.png"
+  },
+  "Mount": {
+    "hyperlinkId": "Mount",
+    "iconSlot": 18,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_mount.png"
+  },
+  "PortraitPack": {
+    "hyperlinkId": "PortraitPack",
+    "iconSlot": 10,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_portraitpack.png"
+  },
+  "Skin": {
+    "hyperlinkId": "Skin",
+    "iconSlot": 3,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_skin.png"
+  },
+  "Spray": {
+    "hyperlinkId": "Spray",
+    "iconSlot": 20,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_spray.png"
+  },
+  "Stimpack": {
+    "hyperlinkId": "Stimpack",
+    "iconSlot": 12,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_stimpack.png"
+  },
+  "SummerLootChestCommon": {
+    "hyperlinkId": "SummerLootChestCommon",
+    "iconSlot": 35,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_summerlootchestcommon.png"
+  },
+  "SummerLootChestEpic": {
+    "hyperlinkId": "SummerLootChestEpic",
+    "iconSlot": 37,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_summerlootchestepic.png"
+  },
+  "SummerLootChestLegendary": {
+    "hyperlinkId": "SummerLootChestLegendary",
+    "iconSlot": 38,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_summerlootchestlegendary.png"
+  },
+  "SummerLootChestRare": {
+    "hyperlinkId": "SummerLootChestRare",
+    "iconSlot": 36,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_summerlootchestrare.png"
+  },
+  "VoiceLine": {
+    "hyperlinkId": "VoiceLine",
+    "iconSlot": 20,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_voiceline.png"
+  },
+  "WinterVeilLootChestCommon": {
+    "hyperlinkId": "WinterVeilLootChestCommon",
+    "iconSlot": 42,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_winterveillootchestcommon.png"
+  },
+  "WinterVeilLootChestEpic": {
+    "hyperlinkId": "WinterVeilLootChestEpic",
+    "iconSlot": 44,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_winterveillootchestepic.png"
+  },
+  "WinterVeilLootChestRare": {
+    "hyperlinkId": "WinterVeilLootChestRare",
+    "iconSlot": 43,
+    "textureSheet": {
+      "image": "storm_ui_heroes_rewardicons_sheet.png",
+      "columns": 5,
+      "rows": 12
+    },
+    "image": "storm_typedescription_winterveillootchestrare.png"
+  }
+}
