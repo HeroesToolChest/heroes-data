@@ -1674,7 +1674,7 @@
         "AnduinFlashHealRenew|AnduinFlashHealRenew|Q|False": "적 영웅에게 일반 공격을 하면 다음 순간 치유가 <c val=\"bfd4fd\">5</c>초에 걸쳐 <c val=\"bfd4fd\">130~~0.04~~</c>의 생명력을 추가로 회복시킵니다.",
         "AnduinFlashHeal|AnduinFlashHeal|Q|False": "<c val=\"bfd4fd\">0.75</c>초 동안 주문을 시전해 대상 아군 영웅의 생명력을 <c val=\"bfd4fd\">270~~0.04~~</c> 회복시킵니다.",
         "AnduinHolyWordSalvationCancel|AnduinHolyWordSalvationCancel|Heroic|False": "빛의 권능: 구원을 취소합니다.",
-        "AnduinHolyWordSalvationLightOfStormwind|AnduinHolyWordSalvationLightOfStormwind|Heroic|False": "빛의 권능: 구원이 아군 영웅을 보호 상태가 아닌 무적 상태로 만듭니다. 단, 자신에게는 적용되지 않습니다.<n/><n/>빛의 권능: 구원이 끝까지 지속되면 재사용 대기시간이 <c val=\"bfd4fd\">-61</c>초 감소합니다.",
+        "AnduinHolyWordSalvationLightOfStormwind|AnduinHolyWordSalvationLightOfStormwind|Heroic|False": "빛의 권능: 구원이 아군 영웅을 보호 상태가 아닌 무적 상태로 만듭니다. 단, 자신에게는 적용되지 않습니다.<n/><n/>빛의 권능: 구원이 끝까지 지속되면 재사용 대기시간이 <c val=\"bfd4fd\">60</c>초 감소합니다.",
         "AnduinHolyWordSalvation|AnduinHolyWordSalvation|Heroic|False": "<c val=\"bfd4fd\">0.5</c>초 후, 정신을 집중하여 <c val=\"bfd4fd\">3</c>초 동안 빛의 은총을 받습니다. 정신을 집중하는 동안 주위에 있는 아군 영웅들은 최대 생명력의 <c val=\"bfd4fd\">30%</c>까지 회복하고 보호 상태가 됩니다.",
         "AnduinInnerFire|AnduinInnerFire|Passive|False": "공격 속도가 <c val=\"bfd4fd\">20%</c> 증가하고 일반 공격 사거리가 <c val=\"bfd4fd\">15%</c> 증가합니다.",
         "AnduinLeapOfFaithEnchantBootsLionsSpeed|AnduinLeapOfFaithEnchantBootsLionsSpeed|Trait|False": "이동 속도가 <c val=\"bfd4fd\">5%</c> 증가합니다. 신의의 도약이 재사용 대기 중이지 않은 동안에는 증가량이 네 배가 됩니다. 신의의 도약에 끌어당겨진 아군은 <c val=\"bfd4fd\">4</c>초에 걸쳐 <c val=\"bfd4fd\">280~~0.04~~</c>의 생명력을 회복합니다.",
