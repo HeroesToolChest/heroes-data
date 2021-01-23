@@ -1674,7 +1674,7 @@
         "AnduinFlashHealRenew|AnduinFlashHealRenew|Q|False": "对英雄进行普通攻击可强化下一次快速治疗，在<c val=\"bfd4fd\">5</c> 秒内额外恢复<c val=\"bfd4fd\">130~~0.04~~</c>点生命值。",
         "AnduinFlashHeal|AnduinFlashHeal|Q|False": "施法<c val=\"bfd4fd\">0.75</c>秒后，治疗一名友方英雄<c val=\"bfd4fd\">270~~0.04~~</c>点生命值。",
         "AnduinHolyWordSalvationCancel|AnduinHolyWordSalvationCancel|Heroic|False": "取消圣言术：赎。",
-        "AnduinHolyWordSalvationLightOfStormwind|AnduinHolyWordSalvationLightOfStormwind|Heroic|False": "圣言术：赎给予友方英雄无敌而非保护效果。该效果不影响安度因。<n/><n/>完整引导圣言术：赎将使其冷却时间缩短<c val=\"bfd4fd\">-61</c>秒。",
+        "AnduinHolyWordSalvationLightOfStormwind|AnduinHolyWordSalvationLightOfStormwind|Heroic|False": "圣言术：赎给予友方英雄无敌而非保护效果。该效果不影响安度因。<n/><n/>完整引导圣言术：赎将使其冷却时间缩短<c val=\"bfd4fd\">60</c>秒。",
         "AnduinHolyWordSalvation|AnduinHolyWordSalvation|Heroic|False": "在<c val=\"bfd4fd\">0.5</c>秒后，引导施法以祈求圣光，持续<c val=\"bfd4fd\">3</c>秒。施法期间，安度因周围的友方英雄最多可获得相当于自身最大生命值<c val=\"bfd4fd\">30%</c>的治疗，并获得受保护状态。",
         "AnduinInnerFire|AnduinInnerFire|Passive|False": "攻击速度提高<c val=\"bfd4fd\">20%</c>，普通攻击射程提高<c val=\"bfd4fd\">15%</c>。",
         "AnduinLeapOfFaithEnchantBootsLionsSpeed|AnduinLeapOfFaithEnchantBootsLionsSpeed|Trait|False": "提高<c val=\"bfd4fd\">5%</c>移动速度。在信仰飞跃可用时，获得四倍效果。被信仰飞跃拖拽的盟友在<c val=\"bfd4fd\">4</c>秒内恢复<c val=\"bfd4fd\">280~~0.04~~</c>点生命值。",

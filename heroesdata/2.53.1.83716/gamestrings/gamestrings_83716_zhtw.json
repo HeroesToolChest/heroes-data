@@ -1674,7 +1674,7 @@
         "AnduinFlashHealRenew|AnduinFlashHealRenew|Q|False": "對英雄施展基本攻擊可強化下一次快速治療，使其同時會在<c val=\"bfd4fd\">5</c>秒內恢復<c val=\"bfd4fd\">130~~0.04~~</c>點生命值。",
         "AnduinFlashHeal|AnduinFlashHeal|Q|False": "施放<c val=\"bfd4fd\">0.75</c>秒後，為一名友方英雄治療<c val=\"bfd4fd\">270~~0.04~~</c>點生命值。",
         "AnduinHolyWordSalvationCancel|AnduinHolyWordSalvationCancel|Heroic|False": "取消聖言術：贖。",
-        "AnduinHolyWordSalvationLightOfStormwind|AnduinHolyWordSalvationLightOfStormwind|Heroic|False": "聖言術：贖可使友方英雄免疫傷害，而不是受到保護。安杜因不受此效果影響。<n/><n/>完整引導聖言術：贖可使其冷卻時間降低<c val=\"bfd4fd\">-61</c>秒。",
+        "AnduinHolyWordSalvationLightOfStormwind|AnduinHolyWordSalvationLightOfStormwind|Heroic|False": "聖言術：贖可使友方英雄免疫傷害，而不是受到保護。安杜因不受此效果影響。<n/><n/>完整引導聖言術：贖可使其冷卻時間降低<c val=\"bfd4fd\">60</c>秒。",
         "AnduinHolyWordSalvation|AnduinHolyWordSalvation|Heroic|False": "延遲<c val=\"bfd4fd\">0.5</c>秒後，引導技能祈求聖光，持續<c val=\"bfd4fd\">3</c>秒。附近的友方英雄最多可恢復其最大生命值的<c val=\"bfd4fd\">30%</c>，並且會獲得保護狀態。",
         "AnduinInnerFire|AnduinInnerFire|Passive|False": "攻擊速度提高<c val=\"bfd4fd\">20%</c>，基本攻擊距離提高<c val=\"bfd4fd\">15%</c>。",
         "AnduinLeapOfFaithEnchantBootsLionsSpeed|AnduinLeapOfFaithEnchantBootsLionsSpeed|Trait|False": "獲得<c val=\"bfd4fd\">5%</c>移動速度。此加成在虔信之躍冷卻完畢期間會變成四倍。被虔信之躍拉回的盟友可在<c val=\"bfd4fd\">4</c>秒內恢復<c val=\"bfd4fd\">280~~0.04~~</c>點生命值。",
