@@ -815,11 +815,61 @@
     "heroId": "Amazon",
     "image": "storm_emoji_cassia_sheet_9.png"
   },
-  "cat_blink_anim": {},
-  "cat_dealwithit_anim": {},
-  "cat_gleam_anim": {},
-  "cat_grumpy_anim": {},
-  "cat_puke_anim": {},
+  "cat_blink_anim": {
+    "image": "storm_emoji_cat_blink_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_blink_anim_sheet.png",
+      "frames": 29,
+      "duration": 50,
+      "width": 38,
+      "columns": 4,
+      "rows": 8
+    }
+  },
+  "cat_dealwithit_anim": {
+    "image": "storm_emoji_cat_dealwithit_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_dealwithit_anim_sheet.png",
+      "frames": 23,
+      "duration": 100,
+      "width": 38,
+      "columns": 4,
+      "rows": 6
+    }
+  },
+  "cat_gleam_anim": {
+    "image": "storm_emoji_cat_gleam_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_gleam_anim_sheet.png",
+      "frames": 25,
+      "duration": 50,
+      "width": 34,
+      "columns": 4,
+      "rows": 7
+    }
+  },
+  "cat_grumpy_anim": {
+    "image": "storm_emoji_cat_grumpy_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_grumpy_anim_sheet.png",
+      "frames": 16,
+      "duration": 300,
+      "width": 38,
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "cat_puke_anim": {
+    "image": "storm_emoji_cat_puke_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_puke_anim_sheet.png",
+      "frames": 12,
+      "duration": 50,
+      "width": 38,
+      "columns": 4,
+      "rows": 3
+    }
+  },
   "celebrations_fireworks": {
     "image": "storm_emoji_celebrations_1_sheet_0.png"
   },
@@ -875,9 +925,39 @@
     "heroId": "Chen",
     "image": "storm_emoji_chen_sheet_9.png"
   },
-  "chomp_growl_anim": {},
-  "chomp_minion_anim": {},
-  "chomp_paku_anim": {},
+  "chomp_growl_anim": {
+    "image": "storm_emoji_chomp_growl_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_growl_anim_sheet.png",
+      "frames": 2,
+      "duration": 100,
+      "width": 35,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "chomp_minion_anim": {
+    "image": "storm_emoji_chomp_minion_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_minion_anim_sheet.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 39,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "chomp_paku_anim": {
+    "image": "storm_emoji_chomp_paku_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_paku_anim_sheet.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
   "chomp_pet_anim": {
     "image": "storm_emoji_chomp_pet_anim_sheet_0.gif",
     "animation": {
@@ -889,7 +969,17 @@
       "rows": 1
     }
   },
-  "chomp_wave_anim": {},
+  "chomp_wave_anim": {
+    "image": "storm_emoji_chomp_wave_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_wave_anim_sheet.png",
+      "frames": 6,
+      "duration": 100,
+      "width": 38,
+      "columns": 4,
+      "rows": 2
+    }
+  },
   "cho_angry": {
     "heroId": "Cho",
     "image": "storm_emoji_cho_sheet_0.png"
@@ -1455,11 +1545,61 @@
     "heroId": "L90ETC",
     "image": "storm_emoji_etc_sheet_9.png"
   },
-  "eyeball_bloodlust_anim": {},
-  "eyeball_cthun_anim": {},
-  "eyeball_human_anim": {},
-  "eyeball_kilrogg_anim": {},
-  "eyeball_ravenlord_anim": {},
+  "eyeball_bloodlust_anim": {
+    "image": "storm_emoji_eyeball_bloodlust_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_bloodlust_anim_sheet.png",
+      "frames": 17,
+      "duration": 50,
+      "width": 31,
+      "columns": 4,
+      "rows": 5
+    }
+  },
+  "eyeball_cthun_anim": {
+    "image": "storm_emoji_eyeball_cthun_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_cthun_anim_sheet.png",
+      "frames": 4,
+      "duration": 50,
+      "width": 31,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "eyeball_human_anim": {
+    "image": "storm_emoji_eyeball_human_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_human_anim_sheet.png",
+      "frames": 16,
+      "duration": 50,
+      "width": 31,
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "eyeball_kilrogg_anim": {
+    "image": "storm_emoji_eyeball_kilrogg_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_kilrogg_anim_sheet.png",
+      "frames": 16,
+      "duration": 80,
+      "width": 31,
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "eyeball_ravenlord_anim": {
+    "image": "storm_emoji_eyeball_ravenlord_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_ravenlord_anim_sheet.png",
+      "frames": 14,
+      "duration": 50,
+      "width": 31,
+      "columns": 4,
+      "rows": 4
+    }
+  },
   "falstad_angry": {
     "heroId": "Falstad",
     "image": "storm_emoji_falstad_sheet_0.png"
@@ -1900,7 +2040,17 @@
     "heroId": "Genji",
     "image": "storm_emoji_genji_sheet_9.png"
   },
-  "ghost_boogie_anim": {},
+  "ghost_boogie_anim": {
+    "image": "storm_emoji_ghost_boogie_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_boogie_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 29,
+      "columns": 4,
+      "rows": 2
+    }
+  },
   "ghost_cheer_anim": {
     "image": "storm_emoji_ghost_cheer_anim_sheet_0.gif",
     "animation": {
@@ -1912,9 +2062,39 @@
       "rows": 1
     }
   },
-  "ghost_golfclap_anim": {},
-  "ghost_rage_anim": {},
-  "ghost_worry_anim": {},
+  "ghost_golfclap_anim": {
+    "image": "storm_emoji_ghost_golfclap_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_golfclap_anim_sheet.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 19,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "ghost_rage_anim": {
+    "image": "storm_emoji_ghost_rage_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_rage_anim_sheet.png",
+      "frames": 2,
+      "duration": 50,
+      "width": 29,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "ghost_worry_anim": {
+    "image": "storm_emoji_ghost_worry_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_worry_anim_sheet.png",
+      "frames": 6,
+      "duration": 150,
+      "width": 38,
+      "columns": 4,
+      "rows": 2
+    }
+  },
   "greymane_angry": {
     "heroId": "Greymane",
     "image": "storm_emoji_greymane_sheet_0.png"
@@ -2751,7 +2931,16 @@
     "image": "storm_emoji_johanna_sheet_4.png"
   },
   "johanna_owc20_anim": {
-    "heroId": "Crusader"
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_johanna_owc20_anim_sheet.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 38,
+      "columns": 4,
+      "rows": 1
+    }
   },
   "johanna_rofl": {
     "heroId": "Crusader",
@@ -2938,7 +3127,16 @@
     "image": "storm_emoji_kerrigan_sheet_0.png"
   },
   "kerrigan_classic21_anim": {
-    "heroId": "Kerrigan"
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_kerrigan_classic21_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 29,
+      "columns": 4,
+      "rows": 2
+    }
   },
   "kerrigan_cool": {
     "heroId": "Kerrigan",
@@ -3277,7 +3475,16 @@
     "image": "storm_emoji_lostvikings_sheet_9.png"
   },
   "lostviking_classic21_anim": {
-    "heroId": "LostVikings"
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostviking_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_lostviking_classic21_anim_sheet.png",
+      "frames": 12,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
   },
   "lucio_angry": {
     "heroId": "Lucio",
@@ -3652,11 +3859,61 @@
   "mecha_anduin_neo": {
     "image": "storm_emoji_secret_01_sheet_6.png"
   },
-  "mecha_malthael_anim": {},
-  "mecha_pilotvalla_anim": {},
-  "mecha_pilotyrel_anim": {},
-  "mecha_valla_anim": {},
-  "mecha_yrel_anim": {},
+  "mecha_malthael_anim": {
+    "image": "storm_emoji_mecha_malthael_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_malthael_anim_sheet.png",
+      "frames": 6,
+      "duration": 120,
+      "width": 40,
+      "columns": 5,
+      "rows": 2
+    }
+  },
+  "mecha_pilotvalla_anim": {
+    "image": "storm_emoji_mecha_pilotvalla_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_pilotvalla_anim_sheet.png",
+      "frames": 4,
+      "duration": 60,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "mecha_pilotyrel_anim": {
+    "image": "storm_emoji_mecha_pilotyrel_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_pilotyrel_anim_sheet.png",
+      "frames": 5,
+      "duration": 120,
+      "width": 40,
+      "columns": 5,
+      "rows": 1
+    }
+  },
+  "mecha_valla_anim": {
+    "image": "storm_emoji_mecha_valla_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_valla_anim_sheet.png",
+      "frames": 6,
+      "duration": 70,
+      "width": 40,
+      "columns": 5,
+      "rows": 2
+    }
+  },
+  "mecha_yrel_anim": {
+    "image": "storm_emoji_mecha_yrel_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_yrel_anim_sheet.png",
+      "frames": 3,
+      "duration": 100,
+      "width": 40,
+      "columns": 3,
+      "rows": 1
+    }
+  },
   "medivh_angry": {
     "heroId": "Medivh",
     "image": "storm_emoji_medivh_sheet_0.png"
@@ -3785,11 +4042,61 @@
     "heroId": "Mephisto",
     "image": "storm_emoji_mephisto_sheet_9.png"
   },
-  "mobster_hammer_anim": {},
-  "mobster_junkrat_anim": {},
-  "mobster_orphea_anim": {},
-  "mobster_raccoon_anim": {},
-  "mobster_whitemane_anim": {},
+  "mobster_hammer_anim": {
+    "image": "storm_emoji_mobster19_hammercar_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_hammercar_sheet.png",
+      "frames": 12,
+      "duration": 50,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "mobster_junkrat_anim": {
+    "image": "storm_emoji_mobster19_junkrat_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_junkrat_sheet.png",
+      "frames": 8,
+      "duration": 80,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "mobster_orphea_anim": {
+    "image": "storm_emoji_mobster19_orphea_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_orphea_sheet.png",
+      "frames": 8,
+      "duration": 120,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "mobster_raccoon_anim": {
+    "image": "storm_emoji_mobster19_raccoon_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_raccoon_sheet.png",
+      "frames": 5,
+      "duration": 120,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "mobster_whitemane_anim": {
+    "image": "storm_emoji_mobster19_whitemane_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_whitemane_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
   "morales_angry": {
     "heroId": "Medic",
     "image": "storm_emoji_morales_sheet_0.png"
@@ -4030,11 +4337,61 @@
     "heroId": "WitchDoctor",
     "image": "storm_emoji_nazeebo_sheet_9.png"
   },
-  "nexomania_diablo_anim": {},
-  "nexomania_garrosh_anim": {},
-  "nexomania_imperius_anim": {},
-  "nexomania_lili_anim": {},
-  "nexomania_malganis_anim": {},
+  "nexomania_diablo_anim": {
+    "image": "storm_emoji_nexomania_diablo_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_diablo_anim_sheet.png",
+      "frames": 6,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "nexomania_garrosh_anim": {
+    "image": "storm_emoji_nexomania_garrosh_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_garrosh_anim_sheet.png",
+      "frames": 12,
+      "duration": 125,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "nexomania_imperius_anim": {
+    "image": "storm_emoji_nexomania_imperius_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_imperius_anim_sheet.png",
+      "frames": 8,
+      "duration": 120,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "nexomania_lili_anim": {
+    "image": "storm_emoji_nexomania_lili_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_lili_anim_sheet.png",
+      "frames": 8,
+      "duration": 125,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "nexomania_malganis_anim": {
+    "image": "storm_emoji_nexomania_malganis_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_malganis_anim_sheet.png",
+      "frames": 18,
+      "duration": 125,
+      "width": 40,
+      "columns": 4,
+      "rows": 5
+    }
+  },
   "nexushunter_angry": {
     "heroId": "NexusHunter",
     "image": "storm_emoji_nexushunter_sheet_0.png"
@@ -4129,7 +4486,16 @@
     "image": "storm_emoji_nova_sheet_4.png"
   },
   "nova_owc20_anim": {
-    "heroId": "Nova"
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nova_owc20_anim_sheet.png",
+      "frames": 5,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
   },
   "nova_rofl": {
     "heroId": "Nova",
@@ -4210,7 +4576,15 @@
     "image": "storm_emoji_pachimari_sheet_4.png"
   },
   "pachimari_owc20_anim": {
-    "image": "storm_emoji_pachimari_sheet_0.png"
+    "image": "storm_emoji_pachimari_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_pachimari_owc20_anim_sheet.png",
+      "frames": 5,
+      "duration": 100,
+      "width": 28,
+      "columns": 4,
+      "rows": 2
+    }
   },
   "pachimari_rofl": {
     "image": "storm_emoji_pachimari_sheet_5.png"
@@ -4433,7 +4807,16 @@
     "image": "storm_emoji_raynor_sheet_4.png"
   },
   "raynor_owc20_anim": {
-    "heroId": "Raynor"
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_raynor_owc20_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 36,
+      "columns": 4,
+      "rows": 2
+    }
   },
   "raynor_rofl": {
     "heroId": "Raynor",
@@ -4460,7 +4843,16 @@
     "image": "storm_emoji_rehgar_sheet_0.png"
   },
   "rehgar_classic21_anim": {
-    "heroId": "Rehgar"
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_rehgar_classic21_anim_sheet.png",
+      "frames": 6,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
   },
   "rehgar_cool": {
     "heroId": "Rehgar",
@@ -4711,7 +5103,17 @@
   "sapper_surprised": {
     "image": "storm_emoji_sapper_sheet_9.png"
   },
-  "siliconsynapse_classic21_anim": {},
+  "siliconsynapse_classic21_anim": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_siliconsynapse_classic21_anim_sheet.png",
+      "frames": 16,
+      "duration": 100,
+      "width": 28,
+      "columns": 4,
+      "rows": 4
+    }
+  },
   "sonya_angry": {
     "heroId": "Barbarian",
     "image": "storm_emoji_sonya_sheet_0.png"
@@ -4902,12 +5304,72 @@
     "heroId": "Barbarian",
     "image": "storm_emoji_sonya_sheet_9.png"
   },
-  "sorceress_classic21_anim": {},
-  "spooky_potg_anim": {},
-  "spooky_ravenlol_anim": {},
-  "spooky_rip_anim": {},
-  "spooky_spider_anim": {},
-  "spooky_worm_anim": {},
+  "sorceress_classic21_anim": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_sorceress_classic21_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "spooky_potg_anim": {
+    "image": "storm_emoji_spooky_potg_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_potg_anim_sheet.png",
+      "frames": 9,
+      "duration": 40,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "spooky_ravenlol_anim": {
+    "image": "storm_emoji_spooky_ravenlol_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_ravenlol_anim_sheet.png",
+      "frames": 8,
+      "duration": 60,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "spooky_rip_anim": {
+    "image": "storm_emoji_spooky_rip_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_rip_anim_sheet.png",
+      "frames": 26,
+      "duration": 50,
+      "width": 38,
+      "columns": 4,
+      "rows": 7
+    }
+  },
+  "spooky_spider_anim": {
+    "image": "storm_emoji_spooky_spider_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_spider_anim_sheet.png",
+      "frames": 8,
+      "duration": 50,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "spooky_worm_anim": {
+    "image": "storm_emoji_spooky_worm_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_worm_anim_sheet.png",
+      "frames": 8,
+      "duration": 50,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
   "stitches_angry": {
     "heroId": "Stitches",
     "image": "storm_emoji_stitches_sheet_0.png"
@@ -5389,21 +5851,171 @@
     "heroId": "Thrall",
     "image": "storm_emoji_thrall_sheet_9.png"
   },
-  "toy2_army_anim": {},
-  "toy2_horse_anim": {},
-  "toy2_mephisto_anim": {},
-  "toy2_qhira_anim": {},
-  "toy2_train_anim": {},
-  "toy_bear_anim": {},
-  "toy_cosmicflurry_anim": {},
-  "toy_dice_anim": {},
-  "toy_dino_anim": {},
-  "toy_herospinner_anim": {},
-  "toy_minion_anim": {},
-  "toy_nerfthis_anim": {},
-  "toy_robots_anim": {},
-  "toy_train_anim": {},
-  "toy_turd_anim": {},
+  "toy2_army_anim": {
+    "image": "storm_emoji_toys19_army_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_army.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy2_horse_anim": {
+    "image": "storm_emoji_toys19_horse_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_horse.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy2_mephisto_anim": {
+    "image": "storm_emoji_toys19_mephisto_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_mephisto.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy2_qhira_anim": {
+    "image": "storm_emoji_toys19_qhira_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_qhira.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy2_train_anim": {
+    "image": "storm_emoji_toys19_train_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_train.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy_bear_anim": {
+    "image": "storm_emoji_toy_bear_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_bear_anim_sheet.png",
+      "frames": 12,
+      "duration": 150,
+      "width": 39,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "toy_cosmicflurry_anim": {
+    "image": "storm_emoji_toy_cosmicflurry_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_cosmicflurry_anim_sheet.png",
+      "frames": 5,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_dice_anim": {
+    "image": "storm_emoji_toy_dice_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_dice_anim_sheet.png",
+      "frames": 6,
+      "duration": 100,
+      "width": 37,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_dino_anim": {
+    "image": "storm_emoji_toy_dino_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_dino_anim_sheet.png",
+      "frames": 4,
+      "duration": 80,
+      "width": 34,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy_herospinner_anim": {
+    "image": "storm_emoji_toy_herospinner_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_herospinner_anim_sheet.png",
+      "frames": 7,
+      "duration": 25,
+      "width": 33,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_minion_anim": {
+    "image": "storm_emoji_toy_minion_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_minion_anim_sheet.png",
+      "frames": 6,
+      "duration": 160,
+      "width": 30,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_nerfthis_anim": {
+    "image": "storm_emoji_toy_nerfthis_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_nerfthis_anim_sheet.png",
+      "frames": 4,
+      "duration": 62,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy_robots_anim": {
+    "image": "storm_emoji_toy_robots_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_robots_anim_sheet.png",
+      "frames": 10,
+      "duration": 120,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "toy_train_anim": {
+    "image": "storm_emoji_toy_train_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_train_anim_sheet.png",
+      "frames": 6,
+      "duration": 200,
+      "width": 37,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_turd_anim": {
+    "image": "storm_emoji_toy_turd_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_turd_anim_sheet.png",
+      "frames": 8,
+      "duration": 120,
+      "width": 26,
+      "columns": 4,
+      "rows": 2
+    }
+  },
   "tracer_angry": {
     "heroId": "Tracer",
     "image": "storm_emoji_tracer_sheet_0.png"
@@ -5815,7 +6427,16 @@
     "image": "storm_emoji_valla_sheet_4.png"
   },
   "valla_owc20_anim": {
-    "heroId": "DemonHunter"
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_valla_owc20_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
   },
   "valla_rofl": {
     "heroId": "DemonHunter",

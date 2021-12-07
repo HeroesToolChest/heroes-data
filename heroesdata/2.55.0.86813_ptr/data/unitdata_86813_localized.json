@@ -25211,14 +25211,14 @@
         "nameId": "ZagaraHydraliskMelee",
         "range": 0.5,
         "period": 1.0,
-        "damage": 1E-10,
+        "damage": 0.0,
         "damageScale": 0.05
       },
       {
         "nameId": "ZagaraHydraliskRanged",
         "range": 5.5,
         "period": 1.0,
-        "damage": 1E-10,
+        "damage": 0.0,
         "damageScale": 0.05
       }
     ]
@@ -25266,7 +25266,7 @@
         "nameId": "ZagaraMutaliskWeapon",
         "range": 5.5,
         "period": 1.0,
-        "damage": 1E-10,
+        "damage": 0.0,
         "damageScale": 0.05
       }
     ]
