@@ -1,0 +1,6896 @@
+{
+  "abathur_angry": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_0.png"
+  },
+  "abathur_cool": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_1.png"
+  },
+  "abathur_embarrassed": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_2.png"
+  },
+  "abathur_happy": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_3.png"
+  },
+  "abathur_inlove": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_4.png"
+  },
+  "abathur_mecha_angry": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_0.png"
+  },
+  "abathur_mecha_cool": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_1.png"
+  },
+  "abathur_mecha_embarrassed": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_2.png"
+  },
+  "abathur_mecha_happy": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_3.png"
+  },
+  "abathur_mecha_inlove": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_4.png"
+  },
+  "abathur_mecha_rofl": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_5.png"
+  },
+  "abathur_mecha_sad": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_6.png"
+  },
+  "abathur_mecha_silly": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_7.png"
+  },
+  "abathur_mecha_speechless": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_8.png"
+  },
+  "abathur_mecha_surprised": {
+    "heroId": "Abathur",
+    "heroSkinId": "AbathurMecha",
+    "image": "storm_emoji_abathur_mecha_sheet_9.png"
+  },
+  "abathur_rofl": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_5.png"
+  },
+  "abathur_sad": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_6.png"
+  },
+  "abathur_silly": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_7.png"
+  },
+  "abathur_speechless": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_8.png"
+  },
+  "abathur_surprised": {
+    "heroId": "Abathur",
+    "image": "storm_emoji_abathur_sheet_9.png"
+  },
+  "abstract_angry": {},
+  "abstract_cool": {},
+  "abstract_cool_casesensitive": {
+    "caseSensitive": true
+  },
+  "abstract_embarrassed": {},
+  "abstract_happy": {},
+  "abstract_inlove": {},
+  "abstract_rofl": {},
+  "abstract_rofl_casesensitive": {
+    "caseSensitive": true
+  },
+  "abstract_sad": {},
+  "abstract_silly": {},
+  "abstract_speechless": {},
+  "abstract_surprised": {},
+  "alarak_angry": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_0.png"
+  },
+  "alarak_cool": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_1.png"
+  },
+  "alarak_embarrassed": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_2.png"
+  },
+  "alarak_happy": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_3.png"
+  },
+  "alarak_inlove": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_4.png"
+  },
+  "alarak_rofl": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_5.png"
+  },
+  "alarak_sad": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_6.png"
+  },
+  "alarak_silly": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_7.png"
+  },
+  "alarak_speechless": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_8.png"
+  },
+  "alarak_surprised": {
+    "heroId": "Alarak",
+    "image": "storm_emoji_alarak_sheet_9.png"
+  },
+  "alexstrasza_angry": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_0.png"
+  },
+  "alexstrasza_cool": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_1.png"
+  },
+  "alexstrasza_embarrassed": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_2.png"
+  },
+  "alexstrasza_happy": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_3.png"
+  },
+  "alexstrasza_inlove": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_4.png"
+  },
+  "alexstrasza_rofl": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_5.png"
+  },
+  "alexstrasza_sad": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_6.png"
+  },
+  "alexstrasza_silly": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_7.png"
+  },
+  "alexstrasza_speechless": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_8.png"
+  },
+  "alexstrasza_surprised": {
+    "heroId": "Alexstrasza",
+    "image": "storm_emoji_alexstrasza_sheet_9.png"
+  },
+  "alteredfates_greed": {
+    "image": "storm_emoji_alteredfates_sheet_0.png"
+  },
+  "alteredfates_maiev": {
+    "image": "storm_emoji_alteredfates_sheet_1.png"
+  },
+  "alteredfates_malfurion": {
+    "image": "storm_emoji_alteredfates_sheet_2.png"
+  },
+  "alteredfates_owl": {
+    "image": "storm_emoji_alteredfates_sheet_3.png"
+  },
+  "alteredfates_tiger": {
+    "image": "storm_emoji_alteredfates_sheet_4.png"
+  },
+  "ana_angry": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_0.png"
+  },
+  "ana_army18_angry": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_0.png"
+  },
+  "ana_army18_cool": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_1.png"
+  },
+  "ana_army18_embarrassed": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_2.png"
+  },
+  "ana_army18_happy": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_3.png"
+  },
+  "ana_army18_inlove": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_4.png"
+  },
+  "ana_army18_rofl": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_5.png"
+  },
+  "ana_army18_sad": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_6.png"
+  },
+  "ana_army18_silly": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_7.png"
+  },
+  "ana_army18_speechless": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_8.png"
+  },
+  "ana_army18_surprised": {
+    "heroId": "Ana",
+    "heroSkinId": "AnaArmy18",
+    "image": "storm_emoji_ana_army18_sheet_9.png"
+  },
+  "ana_cool": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_1.png"
+  },
+  "ana_embarrassed": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_2.png"
+  },
+  "ana_happy": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_3.png"
+  },
+  "ana_inlove": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_4.png"
+  },
+  "ana_rofl": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_5.png"
+  },
+  "ana_sad": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_6.png"
+  },
+  "ana_silly": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_7.png"
+  },
+  "ana_speechless": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_8.png"
+  },
+  "ana_surprised": {
+    "heroId": "Ana",
+    "image": "storm_emoji_ana_sheet_9.png"
+  },
+  "anduin_angry": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_0.png"
+  },
+  "anduin_cool": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_1.png"
+  },
+  "anduin_embarrassed": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_2.png"
+  },
+  "anduin_happy": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_3.png"
+  },
+  "anduin_inlove": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_4.png"
+  },
+  "anduin_rofl": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_5.png"
+  },
+  "anduin_sad": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_6.png"
+  },
+  "anduin_silly": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_7.png"
+  },
+  "anduin_speechless": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_8.png"
+  },
+  "anduin_surprised": {
+    "heroId": "Anduin",
+    "image": "storm_emoji_anduin_sheet_9.png"
+  },
+  "anubarak_angry": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_0.png"
+  },
+  "anubarak_cool": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_1.png"
+  },
+  "anubarak_embarrassed": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_2.png"
+  },
+  "anubarak_happy": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_3.png"
+  },
+  "anubarak_inlove": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_4.png"
+  },
+  "anubarak_rofl": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_5.png"
+  },
+  "anubarak_sad": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_6.png"
+  },
+  "anubarak_silly": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_7.png"
+  },
+  "anubarak_speechless": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_8.png"
+  },
+  "anubarak_surprised": {
+    "heroId": "Anubarak",
+    "image": "storm_emoji_anubarak_sheet_9.png"
+  },
+  "artanis_angry": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_1.png"
+  },
+  "artanis_cool": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_2.png"
+  },
+  "artanis_embarrassed": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_3.png"
+  },
+  "artanis_happy": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_4.png"
+  },
+  "artanis_inlove": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_5.png"
+  },
+  "artanis_rofl": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_6.png"
+  },
+  "artanis_sad": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_0.png"
+  },
+  "artanis_silly": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_7.png"
+  },
+  "artanis_speechless": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_8.png"
+  },
+  "artanis_surprised": {
+    "heroId": "Artanis",
+    "image": "storm_emoji_artanis_sheet_9.png"
+  },
+  "arthas_angry": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_0.png"
+  },
+  "arthas_cool": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_1.png"
+  },
+  "arthas_crimsoncount_angry": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_0.png"
+  },
+  "arthas_crimsoncount_cool": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_1.png"
+  },
+  "arthas_crimsoncount_embarrassed": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_2.png"
+  },
+  "arthas_crimsoncount_happy": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_3.png"
+  },
+  "arthas_crimsoncount_inlove": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_4.png"
+  },
+  "arthas_crimsoncount_rofl": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_5.png"
+  },
+  "arthas_crimsoncount_sad": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_6.png"
+  },
+  "arthas_crimsoncount_silly": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_7.png"
+  },
+  "arthas_crimsoncount_speechless": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_8.png"
+  },
+  "arthas_crimsoncount_surprised": {
+    "heroId": "Arthas",
+    "heroSkinId": "ArthasCrimsonCount",
+    "image": "storm_emoji_arthas_count_sheet_9.png"
+  },
+  "arthas_embarrassed": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_2.png"
+  },
+  "arthas_happy": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_3.png"
+  },
+  "arthas_inlove": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_4.png"
+  },
+  "arthas_rofl": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_5.png"
+  },
+  "arthas_sad": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_6.png"
+  },
+  "arthas_silly": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_7.png"
+  },
+  "arthas_speechless": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_8.png"
+  },
+  "arthas_surprised": {
+    "heroId": "Arthas",
+    "image": "storm_emoji_arthas_sheet_9.png"
+  },
+  "auriel_angry": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_0.png"
+  },
+  "auriel_cool": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_1.png"
+  },
+  "auriel_embarrassed": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_2.png"
+  },
+  "auriel_happy": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_3.png"
+  },
+  "auriel_inlove": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_4.png"
+  },
+  "auriel_rofl": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_5.png"
+  },
+  "auriel_sad": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_6.png"
+  },
+  "auriel_silly": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_7.png"
+  },
+  "auriel_speechless": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_8.png"
+  },
+  "auriel_surprised": {
+    "heroId": "Auriel",
+    "image": "storm_emoji_auriel_sheet_9.png"
+  },
+  "azmodan_angry": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_0.png"
+  },
+  "azmodan_cool": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_1.png"
+  },
+  "azmodan_embarrassed": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_2.png"
+  },
+  "azmodan_happy": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_3.png"
+  },
+  "azmodan_inlove": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_4.png"
+  },
+  "azmodan_rofl": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_5.png"
+  },
+  "azmodan_sad": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_6.png"
+  },
+  "azmodan_silly": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_7.png"
+  },
+  "azmodan_speechless": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_8.png"
+  },
+  "azmodan_surprised": {
+    "heroId": "Azmodan",
+    "image": "storm_emoji_azmodan_sheet_9.png"
+  },
+  "balls_basketball": {
+    "image": "storm_emoji_ball_1_sheet_0.png"
+  },
+  "balls_eightball": {
+    "image": "storm_emoji_ball_1_sheet_1.png"
+  },
+  "balls_football": {
+    "image": "storm_emoji_ball_1_sheet_2.png"
+  },
+  "balls_soccerball": {
+    "image": "storm_emoji_ball_1_sheet_3.png"
+  },
+  "balls_volleyball": {
+    "image": "storm_emoji_ball_1_sheet_4.png"
+  },
+  "blaze_angry": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_0.png"
+  },
+  "blaze_cool": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_1.png"
+  },
+  "blaze_embarrassed": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_2.png"
+  },
+  "blaze_happy": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_3.png"
+  },
+  "blaze_inlove": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_4.png"
+  },
+  "blaze_rofl": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_5.png"
+  },
+  "blaze_sad": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_6.png"
+  },
+  "blaze_silly": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_7.png"
+  },
+  "blaze_speechless": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_8.png"
+  },
+  "blaze_surprised": {
+    "heroId": "Firebat",
+    "image": "storm_emoji_firebat_sheet_9.png"
+  },
+  "brightwing_angry": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_0.png"
+  },
+  "brightwing_cool": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_1.png"
+  },
+  "brightwing_embarrassed": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_2.png"
+  },
+  "brightwing_happy": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_3.png"
+  },
+  "brightwing_inlove": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_4.png"
+  },
+  "brightwing_rofl": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_5.png"
+  },
+  "brightwing_sad": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_6.png"
+  },
+  "brightwing_silly": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_7.png"
+  },
+  "brightwing_speechless": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_8.png"
+  },
+  "brightwing_surprised": {
+    "heroId": "FaerieDragon",
+    "image": "storm_emoji_brightwing_sheet_9.png"
+  },
+  "butcher_angry": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_0.png"
+  },
+  "butcher_cool": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_1.png"
+  },
+  "butcher_embarrassed": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_2.png"
+  },
+  "butcher_happy": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_3.png"
+  },
+  "butcher_inlove": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_4.png"
+  },
+  "butcher_rofl": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_5.png"
+  },
+  "butcher_sad": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_6.png"
+  },
+  "butcher_silly": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_7.png"
+  },
+  "butcher_speechless": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_8.png"
+  },
+  "butcher_surprised": {
+    "heroId": "Butcher",
+    "image": "storm_emoji_butcher_sheet_9.png"
+  },
+  "carbot_auriel": {
+    "image": "storm_emoji_carbot_diablo_sheet_0.png"
+  },
+  "carbot_boom": {
+    "image": "storm_emoji_carbot_nexus_sheet_0.png"
+  },
+  "carbot_cain": {
+    "image": "storm_emoji_carbot_diablo_sheet_1.png"
+  },
+  "carbot_chromie": {
+    "image": "storm_emoji_carbot_alliance_sheet_0.png"
+  },
+  "carbot_diablo": {
+    "image": "storm_emoji_carbot_diablo_sheet_2.png"
+  },
+  "carbot_greymane": {
+    "image": "storm_emoji_carbot_alliance_sheet_1.png"
+  },
+  "carbot_health_globe": {
+    "image": "storm_emoji_carbot_nexus_sheet_1.png"
+  },
+  "carbot_johanna": {
+    "image": "storm_emoji_carbot_diablo_sheet_3.png"
+  },
+  "carbot_kaelthas": {
+    "image": "storm_emoji_carbot_horde_sheet_0.png"
+  },
+  "carbot_lunara": {
+    "image": "storm_emoji_carbot_alliance_sheet_2.png"
+  },
+  "carbot_minions": {
+    "image": "storm_emoji_carbot_nexus_sheet_2.png"
+  },
+  "carbot_murky": {
+    "image": "storm_emoji_carbot_horde_sheet_1.png"
+  },
+  "carbot_nazeebo": {
+    "image": "storm_emoji_carbot_diablo_sheet_4.png"
+  },
+  "carbot_orphea": {
+    "image": "storm_emoji_carbot_nexus_sheet_3.png"
+  },
+  "carbot_ragnaros": {
+    "image": "storm_emoji_carbot_horde_sheet_2.png"
+  },
+  "carbot_stick_horse": {
+    "image": "storm_emoji_carbot_nexus_sheet_4.png"
+  },
+  "carbot_thrall": {
+    "image": "storm_emoji_carbot_horde_sheet_3.png"
+  },
+  "carbot_uther": {
+    "image": "storm_emoji_carbot_alliance_sheet_3.png"
+  },
+  "carbot_yrel": {
+    "image": "storm_emoji_carbot_alliance_sheet_4.png"
+  },
+  "carbot_zuljin": {
+    "image": "storm_emoji_carbot_horde_sheet_4.png"
+  },
+  "cassia_angry": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_0.png"
+  },
+  "cassia_cool": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_1.png"
+  },
+  "cassia_embarrassed": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_2.png"
+  },
+  "cassia_happy": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_3.png"
+  },
+  "cassia_inlove": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_4.png"
+  },
+  "cassia_rofl": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_5.png"
+  },
+  "cassia_sad": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_6.png"
+  },
+  "cassia_silly": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_7.png"
+  },
+  "cassia_speechless": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_8.png"
+  },
+  "cassia_surprised": {
+    "heroId": "Amazon",
+    "image": "storm_emoji_cassia_sheet_9.png"
+  },
+  "cat_blink_anim": {
+    "image": "storm_emoji_cat_blink_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_blink_anim_sheet.png",
+      "frames": 29,
+      "duration": 50,
+      "width": 38,
+      "columns": 4,
+      "rows": 8
+    }
+  },
+  "cat_dealwithit_anim": {
+    "image": "storm_emoji_cat_dealwithit_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_dealwithit_anim_sheet.png",
+      "frames": 23,
+      "duration": 100,
+      "width": 38,
+      "columns": 4,
+      "rows": 6
+    }
+  },
+  "cat_gleam_anim": {
+    "image": "storm_emoji_cat_gleam_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_gleam_anim_sheet.png",
+      "frames": 25,
+      "duration": 50,
+      "width": 34,
+      "columns": 4,
+      "rows": 7
+    }
+  },
+  "cat_grumpy_anim": {
+    "image": "storm_emoji_cat_grumpy_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_grumpy_anim_sheet.png",
+      "frames": 16,
+      "duration": 300,
+      "width": 38,
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "cat_puke_anim": {
+    "image": "storm_emoji_cat_puke_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_cat_puke_anim_sheet.png",
+      "frames": 12,
+      "duration": 50,
+      "width": 38,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "celebrations_fireworks": {
+    "image": "storm_emoji_celebrations_1_sheet_0.png"
+  },
+  "celebrations_noisemaker": {
+    "image": "storm_emoji_celebrations_1_sheet_1.png"
+  },
+  "celebrations_popper": {
+    "image": "storm_emoji_celebrations_1_sheet_2.png"
+  },
+  "celebrations_present": {
+    "image": "storm_emoji_celebrations_1_sheet_3.png"
+  },
+  "celebrations_toast": {
+    "image": "storm_emoji_celebrations_1_sheet_4.png"
+  },
+  "chen_angry": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_0.png"
+  },
+  "chen_cool": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_1.png"
+  },
+  "chen_embarrassed": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_2.png"
+  },
+  "chen_happy": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_3.png"
+  },
+  "chen_inlove": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_4.png"
+  },
+  "chen_rofl": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_5.png"
+  },
+  "chen_sad": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_6.png"
+  },
+  "chen_silly": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_7.png"
+  },
+  "chen_speechless": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_8.png"
+  },
+  "chen_surprised": {
+    "heroId": "Chen",
+    "image": "storm_emoji_chen_sheet_9.png"
+  },
+  "chomp_growl_anim": {
+    "image": "storm_emoji_chomp_growl_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_growl_anim_sheet.png",
+      "frames": 2,
+      "duration": 100,
+      "width": 35,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "chomp_minion_anim": {
+    "image": "storm_emoji_chomp_minion_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_minion_anim_sheet.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 39,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "chomp_paku_anim": {
+    "image": "storm_emoji_chomp_paku_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_paku_anim_sheet.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "chomp_pet_anim": {
+    "image": "storm_emoji_chomp_pet_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_pet_anim_sheet.png",
+      "frames": 2,
+      "duration": null,
+      "width": 37,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "chomp_wave_anim": {
+    "image": "storm_emoji_chomp_wave_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_chomp_wave_anim_sheet.png",
+      "frames": 6,
+      "duration": 100,
+      "width": 38,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "cho_angry": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_0.png"
+  },
+  "cho_cool": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_1.png"
+  },
+  "cho_embarrassed": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_2.png"
+  },
+  "cho_happy": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_3.png"
+  },
+  "cho_inlove": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_4.png"
+  },
+  "cho_rofl": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_5.png"
+  },
+  "cho_sad": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_6.png"
+  },
+  "cho_silly": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_7.png"
+  },
+  "cho_speechless": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_8.png"
+  },
+  "cho_surprised": {
+    "heroId": "Cho",
+    "image": "storm_emoji_cho_sheet_9.png"
+  },
+  "chromie_angry": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_0.png"
+  },
+  "chromie_cool": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_1.png"
+  },
+  "chromie_embarrassed": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_2.png"
+  },
+  "chromie_happy": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_3.png"
+  },
+  "chromie_inlove": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_4.png"
+  },
+  "chromie_rofl": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_5.png"
+  },
+  "chromie_sad": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_6.png"
+  },
+  "chromie_silly": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_7.png"
+  },
+  "chromie_speechless": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_8.png"
+  },
+  "chromie_surprised": {
+    "heroId": "Chromie",
+    "image": "storm_emoji_chromie_sheet_9.png"
+  },
+  "craft20_anduin_anim": {
+    "image": "storm_emoji_anduin_craft20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_anduin_craft20_anim_sheet.png",
+      "frames": 6,
+      "duration": null,
+      "width": 28,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "craft20_artanis_anim": {
+    "image": "storm_emoji_artanis_craft20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_artanis_craft20_anim_sheet.png",
+      "frames": 4,
+      "duration": null,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "craft20_arthas_anim": {
+    "image": "storm_emoji_arthas_craft20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_arthas_craft20_anim_sheet.png",
+      "frames": 8,
+      "duration": null,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "craft20_tinker_anim": {
+    "image": "storm_emoji_tinker_craft20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_tinker_craft20_anim_sheet.png",
+      "frames": 12,
+      "duration": null,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "craft20_turret_anim": {
+    "image": "storm_emoji_turret_craft20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_turret_craft20_anim_sheet.png",
+      "frames": 10,
+      "duration": null,
+      "width": 36,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "darknexus_alarak": {
+    "image": "storm_emoji_darknexus_sheet_3.png"
+  },
+  "darknexus_beast": {
+    "image": "storm_emoji_darknexus_sheet_7.png"
+  },
+  "darknexus_deathwing": {
+    "image": "storm_emoji_darknexus_sheet_1.png"
+  },
+  "darknexus_dehaka": {
+    "image": "storm_emoji_darknexus_sheet_2.png"
+  },
+  "darknexus_fenix": {
+    "image": "storm_emoji_darknexus_sheet_5.png"
+  },
+  "darknexus_guldan": {
+    "image": "storm_emoji_darknexus_sheet_4.png"
+  },
+  "darknexus_hound": {
+    "image": "storm_emoji_darknexus_sheet_9.png"
+  },
+  "darknexus_nexagon": {
+    "image": "storm_emoji_darknexus_sheet_8.png"
+  },
+  "darknexus_ravenlord": {
+    "image": "storm_emoji_darknexus_sheet_0.png"
+  },
+  "darknexus_tassadar": {
+    "image": "storm_emoji_darknexus_sheet_6.png"
+  },
+  "deathwing_angry": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_0.png"
+  },
+  "deathwing_cool": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_1.png"
+  },
+  "deathwing_embarrassed": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_2.png"
+  },
+  "deathwing_happy": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_3.png"
+  },
+  "deathwing_inlove": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_4.png"
+  },
+  "deathwing_rofl": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_5.png"
+  },
+  "deathwing_sad": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_6.png"
+  },
+  "deathwing_silly": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_7.png"
+  },
+  "deathwing_speechless": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_8.png"
+  },
+  "deathwing_surprised": {
+    "heroId": "Deathwing",
+    "image": "storm_emoji_deathwing_sheet_9.png"
+  },
+  "death_bones": {
+    "image": "storm_emoji_death_1_sheet_0.png"
+  },
+  "death_coffin": {
+    "image": "storm_emoji_death_1_sheet_1.png"
+  },
+  "death_ghost": {
+    "image": "storm_emoji_death_1_sheet_2.png"
+  },
+  "death_grave": {
+    "image": "storm_emoji_death_1_sheet_3.png"
+  },
+  "death_tombstone": {
+    "image": "storm_emoji_death_1_sheet_4.png"
+  },
+  "deckard_angry": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_0.png"
+  },
+  "deckard_cool": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_1.png"
+  },
+  "deckard_embarrassed": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_2.png"
+  },
+  "deckard_happy": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_3.png"
+  },
+  "deckard_inlove": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_4.png"
+  },
+  "deckard_rofl": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_5.png"
+  },
+  "deckard_sad": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_6.png"
+  },
+  "deckard_silly": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_7.png"
+  },
+  "deckard_speechless": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_8.png"
+  },
+  "deckard_surprised": {
+    "heroId": "Deckard",
+    "image": "storm_emoji_deckard_sheet_9.png"
+  },
+  "dehaka_angry": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_0.png"
+  },
+  "dehaka_cool": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_1.png"
+  },
+  "dehaka_embarrassed": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_2.png"
+  },
+  "dehaka_happy": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_3.png"
+  },
+  "dehaka_inlove": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_4.png"
+  },
+  "dehaka_mecha_angry": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_0.png"
+  },
+  "dehaka_mecha_cool": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_1.png"
+  },
+  "dehaka_mecha_embarrassed": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_2.png"
+  },
+  "dehaka_mecha_happy": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_3.png"
+  },
+  "dehaka_mecha_inlove": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_4.png"
+  },
+  "dehaka_mecha_rofl": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_5.png"
+  },
+  "dehaka_mecha_sad": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_6.png"
+  },
+  "dehaka_mecha_silly": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_7.png"
+  },
+  "dehaka_mecha_speechless": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_8.png"
+  },
+  "dehaka_mecha_surprised": {
+    "heroId": "Dehaka",
+    "heroSkinId": "DehakaMecha",
+    "image": "storm_emoji_dehaka_mecha_sheet_9.png"
+  },
+  "dehaka_rofl": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_5.png"
+  },
+  "dehaka_sad": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_6.png"
+  },
+  "dehaka_silly": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_7.png"
+  },
+  "dehaka_speechless": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_8.png"
+  },
+  "dehaka_surprised": {
+    "heroId": "Dehaka",
+    "image": "storm_emoji_dehaka_sheet_9.png"
+  },
+  "diablo_angry": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_0.png"
+  },
+  "diablo_cool": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_1.png"
+  },
+  "diablo_embarrassed": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_2.png"
+  },
+  "diablo_happy": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_3.png"
+  },
+  "diablo_inlove": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_4.png"
+  },
+  "diablo_rofl": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_5.png"
+  },
+  "diablo_sad": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_6.png"
+  },
+  "diablo_silly": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_7.png"
+  },
+  "diablo_speechless": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_8.png"
+  },
+  "diablo_summer18_angry": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_0.png"
+  },
+  "diablo_summer18_cool": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_1.png"
+  },
+  "diablo_summer18_embarrassed": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_2.png"
+  },
+  "diablo_summer18_happy": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_3.png"
+  },
+  "diablo_summer18_inlove": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_4.png"
+  },
+  "diablo_summer18_rofl": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_5.png"
+  },
+  "diablo_summer18_sad": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_6.png"
+  },
+  "diablo_summer18_silly": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_7.png"
+  },
+  "diablo_summer18_speechless": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_8.png"
+  },
+  "diablo_summer18_surprised": {
+    "heroId": "Diablo",
+    "heroSkinId": "DiabloSummer18",
+    "image": "storm_emoji_diablo_summer18_sheet_9.png"
+  },
+  "diablo_surprised": {
+    "heroId": "Diablo",
+    "image": "storm_emoji_diablo_sheet_9.png"
+  },
+  "dragonknight_angry": {
+    "image": "storm_emoji_dragonknight_sheet_0.png"
+  },
+  "dragonknight_cool": {
+    "image": "storm_emoji_dragonknight_sheet_1.png"
+  },
+  "dragonknight_embarrassed": {
+    "image": "storm_emoji_dragonknight_sheet_2.png"
+  },
+  "dragonknight_happy": {
+    "image": "storm_emoji_dragonknight_sheet_3.png"
+  },
+  "dragonknight_inlove": {
+    "image": "storm_emoji_dragonknight_sheet_4.png"
+  },
+  "dragonknight_rofl": {
+    "image": "storm_emoji_dragonknight_sheet_5.png"
+  },
+  "dragonknight_sad": {
+    "image": "storm_emoji_dragonknight_sheet_6.png"
+  },
+  "dragonknight_silly": {
+    "image": "storm_emoji_dragonknight_sheet_7.png"
+  },
+  "dragonknight_speechless": {
+    "image": "storm_emoji_dragonknight_sheet_8.png"
+  },
+  "dragonknight_surprised": {
+    "image": "storm_emoji_dragonknight_sheet_9.png"
+  },
+  "drink_brew": {
+    "image": "storm_emoji_drink_1_sheet_2.png"
+  },
+  "drink_chocomilk": {
+    "image": "storm_emoji_drink_1_sheet_0.png"
+  },
+  "drink_cola": {
+    "image": "storm_emoji_drink_1_sheet_1.png"
+  },
+  "drink_tea": {
+    "image": "storm_emoji_drink_1_sheet_3.png"
+  },
+  "drink_water": {
+    "image": "storm_emoji_drink_1_sheet_4.png"
+  },
+  "dva_angry": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_0.png"
+  },
+  "dva_cool": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_1.png"
+  },
+  "dva_embarrassed": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_2.png"
+  },
+  "dva_happy": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_3.png"
+  },
+  "dva_inlove": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_4.png"
+  },
+  "dva_rofl": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_5.png"
+  },
+  "dva_sad": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_6.png"
+  },
+  "dva_silly": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_7.png"
+  },
+  "dva_speechless": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_8.png"
+  },
+  "dva_surprised": {
+    "heroId": "DVa",
+    "image": "storm_emoji_dva_sheet_9.png"
+  },
+  "etc_angry": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_0.png"
+  },
+  "etc_cool": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_1.png"
+  },
+  "etc_embarrassed": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_2.png"
+  },
+  "etc_happy": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_3.png"
+  },
+  "etc_inlove": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_4.png"
+  },
+  "etc_rofl": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_5.png"
+  },
+  "etc_sad": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_6.png"
+  },
+  "etc_silly": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_7.png"
+  },
+  "etc_speechless": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_8.png"
+  },
+  "etc_surprised": {
+    "heroId": "L90ETC",
+    "image": "storm_emoji_etc_sheet_9.png"
+  },
+  "eyeball_bloodlust_anim": {
+    "image": "storm_emoji_eyeball_bloodlust_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_bloodlust_anim_sheet.png",
+      "frames": 17,
+      "duration": 50,
+      "width": 31,
+      "columns": 4,
+      "rows": 5
+    }
+  },
+  "eyeball_cthun_anim": {
+    "image": "storm_emoji_eyeball_cthun_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_cthun_anim_sheet.png",
+      "frames": 4,
+      "duration": 50,
+      "width": 31,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "eyeball_human_anim": {
+    "image": "storm_emoji_eyeball_human_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_human_anim_sheet.png",
+      "frames": 16,
+      "duration": 50,
+      "width": 31,
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "eyeball_kilrogg_anim": {
+    "image": "storm_emoji_eyeball_kilrogg_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_kilrogg_anim_sheet.png",
+      "frames": 16,
+      "duration": 80,
+      "width": 31,
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "eyeball_ravenlord_anim": {
+    "image": "storm_emoji_eyeball_ravenlord_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_eyeball_ravenlord_anim_sheet.png",
+      "frames": 14,
+      "duration": 50,
+      "width": 31,
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "falstad_angry": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_0.png"
+  },
+  "falstad_cool": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_1.png"
+  },
+  "falstad_embarrassed": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_2.png"
+  },
+  "falstad_happy": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_3.png"
+  },
+  "falstad_inlove": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_4.png"
+  },
+  "falstad_rofl": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_5.png"
+  },
+  "falstad_sad": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_6.png"
+  },
+  "falstad_silly": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_7.png"
+  },
+  "falstad_speechless": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_8.png"
+  },
+  "falstad_surprised": {
+    "heroId": "Falstad",
+    "image": "storm_emoji_falstad_sheet_9.png"
+  },
+  "fenix_angry": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_0.png"
+  },
+  "fenix_cool": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_1.png"
+  },
+  "fenix_embarrassed": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_2.png"
+  },
+  "fenix_happy": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_3.png"
+  },
+  "fenix_inlove": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_4.png"
+  },
+  "fenix_rofl": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_5.png"
+  },
+  "fenix_sad": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_6.png"
+  },
+  "fenix_silly": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_7.png"
+  },
+  "fenix_speechless": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_8.png"
+  },
+  "fenix_surprised": {
+    "heroId": "Fenix",
+    "image": "storm_emoji_fenix_sheet_9.png"
+  },
+  "foodog_angry": {
+    "image": "storm_emoji_foodog_sheet_0.png"
+  },
+  "foodog_cool": {
+    "image": "storm_emoji_foodog_sheet_1.png"
+  },
+  "foodog_embarrassed": {
+    "image": "storm_emoji_foodog_sheet_2.png"
+  },
+  "foodog_happy": {
+    "image": "storm_emoji_foodog_sheet_3.png"
+  },
+  "foodog_inlove": {
+    "image": "storm_emoji_foodog_sheet_4.png"
+  },
+  "foodog_rofl": {
+    "image": "storm_emoji_foodog_sheet_5.png"
+  },
+  "foodog_sad": {
+    "image": "storm_emoji_foodog_sheet_6.png"
+  },
+  "foodog_silly": {
+    "image": "storm_emoji_foodog_sheet_7.png"
+  },
+  "foodog_speechless": {
+    "image": "storm_emoji_foodog_sheet_8.png"
+  },
+  "foodog_surprised": {
+    "image": "storm_emoji_foodog_sheet_9.png"
+  },
+  "food_bbq": {
+    "image": "storm_emoji_food_3_sheet_0.png"
+  },
+  "food_cheese": {
+    "image": "storm_emoji_food_2_sheet_0.png"
+  },
+  "food_chips": {
+    "image": "storm_emoji_food_3_sheet_1.png"
+  },
+  "food_ham": {
+    "image": "storm_emoji_food_2_sheet_1.png"
+  },
+  "food_lollipop": {
+    "image": "storm_emoji_food_3_sheet_2.png"
+  },
+  "food_meat": {
+    "image": "storm_emoji_food_3_sheet_3.png"
+  },
+  "food_murkshimi": {
+    "image": "storm_emoji_food_1_sheet_0.png"
+  },
+  "food_noodles": {
+    "image": "storm_emoji_food_1_sheet_1.png"
+  },
+  "food_pineapplepizza": {
+    "image": "storm_emoji_food_3_sheet_4.png"
+  },
+  "food_popcorn": {
+    "image": "storm_emoji_food_2_sheet_2.png"
+  },
+  "food_potato": {
+    "image": "storm_emoji_food_2_sheet_3.png"
+  },
+  "food_riceball": {
+    "image": "storm_emoji_food_1_sheet_2.png"
+  },
+  "food_salt": {
+    "image": "storm_emoji_food_2_sheet_4.png"
+  },
+  "food_sushi": {
+    "image": "storm_emoji_food_1_sheet_3.png"
+  },
+  "food_tofu": {
+    "image": "storm_emoji_food_1_sheet_4.png"
+  },
+  "gall_angry": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_0.png"
+  },
+  "gall_cool": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_1.png"
+  },
+  "gall_embarrassed": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_2.png"
+  },
+  "gall_happy": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_3.png"
+  },
+  "gall_inlove": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_4.png"
+  },
+  "gall_rofl": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_5.png"
+  },
+  "gall_sad": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_6.png"
+  },
+  "gall_silly": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_7.png"
+  },
+  "gall_speechless": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_8.png"
+  },
+  "gall_surprised": {
+    "heroId": "Gall",
+    "image": "storm_emoji_gall_sheet_9.png"
+  },
+  "garrosh_angry": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_0.png"
+  },
+  "garrosh_cool": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_1.png"
+  },
+  "garrosh_embarrassed": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_2.png"
+  },
+  "garrosh_happy": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_3.png"
+  },
+  "garrosh_inlove": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_4.png"
+  },
+  "garrosh_rofl": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_5.png"
+  },
+  "garrosh_sad": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_6.png"
+  },
+  "garrosh_silly": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_7.png"
+  },
+  "garrosh_speechless": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_8.png"
+  },
+  "garrosh_summer18_angry": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_0.png"
+  },
+  "garrosh_summer18_cool": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_1.png"
+  },
+  "garrosh_summer18_embarrassed": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_2.png"
+  },
+  "garrosh_summer18_happy": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_3.png"
+  },
+  "garrosh_summer18_inlove": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_4.png"
+  },
+  "garrosh_summer18_rofl": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_5.png"
+  },
+  "garrosh_summer18_sad": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_6.png"
+  },
+  "garrosh_summer18_silly": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_7.png"
+  },
+  "garrosh_summer18_speechless": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_8.png"
+  },
+  "garrosh_summer18_surprised": {
+    "heroId": "Garrosh",
+    "heroSkinId": "GarroshSummer18",
+    "image": "storm_emoji_garrosh_summer18_sheet_9.png"
+  },
+  "garrosh_surprised": {
+    "heroId": "Garrosh",
+    "image": "storm_emoji_garrosh_sheet_9.png"
+  },
+  "gazlowe_angry": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_0.png"
+  },
+  "gazlowe_cool": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_1.png"
+  },
+  "gazlowe_embarrassed": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_2.png"
+  },
+  "gazlowe_happy": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_3.png"
+  },
+  "gazlowe_inlove": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_4.png"
+  },
+  "gazlowe_rofl": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_5.png"
+  },
+  "gazlowe_sad": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_6.png"
+  },
+  "gazlowe_silly": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_7.png"
+  },
+  "gazlowe_speechless": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_8.png"
+  },
+  "gazlowe_surprised": {
+    "heroId": "Tinker",
+    "image": "storm_emoji_gazlowe_sheet_9.png"
+  },
+  "genji_angry": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_0.png"
+  },
+  "genji_army18_helmet": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiArmy18",
+    "image": "storm_emoji_genji_army18_sheet_0.png"
+  },
+  "genji_army18_stars": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiArmy18",
+    "image": "storm_emoji_genji_army18_sheet_1.png"
+  },
+  "genji_army18_viper": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiArmy18",
+    "image": "storm_emoji_genji_army18_sheet_2.png"
+  },
+  "genji_army18_well": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiArmy18",
+    "image": "storm_emoji_genji_army18_sheet_3.png"
+  },
+  "genji_army18_xstrike": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiArmy18",
+    "image": "storm_emoji_genji_army18_sheet_4.png"
+  },
+  "genji_cool": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_1.png"
+  },
+  "genji_embarrassed": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_2.png"
+  },
+  "genji_happy": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_3.png"
+  },
+  "genji_inlove": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_4.png"
+  },
+  "genji_lunar_angry": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_0.png"
+  },
+  "genji_lunar_cool": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_1.png"
+  },
+  "genji_lunar_embarrassed": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_2.png"
+  },
+  "genji_lunar_happy": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_3.png"
+  },
+  "genji_lunar_inlove": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_4.png"
+  },
+  "genji_lunar_rofl": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_5.png"
+  },
+  "genji_lunar_sad": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_6.png"
+  },
+  "genji_lunar_silly": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_7.png"
+  },
+  "genji_lunar_speechless": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_8.png"
+  },
+  "genji_lunar_surprised": {
+    "heroId": "Genji",
+    "heroSkinId": "GenjiBaseVar5",
+    "image": "storm_emoji_genji_lunar_sheet_9.png"
+  },
+  "genji_rofl": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_5.png"
+  },
+  "genji_sad": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_6.png"
+  },
+  "genji_silly": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_7.png"
+  },
+  "genji_speechless": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_8.png"
+  },
+  "genji_surprised": {
+    "heroId": "Genji",
+    "image": "storm_emoji_genji_sheet_9.png"
+  },
+  "ghost_boogie_anim": {
+    "image": "storm_emoji_ghost_boogie_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_boogie_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 29,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "ghost_cheer_anim": {
+    "image": "storm_emoji_ghost_cheer_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_cheer_anim_sheet.png",
+      "frames": 2,
+      "duration": null,
+      "width": 26,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "ghost_golfclap_anim": {
+    "image": "storm_emoji_ghost_golfclap_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_golfclap_anim_sheet.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 19,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "ghost_rage_anim": {
+    "image": "storm_emoji_ghost_rage_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_rage_anim_sheet.png",
+      "frames": 2,
+      "duration": 50,
+      "width": 29,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "ghost_worry_anim": {
+    "image": "storm_emoji_ghost_worry_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_ghost_worry_anim_sheet.png",
+      "frames": 6,
+      "duration": 150,
+      "width": 38,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "greymane_angry": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_0.png"
+  },
+  "greymane_cool": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_1.png"
+  },
+  "greymane_doctorwolfstein_worgen_angry": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_0.png"
+  },
+  "greymane_doctorwolfstein_worgen_cool": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_1.png"
+  },
+  "greymane_doctorwolfstein_worgen_embarrassed": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_2.png"
+  },
+  "greymane_doctorwolfstein_worgen_happy": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_3.png"
+  },
+  "greymane_doctorwolfstein_worgen_inlove": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_4.png"
+  },
+  "greymane_doctorwolfstein_worgen_rofl": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_5.png"
+  },
+  "greymane_doctorwolfstein_worgen_sad": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_6.png"
+  },
+  "greymane_doctorwolfstein_worgen_silly": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_7.png"
+  },
+  "greymane_doctorwolfstein_worgen_speechless": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_8.png"
+  },
+  "greymane_doctorwolfstein_worgen_surprised": {
+    "heroId": "Greymane",
+    "heroSkinId": "GreymaneDoctor",
+    "image": "storm_emoji_greymane_worgen_doctor_sheet_9.png"
+  },
+  "greymane_embarrassed": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_2.png"
+  },
+  "greymane_happy": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_3.png"
+  },
+  "greymane_inlove": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_4.png"
+  },
+  "greymane_rofl": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_5.png"
+  },
+  "greymane_sad": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_6.png"
+  },
+  "greymane_silly": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_7.png"
+  },
+  "greymane_speechless": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_8.png"
+  },
+  "greymane_surprised": {
+    "heroId": "Greymane",
+    "image": "storm_emoji_greymane_sheet_9.png"
+  },
+  "guldan_angry": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_0.png"
+  },
+  "guldan_cool": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_1.png"
+  },
+  "guldan_embarrassed": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_2.png"
+  },
+  "guldan_happy": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_3.png"
+  },
+  "guldan_inlove": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_4.png"
+  },
+  "guldan_rofl": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_5.png"
+  },
+  "guldan_sad": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_6.png"
+  },
+  "guldan_silly": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_7.png"
+  },
+  "guldan_speechless": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_8.png"
+  },
+  "guldan_surprised": {
+    "heroId": "Guldan",
+    "image": "storm_emoji_guldan_sheet_9.png"
+  },
+  "hammer_angry": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_0.png"
+  },
+  "hammer_cool": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_1.png"
+  },
+  "hammer_embarrassed": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_2.png"
+  },
+  "hammer_happy": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_3.png"
+  },
+  "hammer_inlove": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_4.png"
+  },
+  "hammer_rofl": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_5.png"
+  },
+  "hammer_sad": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_6.png"
+  },
+  "hammer_silly": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_7.png"
+  },
+  "hammer_speechless": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_8.png"
+  },
+  "hammer_surprised": {
+    "heroId": "SgtHammer",
+    "image": "storm_emoji_hammer_sheet_9.png"
+  },
+  "hand_applause": {
+    "image": "storm_emoji_hands_generic_3_sheet_0.png"
+  },
+  "hand_applause_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_3_sheet_0.png"
+  },
+  "hand_applause_orc": {
+    "image": "storm_emoji_hands_orc_3_sheet_0.png"
+  },
+  "hand_applause_skeletal": {
+    "image": "storm_emoji_hands_bone_3_sheet_0.png"
+  },
+  "hand_fingerscrossed": {
+    "image": "storm_emoji_hands_generic_3_sheet_1.png"
+  },
+  "hand_fingerscrossed_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_3_sheet_1.png"
+  },
+  "hand_fingerscrossed_orc": {
+    "image": "storm_emoji_hands_orc_3_sheet_1.png"
+  },
+  "hand_fingerscrossed_skeletal": {
+    "image": "storm_emoji_hands_bone_3_sheet_1.png"
+  },
+  "hand_fistbump": {
+    "image": "storm_emoji_hands_generic_1_sheet_0.png"
+  },
+  "hand_fistbump_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_1_sheet_0.png"
+  },
+  "hand_fistbump_orc": {
+    "image": "storm_emoji_hands_orc_1_sheet_0.png"
+  },
+  "hand_fistbump_skeletal": {
+    "image": "storm_emoji_hands_bone_1_sheet_0.png"
+  },
+  "hand_flex": {
+    "image": "storm_emoji_hands_generic_3_sheet_2.png"
+  },
+  "hand_flex_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_3_sheet_2.png"
+  },
+  "hand_flex_orc": {
+    "image": "storm_emoji_hands_orc_3_sheet_2.png"
+  },
+  "hand_flex_skeletal": {
+    "image": "storm_emoji_hands_bone_3_sheet_2.png"
+  },
+  "hand_handshake": {
+    "image": "storm_emoji_hands_generic_3_sheet_4.png"
+  },
+  "hand_handshake_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_3_sheet_4.png"
+  },
+  "hand_handshake_orc": {
+    "image": "storm_emoji_hands_orc_3_sheet_4.png"
+  },
+  "hand_handshake_skeletal": {
+    "image": "storm_emoji_hands_bone_3_sheet_4.png"
+  },
+  "hand_hangloose": {
+    "image": "storm_emoji_hands_generic_1_sheet_1.png"
+  },
+  "hand_hangloose_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_1_sheet_1.png"
+  },
+  "hand_hangloose_orc": {
+    "image": "storm_emoji_hands_orc_1_sheet_1.png"
+  },
+  "hand_hangloose_skeletal": {
+    "image": "storm_emoji_hands_bone_1_sheet_1.png"
+  },
+  "hand_paper": {
+    "image": "storm_emoji_hands_generic_2_sheet_0.png"
+  },
+  "hand_paper_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_2_sheet_0.png"
+  },
+  "hand_paper_orc": {
+    "image": "storm_emoji_hands_orc_2_sheet_0.png"
+  },
+  "hand_paper_skeletal": {
+    "image": "storm_emoji_hands_bone_2_sheet_0.png"
+  },
+  "hand_point": {
+    "image": "storm_emoji_hands_generic_3_sheet_3.png"
+  },
+  "hand_point_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_3_sheet_3.png"
+  },
+  "hand_point_orc": {
+    "image": "storm_emoji_hands_orc_3_sheet_3.png"
+  },
+  "hand_point_skeletal": {
+    "image": "storm_emoji_hands_bone_3_sheet_3.png"
+  },
+  "hand_rock": {
+    "image": "storm_emoji_hands_generic_2_sheet_1.png"
+  },
+  "hand_rockon": {
+    "image": "storm_emoji_hands_generic_1_sheet_2.png"
+  },
+  "hand_rockon_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_1_sheet_2.png"
+  },
+  "hand_rockon_orc": {
+    "image": "storm_emoji_hands_orc_1_sheet_2.png"
+  },
+  "hand_rockon_skeletal": {
+    "image": "storm_emoji_hands_bone_1_sheet_2.png"
+  },
+  "hand_rock_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_2_sheet_1.png"
+  },
+  "hand_rock_orc": {
+    "image": "storm_emoji_hands_orc_2_sheet_1.png"
+  },
+  "hand_rock_skeletal": {
+    "image": "storm_emoji_hands_bone_2_sheet_1.png"
+  },
+  "hand_scissors": {
+    "image": "storm_emoji_hands_generic_2_sheet_2.png"
+  },
+  "hand_scissors_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_2_sheet_2.png"
+  },
+  "hand_scissors_orc": {
+    "image": "storm_emoji_hands_orc_2_sheet_2.png"
+  },
+  "hand_scissors_skeletal": {
+    "image": "storm_emoji_hands_bone_2_sheet_2.png"
+  },
+  "hand_tauren": {
+    "image": "storm_emoji_hands_generic_2_sheet_3.png"
+  },
+  "hand_tauren_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_2_sheet_3.png"
+  },
+  "hand_tauren_orc": {
+    "image": "storm_emoji_hands_orc_2_sheet_3.png"
+  },
+  "hand_tauren_skeletal": {
+    "image": "storm_emoji_hands_bone_2_sheet_3.png"
+  },
+  "hand_thumbsdown": {
+    "image": "storm_emoji_hands_generic_1_sheet_3.png"
+  },
+  "hand_thumbsdown_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_1_sheet_3.png"
+  },
+  "hand_thumbsdown_orc": {
+    "image": "storm_emoji_hands_orc_1_sheet_3.png"
+  },
+  "hand_thumbsdown_skeletal": {
+    "image": "storm_emoji_hands_bone_1_sheet_3.png"
+  },
+  "hand_thumbsup": {
+    "image": "storm_emoji_hands_generic_1_sheet_4.png"
+  },
+  "hand_thumbsup_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_1_sheet_4.png"
+  },
+  "hand_thumbsup_orc": {
+    "image": "storm_emoji_hands_orc_1_sheet_4.png"
+  },
+  "hand_thumbsup_skeletal": {
+    "image": "storm_emoji_hands_bone_1_sheet_4.png"
+  },
+  "hand_zerg": {
+    "image": "storm_emoji_hands_generic_2_sheet_4.png"
+  },
+  "hand_zerg_gauntlet": {
+    "image": "storm_emoji_hands_gauntlet_2_sheet_4.png"
+  },
+  "hand_zerg_orc": {
+    "image": "storm_emoji_hands_orc_2_sheet_4.png"
+  },
+  "hand_zerg_skeletal": {
+    "image": "storm_emoji_hands_bone_2_sheet_4.png"
+  },
+  "hanzo_angry": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_0.png"
+  },
+  "hanzo_cool": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_1.png"
+  },
+  "hanzo_embarrassed": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_2.png"
+  },
+  "hanzo_happy": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_3.png"
+  },
+  "hanzo_inlove": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_4.png"
+  },
+  "hanzo_rofl": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_5.png"
+  },
+  "hanzo_sad": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_6.png"
+  },
+  "hanzo_silly": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_7.png"
+  },
+  "hanzo_speechless": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_8.png"
+  },
+  "hanzo_surprised": {
+    "heroId": "Hanzo",
+    "image": "storm_emoji_hanzo_sheet_9.png"
+  },
+  "heart": {
+    "image": "storm_emoji_hearts_1_sheet_0.png"
+  },
+  "heart_broken": {
+    "image": "storm_emoji_hearts_1_sheet_1.png"
+  },
+  "heart_protoss": {
+    "image": "storm_emoji_hearts_1_sheet_2.png"
+  },
+  "heart_terran": {
+    "image": "storm_emoji_hearts_1_sheet_3.png"
+  },
+  "heart_zerg": {
+    "image": "storm_emoji_hearts_1_sheet_4.png"
+  },
+  "hogger_angry": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_0.png"
+  },
+  "hogger_cool": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_1.png"
+  },
+  "hogger_embarrassed": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_2.png"
+  },
+  "hogger_happy": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_3.png"
+  },
+  "hogger_inlove": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_4.png"
+  },
+  "hogger_rofl": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_5.png"
+  },
+  "hogger_sad": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_6.png"
+  },
+  "hogger_silly": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_7.png"
+  },
+  "hogger_speechless": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_8.png"
+  },
+  "hogger_surprised": {
+    "heroId": "Hogger",
+    "image": "storm_emoji_hogger_sheet_9.png"
+  },
+  "hostemoji_anniversary_reghar1": {
+    "image": "storm_emoji_reghar_classic21_anim_sheet_0.png"
+  },
+  "hostemoji_anniversary_reghar2": {
+    "image": "storm_emoji_reghar_classic21_anim_sheet_1.png"
+  },
+  "hostemoji_anniversary_reghar3": {
+    "image": "storm_emoji_reghar_classic21_anim_sheet_2.png"
+  },
+  "hostemoji_anniversary_reghar4": {
+    "image": "storm_emoji_reghar_classic21_anim_sheet_3.png"
+  },
+  "hostemoji_anniversary_reghar5": {
+    "image": "storm_emoji_reghar_classic21_anim_sheet_4.png"
+  },
+  "hostemoji_anniversary_reghar6": {
+    "image": "storm_emoji_reghar_classic21_anim_sheet_5.png"
+  },
+  "hotsemoji_anniversary_kerrigan1": {
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_0.png"
+  },
+  "hotsemoji_anniversary_kerrigan2": {
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_1.png"
+  },
+  "hotsemoji_anniversary_kerrigan3": {
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_2.png"
+  },
+  "hotsemoji_anniversary_kerrigan4": {
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_3.png"
+  },
+  "hotsemoji_anniversary_kerrigan5": {
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_4.png"
+  },
+  "hotsemoji_anniversary_kerrigan6": {
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_5.png"
+  },
+  "hotsemoji_anniversary_kerrigan7": {
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_6.png"
+  },
+  "hotsemoji_anniversary_kerrigan8": {
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_7.png"
+  },
+  "hotsemoji_anniversary_sorceress1": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_0.png"
+  },
+  "hotsemoji_anniversary_sorceress2": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_1.png"
+  },
+  "hotsemoji_anniversary_sorceress3": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_2.png"
+  },
+  "hotsemoji_anniversary_sorceress4": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_3.png"
+  },
+  "hotsemoji_anniversary_sorceress5": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_4.png"
+  },
+  "hotsemoji_anniversary_sorceress6": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_5.png"
+  },
+  "hotsemoji_anniversary_sorceress7": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_6.png"
+  },
+  "hotsemoji_anniversary_sorceress8": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_7.png"
+  },
+  "hotsemoji_anniversary_vikings1": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_0.png"
+  },
+  "hotsemoji_anniversary_vikings10": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_1.png"
+  },
+  "hotsemoji_anniversary_vikings11": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_2.png"
+  },
+  "hotsemoji_anniversary_vikings12": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_3.png"
+  },
+  "hotsemoji_anniversary_vikings2": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_4.png"
+  },
+  "hotsemoji_anniversary_vikings3": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_5.png"
+  },
+  "hotsemoji_anniversary_vikings4": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_6.png"
+  },
+  "hotsemoji_anniversary_vikings5": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_7.png"
+  },
+  "hotsemoji_anniversary_vikings6": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_8.png"
+  },
+  "hotsemoji_anniversary_vikings7": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_9.png"
+  },
+  "hotsemoji_anniversary_vikings8": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_10.png"
+  },
+  "hotsemoji_anniversary_vikings9": {
+    "image": "storm_emoji_vikings_classic21_anim_sheet_11.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse1": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_0.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse10": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_1.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse11": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_2.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse12": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_3.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse13": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_4.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse14": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_5.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse15": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_6.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse16": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_7.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse2": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_8.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse3": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_9.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse4": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_10.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse5": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_11.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse6": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_12.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse7": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_13.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse8": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_14.png"
+  },
+  "hotsemoji_anniversay_siliconsynapse9": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_15.png"
+  },
+  "illidan_angry": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_0.png"
+  },
+  "illidan_cool": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_1.png"
+  },
+  "illidan_embarrassed": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_2.png"
+  },
+  "illidan_happy": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_3.png"
+  },
+  "illidan_inlove": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_4.png"
+  },
+  "illidan_lunar_angry": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_0.png"
+  },
+  "illidan_lunar_cool": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_1.png"
+  },
+  "illidan_lunar_embarrassed": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_2.png"
+  },
+  "illidan_lunar_happy": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_3.png"
+  },
+  "illidan_lunar_inlove": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_4.png"
+  },
+  "illidan_lunar_rofl": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_5.png"
+  },
+  "illidan_lunar_sad": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_6.png"
+  },
+  "illidan_lunar_silly": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_7.png"
+  },
+  "illidan_lunar_speechless": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_8.png"
+  },
+  "illidan_lunar_surprised": {
+    "heroId": "Illidan",
+    "heroSkinId": "IllidanLunar",
+    "image": "storm_emoji_illidan_lunar_sheet_9.png"
+  },
+  "illidan_rofl": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_5.png"
+  },
+  "illidan_sad": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_6.png"
+  },
+  "illidan_silly": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_7.png"
+  },
+  "illidan_speechless": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_8.png"
+  },
+  "illidan_surprised": {
+    "heroId": "Illidan",
+    "image": "storm_emoji_illidan_sheet_9.png"
+  },
+  "imperius_angry": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_0.png"
+  },
+  "imperius_cool": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_1.png"
+  },
+  "imperius_embarrassed": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_2.png"
+  },
+  "imperius_happy": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_3.png"
+  },
+  "imperius_inlove": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_4.png"
+  },
+  "imperius_rofl": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_5.png"
+  },
+  "imperius_sad": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_6.png"
+  },
+  "imperius_silly": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_7.png"
+  },
+  "imperius_speechless": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_8.png"
+  },
+  "imperius_surprised": {
+    "heroId": "Imperius",
+    "image": "storm_emoji_imperius_sheet_9.png"
+  },
+  "jaina_angry": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_0.png"
+  },
+  "jaina_cool": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_1.png"
+  },
+  "jaina_dreadlord_angry": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_0.png"
+  },
+  "jaina_dreadlord_cool": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_1.png"
+  },
+  "jaina_dreadlord_embarrassed": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_2.png"
+  },
+  "jaina_dreadlord_happy": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_3.png"
+  },
+  "jaina_dreadlord_inlove": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_4.png"
+  },
+  "jaina_dreadlord_rofl": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_5.png"
+  },
+  "jaina_dreadlord_sad": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_6.png"
+  },
+  "jaina_dreadlord_silly": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_7.png"
+  },
+  "jaina_dreadlord_speechless": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_8.png"
+  },
+  "jaina_dreadlord_surprised": {
+    "heroId": "Jaina",
+    "heroSkinId": "JainaDreadlord",
+    "image": "storm_emoji_jaina_dreadlord_sheet_9.png"
+  },
+  "jaina_embarrassed": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_2.png"
+  },
+  "jaina_happy": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_3.png"
+  },
+  "jaina_inlove": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_4.png"
+  },
+  "jaina_rofl": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_5.png"
+  },
+  "jaina_sad": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_6.png"
+  },
+  "jaina_silly": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_7.png"
+  },
+  "jaina_speechless": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_8.png"
+  },
+  "jaina_surprised": {
+    "heroId": "Jaina",
+    "image": "storm_emoji_jaina_sheet_9.png"
+  },
+  "johanna_angry": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_0.png"
+  },
+  "johanna_cool": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_1.png"
+  },
+  "johanna_embarrassed": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_2.png"
+  },
+  "johanna_happy": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_3.png"
+  },
+  "johanna_inlove": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_4.png"
+  },
+  "johanna_owc20_anim": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_johanna_owc20_anim_sheet.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 38,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "johanna_rofl": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_5.png"
+  },
+  "johanna_sad": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_6.png"
+  },
+  "johanna_silly": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_7.png"
+  },
+  "johanna_speechless": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_8.png"
+  },
+  "johanna_surprised": {
+    "heroId": "Crusader",
+    "image": "storm_emoji_johanna_sheet_9.png"
+  },
+  "junkrat_angry": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_0.png"
+  },
+  "junkrat_cool": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_1.png"
+  },
+  "junkrat_embarrassed": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_2.png"
+  },
+  "junkrat_happy": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_3.png"
+  },
+  "junkrat_inlove": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_4.png"
+  },
+  "junkrat_rofl": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_5.png"
+  },
+  "junkrat_sad": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_6.png"
+  },
+  "junkrat_silly": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_7.png"
+  },
+  "junkrat_speechless": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_8.png"
+  },
+  "junkrat_surprised": {
+    "heroId": "Junkrat",
+    "image": "storm_emoji_junkrat_sheet_9.png"
+  },
+  "kaelthas_angry": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_0.png"
+  },
+  "kaelthas_cool": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_1.png"
+  },
+  "kaelthas_embarrassed": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_2.png"
+  },
+  "kaelthas_happy": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_3.png"
+  },
+  "kaelthas_inlove": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_4.png"
+  },
+  "kaelthas_lunar_angry": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_0.png"
+  },
+  "kaelthas_lunar_cool": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_1.png"
+  },
+  "kaelthas_lunar_embarrassed": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_2.png"
+  },
+  "kaelthas_lunar_happy": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_3.png"
+  },
+  "kaelthas_lunar_inlove": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_4.png"
+  },
+  "kaelthas_lunar_rofl": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_5.png"
+  },
+  "kaelthas_lunar_sad": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_6.png"
+  },
+  "kaelthas_lunar_silly": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_7.png"
+  },
+  "kaelthas_lunar_speechless": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_8.png"
+  },
+  "kaelthas_lunar_surprised": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_lunar_sheet_9.png"
+  },
+  "kaelthas_rofl": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_5.png"
+  },
+  "kaelthas_sad": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_6.png"
+  },
+  "kaelthas_silly": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_7.png"
+  },
+  "kaelthas_speechless": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_8.png"
+  },
+  "kaelthas_surprised": {
+    "heroId": "Kaelthas",
+    "image": "storm_emoji_kaelthas_sheet_9.png"
+  },
+  "kelthuzad_angry": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_0.png"
+  },
+  "kelthuzad_cool": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_1.png"
+  },
+  "kelthuzad_embarrassed": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_2.png"
+  },
+  "kelthuzad_happy": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_3.png"
+  },
+  "kelthuzad_inlove": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_4.png"
+  },
+  "kelthuzad_rofl": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_5.png"
+  },
+  "kelthuzad_sad": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_6.png"
+  },
+  "kelthuzad_silly": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_7.png"
+  },
+  "kelthuzad_speechless": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_8.png"
+  },
+  "kelthuzad_surprised": {
+    "heroId": "KelThuzad",
+    "image": "storm_emoji_kelthuzad_sheet_9.png"
+  },
+  "kerrigan_angry": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_0.png"
+  },
+  "kerrigan_classic21_anim": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_kerrigan_classic21_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 29,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "kerrigan_cool": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_1.png"
+  },
+  "kerrigan_countess_angry": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_0.png"
+  },
+  "kerrigan_countess_cool": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_1.png"
+  },
+  "kerrigan_countess_embarrassed": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_2.png"
+  },
+  "kerrigan_countess_happy": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_3.png"
+  },
+  "kerrigan_countess_inlove": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_4.png"
+  },
+  "kerrigan_countess_rofl": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_5.png"
+  },
+  "kerrigan_countess_sad": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_6.png"
+  },
+  "kerrigan_countess_silly": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_7.png"
+  },
+  "kerrigan_countess_speechless": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_8.png"
+  },
+  "kerrigan_countess_surprised": {
+    "heroId": "Kerrigan",
+    "heroSkinId": "KerriganCountess",
+    "image": "storm_emoji_kerrigan_countess_sheet_9.png"
+  },
+  "kerrigan_embarrassed": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_2.png"
+  },
+  "kerrigan_happy": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_3.png"
+  },
+  "kerrigan_inlove": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_4.png"
+  },
+  "kerrigan_rofl": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_5.png"
+  },
+  "kerrigan_sad": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_6.png"
+  },
+  "kerrigan_silly": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_7.png"
+  },
+  "kerrigan_speechless": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_8.png"
+  },
+  "kerrigan_surprised": {
+    "heroId": "Kerrigan",
+    "image": "storm_emoji_kerrigan_sheet_9.png"
+  },
+  "kharazim_angry": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_0.png"
+  },
+  "kharazim_cool": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_1.png"
+  },
+  "kharazim_embarrassed": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_2.png"
+  },
+  "kharazim_happy": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_3.png"
+  },
+  "kharazim_inlove": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_4.png"
+  },
+  "kharazim_rofl": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_5.png"
+  },
+  "kharazim_sad": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_6.png"
+  },
+  "kharazim_silly": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_7.png"
+  },
+  "kharazim_speechless": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_8.png"
+  },
+  "kharazim_surprised": {
+    "heroId": "Monk",
+    "image": "storm_emoji_kharazim_sheet_9.png"
+  },
+  "leoric_angry": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_0.png"
+  },
+  "leoric_cool": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_1.png"
+  },
+  "leoric_embarrassed": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_2.png"
+  },
+  "leoric_happy": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_3.png"
+  },
+  "leoric_inlove": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_4.png"
+  },
+  "leoric_rofl": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_5.png"
+  },
+  "leoric_sad": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_6.png"
+  },
+  "leoric_silly": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_7.png"
+  },
+  "leoric_speechless": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_8.png"
+  },
+  "leoric_surprised": {
+    "heroId": "Leoric",
+    "image": "storm_emoji_leoric_sheet_9.png"
+  },
+  "lili_angry": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_0.png"
+  },
+  "lili_cool": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_1.png"
+  },
+  "lili_embarrassed": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_2.png"
+  },
+  "lili_happy": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_3.png"
+  },
+  "lili_inlove": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_4.png"
+  },
+  "lili_lunar_angry": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_0.png"
+  },
+  "lili_lunar_cool": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_1.png"
+  },
+  "lili_lunar_embarrassed": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_2.png"
+  },
+  "lili_lunar_happy": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_3.png"
+  },
+  "lili_lunar_inlove": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_4.png"
+  },
+  "lili_lunar_rofl": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_5.png"
+  },
+  "lili_lunar_sad": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_6.png"
+  },
+  "lili_lunar_silly": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_7.png"
+  },
+  "lili_lunar_speechless": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_8.png"
+  },
+  "lili_lunar_surprised": {
+    "heroId": "LiLi",
+    "heroSkinId": "LiLiLunarLiLi",
+    "image": "storm_emoji_lili_lunar_sheet_9.png"
+  },
+  "lili_rofl": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_5.png"
+  },
+  "lili_sad": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_6.png"
+  },
+  "lili_silly": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_7.png"
+  },
+  "lili_speechless": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_8.png"
+  },
+  "lili_surprised": {
+    "heroId": "LiLi",
+    "image": "storm_emoji_lili_sheet_9.png"
+  },
+  "liming_angry": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_0.png"
+  },
+  "liming_cool": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_1.png"
+  },
+  "liming_embarrassed": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_2.png"
+  },
+  "liming_happy": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_3.png"
+  },
+  "liming_inlove": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_4.png"
+  },
+  "liming_rofl": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_5.png"
+  },
+  "liming_sad": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_6.png"
+  },
+  "liming_silly": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_7.png"
+  },
+  "liming_speechless": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_8.png"
+  },
+  "liming_surprised": {
+    "heroId": "Wizard",
+    "image": "storm_emoji_liming_sheet_9.png"
+  },
+  "lostvikings_angry": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_0.png"
+  },
+  "lostvikings_cool": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_1.png"
+  },
+  "lostvikings_embarrassed": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_2.png"
+  },
+  "lostvikings_happy": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_3.png"
+  },
+  "lostvikings_inlove": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_4.png"
+  },
+  "lostvikings_rofl": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_5.png"
+  },
+  "lostvikings_sad": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_6.png"
+  },
+  "lostvikings_silly": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_7.png"
+  },
+  "lostvikings_speechless": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_8.png"
+  },
+  "lostvikings_surprised": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostvikings_sheet_9.png"
+  },
+  "lostviking_classic21_anim": {
+    "heroId": "LostVikings",
+    "image": "storm_emoji_lostviking_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_lostviking_classic21_anim_sheet.png",
+      "frames": 12,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "lucio_angry": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_0.png"
+  },
+  "lucio_cool": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_1.png"
+  },
+  "lucio_embarrassed": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_2.png"
+  },
+  "lucio_happy": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_3.png"
+  },
+  "lucio_inlove": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_4.png"
+  },
+  "lucio_rofl": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_5.png"
+  },
+  "lucio_sad": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_6.png"
+  },
+  "lucio_silly": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_7.png"
+  },
+  "lucio_speechless": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_8.png"
+  },
+  "lucio_surprised": {
+    "heroId": "Lucio",
+    "image": "storm_emoji_lucio_sheet_9.png"
+  },
+  "lunara_angry": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_0.png"
+  },
+  "lunara_cool": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_1.png"
+  },
+  "lunara_embarrassed": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_2.png"
+  },
+  "lunara_happy": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_3.png"
+  },
+  "lunara_inlove": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_4.png"
+  },
+  "lunara_rofl": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_5.png"
+  },
+  "lunara_sad": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_6.png"
+  },
+  "lunara_silly": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_7.png"
+  },
+  "lunara_speechless": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_8.png"
+  },
+  "lunara_summer18_angry": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_0.png"
+  },
+  "lunara_summer18_cool": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_1.png"
+  },
+  "lunara_summer18_embarrassed": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_2.png"
+  },
+  "lunara_summer18_happy": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_3.png"
+  },
+  "lunara_summer18_inlove": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_4.png"
+  },
+  "lunara_summer18_rofl": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_5.png"
+  },
+  "lunara_summer18_sad": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_6.png"
+  },
+  "lunara_summer18_silly": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_7.png"
+  },
+  "lunara_summer18_speechless": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_8.png"
+  },
+  "lunara_summer18_surprised": {
+    "heroId": "Dryad",
+    "heroSkinId": "DryadSummer18",
+    "image": "storm_emoji_lunara_summer18_sheet_9.png"
+  },
+  "lunara_surprised": {
+    "heroId": "Dryad",
+    "image": "storm_emoji_lunara_sheet_9.png"
+  },
+  "madaxe19_azmotank": {
+    "image": "storm_emoji_madaxe19_1_sheet_0.png"
+  },
+  "madaxe19_bloodrage": {
+    "image": "storm_emoji_madaxe19_2_sheet_0.png"
+  },
+  "madaxe19_deckardcans": {
+    "image": "storm_emoji_madaxe19_1_sheet_1.png"
+  },
+  "madaxe19_garrrry": {
+    "image": "storm_emoji_madaxe19_1_sheet_2.png"
+  },
+  "madaxe19_madlad": {
+    "image": "storm_emoji_madaxe19_1_sheet_3.png"
+  },
+  "madaxe19_madrider": {
+    "image": "storm_emoji_madaxe19_1_sheet_4.png"
+  },
+  "madaxe19_nazeebo": {
+    "image": "storm_emoji_madaxe19_2_sheet_1.png"
+  },
+  "madaxe19_ripper": {
+    "image": "storm_emoji_madaxe19_2_sheet_2.png"
+  },
+  "madaxe19_trashsniper": {
+    "image": "storm_emoji_madaxe19_2_sheet_3.png"
+  },
+  "madaxe19_zombies": {
+    "image": "storm_emoji_madaxe19_2_sheet_4.png"
+  },
+  "maiev_angry": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_0.png"
+  },
+  "maiev_cool": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_1.png"
+  },
+  "maiev_embarrassed": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_2.png"
+  },
+  "maiev_happy": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_3.png"
+  },
+  "maiev_inlove": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_4.png"
+  },
+  "maiev_rofl": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_5.png"
+  },
+  "maiev_sad": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_6.png"
+  },
+  "maiev_silly": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_7.png"
+  },
+  "maiev_speechless": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_8.png"
+  },
+  "maiev_surprised": {
+    "heroId": "Maiev",
+    "image": "storm_emoji_maiev_sheet_9.png"
+  },
+  "malfurion_angry": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_0.png"
+  },
+  "malfurion_cool": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_1.png"
+  },
+  "malfurion_embarrassed": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_2.png"
+  },
+  "malfurion_happy": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_3.png"
+  },
+  "malfurion_inlove": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_4.png"
+  },
+  "malfurion_rofl": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_5.png"
+  },
+  "malfurion_sad": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_6.png"
+  },
+  "malfurion_silly": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_7.png"
+  },
+  "malfurion_speechless": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_8.png"
+  },
+  "malfurion_surprised": {
+    "heroId": "Malfurion",
+    "image": "storm_emoji_malfurion_sheet_9.png"
+  },
+  "malfurion_winterveil_angry": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_0.png"
+  },
+  "malfurion_winterveil_cool": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_1.png"
+  },
+  "malfurion_winterveil_embarrassed": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_2.png"
+  },
+  "malfurion_winterveil_happy": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_3.png"
+  },
+  "malfurion_winterveil_inlove": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_4.png"
+  },
+  "malfurion_winterveil_rofl": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_5.png"
+  },
+  "malfurion_winterveil_sad": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_6.png"
+  },
+  "malfurion_winterveil_silly": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_7.png"
+  },
+  "malfurion_winterveil_speechless": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_8.png"
+  },
+  "malfurion_winterveil_surprised": {
+    "heroId": "Malfurion",
+    "heroSkinId": "MalfurionWinter",
+    "image": "storm_emoji_malfurion_winterveil_sheet_9.png"
+  },
+  "malganis_angry": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_0.png"
+  },
+  "malganis_cool": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_1.png"
+  },
+  "malganis_embarrassed": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_2.png"
+  },
+  "malganis_happy": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_3.png"
+  },
+  "malganis_inlove": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_4.png"
+  },
+  "malganis_rofl": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_5.png"
+  },
+  "malganis_sad": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_6.png"
+  },
+  "malganis_silly": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_7.png"
+  },
+  "malganis_speechless": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_8.png"
+  },
+  "malganis_surprised": {
+    "heroId": "MalGanis",
+    "image": "storm_emoji_malganis_sheet_9.png"
+  },
+  "malthael_angry": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_0.png"
+  },
+  "malthael_cool": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_1.png"
+  },
+  "malthael_embarrassed": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_2.png"
+  },
+  "malthael_happy": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_3.png"
+  },
+  "malthael_inlove": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_4.png"
+  },
+  "malthael_rofl": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_5.png"
+  },
+  "malthael_sad": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_6.png"
+  },
+  "malthael_silly": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_7.png"
+  },
+  "malthael_speechless": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_8.png"
+  },
+  "malthael_surprised": {
+    "heroId": "Malthael",
+    "image": "storm_emoji_malthael_sheet_9.png"
+  },
+  "mecha_anduin_neo": {
+    "image": "storm_emoji_secret_01_sheet_6.png"
+  },
+  "mecha_malthael_anim": {
+    "image": "storm_emoji_mecha_malthael_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_malthael_anim_sheet.png",
+      "frames": 6,
+      "duration": 120,
+      "width": 40,
+      "columns": 5,
+      "rows": 2
+    }
+  },
+  "mecha_pilotvalla_anim": {
+    "image": "storm_emoji_mecha_pilotvalla_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_pilotvalla_anim_sheet.png",
+      "frames": 4,
+      "duration": 60,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "mecha_pilotyrel_anim": {
+    "image": "storm_emoji_mecha_pilotyrel_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_pilotyrel_anim_sheet.png",
+      "frames": 5,
+      "duration": 120,
+      "width": 40,
+      "columns": 5,
+      "rows": 1
+    }
+  },
+  "mecha_valla_anim": {
+    "image": "storm_emoji_mecha_valla_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_valla_anim_sheet.png",
+      "frames": 6,
+      "duration": 70,
+      "width": 40,
+      "columns": 5,
+      "rows": 2
+    }
+  },
+  "mecha_yrel_anim": {
+    "image": "storm_emoji_mecha_yrel_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mecha_yrel_anim_sheet.png",
+      "frames": 3,
+      "duration": 100,
+      "width": 40,
+      "columns": 3,
+      "rows": 1
+    }
+  },
+  "medivh_angry": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_0.png"
+  },
+  "medivh_cool": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_1.png"
+  },
+  "medivh_embarrassed": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_2.png"
+  },
+  "medivh_happy": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_3.png"
+  },
+  "medivh_inlove": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_4.png"
+  },
+  "medivh_rofl": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_5.png"
+  },
+  "medivh_sad": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_6.png"
+  },
+  "medivh_silly": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_7.png"
+  },
+  "medivh_speechless": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_8.png"
+  },
+  "medivh_surprised": {
+    "heroId": "Medivh",
+    "image": "storm_emoji_medivh_sheet_9.png"
+  },
+  "mei_angry": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_0.png"
+  },
+  "mei_cool": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_1.png"
+  },
+  "mei_embarrassed": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_2.png"
+  },
+  "mei_happy": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_3.png"
+  },
+  "mei_inlove": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_4.png"
+  },
+  "mei_rofl": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_5.png"
+  },
+  "mei_sad": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_6.png"
+  },
+  "mei_silly": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_7.png"
+  },
+  "mei_snow1": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_10.png"
+  },
+  "mei_snow2": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_11.png"
+  },
+  "mei_speechless": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_8.png"
+  },
+  "mei_surprised": {
+    "heroId": "MeiOW",
+    "image": "storm_emoji_mei_sheet_9.png"
+  },
+  "mephisto_angry": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_0.png"
+  },
+  "mephisto_cool": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_1.png"
+  },
+  "mephisto_embarrassed": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_2.png"
+  },
+  "mephisto_happy": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_3.png"
+  },
+  "mephisto_inlove": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_4.png"
+  },
+  "mephisto_rofl": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_5.png"
+  },
+  "mephisto_sad": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_6.png"
+  },
+  "mephisto_silly": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_7.png"
+  },
+  "mephisto_speechless": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_8.png"
+  },
+  "mephisto_surprised": {
+    "heroId": "Mephisto",
+    "image": "storm_emoji_mephisto_sheet_9.png"
+  },
+  "mobster_hammer_anim": {
+    "image": "storm_emoji_mobster19_hammercar_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_hammercar_sheet.png",
+      "frames": 12,
+      "duration": 50,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "mobster_junkrat_anim": {
+    "image": "storm_emoji_mobster19_junkrat_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_junkrat_sheet.png",
+      "frames": 8,
+      "duration": 80,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "mobster_orphea_anim": {
+    "image": "storm_emoji_mobster19_orphea_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_orphea_sheet.png",
+      "frames": 8,
+      "duration": 120,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "mobster_raccoon_anim": {
+    "image": "storm_emoji_mobster19_raccoon_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_raccoon_sheet.png",
+      "frames": 5,
+      "duration": 120,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "mobster_whitemane_anim": {
+    "image": "storm_emoji_mobster19_whitemane_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_mobster19_whitemane_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "morales_angry": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_0.png"
+  },
+  "morales_cool": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_1.png"
+  },
+  "morales_embarrassed": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_2.png"
+  },
+  "morales_happy": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_3.png"
+  },
+  "morales_inlove": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_4.png"
+  },
+  "morales_rofl": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_5.png"
+  },
+  "morales_sad": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_6.png"
+  },
+  "morales_silly": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_7.png"
+  },
+  "morales_speechless": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_8.png"
+  },
+  "morales_surprised": {
+    "heroId": "Medic",
+    "image": "storm_emoji_morales_sheet_9.png"
+  },
+  "muradin_angry": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_0.png"
+  },
+  "muradin_cool": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_1.png"
+  },
+  "muradin_embarrassed": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_2.png"
+  },
+  "muradin_happy": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_3.png"
+  },
+  "muradin_inlove": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_4.png"
+  },
+  "muradin_rofl": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_5.png"
+  },
+  "muradin_sad": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_6.png"
+  },
+  "muradin_silly": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_7.png"
+  },
+  "muradin_speechless": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_8.png"
+  },
+  "muradin_surprised": {
+    "heroId": "Muradin",
+    "image": "storm_emoji_muradin_sheet_9.png"
+  },
+  "murky_angry": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_0.png"
+  },
+  "murky_cool": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_1.png"
+  },
+  "murky_embarrassed": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_2.png"
+  },
+  "murky_happy": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_3.png"
+  },
+  "murky_inlove": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_4.png"
+  },
+  "murky_rofl": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_5.png"
+  },
+  "murky_sad": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_6.png"
+  },
+  "murky_silly": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_7.png"
+  },
+  "murky_speechless": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_8.png"
+  },
+  "murky_surprised": {
+    "heroId": "Murky",
+    "image": "storm_emoji_murky_sheet_9.png"
+  },
+  "myth_cassia": {
+    "image": "storm_emoji_myth_sheet_0.png"
+  },
+  "myth_cerberus": {
+    "image": "storm_emoji_myth_sheet_2.png"
+  },
+  "myth_pegasus": {
+    "image": "storm_emoji_myth_sheet_3.png"
+  },
+  "myth_tracer": {
+    "image": "storm_emoji_myth_sheet_1.png"
+  },
+  "myth_tyrande": {
+    "image": "storm_emoji_myth_sheet_4.png"
+  },
+  "nature_crater": {
+    "image": "storm_emoji_nature_1_sheet_0.png"
+  },
+  "nature_droplets": {
+    "image": "storm_emoji_nature_1_sheet_1.png"
+  },
+  "nature_fire": {
+    "image": "storm_emoji_nature_1_sheet_2.png"
+  },
+  "nature_flower": {
+    "image": "storm_emoji_nature_1_sheet_3.png"
+  },
+  "nature_gust": {
+    "image": "storm_emoji_nature_1_sheet_4.png"
+  },
+  "nazeebo_angry": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_0.png"
+  },
+  "nazeebo_cool": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_1.png"
+  },
+  "nazeebo_embarrassed": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_2.png"
+  },
+  "nazeebo_gingerdread_angry": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_0.png"
+  },
+  "nazeebo_gingerdread_cool": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_1.png"
+  },
+  "nazeebo_gingerdread_embarrassed": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_2.png"
+  },
+  "nazeebo_gingerdread_happy": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_3.png"
+  },
+  "nazeebo_gingerdread_inlove": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_4.png"
+  },
+  "nazeebo_gingerdread_rofl": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_5.png"
+  },
+  "nazeebo_gingerdread_sad": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_6.png"
+  },
+  "nazeebo_gingerdread_silly": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_7.png"
+  },
+  "nazeebo_gingerdread_speechless": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_8.png"
+  },
+  "nazeebo_gingerdread_surprised": {
+    "heroId": "WitchDoctor",
+    "heroSkinId": "WitchDoctorWinter",
+    "image": "storm_emoji_nazeebo_winterveil_sheet_9.png"
+  },
+  "nazeebo_happy": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_3.png"
+  },
+  "nazeebo_inlove": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_4.png"
+  },
+  "nazeebo_rofl": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_5.png"
+  },
+  "nazeebo_sad": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_6.png"
+  },
+  "nazeebo_silly": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_7.png"
+  },
+  "nazeebo_speechless": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_8.png"
+  },
+  "nazeebo_surprised": {
+    "heroId": "WitchDoctor",
+    "image": "storm_emoji_nazeebo_sheet_9.png"
+  },
+  "nexomania_diablo_anim": {
+    "image": "storm_emoji_nexomania_diablo_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_diablo_anim_sheet.png",
+      "frames": 6,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "nexomania_garrosh_anim": {
+    "image": "storm_emoji_nexomania_garrosh_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_garrosh_anim_sheet.png",
+      "frames": 12,
+      "duration": 125,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "nexomania_imperius_anim": {
+    "image": "storm_emoji_nexomania_imperius_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_imperius_anim_sheet.png",
+      "frames": 8,
+      "duration": 120,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "nexomania_lili_anim": {
+    "image": "storm_emoji_nexomania_lili_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_lili_anim_sheet.png",
+      "frames": 8,
+      "duration": 125,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "nexomania_malganis_anim": {
+    "image": "storm_emoji_nexomania_malganis_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nexomania_malganis_anim_sheet.png",
+      "frames": 18,
+      "duration": 125,
+      "width": 40,
+      "columns": 4,
+      "rows": 5
+    }
+  },
+  "nexushunter_angry": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_0.png"
+  },
+  "nexushunter_cool": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_1.png"
+  },
+  "nexushunter_embarrassed": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_2.png"
+  },
+  "nexushunter_happy": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_3.png"
+  },
+  "nexushunter_inlove": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_4.png"
+  },
+  "nexushunter_rofl": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_5.png"
+  },
+  "nexushunter_sad": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_6.png"
+  },
+  "nexushunter_silly": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_7.png"
+  },
+  "nexushunter_speechless": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_8.png"
+  },
+  "nexushunter_surprised": {
+    "heroId": "NexusHunter",
+    "image": "storm_emoji_nexushunter_sheet_9.png"
+  },
+  "nexus_angry": {
+    "image": "storm_emoji_nexus_sheet_0.png"
+  },
+  "nexus_cool": {
+    "image": "storm_emoji_nexus_sheet_1.png"
+  },
+  "nexus_embarrassed": {
+    "image": "storm_emoji_nexus_sheet_2.png"
+  },
+  "nexus_happy": {
+    "image": "storm_emoji_nexus_sheet_3.png"
+  },
+  "nexus_inlove": {
+    "image": "storm_emoji_nexus_sheet_4.png"
+  },
+  "nexus_rofl": {
+    "image": "storm_emoji_nexus_sheet_5.png"
+  },
+  "nexus_sad": {
+    "image": "storm_emoji_nexus_sheet_6.png"
+  },
+  "nexus_silly": {
+    "image": "storm_emoji_nexus_sheet_7.png"
+  },
+  "nexus_speechless": {
+    "image": "storm_emoji_nexus_sheet_8.png"
+  },
+  "nexus_surprised": {
+    "image": "storm_emoji_nexus_sheet_9.png"
+  },
+  "nexus_thinking": {
+    "image": "storm_emoji_secret_01_sheet_2.png"
+  },
+  "nova_angry": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_0.png"
+  },
+  "nova_cool": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_1.png"
+  },
+  "nova_embarrassed": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_2.png"
+  },
+  "nova_happy": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_3.png"
+  },
+  "nova_inlove": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_4.png"
+  },
+  "nova_owc20_anim": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_nova_owc20_anim_sheet.png",
+      "frames": 5,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "nova_rofl": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_5.png"
+  },
+  "nova_sad": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_6.png"
+  },
+  "nova_silly": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_7.png"
+  },
+  "nova_speechless": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_8.png"
+  },
+  "nova_surprised": {
+    "heroId": "Nova",
+    "image": "storm_emoji_nova_sheet_9.png"
+  },
+  "orphea_angry": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_0.png"
+  },
+  "orphea_cool": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_1.png"
+  },
+  "orphea_embarrassed": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_2.png"
+  },
+  "orphea_happy": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_3.png"
+  },
+  "orphea_inlove": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_4.png"
+  },
+  "orphea_rofl": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_5.png"
+  },
+  "orphea_sad": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_6.png"
+  },
+  "orphea_silly": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_7.png"
+  },
+  "orphea_speechless": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_8.png"
+  },
+  "orphea_surprised": {
+    "heroId": "Orphea",
+    "image": "storm_emoji_orphea_sheet_9.png"
+  },
+  "pachimari_angry": {
+    "image": "storm_emoji_pachimari_sheet_0.png"
+  },
+  "pachimari_cool": {
+    "image": "storm_emoji_pachimari_sheet_1.png"
+  },
+  "pachimari_embarrassed": {
+    "image": "storm_emoji_pachimari_sheet_2.png"
+  },
+  "pachimari_gold": {
+    "image": "storm_emoji_secret_01_sheet_0.png"
+  },
+  "pachimari_happy": {
+    "image": "storm_emoji_pachimari_sheet_3.png"
+  },
+  "pachimari_inlove": {
+    "image": "storm_emoji_pachimari_sheet_4.png"
+  },
+  "pachimari_owc20_anim": {
+    "image": "storm_emoji_pachimari_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_pachimari_owc20_anim_sheet.png",
+      "frames": 5,
+      "duration": 100,
+      "width": 28,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "pachimari_rofl": {
+    "image": "storm_emoji_pachimari_sheet_5.png"
+  },
+  "pachimari_sad": {
+    "image": "storm_emoji_pachimari_sheet_6.png"
+  },
+  "pachimari_silly": {
+    "image": "storm_emoji_pachimari_sheet_7.png"
+  },
+  "pachimari_speechless": {
+    "image": "storm_emoji_pachimari_sheet_8.png"
+  },
+  "pachimari_surprised": {
+    "image": "storm_emoji_pachimari_sheet_9.png"
+  },
+  "phrases_gg": {
+    "image": "storm_emoji_phrases_generic_sheet_0.png"
+  },
+  "phrases_gj": {
+    "image": "storm_emoji_phrases_generic_sheet_1.png"
+  },
+  "phrases_glhf": {
+    "image": "storm_emoji_phrases_generic_sheet_2.png"
+  },
+  "phrases_hallowsend_gg": {
+    "image": "storm_emoji_phrases_hallowsend_sheet_0.png"
+  },
+  "phrases_hallowsend_gj": {
+    "image": "storm_emoji_phrases_hallowsend_sheet_1.png"
+  },
+  "phrases_hallowsend_glhf": {
+    "image": "storm_emoji_phrases_hallowsend_sheet_2.png"
+  },
+  "phrases_hallowsend_tt": {
+    "image": "storm_emoji_phrases_hallowsend_sheet_3.png"
+  },
+  "phrases_hallowsend_zzz": {
+    "image": "storm_emoji_phrases_hallowsend_sheet_4.png"
+  },
+  "phrases_lunar_gg": {
+    "image": "storm_emoji_phrases_lunar_sheet_0.png"
+  },
+  "phrases_lunar_gj": {
+    "image": "storm_emoji_phrases_lunar_sheet_1.png"
+  },
+  "phrases_lunar_glhf": {
+    "image": "storm_emoji_phrases_lunar_sheet_2.png"
+  },
+  "phrases_lunar_tt": {
+    "image": "storm_emoji_phrases_lunar_sheet_3.png"
+  },
+  "phrases_lunar_zzz": {
+    "image": "storm_emoji_phrases_lunar_sheet_4.png"
+  },
+  "phrases_mecha_gg": {
+    "image": "storm_emoji_phrases_mecha_sheet_0.png"
+  },
+  "phrases_mecha_gj": {
+    "image": "storm_emoji_phrases_mecha_sheet_1.png"
+  },
+  "phrases_mecha_glhf": {
+    "image": "storm_emoji_phrases_mecha_sheet_2.png"
+  },
+  "phrases_mecha_tt": {
+    "image": "storm_emoji_phrases_mecha_sheet_3.png"
+  },
+  "phrases_mecha_zzz": {
+    "image": "storm_emoji_phrases_mecha_sheet_4.png"
+  },
+  "phrases_spring19_1337": {
+    "image": "storm_emoji_phrases_spring19_sheet_0.png"
+  },
+  "phrases_spring19_h4x": {
+    "image": "storm_emoji_phrases_spring19_sheet_1.png"
+  },
+  "phrases_spring19_m8": {
+    "image": "storm_emoji_phrases_spring19_sheet_2.png"
+  },
+  "phrases_spring19_pwn": {
+    "image": "storm_emoji_phrases_spring19_sheet_3.png"
+  },
+  "phrases_spring19_woot": {
+    "image": "storm_emoji_phrases_spring19_sheet_4.png"
+  },
+  "phrases_sweets_gg": {
+    "image": "storm_emoji_phrases_sweets_sheet_0.png"
+  },
+  "phrases_sweets_gj": {
+    "image": "storm_emoji_phrases_sweets_sheet_1.png"
+  },
+  "phrases_sweets_glhf": {
+    "image": "storm_emoji_phrases_sweets_sheet_2.png"
+  },
+  "phrases_sweets_tt": {
+    "image": "storm_emoji_phrases_sweets_sheet_3.png"
+  },
+  "phrases_sweets_zzz": {
+    "image": "storm_emoji_phrases_sweets_sheet_4.png"
+  },
+  "phrases_tt": {
+    "image": "storm_emoji_phrases_generic_sheet_3.png"
+  },
+  "phrases_winterveil_gg": {
+    "image": "storm_emoji_phrases_winterveil_sheet_0.png"
+  },
+  "phrases_winterveil_gj": {
+    "image": "storm_emoji_phrases_winterveil_sheet_1.png"
+  },
+  "phrases_winterveil_glhf": {
+    "image": "storm_emoji_phrases_winterveil_sheet_2.png"
+  },
+  "phrases_winterveil_tt": {
+    "image": "storm_emoji_phrases_winterveil_sheet_3.png"
+  },
+  "phrases_winterveil_zzz": {
+    "image": "storm_emoji_phrases_winterveil_sheet_4.png"
+  },
+  "phrases_zzz": {
+    "image": "storm_emoji_phrases_generic_sheet_4.png"
+  },
+  "probius_angry": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_0.png"
+  },
+  "probius_cool": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_1.png"
+  },
+  "probius_embarrassed": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_2.png"
+  },
+  "probius_happy": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_3.png"
+  },
+  "probius_inlove": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_4.png"
+  },
+  "probius_rofl": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_5.png"
+  },
+  "probius_sad": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_6.png"
+  },
+  "probius_silly": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_7.png"
+  },
+  "probius_speechless": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_8.png"
+  },
+  "probius_surprised": {
+    "heroId": "Probius",
+    "image": "storm_emoji_probius_sheet_9.png"
+  },
+  "ragnaros_angry": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_0.png"
+  },
+  "ragnaros_cool": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_1.png"
+  },
+  "ragnaros_embarrassed": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_2.png"
+  },
+  "ragnaros_happy": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_3.png"
+  },
+  "ragnaros_inlove": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_4.png"
+  },
+  "ragnaros_rofl": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_5.png"
+  },
+  "ragnaros_sad": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_6.png"
+  },
+  "ragnaros_silly": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_7.png"
+  },
+  "ragnaros_speechless": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_8.png"
+  },
+  "ragnaros_surprised": {
+    "heroId": "Ragnaros",
+    "image": "storm_emoji_ragnaros_sheet_9.png"
+  },
+  "raynor_angry": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_0.png"
+  },
+  "raynor_cool": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_1.png"
+  },
+  "raynor_embarrassed": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_2.png"
+  },
+  "raynor_happy": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_3.png"
+  },
+  "raynor_inlove": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_4.png"
+  },
+  "raynor_owc20_anim": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_raynor_owc20_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 36,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "raynor_rofl": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_5.png"
+  },
+  "raynor_sad": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_6.png"
+  },
+  "raynor_silly": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_7.png"
+  },
+  "raynor_speechless": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_8.png"
+  },
+  "raynor_surprised": {
+    "heroId": "Raynor",
+    "image": "storm_emoji_raynor_sheet_9.png"
+  },
+  "rehgar_angry": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_0.png"
+  },
+  "rehgar_classic21_anim": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_rehgar_classic21_anim_sheet.png",
+      "frames": 6,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "rehgar_cool": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_1.png"
+  },
+  "rehgar_embarrassed": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_2.png"
+  },
+  "rehgar_happy": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_3.png"
+  },
+  "rehgar_inlove": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_4.png"
+  },
+  "rehgar_mecha_angry": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_0.png"
+  },
+  "rehgar_mecha_cool": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_1.png"
+  },
+  "rehgar_mecha_embarrassed": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_2.png"
+  },
+  "rehgar_mecha_happy": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_3.png"
+  },
+  "rehgar_mecha_inlove": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_4.png"
+  },
+  "rehgar_mecha_rofl": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_5.png"
+  },
+  "rehgar_mecha_sad": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_6.png"
+  },
+  "rehgar_mecha_silly": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_7.png"
+  },
+  "rehgar_mecha_speechless": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_8.png"
+  },
+  "rehgar_mecha_surprised": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarMecha",
+    "image": "storm_emoji_rehgar_mecha_sheet_9.png"
+  },
+  "rehgar_rofl": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_5.png"
+  },
+  "rehgar_sad": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_6.png"
+  },
+  "rehgar_silly": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_7.png"
+  },
+  "rehgar_speechless": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_8.png"
+  },
+  "rehgar_surprised": {
+    "heroId": "Rehgar",
+    "image": "storm_emoji_rehgar_sheet_9.png"
+  },
+  "rehgar_winterveil_angry": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_0.png"
+  },
+  "rehgar_winterveil_cool": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_1.png"
+  },
+  "rehgar_winterveil_embarrassed": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_2.png"
+  },
+  "rehgar_winterveil_happy": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_3.png"
+  },
+  "rehgar_winterveil_inlove": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_4.png"
+  },
+  "rehgar_winterveil_rofl": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_5.png"
+  },
+  "rehgar_winterveil_sad": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_6.png"
+  },
+  "rehgar_winterveil_silly": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_7.png"
+  },
+  "rehgar_winterveil_speechless": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_8.png"
+  },
+  "rehgar_winterveil_surprised": {
+    "heroId": "Rehgar",
+    "heroSkinId": "RehgarGFWinter",
+    "image": "storm_emoji_rehgar_winterveil_sheet_9.png"
+  },
+  "rexxar_angry": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_0.png"
+  },
+  "rexxar_cool": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_1.png"
+  },
+  "rexxar_embarrassed": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_2.png"
+  },
+  "rexxar_happy": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_3.png"
+  },
+  "rexxar_inlove": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_4.png"
+  },
+  "rexxar_rofl": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_5.png"
+  },
+  "rexxar_sad": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_6.png"
+  },
+  "rexxar_silly": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_7.png"
+  },
+  "rexxar_speechless": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_8.png"
+  },
+  "rexxar_surprised": {
+    "heroId": "Rexxar",
+    "image": "storm_emoji_rexxar_sheet_9.png"
+  },
+  "samuro_angry": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_0.png"
+  },
+  "samuro_cool": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_1.png"
+  },
+  "samuro_embarrassed": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_2.png"
+  },
+  "samuro_happy": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_3.png"
+  },
+  "samuro_inlove": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_4.png"
+  },
+  "samuro_rofl": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_5.png"
+  },
+  "samuro_sad": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_6.png"
+  },
+  "samuro_silly": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_7.png"
+  },
+  "samuro_speechless": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_8.png"
+  },
+  "samuro_surprised": {
+    "heroId": "Samuro",
+    "image": "storm_emoji_samuro_sheet_9.png"
+  },
+  "sapper_angry": {
+    "image": "storm_emoji_sapper_sheet_0.png"
+  },
+  "sapper_cool": {
+    "image": "storm_emoji_sapper_sheet_1.png"
+  },
+  "sapper_embarrassed": {
+    "image": "storm_emoji_sapper_sheet_2.png"
+  },
+  "sapper_googly": {
+    "image": "storm_emoji_secret_01_sheet_1.png"
+  },
+  "sapper_happy": {
+    "image": "storm_emoji_sapper_sheet_3.png"
+  },
+  "sapper_inlove": {
+    "image": "storm_emoji_sapper_sheet_4.png"
+  },
+  "sapper_rofl": {
+    "image": "storm_emoji_sapper_sheet_5.png"
+  },
+  "sapper_sad": {
+    "image": "storm_emoji_sapper_sheet_6.png"
+  },
+  "sapper_silly": {
+    "image": "storm_emoji_sapper_sheet_7.png"
+  },
+  "sapper_speechless": {
+    "image": "storm_emoji_sapper_sheet_8.png"
+  },
+  "sapper_surprised": {
+    "image": "storm_emoji_sapper_sheet_9.png"
+  },
+  "siliconsynapse_classic21_anim": {
+    "image": "storm_emoji_siliconsynapse_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_siliconsynapse_classic21_anim_sheet.png",
+      "frames": 16,
+      "duration": 100,
+      "width": 28,
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "sonya_angry": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_0.png"
+  },
+  "sonya_cool": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_1.png"
+  },
+  "sonya_deathbringer_angry": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_0.png"
+  },
+  "sonya_deathbringer_cool": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_1.png"
+  },
+  "sonya_deathbringer_embarrassed": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_2.png"
+  },
+  "sonya_deathbringer_happy": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_3.png"
+  },
+  "sonya_deathbringer_inlove": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_4.png"
+  },
+  "sonya_deathbringer_rofl": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_5.png"
+  },
+  "sonya_deathbringer_sad": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_6.png"
+  },
+  "sonya_deathbringer_silly": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_7.png"
+  },
+  "sonya_deathbringer_speechless": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_8.png"
+  },
+  "sonya_deathbringer_surprised": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemaleVar5",
+    "image": "storm_emoji_sonya_deathbringer_sheet_9.png"
+  },
+  "sonya_deathknight_angry": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_0.png"
+  },
+  "sonya_deathknight_cool": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_1.png"
+  },
+  "sonya_deathknight_embarrassed": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_2.png"
+  },
+  "sonya_deathknight_happy": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_3.png"
+  },
+  "sonya_deathknight_inlove": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_4.png"
+  },
+  "sonya_deathknight_rofl": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_5.png"
+  },
+  "sonya_deathknight_sad": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_6.png"
+  },
+  "sonya_deathknight_silly": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_7.png"
+  },
+  "sonya_deathknight_speechless": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_8.png"
+  },
+  "sonya_deathknight_surprised": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianDeathKnightFemale",
+    "image": "storm_emoji_sonya_deathknight_sheet_9.png"
+  },
+  "sonya_embarrassed": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_2.png"
+  },
+  "sonya_happy": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_3.png"
+  },
+  "sonya_inlove": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_4.png"
+  },
+  "sonya_rofl": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_5.png"
+  },
+  "sonya_sad": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_6.png"
+  },
+  "sonya_silly": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_7.png"
+  },
+  "sonya_speechless": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_8.png"
+  },
+  "sonya_summer18_angry": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_0.png"
+  },
+  "sonya_summer18_cool": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_1.png"
+  },
+  "sonya_summer18_embarrassed": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_2.png"
+  },
+  "sonya_summer18_happy": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_3.png"
+  },
+  "sonya_summer18_inlove": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_4.png"
+  },
+  "sonya_summer18_rofl": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_5.png"
+  },
+  "sonya_summer18_sad": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_6.png"
+  },
+  "sonya_summer18_silly": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_7.png"
+  },
+  "sonya_summer18_speechless": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_8.png"
+  },
+  "sonya_summer18_surprised": {
+    "heroId": "Barbarian",
+    "heroSkinId": "BarbarianSummer18",
+    "image": "storm_emoji_sonya_summer18_sheet_9.png"
+  },
+  "sonya_surprised": {
+    "heroId": "Barbarian",
+    "image": "storm_emoji_sonya_sheet_9.png"
+  },
+  "sorceress_classic21_anim": {
+    "image": "storm_emoji_sorceress_classic21_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_sorceress_classic21_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "spooky_potg_anim": {
+    "image": "storm_emoji_spooky_potg_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_potg_anim_sheet.png",
+      "frames": 9,
+      "duration": 40,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "spooky_ravenlol_anim": {
+    "image": "storm_emoji_spooky_ravenlol_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_ravenlol_anim_sheet.png",
+      "frames": 8,
+      "duration": 60,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "spooky_rip_anim": {
+    "image": "storm_emoji_spooky_rip_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_rip_anim_sheet.png",
+      "frames": 26,
+      "duration": 50,
+      "width": 38,
+      "columns": 4,
+      "rows": 7
+    }
+  },
+  "spooky_spider_anim": {
+    "image": "storm_emoji_spooky_spider_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_spider_anim_sheet.png",
+      "frames": 8,
+      "duration": 50,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "spooky_worm_anim": {
+    "image": "storm_emoji_spooky_worm_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_spooky_worm_anim_sheet.png",
+      "frames": 8,
+      "duration": 50,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "stitches_angry": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_0.png"
+  },
+  "stitches_cool": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_1.png"
+  },
+  "stitches_embarrassed": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_2.png"
+  },
+  "stitches_happy": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_3.png"
+  },
+  "stitches_inlove": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_4.png"
+  },
+  "stitches_psycho_angry": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_0.png"
+  },
+  "stitches_psycho_cool": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_1.png"
+  },
+  "stitches_psycho_embarrassed": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_2.png"
+  },
+  "stitches_psycho_happy": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_3.png"
+  },
+  "stitches_psycho_inlove": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_4.png"
+  },
+  "stitches_psycho_rofl": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_5.png"
+  },
+  "stitches_psycho_sad": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_6.png"
+  },
+  "stitches_psycho_silly": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_7.png"
+  },
+  "stitches_psycho_speechless": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_8.png"
+  },
+  "stitches_psycho_surprised": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesPsycho",
+    "image": "storm_emoji_stitches_psycho_sheet_9.png"
+  },
+  "stitches_rofl": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_5.png"
+  },
+  "stitches_sad": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_6.png"
+  },
+  "stitches_silly": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_7.png"
+  },
+  "stitches_speechless": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_8.png"
+  },
+  "stitches_surprised": {
+    "heroId": "Stitches",
+    "image": "storm_emoji_stitches_sheet_9.png"
+  },
+  "stitches_winterveil_angry": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_0.png"
+  },
+  "stitches_winterveil_cool": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_1.png"
+  },
+  "stitches_winterveil_embarrassed": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_2.png"
+  },
+  "stitches_winterveil_happy": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_3.png"
+  },
+  "stitches_winterveil_inlove": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_4.png"
+  },
+  "stitches_winterveil_rofl": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_5.png"
+  },
+  "stitches_winterveil_sad": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_6.png"
+  },
+  "stitches_winterveil_silly": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_7.png"
+  },
+  "stitches_winterveil_speechless": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_8.png"
+  },
+  "stitches_winterveil_surprised": {
+    "heroId": "Stitches",
+    "heroSkinId": "StitchesWinter",
+    "image": "storm_emoji_stitches_winterveil_sheet_9.png"
+  },
+  "stukov_angry": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_0.png"
+  },
+  "stukov_army18": {
+    "image": "storm_emoji_secret_01_sheet_3.png"
+  },
+  "stukov_army18_lurking": {
+    "heroId": "Stukov",
+    "heroSkinId": "StukovArmy18",
+    "image": "storm_emoji_stukov_army18_sheet_0.png"
+  },
+  "stukov_army18_pustule": {
+    "heroId": "Stukov",
+    "heroSkinId": "StukovArmy18",
+    "image": "storm_emoji_stukov_army18_sheet_1.png"
+  },
+  "stukov_army18_shove_01": {
+    "heroId": "Stukov",
+    "heroSkinId": "StukovArmy18",
+    "image": "storm_emoji_stukov_army18_sheet_2.png"
+  },
+  "stukov_army18_shove_02": {
+    "heroId": "Stukov",
+    "heroSkinId": "StukovArmy18",
+    "image": "storm_emoji_stukov_army18_sheet_3.png"
+  },
+  "stukov_army18_shove_03": {
+    "heroId": "Stukov",
+    "heroSkinId": "StukovArmy18",
+    "image": "storm_emoji_stukov_army18_sheet_4.png"
+  },
+  "stukov_cool": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_1.png"
+  },
+  "stukov_embarrassed": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_2.png"
+  },
+  "stukov_happy": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_3.png"
+  },
+  "stukov_het": {
+    "image": "storm_emoji_secret_01_sheet_4.png"
+  },
+  "stukov_inlove": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_4.png"
+  },
+  "stukov_rofl": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_5.png"
+  },
+  "stukov_sad": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_6.png"
+  },
+  "stukov_silly": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_7.png"
+  },
+  "stukov_speechless": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_8.png"
+  },
+  "stukov_surprised": {
+    "heroId": "Stukov",
+    "image": "storm_emoji_stukov_sheet_9.png"
+  },
+  "sylvanas_angry": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_0.png"
+  },
+  "sylvanas_cool": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_1.png"
+  },
+  "sylvanas_embarrassed": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_2.png"
+  },
+  "sylvanas_happy": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_3.png"
+  },
+  "sylvanas_inlove": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_4.png"
+  },
+  "sylvanas_lunar_angry": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_0.png"
+  },
+  "sylvanas_lunar_cool": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_1.png"
+  },
+  "sylvanas_lunar_embarrassed": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_2.png"
+  },
+  "sylvanas_lunar_happy": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_3.png"
+  },
+  "sylvanas_lunar_inlove": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_4.png"
+  },
+  "sylvanas_lunar_rofl": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_5.png"
+  },
+  "sylvanas_lunar_sad": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_6.png"
+  },
+  "sylvanas_lunar_silly": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_7.png"
+  },
+  "sylvanas_lunar_speechless": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_8.png"
+  },
+  "sylvanas_lunar_surprised": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasLunar",
+    "image": "storm_emoji_sylvanas_lunar_sheet_9.png"
+  },
+  "sylvanas_rofl": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_5.png"
+  },
+  "sylvanas_sad": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_6.png"
+  },
+  "sylvanas_silly": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_7.png"
+  },
+  "sylvanas_speechless": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_8.png"
+  },
+  "sylvanas_surprised": {
+    "heroId": "Sylvanas",
+    "image": "storm_emoji_sylvanas_sheet_9.png"
+  },
+  "sylvanas_winterveil_angry": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_0.png"
+  },
+  "sylvanas_winterveil_cool": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_1.png"
+  },
+  "sylvanas_winterveil_embarrassed": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_2.png"
+  },
+  "sylvanas_winterveil_happy": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_3.png"
+  },
+  "sylvanas_winterveil_inlove": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_4.png"
+  },
+  "sylvanas_winterveil_rofl": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_5.png"
+  },
+  "sylvanas_winterveil_sad": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_6.png"
+  },
+  "sylvanas_winterveil_silly": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_7.png"
+  },
+  "sylvanas_winterveil_speechless": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_8.png"
+  },
+  "sylvanas_winterveil_surprised": {
+    "heroId": "Sylvanas",
+    "heroSkinId": "SylvanasFairy",
+    "image": "storm_emoji_sylvanas_winterveil_sheet_9.png"
+  },
+  "tassadar_angry": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_0.png"
+  },
+  "tassadar_cool": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_1.png"
+  },
+  "tassadar_embarrassed": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_2.png"
+  },
+  "tassadar_happy": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_3.png"
+  },
+  "tassadar_inlove": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_4.png"
+  },
+  "tassadar_mecha_angry": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_0.png"
+  },
+  "tassadar_mecha_cool": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_1.png"
+  },
+  "tassadar_mecha_embarrassed": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_2.png"
+  },
+  "tassadar_mecha_happy": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_3.png"
+  },
+  "tassadar_mecha_inlove": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_4.png"
+  },
+  "tassadar_mecha_rofl": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_5.png"
+  },
+  "tassadar_mecha_sad": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_6.png"
+  },
+  "tassadar_mecha_silly": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_7.png"
+  },
+  "tassadar_mecha_speechless": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_8.png"
+  },
+  "tassadar_mecha_surprised": {
+    "heroId": "Tassadar",
+    "heroSkinId": "TassadarMecha",
+    "image": "storm_emoji_tassadar_mecha_sheet_9.png"
+  },
+  "tassadar_rofl": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_5.png"
+  },
+  "tassadar_sad": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_6.png"
+  },
+  "tassadar_silly": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_7.png"
+  },
+  "tassadar_speechless": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_8.png"
+  },
+  "tassadar_surprised": {
+    "heroId": "Tassadar",
+    "image": "storm_emoji_tassadar_sheet_9.png"
+  },
+  "thrall_angry": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_0.png"
+  },
+  "thrall_cool": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_1.png"
+  },
+  "thrall_embarrassed": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_2.png"
+  },
+  "thrall_happy": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_3.png"
+  },
+  "thrall_inlove": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_4.png"
+  },
+  "thrall_rofl": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_5.png"
+  },
+  "thrall_sad": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_6.png"
+  },
+  "thrall_silly": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_7.png"
+  },
+  "thrall_speechless": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_8.png"
+  },
+  "thrall_surprised": {
+    "heroId": "Thrall",
+    "image": "storm_emoji_thrall_sheet_9.png"
+  },
+  "toy2_army_anim": {
+    "image": "storm_emoji_toys19_army_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_army.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy2_horse_anim": {
+    "image": "storm_emoji_toys19_horse_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_horse.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy2_mephisto_anim": {
+    "image": "storm_emoji_toys19_mephisto_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_mephisto.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy2_qhira_anim": {
+    "image": "storm_emoji_toys19_qhira_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_qhira.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy2_train_anim": {
+    "image": "storm_emoji_toys19_train_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toys19_train.png",
+      "frames": 4,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy_bear_anim": {
+    "image": "storm_emoji_toy_bear_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_bear_anim_sheet.png",
+      "frames": 12,
+      "duration": 150,
+      "width": 39,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "toy_cosmicflurry_anim": {
+    "image": "storm_emoji_toy_cosmicflurry_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_cosmicflurry_anim_sheet.png",
+      "frames": 5,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_dice_anim": {
+    "image": "storm_emoji_toy_dice_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_dice_anim_sheet.png",
+      "frames": 6,
+      "duration": 100,
+      "width": 37,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_dino_anim": {
+    "image": "storm_emoji_toy_dino_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_dino_anim_sheet.png",
+      "frames": 4,
+      "duration": 80,
+      "width": 34,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy_herospinner_anim": {
+    "image": "storm_emoji_toy_herospinner_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_herospinner_anim_sheet.png",
+      "frames": 7,
+      "duration": 25,
+      "width": 33,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_minion_anim": {
+    "image": "storm_emoji_toy_minion_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_minion_anim_sheet.png",
+      "frames": 6,
+      "duration": 160,
+      "width": 30,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_nerfthis_anim": {
+    "image": "storm_emoji_toy_nerfthis_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_nerfthis_anim_sheet.png",
+      "frames": 4,
+      "duration": 62,
+      "width": 40,
+      "columns": 4,
+      "rows": 1
+    }
+  },
+  "toy_robots_anim": {
+    "image": "storm_emoji_toy_robots_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_robots_anim_sheet.png",
+      "frames": 10,
+      "duration": 120,
+      "width": 40,
+      "columns": 4,
+      "rows": 3
+    }
+  },
+  "toy_train_anim": {
+    "image": "storm_emoji_toy_train_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_train_anim_sheet.png",
+      "frames": 6,
+      "duration": 200,
+      "width": 37,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "toy_turd_anim": {
+    "image": "storm_emoji_toy_turd_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_toy_turd_anim_sheet.png",
+      "frames": 8,
+      "duration": 120,
+      "width": 26,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "tracer_angry": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_0.png"
+  },
+  "tracer_cool": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_1.png"
+  },
+  "tracer_embarrassed": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_2.png"
+  },
+  "tracer_happy": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_3.png"
+  },
+  "tracer_inlove": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_4.png"
+  },
+  "tracer_rofl": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_5.png"
+  },
+  "tracer_sad": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_6.png"
+  },
+  "tracer_silly": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_7.png"
+  },
+  "tracer_speechless": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_8.png"
+  },
+  "tracer_surprised": {
+    "heroId": "Tracer",
+    "image": "storm_emoji_tracer_sheet_9.png"
+  },
+  "tychus_angry": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_0.png"
+  },
+  "tychus_cool": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_1.png"
+  },
+  "tychus_embarrassed": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_2.png"
+  },
+  "tychus_happy": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_3.png"
+  },
+  "tychus_inlove": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_4.png"
+  },
+  "tychus_rofl": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_5.png"
+  },
+  "tychus_sad": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_6.png"
+  },
+  "tychus_silly": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_7.png"
+  },
+  "tychus_speechless": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_8.png"
+  },
+  "tychus_surprised": {
+    "heroId": "Tychus",
+    "image": "storm_emoji_tychus_sheet_9.png"
+  },
+  "tyrael_angry": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_0.png"
+  },
+  "tyrael_cool": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_1.png"
+  },
+  "tyrael_embarrassed": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_2.png"
+  },
+  "tyrael_happy": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_3.png"
+  },
+  "tyrael_inlove": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_4.png"
+  },
+  "tyrael_mecha_angry": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_0.png"
+  },
+  "tyrael_mecha_cool": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_1.png"
+  },
+  "tyrael_mecha_embarrassed": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_2.png"
+  },
+  "tyrael_mecha_happy": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_3.png"
+  },
+  "tyrael_mecha_inlove": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_4.png"
+  },
+  "tyrael_mecha_rofl": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_5.png"
+  },
+  "tyrael_mecha_sad": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_6.png"
+  },
+  "tyrael_mecha_silly": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_7.png"
+  },
+  "tyrael_mecha_speechless": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_8.png"
+  },
+  "tyrael_mecha_surprised": {
+    "heroId": "Tyrael",
+    "heroSkinId": "TyraelMecha",
+    "image": "storm_emoji_tyrael_mecha_sheet_9.png"
+  },
+  "tyrael_rofl": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_5.png"
+  },
+  "tyrael_sad": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_6.png"
+  },
+  "tyrael_silly": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_7.png"
+  },
+  "tyrael_speechless": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_8.png"
+  },
+  "tyrael_surprised": {
+    "heroId": "Tyrael",
+    "image": "storm_emoji_tyrael_sheet_9.png"
+  },
+  "tyrande_angry": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_0.png"
+  },
+  "tyrande_cool": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_1.png"
+  },
+  "tyrande_embarrassed": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_2.png"
+  },
+  "tyrande_happy": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_3.png"
+  },
+  "tyrande_inlove": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_4.png"
+  },
+  "tyrande_rofl": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_5.png"
+  },
+  "tyrande_sad": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_6.png"
+  },
+  "tyrande_silly": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_7.png"
+  },
+  "tyrande_speechless": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_8.png"
+  },
+  "tyrande_surprised": {
+    "heroId": "Tyrande",
+    "image": "storm_emoji_tyrande_sheet_9.png"
+  },
+  "uther_angry": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_0.png"
+  },
+  "uther_cool": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_1.png"
+  },
+  "uther_embarrassed": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_2.png"
+  },
+  "uther_happy": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_3.png"
+  },
+  "uther_inlove": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_4.png"
+  },
+  "uther_rofl": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_5.png"
+  },
+  "uther_sad": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_6.png"
+  },
+  "uther_silly": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_7.png"
+  },
+  "uther_speechless": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_8.png"
+  },
+  "uther_surprised": {
+    "heroId": "Uther",
+    "image": "storm_emoji_uther_sheet_9.png"
+  },
+  "valeera_angry": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_0.png"
+  },
+  "valeera_cool": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_1.png"
+  },
+  "valeera_embarrassed": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_2.png"
+  },
+  "valeera_happy": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_3.png"
+  },
+  "valeera_inlove": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_4.png"
+  },
+  "valeera_rofl": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_5.png"
+  },
+  "valeera_sad": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_6.png"
+  },
+  "valeera_silly": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_7.png"
+  },
+  "valeera_speechless": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_8.png"
+  },
+  "valeera_surprised": {
+    "heroId": "Valeera",
+    "image": "storm_emoji_valeera_sheet_9.png"
+  },
+  "valeera_vampireslayerv_angry": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_0.png"
+  },
+  "valeera_vampireslayerv_cool": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_1.png"
+  },
+  "valeera_vampireslayerv_embarrassed": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_2.png"
+  },
+  "valeera_vampireslayerv_happy": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_3.png"
+  },
+  "valeera_vampireslayerv_inlove": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_4.png"
+  },
+  "valeera_vampireslayerv_rofl": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_5.png"
+  },
+  "valeera_vampireslayerv_sad": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_6.png"
+  },
+  "valeera_vampireslayerv_silly": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_7.png"
+  },
+  "valeera_vampireslayerv_speechless": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_8.png"
+  },
+  "valeera_vampireslayerv_surprised": {
+    "heroId": "Valeera",
+    "heroSkinId": "ValeeraVampire",
+    "image": "storm_emoji_valeera_vampire_sheet_9.png"
+  },
+  "valla_angry": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_0.png"
+  },
+  "valla_cool": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_1.png"
+  },
+  "valla_deputy_angry": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_0.png"
+  },
+  "valla_deputy_cool": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_1.png"
+  },
+  "valla_deputy_embarrassed": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_2.png"
+  },
+  "valla_deputy_happy": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_3.png"
+  },
+  "valla_deputy_inlove": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_4.png"
+  },
+  "valla_deputy_rofl": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_5.png"
+  },
+  "valla_deputy_sad": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_6.png"
+  },
+  "valla_deputy_silly": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_7.png"
+  },
+  "valla_deputy_speechless": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_8.png"
+  },
+  "valla_deputy_surprised": {
+    "heroId": "DemonHunter",
+    "heroSkinId": "DemonHunterCowgirl",
+    "image": "storm_emoji_valla_deputy_sheet_9.png"
+  },
+  "valla_embarrassed": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_2.png"
+  },
+  "valla_happy": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_3.png"
+  },
+  "valla_inlove": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_4.png"
+  },
+  "valla_owc20_anim": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_owc20_anim_sheet_0.gif",
+    "animation": {
+      "texture": "storm_emoji_valla_owc20_anim_sheet.png",
+      "frames": 8,
+      "duration": 100,
+      "width": 40,
+      "columns": 4,
+      "rows": 2
+    }
+  },
+  "valla_rofl": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_5.png"
+  },
+  "valla_sad": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_6.png"
+  },
+  "valla_silly": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_7.png"
+  },
+  "valla_speechless": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_8.png"
+  },
+  "valla_surprised": {
+    "heroId": "DemonHunter",
+    "image": "storm_emoji_valla_sheet_9.png"
+  },
+  "varian_angry": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_0.png"
+  },
+  "varian_cool": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_1.png"
+  },
+  "varian_embarrassed": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_2.png"
+  },
+  "varian_happy": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_3.png"
+  },
+  "varian_inlove": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_4.png"
+  },
+  "varian_rofl": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_5.png"
+  },
+  "varian_sad": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_6.png"
+  },
+  "varian_silly": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_7.png"
+  },
+  "varian_speechless": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_8.png"
+  },
+  "varian_surprised": {
+    "heroId": "Varian",
+    "image": "storm_emoji_varian_sheet_9.png"
+  },
+  "whitemane_angry": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_0.png"
+  },
+  "whitemane_cool": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_1.png"
+  },
+  "whitemane_embarrassed": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_2.png"
+  },
+  "whitemane_happy": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_3.png"
+  },
+  "whitemane_inlove": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_4.png"
+  },
+  "whitemane_rofl": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_5.png"
+  },
+  "whitemane_sad": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_6.png"
+  },
+  "whitemane_silly": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_7.png"
+  },
+  "whitemane_speechless": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_8.png"
+  },
+  "whitemane_surprised": {
+    "heroId": "Whitemane",
+    "image": "storm_emoji_whitemane_sheet_9.png"
+  },
+  "winter_candle": {
+    "image": "storm_emoji_winter_decorations_1_sheet_0.png"
+  },
+  "winter_ornament": {
+    "image": "storm_emoji_winter_decorations_1_sheet_1.png"
+  },
+  "winter_snowflake": {
+    "image": "storm_emoji_winter_decorations_1_sheet_2.png"
+  },
+  "winter_snowman": {
+    "image": "storm_emoji_winter_decorations_1_sheet_3.png"
+  },
+  "winter_wreath": {
+    "image": "storm_emoji_winter_decorations_1_sheet_4.png"
+  },
+  "xul_angry": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_0.png"
+  },
+  "xul_cool": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_1.png"
+  },
+  "xul_embarrassed": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_2.png"
+  },
+  "xul_happy": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_3.png"
+  },
+  "xul_inlove": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_4.png"
+  },
+  "xul_rofl": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_5.png"
+  },
+  "xul_sad": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_6.png"
+  },
+  "xul_scarecrow_angry": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_0.png"
+  },
+  "xul_scarecrow_cool": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_1.png"
+  },
+  "xul_scarecrow_embarrassed": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_2.png"
+  },
+  "xul_scarecrow_happy": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_3.png"
+  },
+  "xul_scarecrow_inlove": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_4.png"
+  },
+  "xul_scarecrow_rofl": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_5.png"
+  },
+  "xul_scarecrow_sad": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_6.png"
+  },
+  "xul_scarecrow_silly": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_7.png"
+  },
+  "xul_scarecrow_speechless": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_8.png"
+  },
+  "xul_scarecrow_surprised": {
+    "heroId": "Necromancer",
+    "heroSkinId": "NecromancerScare",
+    "image": "storm_emoji_xul_scarecrow_sheet_9.png"
+  },
+  "xul_silly": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_7.png"
+  },
+  "xul_speechless": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_8.png"
+  },
+  "xul_surprised": {
+    "heroId": "Necromancer",
+    "image": "storm_emoji_xul_sheet_9.png"
+  },
+  "yrel_angry": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_0.png"
+  },
+  "yrel_cool": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_1.png"
+  },
+  "yrel_embarrassed": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_2.png"
+  },
+  "yrel_happy": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_3.png"
+  },
+  "yrel_inlove": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_4.png"
+  },
+  "yrel_rofl": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_5.png"
+  },
+  "yrel_sad": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_6.png"
+  },
+  "yrel_silly": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_7.png"
+  },
+  "yrel_speechless": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_8.png"
+  },
+  "yrel_surprised": {
+    "heroId": "Yrel",
+    "image": "storm_emoji_yrel_sheet_9.png"
+  },
+  "zagara_angry": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_0.png"
+  },
+  "zagara_cool": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_1.png"
+  },
+  "zagara_cryptqueen_angry": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_0.png"
+  },
+  "zagara_cryptqueen_cool": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_1.png"
+  },
+  "zagara_cryptqueen_embarrassed": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_2.png"
+  },
+  "zagara_cryptqueen_happy": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_3.png"
+  },
+  "zagara_cryptqueen_inlove": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_4.png"
+  },
+  "zagara_cryptqueen_rofl": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_5.png"
+  },
+  "zagara_cryptqueen_sad": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_6.png"
+  },
+  "zagara_cryptqueen_silly": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_7.png"
+  },
+  "zagara_cryptqueen_speechless": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_8.png"
+  },
+  "zagara_cryptqueen_surprised": {
+    "heroId": "Zagara",
+    "heroSkinId": "ZagaraCryptQueen",
+    "image": "storm_emoji_zagara_cryptqueen_sheet_9.png"
+  },
+  "zagara_embarrassed": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_2.png"
+  },
+  "zagara_happy": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_3.png"
+  },
+  "zagara_inlove": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_4.png"
+  },
+  "zagara_rofl": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_5.png"
+  },
+  "zagara_sad": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_6.png"
+  },
+  "zagara_silly": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_7.png"
+  },
+  "zagara_speechless": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_8.png"
+  },
+  "zagara_surprised": {
+    "heroId": "Zagara",
+    "image": "storm_emoji_zagara_sheet_9.png"
+  },
+  "zarya_angry": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_0.png"
+  },
+  "zarya_cool": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_1.png"
+  },
+  "zarya_embarrassed": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_2.png"
+  },
+  "zarya_happy": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_3.png"
+  },
+  "zarya_inlove": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_4.png"
+  },
+  "zarya_rofl": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_5.png"
+  },
+  "zarya_sad": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_6.png"
+  },
+  "zarya_silly": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_7.png"
+  },
+  "zarya_speechless": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_8.png"
+  },
+  "zarya_surprised": {
+    "heroId": "Zarya",
+    "image": "storm_emoji_zarya_sheet_9.png"
+  },
+  "zeratul_angry": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_0.png"
+  },
+  "zeratul_cool": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_1.png"
+  },
+  "zeratul_embarrassed": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_2.png"
+  },
+  "zeratul_happy": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_3.png"
+  },
+  "zeratul_inlove": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_4.png"
+  },
+  "zeratul_rofl": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_5.png"
+  },
+  "zeratul_sad": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_6.png"
+  },
+  "zeratul_silly": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_7.png"
+  },
+  "zeratul_speechless": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_8.png"
+  },
+  "zeratul_surprised": {
+    "heroId": "Zeratul",
+    "image": "storm_emoji_zeratul_sheet_9.png"
+  },
+  "zuljin_angry": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_0.png"
+  },
+  "zuljin_cool": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_1.png"
+  },
+  "zuljin_embarrassed": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_2.png"
+  },
+  "zuljin_happy": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_3.png"
+  },
+  "zuljin_inlove": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_4.png"
+  },
+  "zuljin_rofl": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_5.png"
+  },
+  "zuljin_sad": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_6.png"
+  },
+  "zuljin_silly": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_7.png"
+  },
+  "zuljin_speechless": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_8.png"
+  },
+  "zuljin_surprised": {
+    "heroId": "Zuljin",
+    "image": "storm_emoji_zuljin_sheet_9.png"
+  }
+}
