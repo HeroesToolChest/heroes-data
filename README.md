@@ -11,7 +11,7 @@ The version folders also contain a `.hdp.json` file which contains up to two pro
   "hdp": "4.3.1",
   "duplicate": {
     "data": "2.48.1.76437",
-    "gamestring": "2.48.1.76437"
+    "gamestrings": "2.48.1.76437"
   }
 }
 ```
@@ -40,5 +40,5 @@ The following command was used (same for [Heroes Images](https://github.com/Hero
 ```
 Then the following command was used to convert the gamestring files to json:
 ```
-localized-json 'Path/To/gamestring-directory'
+localized-json 'Path/To/gamestrings-directory'
 ```
