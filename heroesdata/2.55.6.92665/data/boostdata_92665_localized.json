@@ -1,0 +1,47 @@
+{
+  "2Day": {
+    "hyperlinkId": "2DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "2Hour(Test)": {
+    "hyperlinkId": "2HourStimpack(Test)",
+    "releaseDate": "2014-03-13"
+  },
+  "30Day": {
+    "hyperlinkId": "30DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "30DayPromo": {
+    "hyperlinkId": "30DayStimpackPromo",
+    "releaseDate": "2014-03-13",
+    "event": "LTO"
+  },
+  "360DayStimpack": {
+    "hyperlinkId": "360DayStimpack",
+    "releaseDate": "2016-11-22"
+  },
+  "3Day": {
+    "hyperlinkId": "3DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "5Minute(Test)": {
+    "hyperlinkId": "5MinuteStimpack(Test)",
+    "releaseDate": "2014-03-13"
+  },
+  "7Day": {
+    "hyperlinkId": "7DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "LootChest1Day": {
+    "hyperlinkId": "Loot1DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "LootChest3Day": {
+    "hyperlinkId": "Loot3DayStimpack",
+    "releaseDate": "2014-03-13"
+  },
+  "LootChest7Day": {
+    "hyperlinkId": "Loot7DayStimpack",
+    "releaseDate": "2014-03-13"
+  }
+}
