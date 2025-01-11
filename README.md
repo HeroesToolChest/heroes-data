@@ -5,21 +5,22 @@ This repo contains the Heroes of the Storm data files that are extracted from [H
 
 All files are in json format. The version folders contain data and gamestring folders. The data files have been localized, which means the localized text has been removed and stored in the gamestring json files.
 
-The version folders also contain a `.hdp.json` file which contains up to two properties. Example:
+The version folders also contain a `.hdp.json` file which contains up to three properties. Example:
 ```
 {
   "hdp": "4.3.1",
   "duplicate": {
     "data": "2.48.1.76437",
     "gamestrings": "2.48.1.76437"
-  }
+  },
+  "extracted": false
 }
 ```
 The `hdp` property specifies the version of Heroes Data Parser used to extract the data and gamestrings.
 
 The optional `duplicate` property indicates that this version of data is a duplicate of another version, which is specified in the `data` and `gamestrings` property. As such, there are no data and gamestrings folders. 
 
-**NOTE: This optional property will not appear just because the data is a duplicate of another version, but rather that duplicate version data was not obtainable or was just not extracted.**
+The optional `extracted` property indicates whether or not the data and gamestrings have been extracted. If `true`, then the property may not be present. If `false`, then the property will be present.
 
 ## Json Data Parsing Library
 [Heroes Icons](https://github.com/HeroesToolChest/Heroes.Icons) is a .NET libray that parses the json files and provides objects to easily access the data.
