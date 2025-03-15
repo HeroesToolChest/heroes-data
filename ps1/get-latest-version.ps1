@@ -53,3 +53,5 @@ foreach ($dir in $directories) {
 }
 
 Write-Host $latestVersion
+
+return $latestVersion
