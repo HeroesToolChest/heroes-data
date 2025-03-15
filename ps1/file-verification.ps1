@@ -1,6 +1,6 @@
 # Script to verify all file names and the gamestring file meta data
 # Data be in <name>_<version>_localized.json
-# Gaemstrings be in <name>_<version>_<locale>.json
+# Gamestrings be in <name>_<version>_<locale>.json
 
 param(
 	[Parameter(Mandatory=$true)][string]$path
