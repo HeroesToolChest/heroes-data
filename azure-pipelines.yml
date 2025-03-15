@@ -43,9 +43,8 @@ jobs:
         destinationFolder: '$(latest_release_files)'
         cleanDestinationFolder: true
 
-    - pwsh: |
-        $versions = Get-ChildItem -Path $env:SOURCE_FOLDER -Directory -Name
-        $last_version = $versions[-1]
+    - pwsh: |     
+        $last_version = .\ps1\get-latest-version.ps1 -Path $env:SOURCE_FOLDER
         $last_version
         Write-Host "##vso[task.setvariable variable=version]$last_version"
       displayName: Get Lastest Version
