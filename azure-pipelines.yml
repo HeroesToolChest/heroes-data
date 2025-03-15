@@ -44,7 +44,7 @@ jobs:
         cleanDestinationFolder: true
 
     - pwsh: |     
-        $last_version = .\ps1\get-latest-version.ps1 -Path $env:SOURCE_FOLDER
+        $last_version = ./ps1/get-latest-version.ps1 -Path $env:SOURCE_FOLDER
         $last_version
         Write-Host "##vso[task.setvariable variable=version]$last_version"
       displayName: Get Lastest Version
