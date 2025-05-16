@@ -1,0 +1,4547 @@
+{
+  "1003WeeklySaleBundle": {
+    "hyperlinkId": "1003WeeklySaleBundle",
+    "releaseDate": "2017-10-03",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "1010WeeklySaleBundle": {
+    "hyperlinkId": "1010WeeklySaleBundle",
+    "releaseDate": "2017-10-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "1017WeeklySaleBundle": {
+    "hyperlinkId": "1017WeeklySaleBundle",
+    "releaseDate": "2017-10-17",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "1024WeeklySaleBundle": {
+    "hyperlinkId": "1024WeeklySaleBundle",
+    "releaseDate": "2017-10-24",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "1031WeeklySaleBundle": {
+    "hyperlinkId": "1031WeeklySaleBundle",
+    "releaseDate": "2017-10-31",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "1114WeeklySaleBundle": {
+    "hyperlinkId": "1114WeeklySaleBundle",
+    "releaseDate": "2017-11-14",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "1128WeeklySaleBundle": {
+    "hyperlinkId": "1128WeeklySaleBundle",
+    "releaseDate": "2017-11-28",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "117WeeklySaleBundle": {
+    "hyperlinkId": "117WeeklySaleBundle",
+    "releaseDate": "2017-11-07",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "1205WeeklySaleBundle": {
+    "hyperlinkId": "1205WeeklySaleBundle",
+    "releaseDate": "2017-12-05",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "2016HeroesoftheDormChampionsBundle": {
+    "hyperlinkId": "2016HeroesoftheDormBundle",
+    "releaseDate": "2016-04-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h17_2016dormchampions.png"
+  },
+  "2016SpringChampionshipBundle": {
+    "hyperlinkId": "2016SpringGlobalChampionsBundle",
+    "releaseDate": "2016-04-05",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h17_2016springglobalchampionsbundle_02.png"
+  },
+  "2016SummerGlobalChampionsBundle": {
+    "hyperlinkId": "2016SummerGlobalChampionsBundle",
+    "releaseDate": "2016-06-21",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h18_2016summerglobalchampionship.png"
+  },
+  "2017HeroesoftheDormBundle": {
+    "hyperlinkId": "2017HeroesoftheDormBundle",
+    "releaseDate": "2017-04-11",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h24_dorm2017.png"
+  },
+  "2017LoveisintheAirBundle": {
+    "hyperlinkId": "2017LoveisintheAirBundle",
+    "releaseDate": "2017-02-14",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h23mid_love2017.png"
+  },
+  "2017LunarFestivalBundle": {
+    "hyperlinkId": "2017LunarFestivalBundle",
+    "releaseDate": "2017-01-24",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h23_lunarfestival2017.png"
+  },
+  "2019LunarFestivalBundle": {
+    "hyperlinkId": "2019LunarFestivalBundle",
+    "releaseDate": "2019-03-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true
+  },
+  "24DynamicBundle": {
+    "hyperlinkId": "StarsofWarBundle",
+    "releaseDate": "2017-03-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h24_starsofwar.png"
+  },
+  "24UltimateDynamicBundle": {
+    "hyperlinkId": "UltimateStarsofWarBundle",
+    "releaseDate": "2017-03-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h24_starsofwarultimate.png"
+  },
+  "815WeeklySaleBundle": {
+    "hyperlinkId": "815WeeklySaleBundle",
+    "releaseDate": "2017-08-15",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "822WeeklySaleBundle": {
+    "hyperlinkId": "822WeeklySaleBundle",
+    "releaseDate": "2017-08-22",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "829WeeklySaleBundle": {
+    "hyperlinkId": "829WeeklySaleBundle",
+    "releaseDate": "2017-08-29",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "88WeeklySaleBundle": {
+    "hyperlinkId": "88WeeklySaleBundle",
+    "releaseDate": "2017-08-08",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "905WeeklySaleBundle": {
+    "hyperlinkId": "905WeeklySaleBundle",
+    "releaseDate": "2017-09-05",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "912WeeklySaleBundle": {
+    "hyperlinkId": "912WeeklySaleBundle",
+    "releaseDate": "2017-09-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "919WeeklySaleBundle": {
+    "hyperlinkId": "919WeeklySaleBundle",
+    "releaseDate": "2017-09-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "926WeeklySaleBundle": {
+    "hyperlinkId": "926WeeklySaleBundle",
+    "releaseDate": "2017-09-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_weekly.png"
+  },
+  "AdmiralKrakenovSkinPack": {
+    "hyperlinkId": "AdmiralKrakenovSkinPack",
+    "releaseDate": "2017-07-11",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h26mid_admiralkrakenovskinpack.png"
+  },
+  "AlexstraszaHeroicBundle": {
+    "hyperlinkId": "AlexstraszaHeroicBundle",
+    "releaseDate": "2017-11-14",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29_alexheroic.png"
+  },
+  "AllStarsBundle": {
+    "hyperlinkId": "AllStarsBundle",
+    "releaseDate": "2016-07-01",
+    "franchise": "Nexus",
+    "heroes": [
+      "Azmodan",
+      "Raynor"
+    ],
+    "skins": [
+      {
+        "Raynor": [
+          "RaynorPatriot"
+        ]
+      },
+      {
+        "Azmodan": [
+          "AzmodunkBundleProduct"
+        ]
+      }
+    ],
+    "mounts": [
+      "MountBannerAzmodunk"
+    ],
+    "image": "storm_ui_bundles_h18_independenceday.png"
+  },
+  "AlteredFatesBundle": {
+    "hyperlinkId": "AlteredFatesBundle",
+    "releaseDate": "2015-10-06",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Illidan",
+      "Malfurion",
+      "Tyrande"
+    ],
+    "skins": [
+      {
+        "Malfurion": [
+          "MalfurionBetrayer"
+        ]
+      },
+      {
+        "Tyrande": [
+          "TyrandeWarden"
+        ]
+      },
+      {
+        "Illidan": [
+          "IllidanShando"
+        ]
+      }
+    ],
+    "mounts": [
+      "Direwolf"
+    ],
+    "image": "storm_ui_bundles_h14_alteredfates.png"
+  },
+  "AlteredFatesCompleteBundle": {
+    "hyperlinkId": "AlteredFatesCompleteBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Malfurion",
+      "Tyrande"
+    ],
+    "skins": [
+      {
+        "Malfurion": [
+          "MalfurionBetrayer"
+        ]
+      },
+      {
+        "Tyrande": [
+          "TyrandeWarden"
+        ]
+      }
+    ]
+  },
+  "AlteredFatesSkinBundle": {
+    "hyperlinkId": "AlteredFatesSkinBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "skins": [
+      {
+        "Malfurion": [
+          "MalfurionBetrayer"
+        ]
+      },
+      {
+        "Tyrande": [
+          "TyrandeWarden"
+        ]
+      }
+    ]
+  },
+  "AlteredFatesUltimateBundle": {
+    "hyperlinkId": "AlteredFatesUltimateBundle",
+    "releaseDate": "2015-10-06",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Chen",
+      "Illidan",
+      "Malfurion",
+      "Rehgar",
+      "Tyrande"
+    ],
+    "skins": [
+      {
+        "Malfurion": [
+          "MalfurionBetrayer"
+        ]
+      },
+      {
+        "Tyrande": [
+          "TyrandeWarden"
+        ]
+      },
+      {
+        "Illidan": [
+          "IllidanShando"
+        ]
+      },
+      {
+        "Chen": [
+          "ChenWarmaster"
+        ]
+      },
+      {
+        "Rehgar": [
+          "RehgarIronClaw"
+        ]
+      }
+    ],
+    "mounts": [
+      "Direwolf"
+    ],
+    "image": "storm_ui_bundles_h14_alteredfatesultimate.png"
+  },
+  "AlteredWarBundle": {
+    "hyperlinkId": "AlteredWarBundle",
+    "releaseDate": "2016-11-22",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h22_alteredwar.png"
+  },
+  "AnaHeroicBundle": {
+    "hyperlinkId": "AnaHeroicBundle",
+    "releaseDate": "2017-09-26",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28_anaheroic.png"
+  },
+  "AnduinHeroicBundle": {
+    "hyperlinkId": "AnduinHeroicBundle",
+    "releaseDate": "2019-04-30",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h45_anduinheroicbundle.png"
+  },
+  "AngirisCouncilBundle": {
+    "hyperlinkId": "AngirisCouncilBundle",
+    "releaseDate": "2019-01-08",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h42_angiriscouncilbundle.png"
+  },
+  "AnubarakCybarakBundle": {
+    "hyperlinkId": "CybarakAnubarakBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Anubarak"
+    ],
+    "skins": [
+      {
+        "Anubarak": [
+          "AnubarakCyberSkin"
+        ]
+      }
+    ]
+  },
+  "ArchangelDiabloBundle": {
+    "hyperlinkId": "ArchangelDiabloBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "Diablo"
+    ],
+    "skins": [
+      {
+        "Diablo": [
+          "DiabloAngelic"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_archangeldiablo.png"
+  },
+  "ArmedandReadyBundle": {
+    "hyperlinkId": "ArmedandReadyBundle",
+    "releaseDate": "2017-09-26",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28_volskya.png"
+  },
+  "ArthasFrostWyrmBundle": {
+    "hyperlinkId": "FrostWyrmArthasBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Arthas"
+    ],
+    "skins": [
+      {
+        "Arthas": [
+          "ArthasFrostWyrm"
+        ]
+      }
+    ]
+  },
+  "ArthasPrinceBundle": {
+    "hyperlinkId": "CrownPrinceArthasBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Arthas"
+    ],
+    "skins": [
+      {
+        "Arthas": [
+          "ArthasLichPrince"
+        ]
+      }
+    ]
+  },
+  "AssassinBundle": {
+    "hyperlinkId": "AssassinBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Falstad",
+      "Kerrigan",
+      "Tychus"
+    ]
+  },
+  "AutumnLootChest12Pack": {
+    "hyperlinkId": "AutumnLootChest12Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest12pack.png",
+    "lootChestBonus": "AutumnRareProgressionChest"
+  },
+  "AutumnLootChest1Pack": {
+    "hyperlinkId": "AutumnLootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest1pack.png",
+    "lootChestBonus": "AutumnRareProgressionChest"
+  },
+  "AutumnLootChest25Pack": {
+    "hyperlinkId": "AutumnLootChest25Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest25pack.png",
+    "lootChestBonus": "AutumnRareProgressionChest"
+  },
+  "AutumnLootChest52Pack": {
+    "hyperlinkId": "AutumnLootChest52Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest52pack.png",
+    "lootChestBonus": "AutumnRareProgressionChest"
+  },
+  "AutumnLootChest5Pack": {
+    "hyperlinkId": "AutumnLootChest5Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest5pack.png",
+    "lootChestBonus": "AutumnRareProgressionChest"
+  },
+  "AzmodanAzguldanBundle": {
+    "hyperlinkId": "AzmodanAzguldanBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "Azmodan"
+    ],
+    "skins": [
+      {
+        "Azmodan": [
+          "AzmodanAzguldan"
+        ]
+      }
+    ]
+  },
+  "AzmodunkBundle": {
+    "hyperlinkId": "AzmodunkBundle",
+    "releaseDate": "2016-04-12",
+    "franchise": "Nexus",
+    "heroes": [
+      "Azmodan"
+    ],
+    "skins": [
+      {
+        "Azmodan": [
+          "AzmodunkBundleProduct"
+        ]
+      }
+    ],
+    "mounts": [
+      "MountBannerAzmodunk"
+    ],
+    "image": "storm_ui_bundles_h17_azmodunkbundle.png"
+  },
+  "BackinBlackFridayBundle": {
+    "hyperlinkId": "BackinBlackFridayBundle",
+    "releaseDate": "2017-11-21",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29_backinblackfriday.png"
+  },
+  "BalespiderGuldanBundle": {
+    "hyperlinkId": "BalespiderGuldanBundle",
+    "releaseDate": "2016-07-12",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Guldan"
+    ],
+    "skins": [
+      {
+        "Guldan": [
+          "GuldanSpider"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h19_balespiderguldan.png"
+  },
+  "BattleBeastsBundle": {
+    "hyperlinkId": "BattleBeastsBundle",
+    "releaseDate": "2016-05-17",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h18_battlebeasts.png"
+  },
+  "BattleBundle": {
+    "hyperlinkId": "BattleBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Diablo",
+      "Raynor",
+      "Tyrande"
+    ],
+    "skins": [
+      {
+        "Raynor": [
+          "RaynorCommander"
+        ]
+      },
+      {
+        "Diablo": [
+          "DiabloMurkablo"
+        ]
+      },
+      {
+        "Tyrande": [
+          "TyrandeBloodElfBase"
+        ]
+      }
+    ],
+    "mounts": [
+      "CyberWolfGold"
+    ],
+    "goldBonus": 2500
+  },
+  "BeatdownBundle": {
+    "hyperlinkId": "BeatdownBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Diablo",
+      "Kerrigan",
+      "Tassadar"
+    ]
+  },
+  "BestFriendsBundle": {
+    "hyperlinkId": "TeamworkBundle",
+    "releaseDate": "2017-04-04",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h24_teamwork.png"
+  },
+  "BikiniStitchesBundle": {
+    "hyperlinkId": "BikiniStitchesBundle",
+    "releaseDate": "2016-06-21",
+    "franchise": "Nexus",
+    "heroes": [
+      "Stitches"
+    ],
+    "skins": [
+      {
+        "Stitches": [
+          "StitchesBeachParty"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h18_bikinistitches.png"
+  },
+  "BlazeHeroicBundle": {
+    "hyperlinkId": "BlazeHeroicBundle",
+    "releaseDate": "2018-01-09",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29jan_blazeheroicbundle.png"
+  },
+  "BlizzCon2015ChampionshipBundle": {
+    "hyperlinkId": "BlizzCon2015ChampionshipBundle",
+    "releaseDate": "2015-11-17",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h15_bconchampionshipbundle.png"
+  },
+  "BlizzConlineTracerBundle": {
+    "hyperlinkId": "BlizzConlineTracerBundle",
+    "releaseDate": "2014-03-13",
+    "isDynamicContent": true
+  },
+  "BoostPromoLegendaryChestPack": {
+    "hyperlinkId": "BoostPromoLegendaryChestPack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "BoostPromoLegendaryChest"
+  },
+  "BowBeforeViperBundle": {
+    "hyperlinkId": "BowBeforeViperBundle",
+    "releaseDate": "2018-08-07",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h36_viperbundle.png"
+  },
+  "ButcherliskBundle": {
+    "hyperlinkId": "ButcherliskBundle",
+    "releaseDate": "2016-10-04",
+    "heroes": [
+      "Butcher"
+    ],
+    "skins": [
+      {
+        "Butcher": [
+          "ButcherButcherlisk"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h20_butcherlisk.png"
+  },
+  "CaldeumComplexBundle": {
+    "hyperlinkId": "CaldeumComplexBundle",
+    "releaseDate": "2019-03-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_caldeumcomplex.png"
+  },
+  "CelestialEmpressWhitemaneSkinPack": {
+    "hyperlinkId": "CelestialEmpressWhitemaneSkinPack",
+    "releaseDate": "2018-08-21",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h36_celestialempresswhitemaneskinpack.png"
+  },
+  "CenturionJohannaBundle": {
+    "hyperlinkId": "CenturionJohannaBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "Crusader"
+    ],
+    "skins": [
+      {
+        "Crusader": [
+          "CrusaderCenturion"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_centurion_johanna.png"
+  },
+  "CerberusPack": {
+    "hyperlinkId": "CerberusPack",
+    "releaseDate": "2020-05-05",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_cerberuspack.png"
+  },
+  "CheerleaderKerriganBundle": {
+    "hyperlinkId": "CheerleaderKerriganBundle",
+    "releaseDate": "2017-04-11",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h24_cheerleaderkerrigan_2.png"
+  },
+  "ChenWarmasterBundle": {
+    "hyperlinkId": "WarmasterChenBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Chen"
+    ],
+    "skins": [
+      {
+        "Chen": [
+          "ChenWarmaster"
+        ]
+      }
+    ]
+  },
+  "ChinaGoldChampionship2015Bundle": {
+    "hyperlinkId": "ChinaGoldChampionship2015Bundle",
+    "releaseDate": "2016-01-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h15mid_gold_bundle.png"
+  },
+  "ClassicLoveisintheAirBundle": {
+    "hyperlinkId": "ClassicLoveisintheAirBundle",
+    "releaseDate": "2017-02-14",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h23mid_loveclassic.png"
+  },
+  "ConquestBundle": {
+    "hyperlinkId": "ConquestBundle",
+    "releaseDate": "2015-08-18",
+    "franchise": "Nexus",
+    "heroes": [
+      "Arthas",
+      "Barbarian",
+      "Jaina",
+      "Rehgar",
+      "Zagara"
+    ],
+    "image": "storm_ui_bundle_conquest.png"
+  },
+  "ContentFilteringWhitelist": {
+    "hyperlinkId": "ContentFilteringWhitelist",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "isDynamicContent": true
+  },
+  "CorruptorChogallBundle": {
+    "hyperlinkId": "CorruptorChogallBundle",
+    "releaseDate": "2016-01-12",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Cho"
+    ],
+    "skins": [
+      {
+        "Cho": [
+          "ChoCorruptor"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15_corruptorchogallbundle.png"
+  },
+  "CosmicForceValeeraSkinPack": {
+    "hyperlinkId": "CosmicForceValeeraSkinPack",
+    "releaseDate": "2018-12-11",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h41_cosmicforcevaleeraskinpack.png"
+  },
+  "CosmonautQhiraBundle": {
+    "hyperlinkId": "CosmonautQhiraBundle",
+    "releaseDate": "2019-12-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h49_cosmonautquira.png"
+  },
+  "CourtoftheArchlichBundle": {
+    "hyperlinkId": "CourtoftheArchlichBundle",
+    "releaseDate": "2017-09-05",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h27mid_courtofthearchlich.png"
+  },
+  "CraftWars2020LootChest1Pack": {
+    "hyperlinkId": "CraftWars2020LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "LootChestHalloween2020Rare"
+  },
+  "CrimsonCountArthasBundle": {
+    "hyperlinkId": "CrimsonCountArthasBundle",
+    "releaseDate": "2016-03-15",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Arthas"
+    ],
+    "skins": [
+      {
+        "Arthas": [
+          "ArthasCrimsonCount"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h16_crimsoncountarthas.png"
+  },
+  "CuddleBearStitchesSkinPack": {
+    "hyperlinkId": "CuddleBearStitchesSkinPack",
+    "releaseDate": "2018-12-11",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h41_cuddlebearstitchesskinpack.png"
+  },
+  "CursedWitchWhitemaneSkinPack": {
+    "hyperlinkId": "CursedWitchWhitemaneSkinPack",
+    "releaseDate": "2018-09-25",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h38_cursedwitchwhitemaneskinpack.png"
+  },
+  "CyberdemonZaryaSkinPack": {
+    "hyperlinkId": "CyberdemonZaryaSkinPack",
+    "releaseDate": "2017-04-24",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h25_hanamurazarya.png"
+  },
+  "CyberhawkKaelThasBundle": {
+    "hyperlinkId": "CyberhawkKaelThasBundle",
+    "releaseDate": "2016-11-01",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Kaelthas"
+    ],
+    "skins": [
+      {
+        "Kaelthas": [
+          "KaelthasSuper"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h21_cyberhawkkaelthas.png"
+  },
+  "CyberOniButcherSkinPack": {
+    "hyperlinkId": "CyberOniButcherSkinPack",
+    "releaseDate": "2019-03-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true
+  },
+  "CyberOniWarboarBundle": {
+    "hyperlinkId": "CyberOniWarboarBundle",
+    "releaseDate": "2019-03-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true
+  },
+  "DarkNexus2020LootChest1Pack": {
+    "hyperlinkId": "DarkNexus2020LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "LootChestSpring2020Rare"
+  },
+  "DarkNexusBeastPack": {
+    "hyperlinkId": "DarkNexusBeastPack",
+    "releaseDate": "2020-04-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_darknexusbeastpack.png"
+  },
+  "DarkNexusBundle": {
+    "hyperlinkId": "DarkNexusBundle",
+    "releaseDate": "2018-04-24",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h32_darknexusbundle.png"
+  },
+  "DarkNexusDeathwingBundle": {
+    "hyperlinkId": "DarkNexusDeathwingBundle",
+    "releaseDate": "2020-04-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_darknexusdeathwing.png"
+  },
+  "DarkNexusFenixBundle": {
+    "hyperlinkId": "DarkNexusFenixBundle",
+    "releaseDate": "2020-04-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_darknexusfenix.png"
+  },
+  "DarkNexusHarbingersBundle": {
+    "hyperlinkId": "DarkNexusHarbingersBundle",
+    "releaseDate": "2020-04-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_darknexusharbingers.png"
+  },
+  "DarkNexusTassadarBundle": {
+    "hyperlinkId": "DarkNexusTassadarBundle",
+    "releaseDate": "2020-04-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_darknexustassadar.png"
+  },
+  "DarkQueenAlexstraszaSkinPack": {
+    "hyperlinkId": "DarkQueenAlexstraszaSkinPack",
+    "releaseDate": "2017-11-14",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29_alextints.png"
+  },
+  "DeathfangGenjiSkinPack": {
+    "hyperlinkId": "DeathfangGenjiSkinPack",
+    "releaseDate": "2018-08-07",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h36_deathfanggenjiskinpack.png"
+  },
+  "DeathrangerNovaBundle": {
+    "hyperlinkId": "DeathrangerNovaBundle",
+    "releaseDate": "2019-08-06",
+    "event": "LTO",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h47_madaxe19novaskinpack.png"
+  },
+  "DeckardHeroicBundle": {
+    "hyperlinkId": "DeckardHeroicBundle",
+    "releaseDate": "2018-04-24",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h32_deckardheroicbundle.png"
+  },
+  "DeckardPainSkinPack": {
+    "hyperlinkId": "DeckardPainSkinPack",
+    "releaseDate": "2019-02-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h43_deckardpainskinpack.png"
+  },
+  "DehakasaurusRexSkinPack": {
+    "hyperlinkId": "DehakasaurusRexSkinPack",
+    "releaseDate": "2018-12-11",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h41_dehakasaurusrexskinpack.png"
+  },
+  "DeltaHanzoSkinPack": {
+    "hyperlinkId": "DeltaHanzoSkinPack",
+    "releaseDate": "2019-02-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h43_deltahanzoskinpack.png"
+  },
+  "DemonHunterValeeraBundle": {
+    "hyperlinkId": "DemonHunterValeeraBundle",
+    "releaseDate": "2017-01-24",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h23_demonhuntervaleera.png"
+  },
+  "DemonicAurielBundle": {
+    "hyperlinkId": "DemonicAurielBundle",
+    "releaseDate": "2016-08-09",
+    "franchise": "Diablo",
+    "heroes": [
+      "Auriel"
+    ],
+    "skins": [
+      {
+        "Auriel": [
+          "AurielDemonic"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h19_demonicauriel.png"
+  },
+  "DemonicDevastationBundle": {
+    "hyperlinkId": "DemonicDevastationBundle",
+    "releaseDate": "2016-08-09",
+    "franchise": "Diablo",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h19_demonicaurieldynamic.png"
+  },
+  "DemonicImperiusSkinPack": {
+    "hyperlinkId": "DemonicImperiusSkinPack",
+    "releaseDate": "2019-01-22",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h42_demonicimperiusskinpack.png"
+  },
+  "DestroyerBrightwingBundle": {
+    "hyperlinkId": "DestroyerBrightwingBundle",
+    "releaseDate": "2019-12-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h49_destroyerbrightwing.png"
+  },
+  "DiabloFranchiseBundle": {
+    "hyperlinkId": "DiabloBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "Diablo",
+      "Tyrael",
+      "WitchDoctor"
+    ],
+    "skins": [
+      {
+        "Tyrael": [
+          "TyraelDemonic"
+        ]
+      },
+      {
+        "Diablo": [
+          "DiabloMurkablo"
+        ]
+      }
+    ]
+  },
+  "DiabloKaijoBundle": {
+    "hyperlinkId": "KaijoDiabloBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "Diablo"
+    ],
+    "skins": [
+      {
+        "Diablo": [
+          "DiabloKaijoe"
+        ]
+      }
+    ]
+  },
+  "DieselSpeakerNazeeboSkinPack": {
+    "hyperlinkId": "DieselSpeakerNazeeboSkinPack",
+    "releaseDate": "2018-07-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h35_dieselspeakernazeeboskinpack.png"
+  },
+  "DivineHeraldTracerBundle": {
+    "hyperlinkId": "DivineHeraldTracerBundle",
+    "releaseDate": "2020-05-05",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_divineheraldtracer.png"
+  },
+  "DominationBundle": {
+    "hyperlinkId": "DominationBundle",
+    "releaseDate": "2015-08-18",
+    "franchise": "Nexus",
+    "heroes": [
+      "Chen",
+      "Diablo",
+      "Kerrigan",
+      "Tinker",
+      "Uther"
+    ],
+    "image": "storm_ui_bundle_domination.png"
+  },
+  "DominusVileAzmodanSkinPack": {
+    "hyperlinkId": "DominusVileAzmodanSkinPack",
+    "releaseDate": "2018-07-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h35_dominusvileazmodanskinpack.png"
+  },
+  "DoombreakerBundle": {
+    "hyperlinkId": "DoombreakerBundle",
+    "releaseDate": "2015-09-01",
+    "franchise": "Nexus",
+    "heroes": [
+      "SgtHammer",
+      "Thrall"
+    ],
+    "skins": [
+      {
+        "Thrall": [
+          "ThrallEarthbreaker"
+        ]
+      },
+      {
+        "SgtHammer": [
+          "SgtHammerDoom"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_thrallhammer.png"
+  },
+  "DraeneiExecutorArtanisSkinPack": {
+    "hyperlinkId": "DraeneiExecutorArtanisSkinPack",
+    "releaseDate": "2020-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundle_h52_draeneiexecutorartanisskinpack.png"
+  },
+  "DreadmachineMalGanisSkinPack": {
+    "hyperlinkId": "DreadmachineMalGanisSkinPack",
+    "releaseDate": "2018-10-30",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h39_dreadmachinemalganisskinpack.png"
+  },
+  "DrekTharRehgarSkinPack": {
+    "hyperlinkId": "DrekTharRehgarSkinPack",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_drektharrehgarskinpack.png"
+  },
+  "DruidoftheFlameMalfurionBundle": {
+    "hyperlinkId": "DruidoftheFlameMalfurionBundle",
+    "releaseDate": "2016-11-29",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Malfurion"
+    ],
+    "skins": [
+      {
+        "Malfurion": [
+          "MalfurionFlame"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h22_druidoftheflamemalfurion.png"
+  },
+  "DVaHeroicBundle": {
+    "hyperlinkId": "DVaHeroicBundle",
+    "releaseDate": "2017-05-16",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h25mid_dvaheroic.png"
+  },
+  "DVatheDestroyerBundle": {
+    "hyperlinkId": "DVatheDestroyerBundle",
+    "releaseDate": "2017-10-03",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28_destroyerdva.png"
+  },
+  "EagleEyeTyrandeBundle": {
+    "hyperlinkId": "EagleEyeTyrandeBundle",
+    "releaseDate": "2016-06-28",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Tyrande"
+    ],
+    "skins": [
+      {
+        "Tyrande": [
+          "TyrandeSuper"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h18_supertyrande.png"
+  },
+  "EchoesofAlteracBundle": {
+    "hyperlinkId": "EchoesofAlteracBundle",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_apcorebundle.png"
+  },
+  "EchoesofTristramBundle": {
+    "hyperlinkId": "EchoesofTristramBundle",
+    "releaseDate": "2017-06-15",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h26_echoesoftristram.png"
+  },
+  "ElBandidoImperiusSkinPack": {
+    "hyperlinkId": "ElBandidoImperiusSkinPack",
+    "releaseDate": "2020-06-23",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_imperius.png"
+  },
+  "ElvenFatesBundle": {
+    "hyperlinkId": "ElvenFatesBundle",
+    "releaseDate": "2016-04-19",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h17_elvenfatesbundle.png"
+  },
+  "EmberlordZuljinBundle": {
+    "hyperlinkId": "EmberlordZuljinBundle",
+    "releaseDate": "2017-01-04",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h22jan_emberlordzuljin.png"
+  },
+  "EnforcerJohannaHeroicBundle": {
+    "hyperlinkId": "EnforcerJohannaHeroicBundle",
+    "releaseDate": "2018-03-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30mid_enforcerjohannaheroicbundle.png"
+  },
+  "EnforcersBundle": {
+    "hyperlinkId": "EnforcersBundle",
+    "releaseDate": "2018-03-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30mid_enforcerbundle.png"
+  },
+  "EternalConflictBundle": {
+    "hyperlinkId": "EternalConflictBundle",
+    "releaseDate": "2016-03-01",
+    "franchise": "Diablo",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h16_eternalconflict.png"
+  },
+  "EternalConflictUltimateBundle": {
+    "hyperlinkId": "EternalConflictUltimateBundle",
+    "releaseDate": "2016-03-01",
+    "franchise": "Diablo",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h16_eternalconflictultimate.png"
+  },
+  "FallenJunkratSkinPack": {
+    "hyperlinkId": "FallenJunkratSkinPack",
+    "releaseDate": "2017-10-17",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28mid_fallenjunkratskinpack.png"
+  },
+  "FallofKingsCrestBundle": {
+    "hyperlinkId": "FallofKingsCrestBundle",
+    "releaseDate": "2018-09-25",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h38_fallofkingscrestbundle.png"
+  },
+  "FarstriderHanzoSkinPack": {
+    "hyperlinkId": "FarstriderHanzoSkinPack",
+    "releaseDate": "2018-01-02",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29dec_farstriderhanzoskin.png"
+  },
+  "FelQueenChromieBundle": {
+    "hyperlinkId": "FelQueenChromieBundle",
+    "releaseDate": "2016-05-17",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Chromie"
+    ],
+    "skins": [
+      {
+        "Chromie": [
+          "ChromieFel"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h18_felqueenchromie.png"
+  },
+  "FelReaverBlazeSkinPack": {
+    "hyperlinkId": "FelReaverBlazeSkinPack",
+    "releaseDate": "2018-01-23",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29jan_felreaverblazeskinpack.png"
+  },
+  "FenixHeroicBundle": {
+    "hyperlinkId": "FenixHeroicBundle",
+    "releaseDate": "2018-03-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h31_fenixheroicbundle.png"
+  },
+  "FirestormBlazeSkinPack": {
+    "hyperlinkId": "FirestormBlazeSkinPack",
+    "releaseDate": "2019-02-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h43_firestormblazeskinpack.png"
+  },
+  "FirstAnniversaryBundle": {
+    "hyperlinkId": "FirstAnniversaryBundle",
+    "releaseDate": "2016-06-02",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h18_firstanniversary.png",
+    "boostId": "7Day"
+  },
+  "FootmanVarianSkinPack": {
+    "hyperlinkId": "FootmanVarianSkinPack",
+    "releaseDate": "2019-04-30",
+    "franchise": "Warcraft",
+    "event": "LTO",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h45_varianfootmenbundle.png"
+  },
+  "FortheAllianceBundle": {
+    "hyperlinkId": "FortheAllianceBundle",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_alliancebundle.png"
+  },
+  "FortheHordeBundle": {
+    "hyperlinkId": "FortheHordeBundle",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_hordebundle.png"
+  },
+  "FoundationBundle": {
+    "hyperlinkId": "FoundationBundle",
+    "releaseDate": "2017-12-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h40_foundationbundle.png"
+  },
+  "FragmentsoftheDarkNexusBundle": {
+    "hyperlinkId": "FragmentsoftheDarkNexusBundle",
+    "releaseDate": "2020-04-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_fragmentsofthedarknexus.png"
+  },
+  "FreshMeatBundle": {
+    "hyperlinkId": "FreshMeatBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "Butcher"
+    ],
+    "skins": [
+      {
+        "Butcher": [
+          "ButcherIron"
+        ]
+      }
+    ],
+    "mounts": [
+      "BattleBeastButcher"
+    ],
+    "image": "storm_ui_bundle_fresh_meat.png"
+  },
+  "FrostlordRexxarBundle": {
+    "hyperlinkId": "FrostlordRexxarBundle",
+    "releaseDate": "2015-09-08",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Rexxar"
+    ],
+    "skins": [
+      {
+        "Rexxar": [
+          "RexxarSkinFrost"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_frostlordrexxar.png"
+  },
+  "GarroshHeroicBundle": {
+    "hyperlinkId": "GarroshHeroicBundle",
+    "releaseDate": "2017-08-08",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h27_garroshheroic.png"
+  },
+  "GatadeBatallaLiLiSkinPack": {
+    "hyperlinkId": "GatadeBatallaLiLiSkinPack",
+    "releaseDate": "2020-06-23",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_lili.png"
+  },
+  "GazloweBigTopBundle": {
+    "hyperlinkId": "BigTopGazloweBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Tinker"
+    ],
+    "skins": [
+      {
+        "Tinker": [
+          "GazloweBigTop"
+        ]
+      }
+    ]
+  },
+  "GenjiLaunchBundle": {
+    "hyperlinkId": "GenjiHeroicBundle",
+    "releaseDate": "2017-04-25",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h25_genjilaunch.png"
+  },
+  "GhostKerriganBundle": {
+    "hyperlinkId": "QueenofGhostsKerriganBundle",
+    "releaseDate": "2016-09-20",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h20_ghostkerrigan.png"
+  },
+  "GlorytotheFirstbornBundle": {
+    "hyperlinkId": "GlorytotheFirstbornBundle",
+    "releaseDate": "2019-05-21",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h45_starcraftprotossbundle.png"
+  },
+  "GoliathDVaSkinPack": {
+    "hyperlinkId": "GoliathDVaSkinPack",
+    "releaseDate": "2017-05-16",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h25mid_goliathdvaskin.png"
+  },
+  "GrandMarshalVarianSkinPack": {
+    "hyperlinkId": "GrandMarshalVarianSkinPack",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_grandmarshalvarianskinpack.png"
+  },
+  "GraveWardenMalthaelSkinPack": {
+    "hyperlinkId": "GraveWardenMalthaelSkinPack",
+    "releaseDate": "2017-06-13",
+    "franchise": "Diablo",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h26_gravewardenmalthael.png"
+  },
+  "GreedandValorBundle": {
+    "hyperlinkId": "GreedandValorBundle",
+    "releaseDate": "2020-07-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_2020altered.png"
+  },
+  "GreedChogallSkinPack": {
+    "hyperlinkId": "GreedChogallSkinPack",
+    "releaseDate": "2020-07-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_chogall.png"
+  },
+  "GreenArmyBundle": {
+    "hyperlinkId": "GreenArmyBundle",
+    "releaseDate": "2019-12-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h49_armybundle.png"
+  },
+  "Halloween2018LootChest12Pack": {
+    "hyperlinkId": "Halloween2018LootChest12Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest12pack.png",
+    "lootChestBonus": "LootChestHalloween2018Rare"
+  },
+  "Halloween2018LootChest1Pack": {
+    "hyperlinkId": "Halloween2018LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest1pack.png",
+    "lootChestBonus": "LootChestHalloween2018Rare"
+  },
+  "Halloween2018LootChest25Pack": {
+    "hyperlinkId": "Halloween2018LootChest25Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest25pack.png",
+    "lootChestBonus": "LootChestHalloween2018Rare"
+  },
+  "Halloween2018LootChest52Pack": {
+    "hyperlinkId": "Halloween2018LootChest52Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest52pack.png",
+    "lootChestBonus": "LootChestHalloween2018Rare"
+  },
+  "Halloween2018LootChest5Pack": {
+    "hyperlinkId": "Halloween2018LootChest5Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_autumnlootchest5pack.png",
+    "lootChestBonus": "LootChestHalloween2018Rare"
+  },
+  "HallowsEnd2015Bundle": {
+    "hyperlinkId": "HallowsEnd2015Bundle",
+    "releaseDate": "2015-10-27",
+    "franchise": "Nexus",
+    "heroes": [
+      "Falstad"
+    ],
+    "skins": [
+      {
+        "Falstad": [
+          "FalstadPirate"
+        ]
+      }
+    ],
+    "mounts": [
+      "HeadlessHorsemanHorse"
+    ],
+    "image": "storm_ui_bundles_h14_hallowsend2015.png"
+  },
+  "HallowsEnd2015UltimateBundle": {
+    "hyperlinkId": "HallowsEnd2015UltimateBundle",
+    "releaseDate": "2015-10-27",
+    "franchise": "Nexus",
+    "heroes": [
+      "Abathur",
+      "Falstad",
+      "Kerrigan",
+      "Tychus"
+    ],
+    "skins": [
+      {
+        "Falstad": [
+          "FalstadPirate"
+        ]
+      },
+      {
+        "Kerrigan": [
+          "KerriganCountess"
+        ]
+      },
+      {
+        "Abathur": [
+          "AbathurSkelethur"
+        ]
+      },
+      {
+        "Tychus": [
+          "TychusInfestedBase"
+        ]
+      }
+    ],
+    "mounts": [
+      "HeadlessHorsemanHorse"
+    ],
+    "image": "storm_ui_bundles_h14_hallowsend2015ultimate.png"
+  },
+  "HallowsEnd2015UltimateBundleCN": {
+    "hyperlinkId": "HallowsEnd2015UltimateBundleCN",
+    "releaseDate": "2015-10-27",
+    "franchise": "Nexus",
+    "heroes": [
+      "Falstad",
+      "Kerrigan",
+      "Tychus"
+    ],
+    "skins": [
+      {
+        "Falstad": [
+          "FalstadPirate"
+        ]
+      },
+      {
+        "Kerrigan": [
+          "KerriganCountess"
+        ]
+      },
+      {
+        "Tychus": [
+          "TychusInfestedBase"
+        ]
+      }
+    ],
+    "mounts": [
+      "HeadlessHorsemanHorse"
+    ],
+    "image": "storm_ui_bundles_h14_hallowsend2015ultimatecn.png"
+  },
+  "HallowsEnd2017Bundle": {
+    "hyperlinkId": "HallowsEnd2017Bundle",
+    "releaseDate": "2017-10-17",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28mid_hallowsend2017.png"
+  },
+  "HallowsEndClassicBundle": {
+    "hyperlinkId": "HallowsEndClassicBundle",
+    "releaseDate": "2017-10-17",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28mid_hallowsendclassic.png"
+  },
+  "HallowsEndCostumeBundle": {
+    "hyperlinkId": "HallowsEndCostumeBundle",
+    "releaseDate": "2014-03-13",
+    "skins": [
+      {
+        "Abathur": [
+          "AbathurSkelethur"
+        ]
+      },
+      {
+        "Kerrigan": [
+          "KerriganCountess"
+        ]
+      }
+    ]
+  },
+  "HanzoHeroicBundle": {
+    "hyperlinkId": "HanzoHeroicBundle",
+    "releaseDate": "2017-12-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29dec_hanzoheroic.png"
+  },
+  "HarlequinNazeeboBundle": {
+    "hyperlinkId": "HarlequinNazeeboBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "WitchDoctor"
+    ],
+    "skins": [
+      {
+        "WitchDoctor": [
+          "WitchDoctorHarlequin"
+        ]
+      }
+    ]
+  },
+  "HealerBundle": {
+    "hyperlinkId": "HealerBundle",
+    "releaseDate": "2016-01-12",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "heroes": [
+      "LiLi",
+      "Malfurion",
+      "Uther"
+    ],
+    "skins": [
+      {
+        "Uther": [
+          "UtherLumberjack"
+        ]
+      },
+      {
+        "Malfurion": [
+          "MalfurionStormrageRed"
+        ]
+      },
+      {
+        "LiLi": [
+          "LiLiExplorer"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15mid_bundle3.png"
+  },
+  "HeavyHittersBundle": {
+    "hyperlinkId": "HeavyHittersBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Arthas",
+      "Tychus",
+      "Uther"
+    ]
+  },
+  "HellbladeSamuroBundle": {
+    "hyperlinkId": "HellbladeSamuroBundle",
+    "releaseDate": "2016-10-18",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h21_hellbladesamuro.png"
+  },
+  "HellforgedHeroesBundle": {
+    "hyperlinkId": "HellforgedHeroesBundle",
+    "releaseDate": "2018-09-04",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h37_hellforgedheroesbundle.png"
+  },
+  "HellhammerThrallBundle": {
+    "hyperlinkId": "HellhammerThrallBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Thrall"
+    ],
+    "skins": [
+      {
+        "Thrall": [
+          "ThrallHellhammer"
+        ]
+      }
+    ]
+  },
+  "HellsScreamersBundle": {
+    "hyperlinkId": "HellsScreamersBundle",
+    "releaseDate": "2018-05-22",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h33_hellsscreamersbundle.png"
+  },
+  "HellwardenMaievSkinPack": {
+    "hyperlinkId": "HellwardenMaievSkinPack",
+    "releaseDate": "2018-02-20",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30_hellwardenmaievskinpack.png"
+  },
+  "HeraldofNzothAlarakBundle": {
+    "hyperlinkId": "HeraldofNZothAlarakBundle",
+    "releaseDate": "2016-09-13",
+    "heroes": [
+      "Alarak"
+    ],
+    "skins": [
+      {
+        "Alarak": [
+          "AlarakHunter"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h20_heraldofn'zothalarak.png"
+  },
+  "Hero10Pack1Bundle": {
+    "hyperlinkId": "HeroesVarietyBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Arthas",
+      "Barbarian",
+      "Diablo",
+      "Falstad",
+      "SgtHammer",
+      "Tassadar",
+      "Tychus",
+      "Tyrael",
+      "Tyrande",
+      "Zeratul"
+    ]
+  },
+  "HeroesofLightBundle": {
+    "hyperlinkId": "HeroesofLightBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Barbarian",
+      "Falstad",
+      "Tyrande"
+    ]
+  },
+  "HeroesofLuxoriaBundle": {
+    "hyperlinkId": "HeroesofLuxoriaBundle",
+    "releaseDate": "2017-11-14",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29_heroesofluxoria.png"
+  },
+  "HeroesoftheDorm2018Bundle": {
+    "hyperlinkId": "HeroesoftheDorm2018Bundle",
+    "releaseDate": "2018-07-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h35_heroesofthedorm2018bundle.png"
+  },
+  "HeroesofWarcraftBundle": {
+    "hyperlinkId": "HeroesofWarcraftBundle",
+    "releaseDate": "2018-06-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_heroesofwarcraftbundle.png"
+  },
+  "HeroicReinforcementBundle": {
+    "hyperlinkId": "HeroicReinforcementBundle",
+    "releaseDate": "2018-11-13",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h40_heroicreinforcementsbundle.png"
+  },
+  "HighPriestessMaievSkinPack": {
+    "hyperlinkId": "HighPriestessMaievSkinPack",
+    "releaseDate": "2020-07-14",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_maiev.png"
+  },
+  "HighWarlordGarroshSkinPack": {
+    "hyperlinkId": "HighWarlordGarroshSkinPack",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_highwarlordgarroshskinpack.png"
+  },
+  "HoggerHeroicBundle": {
+    "hyperlinkId": "HoggerHeroicBundle",
+    "releaseDate": "2023-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h53_hoggerheroic.png"
+  },
+  "HordeLegendsBundle": {
+    "hyperlinkId": "HordeLegendsBundle",
+    "releaseDate": "2016-08-09",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h19_bundle1.png"
+  },
+  "ImperatorStukovSkinPack": {
+    "hyperlinkId": "ImperatorStukovSkinPack",
+    "releaseDate": "2018-08-07",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h36_imperatorstukovskinpack.png"
+  },
+  "ImperiusHeroicBundle": {
+    "hyperlinkId": "ImperiusHeroicBundle",
+    "releaseDate": "2019-01-08",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h42_imperiusheroicbundle.png"
+  },
+  "InterdimensionalFusionBundle": {
+    "hyperlinkId": "InterdimensionalFusionBundle",
+    "releaseDate": "2020-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundle_h52_interdimensionalfusionbundle.png"
+  },
+  "InvinciliskBundle": {
+    "hyperlinkId": "InvinciliskBundle",
+    "releaseDate": "2020-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundle_h52_invinciliskbundle.png"
+  },
+  "JadeDragonKharazimBundle": {
+    "hyperlinkId": "JadeDragonKharazimBundle",
+    "releaseDate": "2015-08-19",
+    "franchise": "Diablo",
+    "heroes": [
+      "Monk"
+    ],
+    "skins": [
+      {
+        "Monk": [
+          "MonkJade"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_jadedragonkharazim.png"
+  },
+  "JanitorLeoricBundle": {
+    "hyperlinkId": "JanitorLeoricBundle",
+    "releaseDate": "2018-11-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h40_janitorleoricbundle.png"
+  },
+  "JointheResistanceBundle": {
+    "hyperlinkId": "JointheResistanceBundle",
+    "releaseDate": "2019-02-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h43_jointheresistancebundle.png"
+  },
+  "JudgementBundle": {
+    "hyperlinkId": "JudgementBundle",
+    "releaseDate": "2015-09-15",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Uther"
+    ],
+    "skins": [
+      {
+        "Uther": [
+          "UtherJudgement"
+        ]
+      }
+    ],
+    "mounts": [
+      "JudgementUtherCharger"
+    ],
+    "image": "storm_ui_bundle_judgement.png"
+  },
+  "JunkratHeroicBundle": {
+    "hyperlinkId": "JunkratHeroicBundle",
+    "releaseDate": "2017-10-17",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28mid_junkratheroic.png"
+  },
+  "KelThuzadHeroicBundle": {
+    "hyperlinkId": "KelThuzadHeroicBundle",
+    "releaseDate": "2017-09-05",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h27mid_kelthuzadheroic.png"
+  },
+  "KingofBladesArthasSkinPack": {
+    "hyperlinkId": "KingofBladesArthasSkinPack",
+    "releaseDate": "2020-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundle_h52_kingofbladesarthasskinpack.png"
+  },
+  "KnightOwlMedivhBundle": {
+    "hyperlinkId": "KnightOwlMedivhBundle",
+    "releaseDate": "2016-06-14",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Medivh"
+    ],
+    "skins": [
+      {
+        "Medivh": [
+          "MedivhKnightOwl"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h18_knightowlmedivh.png"
+  },
+  "KopruluBundle": {
+    "hyperlinkId": "KopruluBundle",
+    "releaseDate": "2015-12-15",
+    "isDynamicContent": true,
+    "heroes": [
+      "Kerrigan",
+      "Raynor",
+      "SgtHammer"
+    ],
+    "skins": [
+      {
+        "Raynor": [
+          "RaynorPatriot"
+        ]
+      },
+      {
+        "Kerrigan": [
+          "KerriganSuccubus"
+        ]
+      },
+      {
+        "SgtHammer": [
+          "SgtHammerDoom"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15mid_bundle1.png"
+  },
+  "LeadingLadiesBundle": {
+    "hyperlinkId": "LeadingLadiesBundle",
+    "releaseDate": "2016-07-12",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h19_leadingladies.png"
+  },
+  "LegendsoftheNexusBundle": {
+    "hyperlinkId": "LegendsoftheNexusBundle",
+    "releaseDate": "2016-11-22",
+    "franchise": "Nexus",
+    "heroes": [
+      "Kerrigan",
+      "Leoric",
+      "Tassadar"
+    ],
+    "skins": [
+      {
+        "Kerrigan": [
+          "KerriganGhost"
+        ]
+      },
+      {
+        "Tassadar": [
+          "TassadarMecha"
+        ]
+      },
+      {
+        "Leoric": [
+          "SpaceLordLeoricBundleProduct"
+        ]
+      }
+    ],
+    "mounts": [
+      "MountSpeederBike",
+      "Starbreaker"
+    ],
+    "image": "storm_ui_bundles_h22_legendsofthenexus.png"
+  },
+  "LifeUndeathBundle": {
+    "hyperlinkId": "LifeUndeathBundle",
+    "releaseDate": "2018-10-16",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h39_lifeandundeathbundle.png"
+  },
+  "LilDestroyersBundle": {
+    "hyperlinkId": "LilDestroyersBundle",
+    "releaseDate": "2019-12-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h49_lildestroyers.png"
+  },
+  "LilRagnarosBundle": {
+    "hyperlinkId": "LilRagnarosBundle",
+    "releaseDate": "2016-12-14",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Ragnaros"
+    ],
+    "skins": [
+      {
+        "Ragnaros": [
+          "RagnarosLil"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h22mid_ragnaros.png"
+  },
+  "LoGoshVarianBundle": {
+    "hyperlinkId": "LoGoshVarianBundle",
+    "releaseDate": "2016-11-15",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Varian"
+    ],
+    "skins": [
+      {
+        "Varian": [
+          "VarianLogosh"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h22_logoshvarian.png"
+  },
+  "LootChest1PackGold": {
+    "hyperlinkId": "LootChest1PackGold",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "RareProgChest"
+  },
+  "LootChestBoostPromoBundle": {
+    "hyperlinkId": "LootChestBoostPromoBundle",
+    "releaseDate": "2019-08-06",
+    "event": "LTO"
+  },
+  "LostVikingsLaunchBundle": {
+    "hyperlinkId": "PajamaPartyBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Classic",
+    "heroes": [
+      "LostVikings"
+    ],
+    "skins": [
+      {
+        "LostVikings": [
+          "LostVikingsPajamaParty"
+        ]
+      }
+    ]
+  },
+  "LoveBugAnubarakBundle": {
+    "hyperlinkId": "LoveIsInTheAirBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Anubarak"
+    ],
+    "skins": [
+      {
+        "Anubarak": [
+          "AnubarakLovebug"
+        ]
+      }
+    ]
+  },
+  "LoveDoctorMoralesBundle": {
+    "hyperlinkId": "LoveDoctorMoralesBundle",
+    "releaseDate": "2016-02-12",
+    "heroes": [
+      "Medic"
+    ],
+    "skins": [
+      {
+        "Medic": [
+          "MedicSkinLove"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h16_lovedoctormorales.png"
+  },
+  "LoveisintheAir2015Bundle": {
+    "hyperlinkId": "LoveisintheAir2015Bundle",
+    "releaseDate": "2016-02-12",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Anubarak"
+    ],
+    "skins": [
+      {
+        "Anubarak": [
+          "AnubarakLovebug"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h16_loveisintheair2015.png"
+  },
+  "LoveIsintheAirClassicBundle": {
+    "hyperlinkId": "LoveIsintheAirClassicBundle",
+    "releaseDate": "2018-02-13",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30_loveisintheairclassicbundle.png"
+  },
+  "LtMoralesApothecaryBundle": {
+    "hyperlinkId": "ApothecaryMoralesBundle",
+    "releaseDate": "2015-10-06",
+    "heroes": [
+      "Medic"
+    ],
+    "skins": [
+      {
+        "Medic": [
+          "MedicSkinApoth"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h14_apothecarymorales.png"
+  },
+  "LunarFestival2015Bundle": {
+    "hyperlinkId": "LunarFestival2015Bundle",
+    "releaseDate": "2016-02-09",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h16_lunarfestival2015.png"
+  },
+  "LunarFestival2016Bundle": {
+    "hyperlinkId": "2016LunarFestivalBundle",
+    "releaseDate": "2017-01-24",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h16_lunarfestival2016.png"
+  },
+  "LunarFestival2018Bundle": {
+    "hyperlinkId": "LunarFestival2018Bundle",
+    "releaseDate": "2018-02-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30_lunarfestival2018bundle.png"
+  },
+  "LunarFestivalClassicBundle": {
+    "hyperlinkId": "LunarFestivalClassicBundle",
+    "releaseDate": "2018-02-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30_lunarfestivalclassicbundle.png"
+  },
+  "LunarFestivalCompleteBundle": {
+    "hyperlinkId": "LunarFestivalCompleteBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Chen",
+      "LiLi"
+    ],
+    "skins": [
+      {
+        "LiLi": [
+          "LiLiLunarLiLi"
+        ]
+      },
+      {
+        "Chen": [
+          "ChenLunar"
+        ]
+      }
+    ],
+    "mounts": [
+      "LunarTiger"
+    ]
+  },
+  "LunarFestivalMountBundle": {
+    "hyperlinkId": "LunarFestivalMountBundle",
+    "releaseDate": "2019-03-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true
+  },
+  "LunarFestivalSkinBundle": {
+    "hyperlinkId": "LunarFestivalSkinBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "skins": [
+      {
+        "LiLi": [
+          "LiLiLunarLiLi"
+        ]
+      },
+      {
+        "Chen": [
+          "ChenLunar"
+        ]
+      }
+    ],
+    "mounts": [
+      "LunarTiger"
+    ]
+  },
+  "LunarLootChest12Pack": {
+    "hyperlinkId": "LunarLootChest12Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_lunarlootchest12pack.png",
+    "lootChestBonus": "LunarRareProgressionChest"
+  },
+  "LunarLootChest1Pack": {
+    "hyperlinkId": "LunarLootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_lunarlootchest1pack.png",
+    "lootChestBonus": "LunarRareProgressionChest"
+  },
+  "LunarLootChest25Pack": {
+    "hyperlinkId": "LunarLootChest25Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_lunarlootchest25pack.png",
+    "lootChestBonus": "LunarRareProgressionChest"
+  },
+  "LunarLootChest52Pack": {
+    "hyperlinkId": "LunarLootChest52Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_lunarlootchest52pack.png",
+    "lootChestBonus": "LunarRareProgressionChest"
+  },
+  "LunarLootChest5Pack": {
+    "hyperlinkId": "LunarLootChest5Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_lunarlootchest5pack.png",
+    "lootChestBonus": "LunarRareProgressionChest"
+  },
+  "LuxoriaCompleteBundle": {
+    "hyperlinkId": "LuxoriaCompleteBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "FaerieDragon",
+      "Tassadar",
+      "Zagara"
+    ],
+    "skins": [
+      {
+        "Zagara": [
+          "ZagaraLuxoriaQueen"
+        ]
+      },
+      {
+        "Tassadar": [
+          "TassadarPharaoh"
+        ]
+      },
+      {
+        "FaerieDragon": [
+          "BrightwingLuxMonkey"
+        ]
+      }
+    ],
+    "mounts": [
+      "MagicCarpet"
+    ]
+  },
+  "LuxorianNightsBundle": {
+    "hyperlinkId": "LuxorianNightsBundle",
+    "releaseDate": "2017-01-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h22jan_luxoriannights.png"
+  },
+  "LuxoriaSkinBundle": {
+    "hyperlinkId": "LuxoriaSkinBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "skins": [
+      {
+        "Zagara": [
+          "ZagaraLuxoriaQueen"
+        ]
+      },
+      {
+        "Tassadar": [
+          "TassadarPharaoh"
+        ]
+      },
+      {
+        "FaerieDragon": [
+          "BrightwingLuxMonkey"
+        ]
+      }
+    ],
+    "mounts": [
+      "MagicCarpet"
+    ]
+  },
+  "MachinesofWarBundle": {
+    "hyperlinkId": "MachinesofWarBundle",
+    "releaseDate": "2016-09-13",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h20_machinesofwar.png"
+  },
+  "MadAndMightyBundle": {
+    "hyperlinkId": "MadAndMightyBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "skins": [
+      {
+        "Barbarian": [
+          "SuperSonya"
+        ]
+      },
+      {
+        "Tinker": [
+          "GazloweScifi"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_mad_and_mighty_skin.png"
+  },
+  "MadAndMightyCompleteBundle": {
+    "hyperlinkId": "MadAndMightyCompleteBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Barbarian",
+      "Tinker"
+    ],
+    "skins": [
+      {
+        "Barbarian": [
+          "SuperSonya"
+        ]
+      },
+      {
+        "Tinker": [
+          "GazloweScifi"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_mad_and_mighty_complete.png"
+  },
+  "MadAxeGarroshSkinPack": {
+    "hyperlinkId": "MadAxeGarroshSkinPack",
+    "releaseDate": "2017-08-08",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h27_madaxegarroshskinpack.png"
+  },
+  "MadJesterYrelSkinPack": {
+    "hyperlinkId": "MadJesterYrelSkinPack",
+    "releaseDate": "2018-06-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_jesteryrelskinpack.png"
+  },
+  "MadKingBundle": {
+    "hyperlinkId": "MadKingBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "Leoric"
+    ],
+    "skins": [
+      {
+        "Leoric": [
+          "LeoricVrykul"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_mad_king.png"
+  },
+  "MaievHeroicBundle": {
+    "hyperlinkId": "MaievHeroicBundle",
+    "releaseDate": "2018-02-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30_maievheroicbundle.png"
+  },
+  "MalGanisHeroicBundle": {
+    "hyperlinkId": "MalGanisHeroicBundle",
+    "releaseDate": "2018-10-16",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h39_malganisheroicbundle.png"
+  },
+  "MalgauchoMalganisSkinPack": {
+    "hyperlinkId": "MalgauchoMalganisSkinPack",
+    "releaseDate": "2020-06-23",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_malganis.png"
+  },
+  "MalthaelHeroicBundle": {
+    "hyperlinkId": "MalthaelHeroicBundle",
+    "releaseDate": "2017-06-14",
+    "franchise": "Diablo",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h26_malthaelheroic.png"
+  },
+  "MaraudinMuradinBundle": {
+    "hyperlinkId": "MaraudinMuradinBundle",
+    "releaseDate": "2016-12-20",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h22mid_maraudermuradin.png"
+  },
+  "MarshalRaynorBundle": {
+    "hyperlinkId": "MarshalRaynorBundle",
+    "releaseDate": "2015-10-06",
+    "heroes": [
+      "Raynor"
+    ],
+    "skins": [
+      {
+        "Raynor": [
+          "MarshallRaynor"
+        ]
+      }
+    ],
+    "mounts": [
+      "MarshallRaynorHorse"
+    ],
+    "image": "storm_ui_bundles_h14_marshalraynor.png"
+  },
+  "MastersofMagicBundle": {
+    "hyperlinkId": "MastersofMagicBundle",
+    "releaseDate": "2016-10-18",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h21_dynamic1.png"
+  },
+  "MatchoftheCenturyBundle": {
+    "hyperlinkId": "MatchoftheCenturyBundle",
+    "releaseDate": "2018-05-22",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h33_matchofthecenturybundle.png"
+  },
+  "MeatWagonBundle": {
+    "hyperlinkId": "MeatWagonBundle",
+    "releaseDate": "2018-10-16",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h39_meatwagonbundle.png"
+  },
+  "MechaDehakaBundle": {
+    "hyperlinkId": "MechaDehakaBundle",
+    "releaseDate": "2016-03-29",
+    "isDynamicContent": true,
+    "heroes": [
+      "Dehaka"
+    ],
+    "skins": [
+      {
+        "Dehaka": [
+          "DehakaMecha"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h17_mechadehakabundle.png"
+  },
+  "MechaRehgarHeroicBundle": {
+    "hyperlinkId": "MechaRehgarHeroicBundle",
+    "releaseDate": "2018-01-16",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29jan_mecharehgarheroicbundle.png"
+  },
+  "MechaStormBundle": {
+    "hyperlinkId": "MechaStormBundle",
+    "releaseDate": "2018-01-16",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29jan_mechastormbundle.png"
+  },
+  "MechaStormIIBundle": {
+    "hyperlinkId": "MechaStormIIBundle",
+    "releaseDate": "2019-06-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h46_mechastormbundle.png"
+  },
+  "MechaTyraelHeroicBundle": {
+    "hyperlinkId": "MechaTyraelHeroicBundle",
+    "releaseDate": "2018-01-16",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29jan_mechatyraelheroicbundle.png"
+  },
+  "MechaVallaSkinPack": {
+    "hyperlinkId": "MechaVallaSkinPack",
+    "releaseDate": "2019-06-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h46_mechavallaskinpack.png"
+  },
+  "MechaYrelSkinPack": {
+    "hyperlinkId": "MechaYrelSkinPack",
+    "releaseDate": "2019-06-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h46_mechayrelskinpack.png"
+  },
+  "MedivhRemasteredBundle": {
+    "hyperlinkId": "MedivhRemasteredBundle",
+    "releaseDate": "2018-03-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30mid_medivhremasteredbundle.png"
+  },
+  "MegabundleAssassins": {
+    "hyperlinkId": "AssassinsMegaBundle",
+    "releaseDate": "2018-04-15",
+    "heroes": [
+      "Alarak",
+      "Butcher",
+      "Chromie",
+      "DemonHunter",
+      "Dryad",
+      "Falstad",
+      "Greymane",
+      "Guldan",
+      "Kaelthas",
+      "Kerrigan",
+      "Nova",
+      "Raynor",
+      "Sylvanas",
+      "Tracer",
+      "Tychus",
+      "Valeera",
+      "WitchDoctor",
+      "Wizard",
+      "Zeratul",
+      "Zuljin"
+    ],
+    "image": "storm_ui_bundles_assassins_mega_bundle.png"
+  },
+  "MegabundleFlex": {
+    "hyperlinkId": "FlexMegaBundle",
+    "releaseDate": "2018-04-15",
+    "heroes": [
+      "Abathur",
+      "Arthas",
+      "Azmodan",
+      "Crusader",
+      "Diablo",
+      "FaerieDragon",
+      "Greymane",
+      "Kerrigan",
+      "L90ETC",
+      "LiLi",
+      "LostVikings",
+      "Medic",
+      "Rehgar",
+      "Rexxar",
+      "Sylvanas",
+      "Tychus",
+      "Varian",
+      "WitchDoctor",
+      "Wizard",
+      "Zuljin"
+    ],
+    "image": "storm_ui_bundles_flex_mega_bundle.png"
+  },
+  "MegabundleJungle": {
+    "hyperlinkId": "TanksBruiserMegaBundle",
+    "releaseDate": "2018-04-15",
+    "heroes": [
+      "Alarak",
+      "Anubarak",
+      "Artanis",
+      "Arthas",
+      "Barbarian",
+      "Chen",
+      "Dehaka",
+      "Diablo",
+      "Illidan",
+      "Leoric",
+      "Monk",
+      "Muradin",
+      "Necromancer",
+      "Ragnaros",
+      "Rexxar",
+      "Samuro",
+      "Stitches",
+      "Thrall",
+      "Varian",
+      "Zarya"
+    ],
+    "image": "storm_ui_bundles_tanks_mega_bundle.png"
+  },
+  "MegabundleSupport": {
+    "hyperlinkId": "SupportSpecialistMegaBundle",
+    "releaseDate": "2018-04-15",
+    "heroes": [
+      "Abathur",
+      "Auriel",
+      "Chen",
+      "Crusader",
+      "Dehaka",
+      "FaerieDragon",
+      "L90ETC",
+      "LiLi",
+      "Lucio",
+      "Malfurion",
+      "Medic",
+      "Medivh",
+      "Monk",
+      "Muradin",
+      "Rehgar",
+      "Stitches",
+      "Tassadar",
+      "Tyrael",
+      "Uther",
+      "Zarya"
+    ],
+    "image": "storm_ui_bundles_support_mega_bundle.png"
+  },
+  "MephistoHeroicBundle": {
+    "hyperlinkId": "MephistoHeroicBundle",
+    "releaseDate": "2018-09-04",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h37_mephistoheroicbundle.png"
+  },
+  "MineralHarvesterGazloweSkinPack": {
+    "hyperlinkId": "MineralHarvesterGazloweSkinPack",
+    "releaseDate": "2020-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundle_h52_mineralharvestergazloweskinpack.png"
+  },
+  "Mobster2019LegendaryLootChest1Pack": {
+    "hyperlinkId": "Mobster2019LegendaryLootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "Mobster2019LegendaryLootChest"
+  },
+  "Mobster2019LootChest1Pack": {
+    "hyperlinkId": "Mobster2019LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "Mobster2019RareLootChest"
+  },
+  "MobsterBundle": {
+    "hyperlinkId": "MobsterBundle",
+    "releaseDate": "2019-09-24",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h48_mobster19mobsterbundle.png"
+  },
+  "MobsterGetawaySidecarBundle": {
+    "hyperlinkId": "GetawaySidecarBundle",
+    "releaseDate": "2019-09-24",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h48_mobster19sidecarmountbundle.png"
+  },
+  "MobsterJunkratSkinPack": {
+    "hyperlinkId": "WiseguyJunkratBundle",
+    "releaseDate": "2019-09-24",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h48_mobster19junkratskinpack.png"
+  },
+  "MobsterOrpheaSkinPack": {
+    "hyperlinkId": "Baby-FaceOrpheaBundle",
+    "releaseDate": "2019-09-24",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h48_mobster19orpheaskinpack.png"
+  },
+  "MobsterRaccoonBundle": {
+    "hyperlinkId": "RaccoonBundle",
+    "releaseDate": "2019-09-24",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h48_mobster19raccoonmountbundle.png"
+  },
+  "MobsterSgtHammerSkinPack": {
+    "hyperlinkId": "BigShotSgtHammerBundle",
+    "releaseDate": "2019-09-24",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h48_mobster19hammerskinpack.png"
+  },
+  "MobsterWhitemaneSkinPack": {
+    "hyperlinkId": "ShowstopperWhitemaneBundle",
+    "releaseDate": "2019-09-24",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h48_mobster19whitemaneskinpack.png"
+  },
+  "MultiverseBundle": {
+    "hyperlinkId": "MultiverseBundle",
+    "releaseDate": "2016-06-14",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h18_dynamicbundle2.png"
+  },
+  "MurkyGruntyBundle": {
+    "hyperlinkId": "GruntyMurkyBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Murky"
+    ],
+    "skins": [
+      {
+        "Murky": [
+          "MurkyGrunty"
+        ]
+      }
+    ]
+  },
+  "MysticKingdomsArthasBundle": {
+    "hyperlinkId": "MysticKingdomsArthasBundle",
+    "releaseDate": "2016-07-19",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h19_mystickingdomsarthas.png"
+  },
+  "MythicPantheonBundle": {
+    "hyperlinkId": "MythicPantheonBundle",
+    "releaseDate": "2020-05-05",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_mythicpantheon.png"
+  },
+  "NecrotopologistMeiSkinPack": {
+    "hyperlinkId": "NecrotopologistMeiSkinPack",
+    "releaseDate": "2020-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundle_h52_necrotopologistmeiskinpack.png"
+  },
+  "NephalemBundle": {
+    "hyperlinkId": "NephalemBundle",
+    "releaseDate": "2018-04-24",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h32_nephalembundle.png"
+  },
+  "Nexomania2020LootChest1Pack": {
+    "hyperlinkId": "Nexomania2020LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "LootChestSummer2020Rare"
+  },
+  "NexomaniaBestBrosBundle": {
+    "hyperlinkId": "NexomaniaBestBrosBundle",
+    "releaseDate": "2020-06-23",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_2020buddies.png"
+  },
+  "NexomaniaBitterRivalsBundle": {
+    "hyperlinkId": "NexomaniaBitterRivalsBundle",
+    "releaseDate": "2020-06-23",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_2020rivals.png"
+  },
+  "NexoweightChampionshipBundle": {
+    "hyperlinkId": "NexoweightChampionshipBundle",
+    "releaseDate": "2020-06-23",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_2020nexomania.png"
+  },
+  "NexusBundle": {
+    "hyperlinkId": "NexusBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Barbarian",
+      "Falstad",
+      "L90ETC",
+      "LiLi",
+      "Nova",
+      "Tassadar",
+      "WitchDoctor",
+      "Zagara"
+    ],
+    "skins": [
+      {
+        "Nova": [
+          "NovaRollerDerby"
+        ]
+      },
+      {
+        "L90ETC": [
+          "ETCGlam"
+        ]
+      },
+      {
+        "WitchDoctor": [
+          "WitchDoctorGrimskull"
+        ]
+      },
+      {
+        "LiLi": [
+          "LiLiExplorer"
+        ]
+      }
+    ],
+    "mounts": [
+      "Nazeebra",
+      "RainbowUnicorn"
+    ],
+    "image": "storm_ui_bundle_nexus.png"
+  },
+  "NexusChallengerBundle": {
+    "hyperlinkId": "NexusChallengerBundle",
+    "releaseDate": "2016-10-18",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h21_nexuschallenger.png",
+    "boostId": "7Day"
+  },
+  "NexusConquerorBundle": {
+    "hyperlinkId": "NexusConquerorBundle",
+    "releaseDate": "2016-10-18",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h21_newhero.png",
+    "boostId": "30Day"
+  },
+  "NexusHeroineBundle": {
+    "hyperlinkId": "NexusHeroineBundle",
+    "releaseDate": "2016-02-09",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h16_nexusheroine.png"
+  },
+  "NightslayerValeeraSkinPack": {
+    "hyperlinkId": "NightslayerValeeraSkinPack",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_nightslayervaleeraskinpack.png"
+  },
+  "NoblegardenBundle": {
+    "hyperlinkId": "NoblegardenBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Murky"
+    ],
+    "skins": [
+      {
+        "Murky": [
+          "MurkyFunnyBunny"
+        ]
+      }
+    ]
+  },
+  "NovaCompleteBundle": {
+    "hyperlinkId": "NovaCompleteBundle",
+    "releaseDate": "2014-03-13",
+    "heroes": [
+      "Nova"
+    ],
+    "skins": [
+      {
+        "Nova": [
+          "NovaRollerDerby",
+          "NovaSpectre",
+          "NovaZon"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_nova_complete.png"
+  },
+  "NovazonNovaBundle": {
+    "hyperlinkId": "NovazonNovaBundle",
+    "releaseDate": "2014-03-13",
+    "heroes": [
+      "Nova"
+    ],
+    "skins": [
+      {
+        "Nova": [
+          "NovaZon"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_novazon.png"
+  },
+  "OniGenjiSkinPack": {
+    "hyperlinkId": "OniGenjiSkinPack",
+    "releaseDate": "2017-04-25",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h25_onigenji.png"
+  },
+  "OrpheaHeroicBundle": {
+    "hyperlinkId": "OrpheaHeroicBundle",
+    "releaseDate": "2018-11-13",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h40_orpheaheroicbundle.png"
+  },
+  "PajamaPartyMeiHeroicBundle": {
+    "hyperlinkId": "PajamaPartyMeiHeroicBundle",
+    "releaseDate": "2020-06-23",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_mei.png"
+  },
+  "ParamedicMoralesHeroicBundle": {
+    "hyperlinkId": "ParamedicMoralesHeroicBundle",
+    "releaseDate": "2018-03-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30mid_paramedicmoralesheroicbundle.png"
+  },
+  "PegasusPack": {
+    "hyperlinkId": "PegasusPack",
+    "releaseDate": "2020-05-05",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_pegasuspack.png"
+  },
+  "PhantomKnightZaryaSkinPack": {
+    "hyperlinkId": "PhantomKnightZaryaSkinPack",
+    "releaseDate": "2018-09-25",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h38_phantomknightzaryaskinpack.png"
+  },
+  "PirateCassiaBundle": {
+    "hyperlinkId": "PirateCassiaBundle",
+    "releaseDate": "2017-04-04",
+    "franchise": "Diablo",
+    "heroes": [
+      "Amazon"
+    ],
+    "skins": [
+      {
+        "Amazon": [
+          "AmazonPirate"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h24_piratequeencassia.png"
+  },
+  "PlayoftheGameBundle": {
+    "hyperlinkId": "PlayoftheGameBundle",
+    "releaseDate": "2017-09-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28_overwatch.png"
+  },
+  "PowerhouseBundle": {
+    "hyperlinkId": "PowerhouseBundle",
+    "releaseDate": "2015-11-17",
+    "franchise": "Nexus",
+    "heroes": [
+      "Barbarian",
+      "Diablo",
+      "Stitches"
+    ],
+    "skins": [
+      {
+        "Stitches": [
+          "StitchesPsycho"
+        ]
+      },
+      {
+        "Barbarian": [
+          "BarbarianWrathFemale"
+        ]
+      },
+      {
+        "Diablo": [
+          "DiabloMurkablo"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15_powerhousebundle.png"
+  },
+  "PrisonerTychusBundle": {
+    "hyperlinkId": "PrisonerTychusBundle",
+    "releaseDate": "2015-08-18",
+    "heroes": [
+      "Tychus"
+    ],
+    "skins": [
+      {
+        "Tychus": [
+          "TychusPrisonerBase"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_prisonertychus.png"
+  },
+  "Protoss20thAnniversaryBundle": {
+    "hyperlinkId": "Protoss20thAnniversaryBundle",
+    "releaseDate": "2018-03-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h31_protossanniversarybundle.png"
+  },
+  "PumpedupPatoBundle": {
+    "hyperlinkId": "PumpedupPatoBundle",
+    "releaseDate": "2020-06-23",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h51_pato.png"
+  },
+  "PurifierArtanisBundle": {
+    "hyperlinkId": "PurifierArtanisBundle",
+    "releaseDate": "2015-10-27",
+    "heroes": [
+      "Artanis"
+    ],
+    "skins": [
+      {
+        "Artanis": [
+          "ArtanisPurifier"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h14_purifierartanis.png"
+  },
+  "PurpleRageBundle": {
+    "hyperlinkId": "PurpleRageBundle",
+    "releaseDate": "2017-09-05",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h27mid_purplerage.png"
+  },
+  "QhiraHeroicBundle": {
+    "hyperlinkId": "QhiraHeroicBundle",
+    "releaseDate": "2019-08-06",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h47_madaxe19nexushunterskinpack.png"
+  },
+  "RaiderRexxarBundle": {
+    "hyperlinkId": "RaiderRexxarBundle",
+    "releaseDate": "2016-09-27",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Rexxar"
+    ],
+    "skins": [
+      {
+        "Rexxar": [
+          "RexxarMarine"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h20_raiderrexxar.png"
+  },
+  "RaidersofWarchromeBundle": {
+    "hyperlinkId": "RaidersofWarchromeBundle",
+    "releaseDate": "2018-07-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h35_raidersofwarchromebundle.png"
+  },
+  "RangerGeneralSylvanasBundle": {
+    "hyperlinkId": "RangerGeneralSylvanasBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Sylvanas"
+    ],
+    "skins": [
+      {
+        "Sylvanas": [
+          "SylvanasRangerGeneral"
+        ]
+      }
+    ]
+  },
+  "RavenCrestHighBundle": {
+    "hyperlinkId": "RavenCrestHighBundle",
+    "releaseDate": "2018-11-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h40_ravencresthighbundle.png"
+  },
+  "ReaverBundle": {
+    "hyperlinkId": "ReaverBundle",
+    "releaseDate": "2019-04-30",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h45_reaverbundle.png"
+  },
+  "RedandBlackFridayBundle": {
+    "hyperlinkId": "RedandBlackFridayBundle",
+    "releaseDate": "2017-11-21",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29_redandblackfriday.png"
+  },
+  "RehgarIronClawBundle": {
+    "hyperlinkId": "IronClawRehgarBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Rehgar"
+    ],
+    "skins": [
+      {
+        "Rehgar": [
+          "RehgarIronClaw"
+        ]
+      }
+    ]
+  },
+  "RibbitLucioBundle": {
+    "hyperlinkId": "RibbitLucioBundle",
+    "releaseDate": "2017-02-14",
+    "franchise": "Overwatch",
+    "heroes": [
+      "Lucio"
+    ],
+    "skins": [
+      {
+        "Lucio": [
+          "LucioFrog"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h23mid_ribbitlucio.png"
+  },
+  "RingmasterGreymaneBundle": {
+    "hyperlinkId": "RingmasterGreymaneBundle",
+    "releaseDate": "2016-01-12",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "heroes": [
+      "Greymane"
+    ],
+    "skins": [
+      {
+        "Greymane": [
+          "GreymaneCircusDefault"
+        ]
+      }
+    ],
+    "mounts": [
+      "LionGreymane"
+    ],
+    "image": "storm_ui_bundles_h15mid_ringmastergreymanebundle.png"
+  },
+  "RoadraiderRaynorSkinPack": {
+    "hyperlinkId": "RoadraiderRaynorSkinPack",
+    "releaseDate": "2018-07-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h35_roadraiderraynorskinpack.png"
+  },
+  "RuinwalkerFenixSkinPack": {
+    "hyperlinkId": "RuinwalkerFenixSkinPack",
+    "releaseDate": "2018-04-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h31_ruinwalkerfenixskinpack.png"
+  },
+  "SakuraAurielSkinPack": {
+    "hyperlinkId": "SakuraAurielSkinPack",
+    "releaseDate": "2017-04-25",
+    "franchise": "Diablo",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h25_sakuraauriel.png"
+  },
+  "SapperJunkratSkinPack": {
+    "hyperlinkId": "SapperJunkratSkinPack",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_sapperjunkratskinpack.png"
+  },
+  "SecondChanceBundle": {
+    "hyperlinkId": "SecondChanceBundle",
+    "releaseDate": "2015-11-17",
+    "franchise": "Nexus",
+    "skins": [
+      {
+        "Jaina": [
+          "JainaClaus"
+        ]
+      },
+      {
+        "Rehgar": [
+          "RehgarGFWinter"
+        ]
+      }
+    ],
+    "mounts": [
+      "LunarTiger",
+      "MagicCarpet",
+      "Nazeebra",
+      "ReignDeer"
+    ],
+    "image": "storm_ui_bundles_h15_secondchancebundle.png"
+  },
+  "SentinelLunaraBundle": {
+    "hyperlinkId": "SentinelLunaraBundle",
+    "releaseDate": "2015-12-15",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Dryad"
+    ],
+    "skins": [
+      {
+        "Dryad": [
+          "DryadSkinSentinel"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15mid_sentinellunarabundle.png"
+  },
+  "SeraphWingBundle": {
+    "hyperlinkId": "SeraphWingBundle",
+    "releaseDate": "2019-06-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h46_mechamountbundle.png"
+  },
+  "SerpentKingXulBundle": {
+    "hyperlinkId": "SerpentKingXulBundle",
+    "releaseDate": "2016-03-01",
+    "franchise": "Diablo",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h16_serpentkingxul.png"
+  },
+  "ShardBundle100Pack": {
+    "hyperlinkId": "ShardBundle100Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus"
+  },
+  "ShardBundle500Pack": {
+    "hyperlinkId": "ShardBundle500Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus"
+  },
+  "ShrikeSkinPack": {
+    "hyperlinkId": "ShrikeSkinPack",
+    "releaseDate": "2017-09-26",
+    "franchise": "Overwatch",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h28_shrikecolors.png"
+  },
+  "SideshowBundle": {
+    "hyperlinkId": "SideshowBundle",
+    "releaseDate": "2015-10-27",
+    "franchise": "Nexus",
+    "heroes": [
+      "Muradin",
+      "Murky",
+      "Tinker"
+    ],
+    "skins": [
+      {
+        "Muradin": [
+          "MuradinKandyKing"
+        ]
+      },
+      {
+        "Tinker": [
+          "GazloweBigTop"
+        ]
+      },
+      {
+        "Murky": [
+          "MurkyFunnyBunny"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h14_sideshow.png"
+  },
+  "SidewinderAnaSkinPack": {
+    "hyperlinkId": "SidewinderAnaSkinPack",
+    "releaseDate": "2018-08-07",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h36_sidewinderanaskinpack.png"
+  },
+  "SlackerOrpheaSkinPack": {
+    "hyperlinkId": "SlackerOrpheaSkinPack",
+    "releaseDate": "2018-11-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h40_slackerorpheaskinpack.png"
+  },
+  "SonyaRemasteredBundle": {
+    "hyperlinkId": "SonyaRemasteredBundle",
+    "releaseDate": "2018-03-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30mid_sonyaremasteredbundle.png"
+  },
+  "SovereignFiendsBundle": {
+    "hyperlinkId": "SovereignFiendsBundle",
+    "releaseDate": "2016-03-29",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h17_sovereignfiendsbundle.png"
+  },
+  "SpaceLordLeoricBundle": {
+    "hyperlinkId": "SpaceLordLeoricBundle",
+    "releaseDate": "2016-01-19",
+    "franchise": "Diablo",
+    "heroes": [
+      "Leoric"
+    ],
+    "skins": [
+      {
+        "Leoric": [
+          "SpaceLordLeoricBundleProduct"
+        ]
+      }
+    ],
+    "mounts": [
+      "Starbreaker"
+    ],
+    "image": "storm_ui_bundles_h15mid_spacelordleoricbundle.png"
+  },
+  "SpectralWyrmAlexstraszaSkinPack": {
+    "hyperlinkId": "SpectralWyrmAlexstraszaSkinPack",
+    "releaseDate": "2018-09-25",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h38_spectralwyrmalexstraszaskinpack.png"
+  },
+  "SpectreBundle": {
+    "hyperlinkId": "SpectreBundle",
+    "releaseDate": "2016-04-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h17_spectrebundle.png"
+  },
+  "SpectreTracerBundle": {
+    "hyperlinkId": "SpectreTracerBundle",
+    "releaseDate": "2016-04-19",
+    "franchise": "Overwatch",
+    "heroes": [
+      "Tracer"
+    ],
+    "skins": [
+      {
+        "Tracer": [
+          "TracerSpectre"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h17_spectretracerbundle.png"
+  },
+  "SpeedDemonLucioSkinPack": {
+    "hyperlinkId": "SpeedDemonLucioSkinPack",
+    "releaseDate": "2019-03-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true
+  },
+  "SpellbreakerJohannaBundle": {
+    "hyperlinkId": "SpellbreakerJohannaBundle",
+    "releaseDate": "2016-08-23",
+    "franchise": "Diablo",
+    "heroes": [
+      "Crusader"
+    ],
+    "skins": [
+      {
+        "Crusader": [
+          "CrusaderSpell"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h19_spellbreakerjohanna.png"
+  },
+  "SpiderWardenMaievSkinPack": {
+    "hyperlinkId": "SpiderWardenMaievSkinPack",
+    "releaseDate": "2018-09-25",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h38_spiderwardenmaievskinpack.png"
+  },
+  "SpiritHealerAurielSkinPack": {
+    "hyperlinkId": "SpiritHealerAurielSkinPack",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_spirithealeraurielskinpack.png"
+  },
+  "Spring2019LootChest1Pack": {
+    "hyperlinkId": "Spring2019LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "LootChestSpring2019Rare"
+  },
+  "StarCraft20thAnniversaryBundle": {
+    "hyperlinkId": "StarCraft20thAnniversaryBundle",
+    "releaseDate": "2018-03-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h31_sc2anniversarybundle.png"
+  },
+  "StarCraftFranchiseBundle": {
+    "hyperlinkId": "StarCraftBundle",
+    "releaseDate": "2014-03-13",
+    "heroes": [
+      "Kerrigan",
+      "Tassadar",
+      "Tychus"
+    ],
+    "skins": [
+      {
+        "Tychus": [
+          "TychusInfestedBase"
+        ]
+      }
+    ],
+    "mounts": [
+      "CyberWolf"
+    ]
+  },
+  "StarCrossedBundle": {
+    "hyperlinkId": "StarCrossedBundle",
+    "releaseDate": "2017-08-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h27_starcrossed.png"
+  },
+  "StarLichKelThuzadSkinPack": {
+    "hyperlinkId": "StarLichKelThuzadSkinPack",
+    "releaseDate": "2017-09-05",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h27mid_kelthuzadtints.png"
+  },
+  "StarPrincessLiMingBundle": {
+    "hyperlinkId": "StarPrincessLiMingBundle",
+    "releaseDate": "2016-02-09",
+    "franchise": "Diablo",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h16_starprincessli-ming.png"
+  },
+  "StarterBundle": {
+    "hyperlinkId": "StarterBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Malfurion",
+      "Muradin",
+      "Raynor"
+    ],
+    "mounts": [
+      "ArmoredHorse"
+    ],
+    "image": "storm_ui_bundle_starter.png",
+    "boostId": "7Day"
+  },
+  "StarterBundleAlpha": {
+    "hyperlinkId": "StarterBundleAlpha",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "L90ETC",
+      "Malfurion",
+      "Nova",
+      "SgtHammer",
+      "Stitches",
+      "Tinker"
+    ],
+    "skins": [
+      {
+        "Nova": [
+          "NovaRollerDerby"
+        ]
+      },
+      {
+        "Stitches": [
+          "StitchesPsycho"
+        ]
+      },
+      {
+        "L90ETC": [
+          "ETCGlam"
+        ]
+      }
+    ],
+    "mounts": [
+      "RainbowUnicorn"
+    ]
+  },
+  "StarterBundleBeta": {
+    "hyperlinkId": "StarterBundleBeta",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Malfurion",
+      "Muradin",
+      "Raynor"
+    ],
+    "mounts": [
+      "ArmoredHorse"
+    ],
+    "image": "storm_ui_glues_store_bundle_starter.png"
+  },
+  "StarWraithMephistoSkinPack": {
+    "hyperlinkId": "StarWraithMephistoSkinPack",
+    "releaseDate": "2018-09-18",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h37_starwraithmephistoskinpack.png"
+  },
+  "StormBundle": {
+    "hyperlinkId": "StormBundle",
+    "releaseDate": "2015-08-25",
+    "franchise": "Nexus",
+    "heroes": [
+      "Anubarak",
+      "Barbarian",
+      "Falstad",
+      "Nova",
+      "Tassadar",
+      "Tinker",
+      "Tyrande",
+      "WitchDoctor"
+    ],
+    "skins": [
+      {
+        "Barbarian": [
+          "BarbarianWrathFemale"
+        ]
+      },
+      {
+        "WitchDoctor": [
+          "WitchDoctorGrimskull"
+        ]
+      },
+      {
+        "Falstad": [
+          "FalstadStormLord"
+        ]
+      },
+      {
+        "Nova": [
+          "NovaRollerDerby"
+        ]
+      }
+    ],
+    "mounts": [
+      "CyberWolf",
+      "RainbowUnicorn"
+    ],
+    "image": "storm_ui_bundle_storm_h12.png"
+  },
+  "StormpunkKaelThasBundle": {
+    "hyperlinkId": "StormpunkKaelThasBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Kaelthas"
+    ],
+    "skins": [
+      {
+        "Kaelthas": [
+          "StormPunkKaelthas"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_stormpunk_kaelthas.png"
+  },
+  "StreetCyborgKharazimSkinPack": {
+    "hyperlinkId": "StreetCyborgKharazimSkinPack",
+    "releaseDate": "2019-03-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true
+  },
+  "StrikerLiMingBundle": {
+    "hyperlinkId": "StrikerLiMingBundle",
+    "releaseDate": "2016-08-16",
+    "franchise": "Diablo",
+    "heroes": [
+      "Wizard"
+    ],
+    "skins": [
+      {
+        "Wizard": [
+          "WizardSkinVolley"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h19_strikerliming.png"
+  },
+  "StukovHeroicBundle": {
+    "hyperlinkId": "StukovHeroicBundle",
+    "releaseDate": "2017-07-11",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h26mid_stukovheroic.png"
+  },
+  "Summer2018LootChest12Pack": {
+    "hyperlinkId": "Summer2018LootChest12Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_summerlootchest12pack.png",
+    "lootChestBonus": "LootChestSummer2018Rare"
+  },
+  "Summer2018LootChest1Pack": {
+    "hyperlinkId": "Summer2018LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_summerlootchest1pack.png",
+    "lootChestBonus": "LootChestSummer2018Rare"
+  },
+  "Summer2018LootChest25Pack": {
+    "hyperlinkId": "Summer2018LootChest25Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_summerlootchest25pack.png",
+    "lootChestBonus": "LootChestSummer2018Rare"
+  },
+  "Summer2018LootChest52Pack": {
+    "hyperlinkId": "Summer2018LootChest52Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_summerlootchest52pack.png",
+    "lootChestBonus": "LootChestSummer2018Rare"
+  },
+  "Summer2018LootChest5Pack": {
+    "hyperlinkId": "Summer2018LootChest5Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_summerlootchest5pack.png",
+    "lootChestBonus": "LootChestSummer2018Rare"
+  },
+  "Summer2019LootChest1Pack": {
+    "hyperlinkId": "Summer2019LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "LootChestSummer2019Rare"
+  },
+  "SummerLootChest12Pack": {
+    "hyperlinkId": "SummerLootChest12Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "SummerBaseProgressionChest"
+  },
+  "SummerLootChest1Pack": {
+    "hyperlinkId": "SummerLootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "SummerBaseProgressionChest"
+  },
+  "SummerLootChest25Pack": {
+    "hyperlinkId": "SummerLootChest25Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "SummerBaseProgressionChest"
+  },
+  "SummerLootChest52Pack": {
+    "hyperlinkId": "SummerLootChest52Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "SummerBaseProgressionChest"
+  },
+  "SummerLootChest5Pack": {
+    "hyperlinkId": "SummerLootChest5Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "SummerBaseProgressionChest"
+  },
+  "SunsOut2017Bundle": {
+    "hyperlinkId": "SunsOut2017Bundle",
+    "releaseDate": "2018-05-22",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h33_sunsout2017bundle.png"
+  },
+  "SunsOutGunsOutBundle": {
+    "hyperlinkId": "SunsOutGunsOutBundle",
+    "releaseDate": "2017-06-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h26_sunsoutgunsout.png"
+  },
+  "SuperheroesoftheStormBundle": {
+    "hyperlinkId": "SuperheroesoftheStormBundle",
+    "releaseDate": "2017-11-14",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29_superheroes.png"
+  },
+  "SuperheroinesBundle": {
+    "hyperlinkId": "SuperheroinesBundle",
+    "releaseDate": "2016-06-28",
+    "heroes": [
+      "Barbarian",
+      "Tyrande"
+    ],
+    "skins": [
+      {
+        "Tyrande": [
+          "TyrandeSuper"
+        ]
+      },
+      {
+        "Barbarian": [
+          "SuperSonya"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h18_superwomen.png"
+  },
+  "SupportBundle": {
+    "hyperlinkId": "SupportBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Tassadar",
+      "Tyrande",
+      "Uther"
+    ]
+  },
+  "TeamSpiritBundle": {
+    "hyperlinkId": "TeamSpiritBundle",
+    "releaseDate": "2017-11-14",
+    "franchise": "Classic",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29_teamspirit.png"
+  },
+  "TechnoVandalChromieSkinPack": {
+    "hyperlinkId": "TechnoVandalChromieSkinPack",
+    "releaseDate": "2019-03-26",
+    "franchise": "Nexus",
+    "isDynamicContent": true
+  },
+  "TempestRegaliaJainaBundle": {
+    "hyperlinkId": "TempestRegaliaJainaBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Jaina"
+    ],
+    "skins": [
+      {
+        "Jaina": [
+          "JainaTempest"
+        ]
+      }
+    ]
+  },
+  "Terran20thAnniversaryBundle": {
+    "hyperlinkId": "Terran20thAnniversaryBundle",
+    "releaseDate": "2018-03-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h31_terrananniversarybundle.png"
+  },
+  "TerranAllianceBundle": {
+    "hyperlinkId": "TerranAllianceBundle",
+    "releaseDate": "2020-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundle_h52_terranalliancebundle.png"
+  },
+  "TerranItUpBundle": {
+    "hyperlinkId": "TerranItUpBundle",
+    "releaseDate": "2017-07-11",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h26mid_terranitup.png"
+  },
+  "TerranProbiusBundle": {
+    "hyperlinkId": "TerranProbiusBundle",
+    "releaseDate": "2017-03-14",
+    "heroes": [
+      "Probius"
+    ],
+    "skins": [
+      {
+        "Probius": [
+          "ProbiusTerran"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h24_terranprobius.png"
+  },
+  "TestBonusBundle": {
+    "hyperlinkId": "TestBonusBundle",
+    "releaseDate": "2017-08-16",
+    "isDynamicContent": true,
+    "boostId": "7Day",
+    "lootChestBonus": "CommonProgChest"
+  },
+  "ThunderGoddessCassiaBundle": {
+    "hyperlinkId": "ThunderGoddessCassiaBundle",
+    "releaseDate": "2020-05-05",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h50_thundergoddesscassia.png"
+  },
+  "ThunderGuardZaryaBundle": {
+    "hyperlinkId": "ThunderGuardZaryaBundle",
+    "releaseDate": "2016-09-27",
+    "franchise": "Overwatch",
+    "heroes": [
+      "Zarya"
+    ],
+    "skins": [
+      {
+        "Zarya": [
+          "ZaryaThunder"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h20_thunderhuntresszarya.png"
+  },
+  "TickleMephistoBundle": {
+    "hyperlinkId": "TickleMephistoBundle",
+    "releaseDate": "2019-12-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h49_ticklemephisto.png"
+  },
+  "ToyHeroesBundle": {
+    "hyperlinkId": "ToyHeroesBundle",
+    "releaseDate": "2018-12-11",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h41_toyheroesbundle.png"
+  },
+  "Toys2018Bundle": {
+    "hyperlinkId": "Toys2018Bundle",
+    "releaseDate": "2019-12-17",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h49_toys2018remixed.png"
+  },
+  "Toys2019Bundle": {
+    "hyperlinkId": "Toys2019Bundle",
+    "releaseDate": "2019-12-17",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h49_toys2019.png"
+  },
+  "TrainBundle": {
+    "hyperlinkId": "TrainBundle",
+    "releaseDate": "2019-12-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h49_trainbundle.png"
+  },
+  "TriumphBundle": {
+    "hyperlinkId": "TriumphBundle",
+    "releaseDate": "2016-05-17",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h18_triumph.png"
+  },
+  "TyraelEliteBundle": {
+    "hyperlinkId": "TyraelEliteBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Diablo",
+    "heroes": [
+      "Tyrael"
+    ],
+    "skins": [
+      {
+        "Tyrael": [
+          "TyraelDemonic",
+          "TyraelSeraphim"
+        ]
+      }
+    ]
+  },
+  "UltimateArthasBundle": {
+    "hyperlinkId": "UltimateArthasBundle",
+    "releaseDate": "2016-07-19",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h19_ultimatearthas.png"
+  },
+  "UltimateBattleBeastsBundle": {
+    "hyperlinkId": "UltimateBattleBeastsBundle",
+    "releaseDate": "2016-05-17",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h18_battlebeastsultimate.png"
+  },
+  "UltimateBestFriendsBundle": {
+    "hyperlinkId": "UltimateTeamworkBundle",
+    "releaseDate": "2017-04-04",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h24_teamworkultimate.png"
+  },
+  "UltimateBladesofDestructionBundle": {
+    "hyperlinkId": "UltimateBladesofDestructionBundle",
+    "releaseDate": "2017-02-21",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h23mid_meleeassassinsultimate.png"
+  },
+  "UltimateElvenFatesBundle": {
+    "hyperlinkId": "UltimateElvenFatesBundle",
+    "releaseDate": "2016-04-19",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h17_ultimateelvenfatesbundle.png"
+  },
+  "UltimateHalloweenBundle": {
+    "hyperlinkId": "UltimateHalloweenBundle",
+    "releaseDate": "2014-03-13",
+    "heroes": [
+      "Abathur",
+      "Kerrigan"
+    ],
+    "skins": [
+      {
+        "Abathur": [
+          "AbathurSkelethur"
+        ]
+      },
+      {
+        "Kerrigan": [
+          "KerriganCountess"
+        ]
+      }
+    ]
+  },
+  "UltimateHealerBundle": {
+    "hyperlinkId": "UltimateHealerBundle",
+    "releaseDate": "2016-01-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "heroes": [
+      "FaerieDragon",
+      "LiLi",
+      "Malfurion",
+      "Monk",
+      "Uther"
+    ],
+    "skins": [
+      {
+        "Uther": [
+          "UtherLumberjack"
+        ]
+      },
+      {
+        "Malfurion": [
+          "MalfurionStormrageRed"
+        ]
+      },
+      {
+        "LiLi": [
+          "LiLiExplorer"
+        ]
+      },
+      {
+        "Monk": [
+          "MonkJade"
+        ]
+      },
+      {
+        "FaerieDragon": [
+          "BrightwingMonarch"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15mid_bundle4.png"
+  },
+  "UltimateKopruluBundle": {
+    "hyperlinkId": "UltimateKopruluBundle",
+    "releaseDate": "2015-12-15",
+    "isDynamicContent": true,
+    "heroes": [
+      "Abathur",
+      "Kerrigan",
+      "Nova",
+      "Raynor",
+      "SgtHammer"
+    ],
+    "skins": [
+      {
+        "Raynor": [
+          "RaynorPatriot"
+        ]
+      },
+      {
+        "Kerrigan": [
+          "KerriganSuccubus"
+        ]
+      },
+      {
+        "SgtHammer": [
+          "SgtHammerDoom"
+        ]
+      },
+      {
+        "Nova": [
+          "NovaZon"
+        ]
+      },
+      {
+        "Abathur": [
+          "AbathurPajamathur"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15mid_bundle2.png"
+  },
+  "UltimateLeadingLadiesBundle": {
+    "hyperlinkId": "UltimateLeadingLadiesBundle",
+    "releaseDate": "2016-07-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h19_ultimateleadingladies.png"
+  },
+  "UltimateLuxorianNightsBundle": {
+    "hyperlinkId": "UltimateLuxorianNightsBundle",
+    "releaseDate": "2017-01-10",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h22jan_luxoriannightsultimate.png"
+  },
+  "UltimateMastersofMagicBundle": {
+    "hyperlinkId": "UltimateMastersofMagicBundle",
+    "releaseDate": "2016-10-18",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h21_ultimatedynamic.png"
+  },
+  "UltimateMultiverseBundle": {
+    "hyperlinkId": "UltimateMultiverseBundle",
+    "releaseDate": "2016-06-14",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h18_dynamicbundle2ultimate_2.png"
+  },
+  "UltimateNexusHeroineBundle": {
+    "hyperlinkId": "UltimateNexusHeroineBundle",
+    "releaseDate": "2016-02-09",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h16_ultimatenexusheroine.png"
+  },
+  "UltimatePowerhouseBundle": {
+    "hyperlinkId": "UltimatePowerhouseBundle",
+    "releaseDate": "2015-11-17",
+    "franchise": "Nexus",
+    "heroes": [
+      "Arthas",
+      "Barbarian",
+      "Crusader",
+      "Diablo",
+      "Stitches"
+    ],
+    "skins": [
+      {
+        "Barbarian": [
+          "BarbarianWrathFemale"
+        ]
+      },
+      {
+        "Diablo": [
+          "DiabloMurkablo"
+        ]
+      },
+      {
+        "Stitches": [
+          "StitchesPsycho"
+        ]
+      },
+      {
+        "Arthas": [
+          "ArthasLichPrince"
+        ]
+      },
+      {
+        "Crusader": [
+          "CrusaderCenturion"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15_ultpowerhousebundle.png"
+  },
+  "UltimateSideshowBundle": {
+    "hyperlinkId": "UltimateSideshowBundle",
+    "releaseDate": "2015-10-27",
+    "franchise": "Nexus",
+    "heroes": [
+      "LostVikings",
+      "Muradin",
+      "Murky",
+      "Tinker",
+      "WitchDoctor"
+    ],
+    "skins": [
+      {
+        "Muradin": [
+          "MuradinKandyKing"
+        ]
+      },
+      {
+        "Tinker": [
+          "GazloweBigTop"
+        ]
+      },
+      {
+        "Murky": [
+          "MurkyFunnyBunny"
+        ]
+      },
+      {
+        "LostVikings": [
+          "LostVikingsPajamaParty"
+        ]
+      },
+      {
+        "WitchDoctor": [
+          "WitchDoctorHarlequin"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h14_ultimatesideshow.png"
+  },
+  "UltimateSovereignFiendsBundle": {
+    "hyperlinkId": "UltimateSovereignFiendsBundle",
+    "releaseDate": "2016-03-29",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h17_ultimatesovereignfiendsbundle.png"
+  },
+  "UltimateUndyingLegendsBundle": {
+    "hyperlinkId": "UltimateUndyingLegendsBundle",
+    "releaseDate": "2016-09-27",
+    "franchise": "Nexus",
+    "heroes": [
+      "Diablo",
+      "Leoric",
+      "Murky",
+      "Tyrael",
+      "Uther"
+    ],
+    "skins": [
+      {
+        "Tyrael": [
+          "TyraelDemonic"
+        ]
+      },
+      {
+        "Uther": [
+          "UtherMedic"
+        ]
+      },
+      {
+        "Murky": [
+          "MurkyFunnyBunny"
+        ]
+      },
+      {
+        "Leoric": [
+          "SpaceLordLeoricBundleProduct"
+        ]
+      },
+      {
+        "Diablo": [
+          "DiabloKaijoe"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h20_dynamicbundle2.png"
+  },
+  "UndyingLegendsBundle": {
+    "hyperlinkId": "UndyingLegendsBundle",
+    "releaseDate": "2016-09-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h20_dynamicbundle1.png"
+  },
+  "UtherCompleteBundle": {
+    "hyperlinkId": "UtherCompleteBundle",
+    "releaseDate": "2015-09-15",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Uther"
+    ],
+    "skins": [
+      {
+        "Uther": [
+          "UtherJudgement",
+          "UtherLumberjack",
+          "UtherMedic"
+        ]
+      }
+    ],
+    "mounts": [
+      "JudgementUtherCharger"
+    ],
+    "image": "storm_ui_bundle_uthercomplete.png"
+  },
+  "UtherMedicBundle": {
+    "hyperlinkId": "MedicUtherBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Uther"
+    ],
+    "skins": [
+      {
+        "Uther": [
+          "UtherMedic"
+        ]
+      }
+    ]
+  },
+  "VanndarMuradinSkinPack": {
+    "hyperlinkId": "VanndarMuradinSkinPack",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_vanndarmuradinskinpack.png"
+  },
+  "ViperReturnsBundle": {
+    "hyperlinkId": "ViperReturnsBundle",
+    "releaseDate": "2019-02-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h43_viperreturnsbundle.png"
+  },
+  "WarchromeCommandersBundle": {
+    "hyperlinkId": "WarchromeCommandersBundle",
+    "releaseDate": "2019-08-06",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h47_madaxe19warchromebundle.png"
+  },
+  "WarcraftArmoryBundle": {
+    "hyperlinkId": "WarcraftArmoryBundle",
+    "releaseDate": "2017-08-08",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h27_warcraftarmory.png"
+  },
+  "WarcraftFranchiseBundle": {
+    "hyperlinkId": "WarcraftBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Arthas",
+      "Falstad",
+      "Uther"
+    ],
+    "skins": [
+      {
+        "Arthas": [
+          "ArthasLichPrince"
+        ]
+      },
+      {
+        "Uther": [
+          "UtherLumberjack"
+        ]
+      }
+    ],
+    "mounts": [
+      "ArmoredHorse"
+    ]
+  },
+  "WarriorBundle": {
+    "hyperlinkId": "WarriorBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "heroes": [
+      "Arthas",
+      "Barbarian",
+      "Diablo"
+    ]
+  },
+  "WarsongJohannaSkinPack": {
+    "hyperlinkId": "WarsongJohannaSkinPack",
+    "releaseDate": "2018-06-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_warsongjohannaskinpack.png"
+  },
+  "WastewalkerDeckardSkinPack": {
+    "hyperlinkId": "WastewalkerDeckardSkinPack",
+    "releaseDate": "2018-05-08",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h32_wastewalkerdeckardskinpack.png"
+  },
+  "WatchdogGreymaneHeroicBundle": {
+    "hyperlinkId": "WatchdogGreymaneHeroicBundle",
+    "releaseDate": "2018-03-06",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h30mid_watchdoggreymaneheroicbundle.png"
+  },
+  "WelcomeBundle": {
+    "hyperlinkId": "WelcomeBundle",
+    "releaseDate": "2017-05-16",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h25mid_welcome.png",
+    "gemsBonus": 800
+  },
+  "WelcometotheNexusBundle": {
+    "hyperlinkId": "WelcometotheNexusBundle",
+    "releaseDate": "2018-11-13",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h40_welcometothenexusbundle.png"
+  },
+  "WhitemaneHeroicBundle": {
+    "hyperlinkId": "WhitemaneHeroicBundle",
+    "releaseDate": "2018-08-07",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h36_whitemaneheroicbundle.png"
+  },
+  "WidowmakerNovaBundle": {
+    "hyperlinkId": "WidowmakerNovaBundle",
+    "releaseDate": "2016-05-24",
+    "heroes": [
+      "Nova"
+    ],
+    "skins": [
+      {
+        "Nova": [
+          "NovaWidow"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h18_widowmakernova.png"
+  },
+  "Winter2018LootChest12Pack": {
+    "hyperlinkId": "Winter2018LootChest12Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winter2018lootchest12pack.png",
+    "lootChestBonus": "LootChestChristmas2018Rare"
+  },
+  "Winter2018LootChest1Pack": {
+    "hyperlinkId": "Winter2018LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winter2018lootchest1pack.png",
+    "lootChestBonus": "LootChestChristmas2018Rare"
+  },
+  "Winter2018LootChest25Pack": {
+    "hyperlinkId": "Winter2018LootChest25Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winter2018lootchest25pack.png",
+    "lootChestBonus": "LootChestChristmas2018Rare"
+  },
+  "Winter2018LootChest52Pack": {
+    "hyperlinkId": "Winter2018LootChest52Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winter2018lootchest52pack.png",
+    "lootChestBonus": "LootChestChristmas2018Rare"
+  },
+  "Winter2018LootChest5Pack": {
+    "hyperlinkId": "Winter2018LootChest5Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winter2018lootchest5pack.png",
+    "lootChestBonus": "LootChestChristmas2018Rare"
+  },
+  "Winter2019LootChest1Pack": {
+    "hyperlinkId": "Winter2019LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "LootChestChristmas2019Rare"
+  },
+  "Winter2020LootChest1Pack": {
+    "hyperlinkId": "Winter2020LootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "lootChestBonus": "LootChestChristmas2020Rare"
+  },
+  "WinterLootChest12Pack": {
+    "hyperlinkId": "WinterLootChest12Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winterlootchest12pack.png",
+    "lootChestBonus": "WinterRareProgressionChest"
+  },
+  "WinterLootChest1Pack": {
+    "hyperlinkId": "WinterLootChest1Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winterlootchest1pack.png",
+    "lootChestBonus": "WinterRareProgressionChest"
+  },
+  "WinterLootChest25Pack": {
+    "hyperlinkId": "WinterLootChest25Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winterlootchest25pack.png",
+    "lootChestBonus": "WinterRareProgressionChest"
+  },
+  "WinterLootChest52Pack": {
+    "hyperlinkId": "WinterLootChest52Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winterlootchest52pack.png",
+    "lootChestBonus": "WinterRareProgressionChest"
+  },
+  "WinterLootChest5Pack": {
+    "hyperlinkId": "WinterLootChest5Pack",
+    "releaseDate": "2014-03-13",
+    "franchise": "Nexus",
+    "image": "storm_ui_bundles_lootchest_winterlootchest5pack.png",
+    "lootChestBonus": "WinterRareProgressionChest"
+  },
+  "WinterVeil2015Bundle": {
+    "hyperlinkId": "WinterVeil2015Bundle",
+    "releaseDate": "2015-12-15",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "heroes": [
+      "Stitches",
+      "Sylvanas"
+    ],
+    "skins": [
+      {
+        "Sylvanas": [
+          "SylvanasFairy"
+        ]
+      },
+      {
+        "Stitches": [
+          "StitchesWinter"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundles_h15mid_winterveil2015.png"
+  },
+  "WinterVeil2015UltimateBundle": {
+    "hyperlinkId": "WinterVeil2015UltimateBundle",
+    "releaseDate": "2015-12-15",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "heroes": [
+      "Jaina",
+      "Rehgar",
+      "Stitches",
+      "Sylvanas"
+    ],
+    "skins": [
+      {
+        "Sylvanas": [
+          "SylvanasFairy"
+        ]
+      },
+      {
+        "Stitches": [
+          "StitchesWinter"
+        ]
+      },
+      {
+        "Jaina": [
+          "JainaClaus"
+        ]
+      },
+      {
+        "Rehgar": [
+          "RehgarGFWinter"
+        ]
+      }
+    ],
+    "mounts": [
+      "ReignDeer"
+    ],
+    "image": "storm_ui_bundles_h15mid_winterveil2015ultimate.png"
+  },
+  "WinterVeil2016Bundle": {
+    "hyperlinkId": "WinterVeil2016Bundle",
+    "releaseDate": "2016-12-14",
+    "franchise": "Warcraft",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h22mid_winterveil2016.png"
+  },
+  "WinterVeil2017Bundle": {
+    "hyperlinkId": "WinterVeil2017Bundle",
+    "releaseDate": "2017-12-19",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29dec_winterveil2017.png"
+  },
+  "WinterVeilClassicBundle": {
+    "hyperlinkId": "WinterVeilClassicBundle",
+    "releaseDate": "2020-12-01",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h53_winterveilclassic.png"
+  },
+  "WinterVeilCompleteBundle": {
+    "hyperlinkId": "WinterVeilCompleteBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Jaina"
+    ],
+    "skins": [
+      {
+        "Jaina": [
+          "JainaClaus"
+        ]
+      },
+      {
+        "Rehgar": [
+          "RehgarGFWinter"
+        ]
+      }
+    ],
+    "mounts": [
+      "ReignDeer"
+    ],
+    "image": "storm_ui_bundle_winter_veil_complete.png"
+  },
+  "WinterVeilJainaBundle": {
+    "hyperlinkId": "WinterVeilJainaBundle",
+    "releaseDate": "2014-03-13",
+    "franchise": "Warcraft",
+    "heroes": [
+      "Jaina"
+    ],
+    "skins": [
+      {
+        "Jaina": [
+          "JainaClaus"
+        ]
+      }
+    ],
+    "image": "storm_ui_bundle_winter_veil_jaina.png"
+  },
+  "WorldsCollideBundle": {
+    "hyperlinkId": "WorldsCollideBundle",
+    "releaseDate": "2020-09-08",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundle_h52_worldscollidebundle.png"
+  },
+  "XenotechAbathurHeroicBundle": {
+    "hyperlinkId": "XenotechAbathurHeroicBundle",
+    "releaseDate": "2018-01-16",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h29jan_xenotechabathurheroicbundle.png"
+  },
+  "XenotechMalthaelSkinPack": {
+    "hyperlinkId": "XenotechMalthaelSkinPack",
+    "releaseDate": "2019-06-18",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h46_mechamalthaelskinpack.png"
+  },
+  "YrelHeroicBundle": {
+    "hyperlinkId": "YrelHeroicBundle",
+    "releaseDate": "2018-06-12",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h34_yrelheroicbundle.png"
+  },
+  "ZagaraInsectoidBundle": {
+    "hyperlinkId": "InsectoidZagaraBundle",
+    "releaseDate": "2014-03-13",
+    "heroes": [
+      "Zagara"
+    ],
+    "skins": [
+      {
+        "Zagara": [
+          "ZagaraInsectoid"
+        ]
+      }
+    ]
+  },
+  "ZeratulEliteBundle": {
+    "hyperlinkId": "ZeratulEliteBundle",
+    "releaseDate": "2014-03-13",
+    "heroes": [
+      "Zeratul"
+    ],
+    "skins": [
+      {
+        "Zeratul": [
+          "ZeratulHighTemplar",
+          "ZeratulRonin"
+        ]
+      }
+    ]
+  },
+  "Zerg20thAnniversaryBundle": {
+    "hyperlinkId": "Zerg20thAnniversaryBundle",
+    "releaseDate": "2018-03-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h31_zerganniversarybundle.png"
+  },
+  "ZerglingBundle": {
+    "hyperlinkId": "ZerglingBundle",
+    "releaseDate": "2018-03-27",
+    "franchise": "Nexus",
+    "isDynamicContent": true,
+    "image": "storm_ui_bundles_h31_zerglingbundle.png"
+  }
+}
