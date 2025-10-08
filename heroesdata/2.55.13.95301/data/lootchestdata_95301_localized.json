@@ -1,0 +1,1027 @@
+{
+  "AbathurChest": {
+    "hyperlinkId": "AbathurChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AlarakChest": {
+    "hyperlinkId": "AlarakChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AlexstraszaChest": {
+    "hyperlinkId": "AlexstraszaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AmazonChest": {
+    "hyperlinkId": "AmazonChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AnaChest": {
+    "hyperlinkId": "AnaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AnduinChest": {
+    "hyperlinkId": "AnduinChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AnubarakChest": {
+    "hyperlinkId": "AnubarakChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ArtanisChest": {
+    "hyperlinkId": "ArtanisChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ArthasChest": {
+    "hyperlinkId": "ArthasChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AurielChest": {
+    "hyperlinkId": "AurielChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "AutumnBaseProgressionChest": {
+    "hyperlinkId": "AutumnBaseProgressionChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "HalloweenLootChestCommon",
+    "event": "Halloween"
+  },
+  "AutumnEpicProgressionChest": {
+    "hyperlinkId": "AutumnEpicProgressionChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "HalloweenLootChestEpic",
+    "event": "Halloween"
+  },
+  "AutumnRareProgressionChest": {
+    "hyperlinkId": "AutumnRareProgressionChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "HalloweenLootChestRare",
+    "event": "Halloween"
+  },
+  "AzmodanChest": {
+    "hyperlinkId": "AzmodanChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "BarbarianChest": {
+    "hyperlinkId": "BarbarianChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "BattlenetGiftChest": {
+    "hyperlinkId": "BattlenetGiftChest",
+    "rarity": "Common",
+    "maxRerolls": 0,
+    "typeDescription": "LootChestCommon"
+  },
+  "BoostPromoLegendaryChest": {
+    "hyperlinkId": "BoostPromoLegendaryChest",
+    "rarity": "Legendary",
+    "maxRerolls": 3,
+    "typeDescription": "BoostPromoLegendaryChest",
+    "event": "Mobster19"
+  },
+  "ButcherChest": {
+    "hyperlinkId": "ButcherChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ChenChest": {
+    "hyperlinkId": "ChenChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ChoChest": {
+    "hyperlinkId": "ChoChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ChromieChest": {
+    "hyperlinkId": "ChromieChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "CommonProgChest": {
+    "hyperlinkId": "CommonProgChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "CrusaderChest": {
+    "hyperlinkId": "CrusaderChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DeathwingChest": {
+    "hyperlinkId": "DeathwingChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DeckardChest": {
+    "hyperlinkId": "DeckardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DehakaChest": {
+    "hyperlinkId": "DehakaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DemonHunterChest": {
+    "hyperlinkId": "DemonHunterChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DiabloChest": {
+    "hyperlinkId": "DiabloChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DryadChest": {
+    "hyperlinkId": "DryadChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "DVaChest": {
+    "hyperlinkId": "DVaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "EpicProgChest": {
+    "hyperlinkId": "EpicProgChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestEpic"
+  },
+  "ErrorChest": {
+    "hyperlinkId": "ErrorChest",
+    "rarity": "Common",
+    "maxRerolls": 0,
+    "typeDescription": "LootChestCommon"
+  },
+  "FaerieDragonChest": {
+    "hyperlinkId": "FaerieDragonChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "FalstadChest": {
+    "hyperlinkId": "FalstadChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "FenixChest": {
+    "hyperlinkId": "FenixChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "FirebatChest": {
+    "hyperlinkId": "FirebatChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GallChest": {
+    "hyperlinkId": "GallChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GarroshChest": {
+    "hyperlinkId": "GarroshChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GenjiChest": {
+    "hyperlinkId": "GenjiChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GreymaneChest": {
+    "hyperlinkId": "GreymaneChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "GuldanChest": {
+    "hyperlinkId": "GuldanChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "HanzoChest": {
+    "hyperlinkId": "HanzoChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "HoggerChest": {
+    "hyperlinkId": "HoggerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "IllidanChest": {
+    "hyperlinkId": "IllidanChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ImperiusChest": {
+    "hyperlinkId": "ImperiusChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "JainaChest": {
+    "hyperlinkId": "JainaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "JunkratChest": {
+    "hyperlinkId": "JunkratChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "KaelthasChest": {
+    "hyperlinkId": "KaelthasChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "KelThuzadChest": {
+    "hyperlinkId": "KelThuzadChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "KerriganChest": {
+    "hyperlinkId": "KerriganChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "L90ETCChest": {
+    "hyperlinkId": "L90ETCChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LegendaryChest": {
+    "hyperlinkId": "LegendaryChest",
+    "rarity": "Legendary",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LeoricChest": {
+    "hyperlinkId": "LeoricChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LiLiChest": {
+    "hyperlinkId": "LiLiChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LootChestChristmas2018Common": {
+    "hyperlinkId": "LootChestChristmas2018Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2018Common",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2018Epic": {
+    "hyperlinkId": "LootChestChristmas2018Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2018Epic",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2018Rare": {
+    "hyperlinkId": "LootChestChristmas2018Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2018Rare",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2019Common": {
+    "hyperlinkId": "LootChestChristmas2019Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2018Common",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2019Epic": {
+    "hyperlinkId": "LootChestChristmas2019Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2019Epic",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2019Rare": {
+    "hyperlinkId": "LootChestChristmas2019Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2019Rare",
+    "event": "Toys18"
+  },
+  "LootChestChristmas2020Common": {
+    "hyperlinkId": "LootChestChristmas2020Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2020Common"
+  },
+  "LootChestChristmas2020Epic": {
+    "hyperlinkId": "LootChestChristmas2020Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2020Epic"
+  },
+  "LootChestChristmas2020Rare": {
+    "hyperlinkId": "LootChestChristmas2020Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestChristmas2020Rare"
+  },
+  "LootChestHalloween2018": {
+    "hyperlinkId": "LootChestHalloween2018",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2018",
+    "event": "Halloween18"
+  },
+  "LootChestHalloween2018Epic": {
+    "hyperlinkId": "LootChestHalloween2018Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2018Epic",
+    "event": "Halloween18"
+  },
+  "LootChestHalloween2018Rare": {
+    "hyperlinkId": "LootChestHalloween2018Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2018Rare",
+    "event": "Halloween18"
+  },
+  "LootChestHalloween2020Common": {
+    "hyperlinkId": "LootChestHalloween2020Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2020Common"
+  },
+  "LootChestHalloween2020Epic": {
+    "hyperlinkId": "LootChestHalloween2020Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2020Epic"
+  },
+  "LootChestHalloween2020Rare": {
+    "hyperlinkId": "LootChestHalloween2020Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestHalloween2020Rare"
+  },
+  "LootChestSpring2019Common": {
+    "hyperlinkId": "LootChestSpring2019Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2019Common",
+    "event": "Spring19"
+  },
+  "LootChestSpring2019Epic": {
+    "hyperlinkId": "LootChestSpring2019Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2019Epic",
+    "event": "Spring19"
+  },
+  "LootChestSpring2019Rare": {
+    "hyperlinkId": "LootChestSpring2019Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2019Rare",
+    "event": "Spring19"
+  },
+  "LootChestSpring2020Common": {
+    "hyperlinkId": "LootChestSpring2020Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2020Common"
+  },
+  "LootChestSpring2020Epic": {
+    "hyperlinkId": "LootChestSpring2020Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2020Epic"
+  },
+  "LootChestSpring2020Rare": {
+    "hyperlinkId": "LootChestSpring2020Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSpring2020Rare"
+  },
+  "LootChestSummer2018Common": {
+    "hyperlinkId": "LootChestSummer2018Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2018Common",
+    "event": "Summer18"
+  },
+  "LootChestSummer2018Epic": {
+    "hyperlinkId": "LootChestSummer2018Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2018Epic",
+    "event": "Summer18"
+  },
+  "LootChestSummer2018Rare": {
+    "hyperlinkId": "LootChestSummer2018Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2018Rare",
+    "event": "Summer18"
+  },
+  "LootChestSummer2019Common": {
+    "hyperlinkId": "LootChestSummer2019Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2019Common",
+    "event": "Mecha19"
+  },
+  "LootChestSummer2019Epic": {
+    "hyperlinkId": "LootChestSummer2019Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2019Epic",
+    "event": "Mecha19"
+  },
+  "LootChestSummer2019Rare": {
+    "hyperlinkId": "LootChestSummer2019Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2019Rare",
+    "event": "Mecha19"
+  },
+  "LootChestSummer2020Common": {
+    "hyperlinkId": "LootChestSummer2020Common",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2020Common"
+  },
+  "LootChestSummer2020Epic": {
+    "hyperlinkId": "LootChestSummer2020Epic",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2020Epic"
+  },
+  "LootChestSummer2020Rare": {
+    "hyperlinkId": "LootChestSummer2020Rare",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestSummer2020Rare"
+  },
+  "LostVikingsChest": {
+    "hyperlinkId": "LostVikingsChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LucioChest": {
+    "hyperlinkId": "LucioChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "LunarBaseProgression": {
+    "hyperlinkId": "LunarBaseProgression",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "Lunar18LootChestCommon",
+    "event": "Lunar18"
+  },
+  "LunarEpicProgressionChest": {
+    "hyperlinkId": "LunarEpicProgressionChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "Lunar18LootChestEpic",
+    "event": "Lunar18"
+  },
+  "LunarRareProgressionChest": {
+    "hyperlinkId": "LunarRareProgressionChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "Lunar18LootChestRare",
+    "event": "Lunar18"
+  },
+  "MaievChest": {
+    "hyperlinkId": "MaievChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MalfurionChest": {
+    "hyperlinkId": "MalfurionChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MalGanisChest": {
+    "hyperlinkId": "MalGanisChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MalthaelChest": {
+    "hyperlinkId": "MalthaelChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MedicChest": {
+    "hyperlinkId": "MedicChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MedivhChest": {
+    "hyperlinkId": "MedivhChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MeiChest": {
+    "hyperlinkId": "MeiChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MephistoChest": {
+    "hyperlinkId": "MephistoChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "Mobster2019EpicLootChest": {
+    "hyperlinkId": "Mobster2019EpicLootChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "Mobster2019EpicLootChest",
+    "event": "Mobster19"
+  },
+  "Mobster2019LegendaryLootChest": {
+    "hyperlinkId": "Mobster2019LegendaryLootChest",
+    "rarity": "Legendary",
+    "maxRerolls": 5,
+    "typeDescription": "Mobster2019LegendaryLootChest",
+    "event": "Mobster19"
+  },
+  "Mobster2019LootChest": {
+    "hyperlinkId": "Mobster2019LootChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "Mobster2019LootChest",
+    "event": "Mobster19"
+  },
+  "Mobster2019RareLootChest": {
+    "hyperlinkId": "Mobster2019RareLootChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "Mobster2019RareLootChest",
+    "event": "Mobster19"
+  },
+  "MonkChest": {
+    "hyperlinkId": "MonkChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MuradinChest": {
+    "hyperlinkId": "MuradinChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "MurkyChest": {
+    "hyperlinkId": "MurkyChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "NecromancerChest": {
+    "hyperlinkId": "NecromancerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "NexusHunterChest": {
+    "hyperlinkId": "NexusHunterChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "NovaChest": {
+    "hyperlinkId": "NovaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "OrpheaChest": {
+    "hyperlinkId": "OrpheaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ProbiusChest": {
+    "hyperlinkId": "ProbiusChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "RagnarosChest": {
+    "hyperlinkId": "RagnarosChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "RareProgChest": {
+    "hyperlinkId": "RareProgChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestRare"
+  },
+  "RaynorChest": {
+    "hyperlinkId": "RaynorChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "RehgarChest": {
+    "hyperlinkId": "RehgarChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "RexxarChest": {
+    "hyperlinkId": "RexxarChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "SamuroChest": {
+    "hyperlinkId": "SamuroChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "SgtHammerChest": {
+    "hyperlinkId": "SgtHammerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "StitchesChest": {
+    "hyperlinkId": "StitchesChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "StukovChest": {
+    "hyperlinkId": "StukovChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "SummerBaseProgressionChest": {
+    "hyperlinkId": "SummerBaseProgressionChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "SummerLootChestCommon",
+    "event": "Summer"
+  },
+  "SummerEpicProgressionChest": {
+    "hyperlinkId": "SummerEpicProgressionChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "SummerLootChestEpic",
+    "event": "Summer"
+  },
+  "SummerRareProgressionChest": {
+    "hyperlinkId": "SummerRareProgressionChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "SummerLootChestRare",
+    "event": "Summer"
+  },
+  "SylvanasChest": {
+    "hyperlinkId": "SylvanasChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TassadarChest": {
+    "hyperlinkId": "TassadarChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST1RewardChest": {
+    "hyperlinkId": "TEST1RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST2RewardChest": {
+    "hyperlinkId": "TEST2RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST3RewardChest": {
+    "hyperlinkId": "TEST3RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST4RewardChest": {
+    "hyperlinkId": "TEST4RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TEST5RewardChest": {
+    "hyperlinkId": "TEST5RewardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTAnnouncers": {
+    "hyperlinkId": "TESTAnnouncers",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTBanners": {
+    "hyperlinkId": "TESTBanners",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTEmoji": {
+    "hyperlinkId": "TESTEmoji",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTHeroes": {
+    "hyperlinkId": "TESTHeroes",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTHeroSkins": {
+    "hyperlinkId": "TESTHeroSkins",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTLegendaryChest": {
+    "hyperlinkId": "TESTLegendaryChest",
+    "rarity": "Legendary",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTMounts": {
+    "hyperlinkId": "TESTMounts",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTPortraits": {
+    "hyperlinkId": "TESTPortraits",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTRarePlusChest": {
+    "hyperlinkId": "TESTRarePlusChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestRare"
+  },
+  "TESTShards": {
+    "hyperlinkId": "TESTShards",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTSprays": {
+    "hyperlinkId": "TESTSprays",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTStimpacks": {
+    "hyperlinkId": "TESTStimpacks",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TESTVoiceLines": {
+    "hyperlinkId": "TESTVoiceLines",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ThrallChest": {
+    "hyperlinkId": "ThrallChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TinkerChest": {
+    "hyperlinkId": "TinkerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TracerChest": {
+    "hyperlinkId": "TracerChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TutorialChest": {
+    "hyperlinkId": "TutorialChest",
+    "rarity": "Rare",
+    "maxRerolls": 0,
+    "typeDescription": "LootChestRare"
+  },
+  "TychusChest": {
+    "hyperlinkId": "TychusChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TyraelChest": {
+    "hyperlinkId": "TyraelChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "TyrandeChest": {
+    "hyperlinkId": "TyrandeChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "UtherChest": {
+    "hyperlinkId": "UtherChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ValeeraChest": {
+    "hyperlinkId": "ValeeraChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "VarianChest": {
+    "hyperlinkId": "VarianChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "VeteranChest": {
+    "hyperlinkId": "VeteranChest",
+    "rarity": "Legendary",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "WarcraftReinforcementsChest": {
+    "hyperlinkId": "WarcraftReinforcementsChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestEpic"
+  },
+  "WelcomeChest": {
+    "hyperlinkId": "WelcomeChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestRare"
+  },
+  "WhitemaneChest": {
+    "hyperlinkId": "WhitemaneChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "WinterBaseProgressionChest": {
+    "hyperlinkId": "WinterBaseProgressionChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "WinterVeilLootChestCommon",
+    "event": "WinterVeil"
+  },
+  "WinterEpicPorogressionChest": {
+    "hyperlinkId": "WinterEpicPorogressionChest",
+    "rarity": "Epic",
+    "maxRerolls": 3,
+    "typeDescription": "WinterVeilLootChestEpic",
+    "event": "WinterVeil"
+  },
+  "WinterRareProgressionChest": {
+    "hyperlinkId": "WinterRareProgressionChest",
+    "rarity": "Rare",
+    "maxRerolls": 3,
+    "typeDescription": "WinterVeilLootChestRare",
+    "event": "WinterVeil"
+  },
+  "WitchDoctorChest": {
+    "hyperlinkId": "WitchDoctorChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "WizardChest": {
+    "hyperlinkId": "WizardChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "YrelChest": {
+    "hyperlinkId": "YrelChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ZagaraChest": {
+    "hyperlinkId": "ZagaraChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ZaryaChest": {
+    "hyperlinkId": "ZaryaChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ZeratulChest": {
+    "hyperlinkId": "ZeratulChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  },
+  "ZuljinChest": {
+    "hyperlinkId": "ZuljinChest",
+    "rarity": "Common",
+    "maxRerolls": 3,
+    "typeDescription": "LootChestCommon"
+  }
+}
