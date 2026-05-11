@@ -1,0 +1,1432 @@
+{
+  "BannerD3DemonHunter": {
+    "hyperlinkId": "DemonHunterBanner",
+    "attributeId": "BN05",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3DemonHunterRare": {
+    "hyperlinkId": "DemonHunterWarbanner",
+    "attributeId": "BN08",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3DemonHunterRareVar1": {
+    "hyperlinkId": "AzureDemonHunterWarbanner",
+    "attributeId": "BN09",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3DemonHunterRareVar2": {
+    "hyperlinkId": "CrimsonDemonHunterWarbanner",
+    "attributeId": "BN10",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3DemonHunterVar1": {
+    "hyperlinkId": "AzureDemonHunterBanner",
+    "attributeId": "BN06",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3DemonHunterVar2": {
+    "hyperlinkId": "CrimsonDemonHunterBanner",
+    "attributeId": "BN07",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WitchDoctor": {
+    "hyperlinkId": "WitchDoctorBanner",
+    "attributeId": "BN0a",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WitchDoctorRare": {
+    "hyperlinkId": "WitchDoctorWarbanner",
+    "attributeId": "BN0b",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WitchDoctorRareVar1": {
+    "hyperlinkId": "ToxicWitchDoctorWarbanner",
+    "attributeId": "BN0c",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WitchDoctorRareVar2": {
+    "hyperlinkId": "CrimsonWitchDoctorWarbanner",
+    "attributeId": "BN0d",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WitchDoctorVar1": {
+    "hyperlinkId": "ToxicWitchDoctorBanner",
+    "attributeId": "BN0e",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WitchDoctorVar2": {
+    "hyperlinkId": "CrimsonWitchDoctorBanner",
+    "attributeId": "BN0f",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3Wizard": {
+    "hyperlinkId": "WizardBanner",
+    "attributeId": "BN11",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WizardRare": {
+    "hyperlinkId": "WizardWarbanner",
+    "attributeId": "BN14",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WizardRareVar1": {
+    "hyperlinkId": "AmberWizardWarbanner",
+    "attributeId": "BN15",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WizardRareVar2": {
+    "hyperlinkId": "VioletWizardWarbanner",
+    "attributeId": "BN16",
+    "rarity": "Rare",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WizardVar1": {
+    "hyperlinkId": "AmberWizardBanner",
+    "attributeId": "BN12",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerD3WizardVar2": {
+    "hyperlinkId": "VioletWizardBanner",
+    "attributeId": "BN13",
+    "rarity": "Common",
+    "category": "Diablo",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerDefault": {
+    "hyperlinkId": "NexusBanner",
+    "attributeId": "BN17",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerDF3YearAnniversary": {
+    "hyperlinkId": "3rdYearAnniversaryBanner",
+    "attributeId": "BNa7",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDF4YearAnniversary": {
+    "hyperlinkId": "BannerDF4YearAnniversary",
+    "attributeId": "BNc6",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2019-04-30"
+  },
+  "BannerDF5YearAnniversary": {
+    "hyperlinkId": "BannerDF5YearAnniversary",
+    "attributeId": "BNc4",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2020-04-14"
+  },
+  "BannerDF65YearAnniversary": {
+    "hyperlinkId": "BannerDF65YearAnniversary",
+    "attributeId": "BNc8",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerDF6YearAnniversaryGold": {
+    "hyperlinkId": "BannerDF6YearAnniversaryGold",
+    "attributeId": "BNc9",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerDF6YearAnniversaryPurple": {
+    "hyperlinkId": "BannerDF6YearAnniversaryPurple",
+    "attributeId": "BNca",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerDFBlizzcon2017": {
+    "hyperlinkId": "BlizzCon2017Banner",
+    "attributeId": "BN80",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-10-17"
+  },
+  "BannerDFBlizzcon2018": {
+    "hyperlinkId": "BlizzCon2018Banner",
+    "attributeId": "BNc2",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFBlizzcon2020": {
+    "hyperlinkId": "BannerDFBlizzcon2020",
+    "attributeId": "BNc7",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerDFCommunity65Base": {
+    "hyperlinkId": "OkayBanner",
+    "attributeId": "BN8b",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-11-27"
+  },
+  "BannerDFCommunity65Rare": {
+    "hyperlinkId": "AscendedBanner",
+    "attributeId": "BN88",
+    "rarity": "Rare",
+    "category": "Default",
+    "releaseDate": "2018-11-27"
+  },
+  "BannerDFEsportsChess": {
+    "hyperlinkId": "KnightCommandersBanner",
+    "attributeId": "BN49",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-04-25"
+  },
+  "BannerDFEsportsWarChest18RareAteam": {
+    "hyperlinkId": "ATeam2018Warbanner",
+    "attributeId": "BNb1",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-08-07"
+  },
+  "BannerDFEsportsWarChest18RareBallistix": {
+    "hyperlinkId": "Ballistix2018PhaseOneWarbanner",
+    "attributeId": "BN9a",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareBlossom": {
+    "hyperlinkId": "TeamBlossoM2018PhaseOneWarbanner",
+    "attributeId": "BN7d",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareBTG": {
+    "hyperlinkId": "BTG2018PhaseOneWarbanner",
+    "attributeId": "BN7f",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareCE": {
+    "hyperlinkId": "CE2018PhaseOneWarbanner",
+    "attributeId": "BN7e",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareDiamondSkin": {
+    "hyperlinkId": "DiamondSkin2018PhaseOneWarbanner",
+    "attributeId": "BN81",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareEndemic": {
+    "hyperlinkId": "Endemic2018Warbanner",
+    "attributeId": "BNb3",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-08-07"
+  },
+  "BannerDFEsportsWarChest18RareFeliz": {
+    "hyperlinkId": "Feliz2018PhaseOneWarbanner",
+    "attributeId": "BN9d",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareFnatic": {
+    "hyperlinkId": "Fnatic2018PhaseOneWarbanner",
+    "attributeId": "BN82",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareGaleForce": {
+    "hyperlinkId": "GaleForceEsports2018PhaseOneWarbanner",
+    "attributeId": "BN84",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareGenG": {
+    "hyperlinkId": "GenG2018Warbanner",
+    "attributeId": "BNac",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-08-07"
+  },
+  "BannerDFEsportsWarChest18RareGoodLuck": {
+    "hyperlinkId": "GLuck2018PhaseOneWarbanner",
+    "attributeId": "BN9c",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareGrantGaming": {
+    "hyperlinkId": "GranitGaming2018Warbanner",
+    "attributeId": "BNb4",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-08-07"
+  },
+  "BannerDFEsportsWarChest18RareHeroesHearth": {
+    "hyperlinkId": "HeroesHearthEsports2018PhaseOneWarbanner",
+    "attributeId": "BN87",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareHGCCommon": {
+    "hyperlinkId": "HGC2018PhaseOneWarbanner",
+    "attributeId": "BN96",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareHGCEpic": {
+    "hyperlinkId": "EpicHGC2018PhaseOneWarbanner",
+    "attributeId": "BN97",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareHGCLegendary": {
+    "hyperlinkId": "LegendaryHGC2018PhaseOneWarbanner",
+    "attributeId": "BN98",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareHGCRare": {
+    "hyperlinkId": "RareHGC2018PhaseOneWarbanner",
+    "attributeId": "BN95",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareKSV": {
+    "hyperlinkId": "KSV2018PhaseOneWarbanner",
+    "attributeId": "BN9b",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareKT": {
+    "hyperlinkId": "KT2018PhaseOneWarbanner",
+    "attributeId": "BNa6",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareLeftovers": {
+    "hyperlinkId": "Leftovers2018PhaseOneWarbanner",
+    "attributeId": "BN86",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareLFM": {
+    "hyperlinkId": "LFMEsports2018PhaseOneWarbanner",
+    "attributeId": "BNa0",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareMenagarie": {
+    "hyperlinkId": "MonkeyMenagerie2018Warbanner",
+    "attributeId": "BNae",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-08-07"
+  },
+  "BannerDFEsportsWarChest18RareMethod": {
+    "hyperlinkId": "Method2018PhaseOneWarbanner",
+    "attributeId": "BN9f",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareMiracle": {
+    "hyperlinkId": "Miracle2018PhaseOneWarbanner",
+    "attributeId": "BNa3",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareNoTomorrow": {
+    "hyperlinkId": "NoTomorrow2018PhaseOneWarbanner",
+    "attributeId": "BNa5",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareOctalysis": {
+    "hyperlinkId": "TeamOctalysis2018Warbanner",
+    "attributeId": "BNaa",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-06-12"
+  },
+  "BannerDFEsportsWarChest18RareRoll20": {
+    "hyperlinkId": "Roll20esports2018Warbanner",
+    "attributeId": "BN85",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-10-16"
+  },
+  "BannerDFEsportsWarChest18RareRPG": {
+    "hyperlinkId": "RPG2018PhaseOneWarbanner",
+    "attributeId": "BN8a",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareSimplicity": {
+    "hyperlinkId": "Simplicity2018PhaseOneWarbanner",
+    "attributeId": "BN9e",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareSOA": {
+    "hyperlinkId": "SoA2018PhaseOneWarbanner",
+    "attributeId": "BN89",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareSPT": {
+    "hyperlinkId": "SPT2018PhaseOneWarbanner",
+    "attributeId": "BN8c",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareSunnyLion": {
+    "hyperlinkId": "SunnyLion2018PhaseOneWarbanner",
+    "attributeId": "BNa1",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareSupernova": {
+    "hyperlinkId": "Supernova2018Warbanner",
+    "attributeId": "BNab",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-07-10"
+  },
+  "BannerDFEsportsWarChest18RareTeamAce": {
+    "hyperlinkId": "TeamAce2018PhaseOneWarbanner",
+    "attributeId": "BNa2",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareTeamDignitas": {
+    "hyperlinkId": "TeamDignitas2018PhaseOneWarbanner",
+    "attributeId": "BN83",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareTeamFreedom": {
+    "hyperlinkId": "TeamFreedom2018PhaseOneWarbanner",
+    "attributeId": "BN8e",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareTeamLiquid": {
+    "hyperlinkId": "TeamLiquid2018PhaseOneWarbanner",
+    "attributeId": "BN90",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareTeamNut": {
+    "hyperlinkId": "TeamNut2018Warbanner",
+    "attributeId": "BNb2",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-08-07"
+  },
+  "BannerDFEsportsWarChest18RareTeamTwelve": {
+    "hyperlinkId": "TeamTwelve2018Warbanner",
+    "attributeId": "BN99",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareTempest": {
+    "hyperlinkId": "Tempest2018PhaseOneWarbanner",
+    "attributeId": "BN8f",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareTempoStorm": {
+    "hyperlinkId": "TempoStorm2018PhaseOneWarbanner",
+    "attributeId": "BN92",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareTheOne": {
+    "hyperlinkId": "TheOne2018PhaseOneWarbanner",
+    "attributeId": "BN91",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareTricked": {
+    "hyperlinkId": "TrickedEsports2018PhaseOneWarbanner",
+    "attributeId": "BN94",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChest18RareZealots": {
+    "hyperlinkId": "Zealots2018PhaseOneWarbanner",
+    "attributeId": "BN93",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFEsportsWarChestRareBlossom": {
+    "hyperlinkId": "TeamBlossoMWarbanner",
+    "attributeId": "BN61",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareBTG": {
+    "hyperlinkId": "BeyondTheGameWarbanner",
+    "attributeId": "BN76",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-09-26"
+  },
+  "BannerDFEsportsWarChestRareCE": {
+    "hyperlinkId": "CEWarbanner",
+    "attributeId": "BN64",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareDignitas": {
+    "hyperlinkId": "TeamDignitasWarbanner",
+    "attributeId": "BN5a",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareEStar": {
+    "hyperlinkId": "eStarGamingWarbanner",
+    "attributeId": "BN5d",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareEvenInDeath": {
+    "hyperlinkId": "EveninDeathWarbanner",
+    "attributeId": "BN71",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareFNATIC": {
+    "hyperlinkId": "FnaticWarbanner",
+    "attributeId": "BN56",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareGaleForce": {
+    "hyperlinkId": "GaleForceeSportsWarbanner",
+    "attributeId": "BN5c",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareGoodGuys": {
+    "hyperlinkId": "TeamGoodGuysWarbanner",
+    "attributeId": "BN55",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareHGC": {
+    "hyperlinkId": "HGCWarbanner",
+    "attributeId": "BN6f",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareHotsLady": {
+    "hyperlinkId": "HotsLadyWarbanner",
+    "attributeId": "BN62",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareKT": {
+    "hyperlinkId": "KTWarbanner",
+    "attributeId": "BN6c",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareKTV1": {
+    "hyperlinkId": "KTClassicWarbanner",
+    "attributeId": "BN79",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareL5": {
+    "hyperlinkId": "L5Warbanner",
+    "attributeId": "BN5b",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareLagForce": {
+    "hyperlinkId": "LagForceWarbanner",
+    "attributeId": "BN77",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-09-26"
+  },
+  "BannerDFEsportsWarChestRareMighty": {
+    "hyperlinkId": "MightyWarbanner",
+    "attributeId": "BN57",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareMVPBlack": {
+    "hyperlinkId": "MVPBlackWarbanner",
+    "attributeId": "BN4f",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareMVPMiracle": {
+    "hyperlinkId": "MVPMiracleWarbanner",
+    "attributeId": "BN68",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareNaventic": {
+    "hyperlinkId": "TeamNaventicWarbanner",
+    "attributeId": "BN67",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareNoTomorrow": {
+    "hyperlinkId": "NoTomorrowWarbanner",
+    "attributeId": "BN78",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRarePlayingDucks": {
+    "hyperlinkId": "PlayingDucksWarbanner",
+    "attributeId": "BN72",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-08-08"
+  },
+  "BannerDFEsportsWarChestRareRaven": {
+    "hyperlinkId": "RavenWarbanner",
+    "attributeId": "BN65",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareRoll20Esports": {
+    "hyperlinkId": "Roll20esportsWarbanner",
+    "attributeId": "BN6e",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareRPG": {
+    "hyperlinkId": "RPGWarbanner",
+    "attributeId": "BN63",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareRRR": {
+    "hyperlinkId": "RRRClassicWarbanner",
+    "attributeId": "BN6a",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareRRRV2": {
+    "hyperlinkId": "RRRWarbanner",
+    "attributeId": "BN74",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareSOA": {
+    "hyperlinkId": "StartOverAgainWarbanner",
+    "attributeId": "BN54",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareSpacestationGaming": {
+    "hyperlinkId": "SpaceStationGamingWarbanner",
+    "attributeId": "BN66",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareSPT": {
+    "hyperlinkId": "SuperPerfectTeamWarbanner",
+    "attributeId": "BN4e",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareSuperstars": {
+    "hyperlinkId": "SuperstarsWarbanner",
+    "attributeId": "BN5f",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareTeamExpert": {
+    "hyperlinkId": "TeamexpertWarbanner",
+    "attributeId": "BN52",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareTeamFreedom": {
+    "hyperlinkId": "TeamFreedomWarbanner",
+    "attributeId": "BN5e",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareTeamLiquid": {
+    "hyperlinkId": "TeamLiquidWarbanner",
+    "attributeId": "BN59",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareTempest": {
+    "hyperlinkId": "TempestWarbanner",
+    "attributeId": "BN58",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareTempoStorm": {
+    "hyperlinkId": "TempoStormWarbanner",
+    "attributeId": "BN50",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareTheOne": {
+    "hyperlinkId": "TheOneWarbanner",
+    "attributeId": "BN75",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-09-26"
+  },
+  "BannerDFEsportsWarChestRareTricked": {
+    "hyperlinkId": "TrickedeSportWarbanner",
+    "attributeId": "BN6b",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareVar1": {
+    "hyperlinkId": "LegendaryHGCWarbanner",
+    "attributeId": "BN51",
+    "rarity": "Legendary",
+    "category": "Default",
+    "releaseDate": "2017-08-08"
+  },
+  "BannerDFEsportsWarChestRareVar2": {
+    "hyperlinkId": "EpicHGCWarbanner",
+    "attributeId": "BN60",
+    "rarity": "Epic",
+    "category": "Default",
+    "releaseDate": "2017-08-08"
+  },
+  "BannerDFEsportsWarChestRareVar3": {
+    "hyperlinkId": "RareHGCWarbanner",
+    "attributeId": "BN69",
+    "rarity": "Rare",
+    "category": "Default",
+    "releaseDate": "2017-08-08"
+  },
+  "BannerDFEsportsWarChestRareWKG": {
+    "hyperlinkId": "WKGWarbanner",
+    "attributeId": "BN53",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFEsportsWarChestRareZealots": {
+    "hyperlinkId": "TeamZealotWarbanner",
+    "attributeId": "BN70",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-07-11"
+  },
+  "BannerDFGhostSpooky18": {
+    "hyperlinkId": "SpectresPhantomsWarcrest",
+    "attributeId": "BNb0",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFGhostSpooky18Var1": {
+    "hyperlinkId": "RadiantSpectresPhantomsWarcrest",
+    "attributeId": "BNbb",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFGhostSpooky18Var2": {
+    "hyperlinkId": "InfernalSpectresPhantomsWarcrest",
+    "attributeId": "BNbd",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFGhostSpooky18Var3": {
+    "hyperlinkId": "ForgottenSpectresPhantomsWarcrest",
+    "attributeId": "BNbc",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFGhostSpooky18Var4": {
+    "hyperlinkId": "ArcaneSpectresPhantomsWarcrest",
+    "attributeId": "BNb9",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFHallowsEndPumpkin": {
+    "hyperlinkId": "HallowsEndWarcrest",
+    "attributeId": "BN7a",
+    "rarity": "Common",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2017-10-17"
+  },
+  "BannerDFHGC2018Finals": {
+    "hyperlinkId": "2018HGCFinalsWarbanner",
+    "attributeId": "BNc5",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-12-11"
+  },
+  "BannerDFLunar2018": {
+    "hyperlinkId": "LunarWarcrest",
+    "attributeId": "BN7b",
+    "rarity": "Common",
+    "category": "SeasonalEvents",
+    "releaseDate": "2018-02-06"
+  },
+  "BannerDFSecondBday": {
+    "hyperlinkId": "BannerDFSecondBday",
+    "attributeId": "BN48",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2017-05-16"
+  },
+  "BannerDFSpooky18": {
+    "hyperlinkId": "RavenArmyWarcrest",
+    "attributeId": "BNb5",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFSpooky18Var1": {
+    "hyperlinkId": "AncientRavenArmyWarcrest",
+    "attributeId": "BNb6",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFSpooky18Var2": {
+    "hyperlinkId": "CorruptedRavenArmyWarcrest",
+    "attributeId": "BNb8",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFSpooky18Var3": {
+    "hyperlinkId": "InfernalRavenArmyWarcrest",
+    "attributeId": "BNb7",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFSpooky18Var4": {
+    "hyperlinkId": "GhostlyRavenArmyWarcrest",
+    "attributeId": "BNba",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFTespa2018": {
+    "hyperlinkId": "HeroesoftheDorm2018Banner",
+    "attributeId": "BNa4",
+    "rarity": "Common",
+    "category": "Default",
+    "releaseDate": "2018-05-22"
+  },
+  "BannerDFToys18Dehaka": {
+    "hyperlinkId": "DehakasaurWarcrest",
+    "attributeId": "BNaf",
+    "rarity": "Common",
+    "category": "SeasonalEvents",
+    "releaseDate": "2018-12-11"
+  },
+  "BannerDFToys18Stitches": {
+    "hyperlinkId": "FunlandWarcrest",
+    "attributeId": "BN8d",
+    "rarity": "Common",
+    "category": "SeasonalEvents",
+    "releaseDate": "2018-12-11"
+  },
+  "BannerDFToys18Valeera": {
+    "hyperlinkId": "CosmicForceWarcrest",
+    "attributeId": "BNc3",
+    "rarity": "Common",
+    "category": "SeasonalEvents",
+    "releaseDate": "2018-12-11"
+  },
+  "BannerDFWCAVAlliance": {
+    "hyperlinkId": "LordaeronWarbanner",
+    "attributeId": "BNa8",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2018-06-12"
+  },
+  "BannerDFWCAVHorde": {
+    "hyperlinkId": "OrgrimmarWarbanner",
+    "attributeId": "BNa9",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2018-06-12"
+  },
+  "BannerDFWinterveil2017": {
+    "hyperlinkId": "WinterVeilWarbanner",
+    "attributeId": "BN7c",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "releaseDate": "2017-12-12"
+  },
+  "BannerDFWitchSpooky18": {
+    "hyperlinkId": "WitchesWardensWarcrest",
+    "attributeId": "BNad",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFWitchSpooky18Var1": {
+    "hyperlinkId": "GhostlyWitchesWardensWarcrest",
+    "attributeId": "BNbf",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFWitchSpooky18Var2": {
+    "hyperlinkId": "ForgottenWitchesWardensWarcrest",
+    "attributeId": "BNc1",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFWitchSpooky18Var3": {
+    "hyperlinkId": "NightWitchesWardensWarcrest",
+    "attributeId": "BNc0",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerDFWitchSpooky18Var4": {
+    "hyperlinkId": "ConsecratedWitchesWardensWarcrest",
+    "attributeId": "BNbe",
+    "rarity": "Rare",
+    "category": "SeasonalEvents",
+    "event": "HallowsEnd",
+    "releaseDate": "2018-09-25"
+  },
+  "BannerOWDVaIconic": {
+    "hyperlinkId": "IconicDVaBanner",
+    "attributeId": "BN4a",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2017-05-16"
+  },
+  "BannerOWDVaIconicRare": {
+    "hyperlinkId": "IconicDVaWarbanner",
+    "attributeId": "BN4b",
+    "rarity": "Rare",
+    "category": "Overwatch",
+    "releaseDate": "2017-05-16"
+  },
+  "BannerOWDVaPolice": {
+    "hyperlinkId": "OfficerDVaBanner",
+    "attributeId": "BN47",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2017-04-25"
+  },
+  "BannerOWDVaSimple": {
+    "hyperlinkId": "DVaBanner",
+    "attributeId": "BN4c",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2017-05-16"
+  },
+  "BannerOWDVaSimpleRare": {
+    "hyperlinkId": "DVaWarbanner",
+    "attributeId": "BN4d",
+    "rarity": "Rare",
+    "category": "Overwatch",
+    "releaseDate": "2017-05-16"
+  },
+  "BannerOWGenjiIconic": {
+    "hyperlinkId": "IconicGenjiBanner",
+    "attributeId": "BN18",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2017-04-24"
+  },
+  "BannerOWGenjiIconicRare": {
+    "hyperlinkId": "IconicGenjiWarbanner",
+    "attributeId": "BN43",
+    "rarity": "Rare",
+    "category": "Overwatch",
+    "releaseDate": "2017-04-24"
+  },
+  "BannerOWGenjiOni": {
+    "hyperlinkId": "OniGenjiWarbanner",
+    "attributeId": "BN44",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2017-04-25"
+  },
+  "BannerOWGenjiSimple": {
+    "hyperlinkId": "GenjiBanner",
+    "attributeId": "BN45",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2017-04-24"
+  },
+  "BannerOWGenjiSimpleRare": {
+    "hyperlinkId": "GenjiWarbanner",
+    "attributeId": "BN46",
+    "rarity": "Rare",
+    "category": "Overwatch",
+    "releaseDate": "2017-04-24"
+  },
+  "BannerOWLogoIconic": {
+    "hyperlinkId": "OverwatchBanner",
+    "attributeId": "BN33",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerOWLogoIconicRare": {
+    "hyperlinkId": "OverwatchWarbanner",
+    "attributeId": "BN34",
+    "rarity": "Rare",
+    "category": "Overwatch",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerOWLogoSimple": {
+    "hyperlinkId": "AzureOverwatchBanner",
+    "attributeId": "BN35",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerOWLogoSimpleRare": {
+    "hyperlinkId": "AzureOverwatchWarbanner",
+    "attributeId": "BN36",
+    "rarity": "Rare",
+    "category": "Overwatch",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerOWPachimari": {
+    "hyperlinkId": "PachimariWarbanner",
+    "attributeId": "BN73",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2017-09-26"
+  },
+  "BannerOWTracerIconic": {
+    "hyperlinkId": "IconicTracerBanner",
+    "attributeId": "BN37",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerOWTracerIconicRare": {
+    "hyperlinkId": "IconicTracerWarbanner",
+    "attributeId": "BN38",
+    "rarity": "Rare",
+    "category": "Overwatch",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerOWTracerSimple": {
+    "hyperlinkId": "TracerBanner",
+    "attributeId": "BN39",
+    "rarity": "Common",
+    "category": "Overwatch",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerOWTracerSimpleRare": {
+    "hyperlinkId": "TracerWarbanner",
+    "attributeId": "BN3a",
+    "rarity": "Rare",
+    "category": "Overwatch",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCProtoss": {
+    "hyperlinkId": "AiurProtossBanner",
+    "attributeId": "BN19",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCProtossRare": {
+    "hyperlinkId": "AiurProtossWarbanner",
+    "attributeId": "BN1a",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCProtossRareVar1": {
+    "hyperlinkId": "NerazimProtossWarbanner",
+    "attributeId": "BN1b",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCProtossRareVar2": {
+    "hyperlinkId": "TaldarimProtossWarbanner",
+    "attributeId": "BN1c",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCProtossVar1": {
+    "hyperlinkId": "NerazimProtossBanner",
+    "attributeId": "BN1d",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCProtossVar2": {
+    "hyperlinkId": "TaldarimProtossBanner",
+    "attributeId": "BN1e",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCTerran": {
+    "hyperlinkId": "TerranBanner",
+    "attributeId": "BN1f",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCTerranRare": {
+    "hyperlinkId": "TerranWarbanner",
+    "attributeId": "BN20",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCTerranRareVar1": {
+    "hyperlinkId": "DominionTerranWarbanner",
+    "attributeId": "BN21",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCTerranRareVar2": {
+    "hyperlinkId": "RaidersTerranWarbanner",
+    "attributeId": "BN22",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCTerranVar1": {
+    "hyperlinkId": "DominionTerranBanner",
+    "attributeId": "BN23",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCTerranVar2": {
+    "hyperlinkId": "RaidersTerranBanner",
+    "attributeId": "BN24",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCZerg": {
+    "hyperlinkId": "ZergBanner",
+    "attributeId": "BN25",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCZergRare": {
+    "hyperlinkId": "ZergWarbanner",
+    "attributeId": "BN26",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCZergRareVar1": {
+    "hyperlinkId": "CharZergWarbanner",
+    "attributeId": "BN27",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCZergRareVar2": {
+    "hyperlinkId": "KaldirZergWarbanner",
+    "attributeId": "BN28",
+    "rarity": "Rare",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCZergVar1": {
+    "hyperlinkId": "CharZergBanner",
+    "attributeId": "BN29",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerSCZergVar2": {
+    "hyperlinkId": "KaldirZergBanner",
+    "attributeId": "BN2a",
+    "rarity": "Common",
+    "category": "Starcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCAlliance": {
+    "hyperlinkId": "AllianceBanner",
+    "attributeId": "BN3b",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCAllianceRare": {
+    "hyperlinkId": "AllianceWarbanner",
+    "attributeId": "BN3c",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCAllianceRareVar1": {
+    "hyperlinkId": "TealAllianceWarbanner",
+    "attributeId": "BN3d",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCAllianceVar1": {
+    "hyperlinkId": "TealAllianceBanner",
+    "attributeId": "BN3e",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCDwarf": {
+    "hyperlinkId": "DwarfBanner",
+    "attributeId": "BN2b",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCDwarfRare": {
+    "hyperlinkId": "DwarfWarbanner",
+    "attributeId": "BN2c",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCDwarfRareVar1": {
+    "hyperlinkId": "VioletDwarfWarbanner",
+    "attributeId": "BN2d",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCDwarfVar1": {
+    "hyperlinkId": "VioletDwarfBanner",
+    "attributeId": "BN2e",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCHorde": {
+    "hyperlinkId": "HordeBanner",
+    "attributeId": "BN01",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCHordeRare": {
+    "hyperlinkId": "HordeWarbanner",
+    "attributeId": "BN03",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCHordeRareVar1": {
+    "hyperlinkId": "AmberHordeWarbanner",
+    "attributeId": "BN04",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCHordeVar1": {
+    "hyperlinkId": "AmberHordeBanner",
+    "attributeId": "BN02",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCKelThuzad": {
+    "hyperlinkId": "NaxxramasWarcrest",
+    "attributeId": "BN6d",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2017-09-05"
+  },
+  "BannerWCNightElf": {
+    "hyperlinkId": "NightElfBanner",
+    "attributeId": "BN2f",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCNightElfRare": {
+    "hyperlinkId": "NightElfWarbanner",
+    "attributeId": "BN30",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCNightElfRareVar1": {
+    "hyperlinkId": "TealNightElfWarbanner",
+    "attributeId": "BN31",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCNightElfVar1": {
+    "hyperlinkId": "TealNightElfBanner",
+    "attributeId": "BN32",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCTauren": {
+    "hyperlinkId": "TaurenBanner",
+    "attributeId": "BN3f",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCTaurenRare": {
+    "hyperlinkId": "TaurenWarbanner",
+    "attributeId": "BN40",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCTaurenRareVar1": {
+    "hyperlinkId": "ArgentTaurenWarbanner",
+    "attributeId": "BN41",
+    "rarity": "Rare",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  },
+  "BannerWCTaurenVar1": {
+    "hyperlinkId": "ArgentTaurenBanner",
+    "attributeId": "BN42",
+    "rarity": "Common",
+    "category": "Warcraft",
+    "releaseDate": "2014-03-13"
+  }
+}
