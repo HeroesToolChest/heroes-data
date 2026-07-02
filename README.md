@@ -1,6 +1,9 @@
 # Heroes Data
 [![Build Status](https://dev.azure.com/kevinkoliva/Heroes%20of%20the%20Storm%20Projects/_apis/build/status/HeroesToolChest.heroes-data?branchName=master)](https://dev.azure.com/kevinkoliva/Heroes%20of%20the%20Storm%20Projects/_build/latest?definitionId=7&branchName=master) [![Release](https://img.shields.io/github/release/HeroesToolChest/heroes-data.svg)](https://github.com/HeroesToolChest/heroes-data/releases/latest)
 
+> [!NOTE]
+> This repository contains builds `2.55.16.97039` and earlier from Heroes Data Parser `v4.14.1`. Go to the new [Heroes Data](https://github.com/HeroesToolChest/heroes-data2) repository for newer builds.
+
 This repo contains the Heroes of the Storm data files that are extracted from [Heroes Data Parser](https://github.com/HeroesToolChest/HeroesDataParser). The images are stored in the [Heroes Images](https://github.com/HeroesToolChest/heroes-images) repo.
 
 All files are in json format. The version folders contain data and gamestring folders. The data files have been localized, which means the localized text has been removed and stored in the gamestring json files.
